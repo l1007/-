@@ -1,183 +1,3 @@
-P2,#genre#
-鳳凰中文台,p2p://45.92.126.18:9906/6258281d0002e1400f06cef0fc77e330
-鳳凰資訊台,p2p://45.92.126.18:9906/6258288b0006f4a60f087dab170cf23e
-鳳凰香港台,p2p://45.92.126.18:9906/62582991000071710f0c7b707491d2e9
-翡翠台,p2p://45.92.126.18:9906/6258ea0e00051f8e11fc64eb04aee473
-無綫新聞台,p2p://45.92.126.18:9906/6258ea7a0006d8b111fe0b3c369d9e17
-無綫財經資訊台,p2p://45.92.126.18:9906/62595c1a000d108b13b9e5d4f3816d5e
-ViuTV6,p2p://45.92.126.18:9906/627160d00008ced7098cbc29e23c5e0c
-明珠台,p2p://45.92.126.18:9906/6258eaca00006a3411ff4217b567e90f
-J2,p2p://45.92.126.18:9906/6258eae70008a93811ffb57b47682072
-有線新聞台,p2p://45.92.126.18:9906/6258e930000d447111f903d1236f6fc8
-有線18台,p2p://45.92.126.18:9906/626bc57e0002fcc70daa763a17885784
-有線財經資訊台,p2p://45.92.126.18:9906/626bc59f000aad820daaf91ae564e9c6
-有線603台,p2p://45.92.126.18:9906/626bc5c00008e69a0dab798eb8ae558d
-有線電影台,p2p://45.92.126.18:9906/626bc5e5000b44cb0dac0ab18c230b75
-有線綜合娛樂台,p2p://45.92.126.18:9906/626bc60b000392d40dac9d2923dd262b
-衛視電視台,p2p://45.92.126.18:9906/626bd4820001292c0de51d63fb84af95
-TVB星河,p2p://45.92.126.18:9906/6258eb4900053d031201336ba06ccbdc
-TVBS,p2p://45.92.126.18:9906/62541264000b8c2809563c340355f46f
-TVBS新聞台,p2p://45.92.126.18:9906/6254121e00022e5c0955285ee55f9ec4
-TVBS歡樂台,p2p://45.92.126.18:9906/62585f330007fbe70fddfe2f12feb8b6
-TVBS精采台,p2p://45.92.126.18:9906/6259b507000647d0151541dfdfa4429f
-三立台湾台,p2p://45.92.126.18:9906/625851fa000d44170faa58e136d727dc
-三立戲劇台,p2p://45.92.126.18:9906/6259b5a1000d5db415179d3f530f1044
-三立新聞,p2p://45.92.126.18:9906/625411f9000c761609549a782b245a4c
-三立綜合台,p2p://45.92.126.18:9906/6259b57f0003ca05151715fc95200be0
-三立財經台,p2p://45.92.126.18:9906/62614b9c0008ec3518c675877b79b6ea
-三立都會台,p2p://45.92.126.18:9906/62585240000566d20fab684d64808ca0
-中天亞洲台,p2p://45.92.126.18:9906/626610e20008d9cf11656e24ac45db0e
-中天娛樂,p2p://45.92.126.18:9906/62585ecd000adfc10fdc707c21a26424
-中天新聞,p2p://45.92.126.18:9906/625af85e0000d79c001149459e0c9b4f
-中天綜合,p2p://45.92.126.18:9906/62585815000447950fc2300ce37be3da
-中视,p2p://45.92.126.18:9906/6257e968000a66d90e11ddd52825327a
-中视新聞,p2p://45.92.126.18:9906/626928b800072a99037611dc7cf5b636
-中视經典,p2p://45.92.126.18:9906/6269290b000463f70377555ece4c7fca
-亞洲旅遊台,p2p://45.92.126.18:9906/62595eed0008772713c4ecde7515ec18
-八大娛樂台,p2p://45.92.126.18:9906/6258e45a000845a611e61e9a50bc5e3e
-八大戲劇台,p2p://45.92.126.18:9906/6258594f0004c9c40fc6fabdb0e81edf
-八大第1台,p2p://45.92.126.18:9906/6258517d000953940fa86f978caa56ae
-八大綜合台,p2p://45.92.126.18:9906/625851bd000e8a2d0fa96aec6397d1ea
-公视,p2p://45.92.126.18:9906/6257e9950008c4a20e128d3209b54839
-公视3台,p2p://45.92.126.18:9906/62692af700080a87037ed82d98f82f9d
-公视台語台,p2p://45.92.126.18:9906/6257e9a400000c300e12c58f9b595b1e
-台視財經,p2p://45.92.126.18:9906/626928870002ef3e0375515fa02e33ba
-台视,p2p://45.92.126.18:9906/6257e8850006de950e0e6636ac2abe87
-台视新聞,p2p://45.92.126.18:9906/6269285d000bc5c40374af92643669c3
-台视綜合,p2p://45.92.126.18:9906/626929ef0001a650037acf4bc1fd630b
-壹新聞,p2p://45.92.126.18:9906/62541b7c0007f8c30979c109c2ede6a3
-壹電影,p2p://45.92.126.18:9906/62674e97000a6a59163e799316c3d943
-天映经典,p2p://45.92.126.18:9906/6260fa83000c7b8e1789acc84075d31b
-好萊塢電影,p2p://45.92.126.18:9906/6256bd25000a0a02097cf805932004af
-寰宇新聞台,p2p://45.92.126.18:9906/6257feca0002d9980e6562b6716c1c5a
-寰宇新聞台湾台,p2p://45.92.126.18:9906/6258370a000e53840f411fa6b1f19ad7
-寰宇综合,p2p://45.92.126.18:9906/62617a13000860ad197bf63b948c0cc6
-寰宇財經台,p2p://45.92.126.18:9906/626179de00005255197b252361cec9d5
-年代新聞,p2p://45.92.126.18:9906/62540c45000225da093e50b45b457d41
-年代MUCH,p2p://45.92.126.18:9906/625858aa000f2ee50fc478de23b3e0dd
-非凡新聞,p2p://45.92.126.18:9906/6257f613000f40140e435b0b41c847c0
-非凡商業,p2p://45.92.126.18:9906/626911890006d792031b822fdf86a38a
-JET综合,p2p://45.92.126.18:9906/625860030000abdc0fe128cf548f1def
-愛爾達影劇台,p2p://45.92.126.18:9906/62595fe00007a82a13c8a1e18c1171c7
-愛爾達综合,p2p://45.92.126.18:9906/62595f88000e134a13c74bc62a907482
-愛爾達體育1台,p2p://45.92.126.18:9906/62596cd0000349b813fb2a4367d31141
-愛爾達體育2台,p2p://45.92.126.18:9906/62596cee000e512213fba2460c39ef10
-愛爾達體育3台,p2p://45.92.126.18:9906/62596d0a0009c5b313fc0e7cd12205f2
-ELEVEN 1,p2p://45.92.126.18:9906/625854d4000964b10fb57b7382610c8d
-ELEVEN 2,p2p://45.92.126.18:9906/6258550f0001c6880fb65ff87e0ebc13
-博斯網球,p2p://45.92.126.18:9906/6259b8080009f08a1520feb706074e92
-博斯運動一台,p2p://45.92.126.18:9906/6260e5500006db331736dc200a9d70bc
-博斯運動二台,p2p://45.92.126.18:9906/6261364f000a426f187341173b92f79b
-博斯高球一台,p2p://45.92.126.18:9906/62596d9e000e5b6c13fe51c8c1ca116c
-博斯高球二台,p2p://45.92.126.18:9906/6259b7ea000cad1415208a3ab972be5a
-博斯魅力,p2p://45.92.126.18:9906/6260e5df0005c49317390a70b64c7b9b
-时尚频道,p2p://45.92.126.18:9906/6258e626000f104a11ed2537d42ef8a8
-星衛娛樂台,p2p://45.92.126.18:9906/6259b4eb0005f6251514d46a93c04eb3
-東森幼幼,p2p://45.92.126.18:9906/62584f92000033490fa0ef49c819efa3
-東森戲劇,p2p://45.92.126.18:9906/625420c30002ef15098e5d177b7f38b1
-東森新聞,p2p://45.92.126.18:9906/62540c77000699df093f1528c8c4d48a
-東森綜合,p2p://45.92.126.18:9906/6258543f000be6350fb3360fed87de8b
-東森羊片,p2p://45.92.126.18:9906/62541d6200021780098129f8ea5d0f93
-東森財經新聞,p2p://45.92.126.18:9906/6254128d000e830c0956dd1ea31d7f59
-東森超視,p2p://45.92.126.18:9906625854810005f8350fb4365bf7cd8f4e
-東森電影,p2p://45.92.126.18:9906/62541ccb0008d232097eddd9e4082c99
-東風衛視37,p2p://45.92.126.18:9906/6258585d0007329c0fc34a0b3c4be606
-民視台灣台,p2p://45.92.126.18:9906/62692823000550c80373cb5be6f7e438
-民視第一台,p2p://45.92.126.18:9906/626927db000004640372b0c04cca9ca3
-民视,p2p://45.92.126.18:9906/62582da100098ec20f1c5c4698b437cf
-民视新聞台,p2p://45.92.126.18:9906/625411d700086db70954149f159813c6
-狼谷育樂,p2p://45.92.126.18:9906/6258f82b00089b8f12338718bf84237d
-生命電視台,p2p://45.92.126.18:9906/6258e612000a9c7511ecd5f381cd413f
-緯來戲劇,p2p://45.92.126.18:9906/62585f76000e7ba90fdf0591eb84257b
-緯來日本,p2p://45.92.126.18:9906/62637c010003ce15074fddf26f0135da
-緯來綜合,p2p://45.92.126.18:9906/62584fd10006d72b0fa1e71495ef5024
-緯來育樂,p2p://45.92.126.18:9906/6256bd41000a7a7c097d6582fe044cc4
-緯來電影,p2p://45.92.126.18:9906/625b8f93000ccb45025ff35db29f96fd
-緯來體育,p2p://45.92.126.18:9906/62541bbd000ba7f6097abfe357f9c565
-美亞電影台,p2p://45.92.126.18:9906/62613d420000a1a0188e63d84b81b11c
-美食星球,p2p://45.92.126.18:9906/626139fa00036cff1881934f1fc1ae06
-華納影視,p2p://45.92.126.18:9906/6260fa2e000ad4fb17886054ef6e4e06
-華視,p2p://45.92.126.18:9906/6257e98b000307180e1264aad3095adb
-華視教育體育文化,p2p://45.92.126.18:9906/62692aad0004ff59037db656efdee736 
-華视新聞資訊,p2p://45.92.126.18:9906/62692acf000c5e7a037e3d0919397c0a
-衛視中文台,p2p://45.92.126.18:9906/625853fa000f1f080fb2295a047a36dc
-衛視電影,p2p://45.92.126.18:9906/6258d58f000430fa11ac54962a5c2d42
-衛視電影台,p2p://45.92.126.18:9906/6256bd0a000359ee097c8cd7ea2af582
-衛視電影台,p2p://45.92.126.18:9906/62613c0200051f95188982fec2ef3ed5
-韓國娛樂台,p2p://45.92.126.18:9906/6260fa95000d4aba1789f34d5039df1a
-高點綜合,p2p://45.92.126.18:9906/62585fb8000970600fe0061669e3aba4
-EYE TV戲劇,p2p://45.92.126.18:9906/625960940003b62a13cb5fff85627bd1
-EYE TV旅遊,p2p://45.92.126.18:9906/62595e910009221e13c385aa08f4d222
-靖天資訊台,p2p://45.92.126.18:9906/62680bf30004db8219222787aaffbf79
-靖洋卡通台,p2p://45.92.126.18:9906/6260e5f00006cfff17394d1df9bdf95d
-靖洋戲劇台,p2p://45.92.126.18:9906/6260e602000b292d1739948a4e6140fe
-靖天卡通台,p2p://45.92.126.18:9906/62618c1e000132fa19c26f5d328c9a20
-靖天國際台,p2p://45.92.126.18:9906/62618c820009926c19c3f821ebec02ee
-靖天日本台,p2p://45.92.126.18:9906/6260e53d0006302e173691bcb1337e0a
-龍祥電影台,p2p://45.92.126.18:9906/62619be5000cf11a1a0013b604555db1
-龍華偶像,p2p://45.92.126.18:9906/6260e4e9000627b41735499a8a2abd33
-龍華影劇,p2p://45.92.126.18:9906/6260e4fc0003a35a1735932d66a9b4e5
-龍華戲劇,p2p://45.92.126.18:9906/6260e4c0000811ed1734a9ef0f8923c2
-龍華洋片,p2p://45.92.126.18:9906/62613bc2000a344018888a4b2452f6fd
-龍華經典,p2p://45.92.126.18:9906/62618a40000060f919bb23f73fed9563
-momo綜合台,p2p://45.92.126.18:9906/62580818000c773d0e89bddcd1b0c221
-momo親子台,p2p://45.92.126.18:9906/62584e6b000b41810f9c71c51bf958ec
-幸福空間居家台,p2p://45.92.126.18:9906/6260e5930002f4ee1737e0d8c16e8abc
-影迷數位電影台,p2p://45.92.126.18:9906/626a074600072a2c06db6c8c9af16e70
-影迷紀實台,p2p://45.92.126.18:9906/62674e25000e7546163cbd4c2de58212
-客家電视台,p2p://45.92.126.18:9906/6257e9d70000ce760e138cf889fb92c2
-原民台,p2p://45.92.126.18:9906/6257e9ca0002ec200e135abbe97ac8ab
-ETtoday綜合台,p2p://45.92.126.18:9906/6258604e000c87130fe250d0bb957895
-國興衛視,p2p://45.92.126.18:9906/6258dc9e0003580511c7e6f78e3b1759
-Z頻道,p2p://45.92.126.18:9906/6258e492000691dc11e6f8eac01761d4
-大爱,p2p://45.92.126.18:9906/6257e958000647f20e119e47becddbf1
-好消息,p2p://45.92.126.18:9906/62584be3000a4ec30f928e473488ad44
-霹靂台灣台,p2p://45.92.126.18:9906/625835a900047b550f3bba39e271ea6f
-信大電視台,p2p://45.92.126.18:9906/62614ca00005778f18ca6c44cdea2031
-全大電視台,p2p://45.92.126.18:9906/62614c730008668f18c9bd3d40261639
-人間衛視,p2p://45.92.126.18:9906/62582fff0009dab60f259b89f7464d63
-華藏衛視,p2p://45.92.126.18:9906/6258e84a000a4dcb11f5809f32a54f53
-動物星球,p2p://45.92.126.18:9906/62541d9c0009282c09820e57f2a59d11
-探索亞洲,p2p://45.92.126.18:9906/6258ebd80002c54f12036161f9ac3eb0
-探索動力,p2p://45.92.126.18:9906/6258ec18000964b412045d13a4eb316e
-探索科学,p2p://45.92.126.18:9906/6258ebf3000576221203cb8904668102
-探索频道,p2p://45.92.126.18:9906/62541db9000483b809827e6fdf85c22c
-國家地理,p2p://45.92.126.18:9906/62541d810002b7c00981a33911a2eb57
-國家地理野生,p2p://45.92.126.18:9906/6258eb6f0008bb551201c8c015a4226c
-歷史頻道,p2p://45.92.126.18:9906/6261294500077fb31840515220a0a636
-歷史頻道2,p2p://45.92.126.18:9906/62612b2d000c46021847c4cb0d2536d1
-AMC最愛電影,p2p://45.92.126.18:9906/62674eb900041ef4163efcc6b4c8cd0b
-AXN,p2p://45.92.126.18:9906/6258d52d000490df11aad5dfc8e0641c
-BBC Earth,p2p://45.92.126.18:9906/62612d0100000350184ee5c7d2e06684
-BBC Lifestyle,p2p://45.92.126.18:9906/62612d25000c2e05184f7584a93f9e5e
-BBC WORLD NEWS,p2p://45.92.126.18:9906/6257e7ef0003fddd0e0c1b89963d6947
-Bloomberg News,p2p://45.92.126.18:9906/626191ed0001b05319d92015e4a6cb61
-Boomerang卡通,p2p://45.92.126.18:9906/62584d670009313f0f98799e2354015b
-CINEMAX,p2p://45.92.126.18:9906/6258d81f000a40aa11b658a3fe101246
-CNA,p2p://45.92.126.18:9906/6261934a0007e00f19de74f21e2709b4
-CNN,p2p://45.92.126.18:9906/62582a520008e9c70f0f6f8479cb96d1
-CN卡通频道,p2p://45.92.126.18:9906/62584e2d00015cde0f9b7d0de69c85e4
-Cinema World,p2p://45.92.126.18:9906/626750ba0002f9431646d0630173b458
-Ci罪案偵緝频道,p2p://45.92.126.18:9906/62612fc9000147ae1859c35a8e800dbf
-Classica古典音樂台,p2p://45.92.126.18:9906/6260fd970004b7061795b0eb2df29131
-DreamWorks,p2p://45.92.126.18:9906/6259b527000085d61515bd669d7ec89a
-EVE健康,p2p://45.92.126.18:9906/6258ec270004be301204967a3d33f14a
-France24,p2p://45.92.126.18:9906/62618b8d0007241819c03a7a7bfe8708
-HBO HD,p2p://45.92.126.18:9906/6268100d000c1b5d19322ef22ed23efc
-HBO原創,p2p://45.92.126.18:9906/6259b8f1000b9a0015248d4cabbe753c
-HBO家庭,p2p://45.92.126.18:9906/6258e2990005537411df43f0702258cf
-HBO強檔,p2p://45.92.126.18:9906/6258e224000020c111dd7994321ef7ec
-HGTV居家樂活,p2p://45.92.126.18:9906/626197e30008e06719f06adc8c2c9e9a
-LOVE NATURE,p2p://45.92.126.18:9906/6260e5a4000e4c4817382627a71c329e
-LUXE TV,p2p://45.92.126.18:9906/6259b55f000cba8815169b462e40e185
-MTV,p2p://45.92.126.18:9906/6258e40a000dc72411e4e7829de2c8b5
-Medici-arts,p2p://45.92.126.18:9906/6260e56600092796173732a63095dc7a
-Mezzo Live,p2p://45.92.126.18:9906/6259b5420005dbab1516283bb17231c9
-Star World,p2p://45.92.126.18:9906/6258dcea0002765e11c90f9d2d7fac5d
-TLC旅遊生活,p2p://45.92.126.18:9906/62584cd60007230e0f9642af98aa2879
-TRT WORLD,p2p://45.92.126.18:9906/626191960005358319d7cd241ef843c4
-Travel Channel,p2p://45.92.126.18:9906/626141950004f9a5189f492c02913ec0
-tvN,p2p://45.92.126.18:9906/6260e5b8000664c11738724174984fec
 米TV,#genre#
 鳳凰中文台,mitv://45.92.126.18:9906/6258281d0002e1400f06cef0fc77e330
 鳳凰資訊台,mitv://45.92.126.18:9906/6258288b0006f4a60f087dab170cf23e
@@ -358,89 +178,6 @@ TLC旅遊生活,mitv://45.92.126.18:9906/62584cd60007230e0f9642af98aa2879
 TRT WORLD,mitv://45.92.126.18:9906/626191960005358319d7cd241ef843c4
 Travel Channel,mitv://45.92.126.18:9906/626141950004f9a5189f492c02913ec0
 tvN,mitv://45.92.126.18:9906/6260e5b8000664c11738724174984fec
-MY,#genre#
-8TV,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
-Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-TV Alhijrah,http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-小太阳,mitv://ns2.hellotvvod.com:9906/bea32f8bf48c4ca399ec3df509cfc624
-双星,mitv://ns2.hellotvvod.com:9906/38169edf329241f4bfcc2d0564ead091
-全佳,mitv://ns2.hellotvvod.com:9906/c46a9c53a9584bba8b6cdac434620996
-欢喜台,mitv://ns2.hellotvvod.com:9906/f34d3251ee5c454ca9b73bbaad3477ae
-欢喜台,mitv://ns2.hellotvvod.com:9906/f34d3251ee5c454ca9b73bbaad3477ae
- Warna HD,mitv://ns2.hellotvvod.com:9906/d38eb7d12de04b20a43684be21913466
- Vinmeen,mitv://ns2.hellotvvod.com:9906/71781a142dd245c3bdd63eabf1cb4982
- Vaanavil,mitv://ns2.hellotvvod.com:9906/4ea4a6bf3bc1485fb3aee1cdf0a034ca
- Tutor TV SPM,mitv://ns2.hellotvvod.com:9906/c70bbf2973804265a9e40ad3b65705b3
- Tutor TV SK,mitv://ns2.hellotvvod.com:9906/0e0dacff22c0492893ab856b199c716e
- Ria HD,mitv://ns2.hellotvvod.com:9906/1520f2ba51284e38b2ea91ce8464f06e
- Rania HD,mitv://ns2.hellotvvod.com:9906/4945f0257fed4b44906338b2d9931f31
- Prima HD,mitv://ns2.hellotvvod.com:9906/068b8582c8674d87a14aaf22a9856645
- Oasis HD,mitv://ns2.hellotvvod.com:9906/30eb612555bb4789a5db01f97ad20087
- Cricket,mitv://ns2.hellotvvod.com:9906/6aaf655e7e6c4cda80306936f986dad9
- Citra HD,mitv://ns2.hellotvvod.com:9906/c3ac11836a234f5fb63376d3c344f8e9
- Ceria,mitv://ns2.hellotvvod.com:9906/919de70f972c4fa6bf90a490c9c5facd
- Awani,mitv://ns2.hellotvvod.com:9906/806c480eff2c4b2590ff8955d233f605
- Aura HD,mitv://ns2.hellotvvod.com:9906/67b91568456d4c41a90ac71c7aaba1f2
- Arena,mitv://ns2.hellotvvod.com:9906/da35ec1a010a4134805b56703069f89a
- Arena 2,mitv://ns2.hellotvvod.com:9906/4b65f434d24a4892b623d81068d1e3ae
- AOD HD 311,mitv://ns2.hellotvvod.com:9906/3499e31b74df4de0bc94d504eab28fc3
- AOD 354,mitv://ns2.hellotvvod.com:9906/3383da6b95b34dc5ae163e854268d3e8
- AOD 352,mitv://ns2.hellotvvod.com:9906/59d007dfabcc425faec998c04f13891c
- AEC,mitv://ns2.hellotvvod.com:9906/65a44c9c94be40459cf02635afe88d34
- AEC,mitv://ns2.hellotvvod.com:9906/65a44c9c94be40459cf02635afe88d34
-Adithya,mitv://ns2.hellotvvod.com:9906/5508233f566d48fd8193cbacb564d4a4
-ABO Movies Thangathirai HD,mitv://ns2.hellotvvod.com:9906/d9243db32a4d44b8864245998ea92f05
-ABC Australia,mitv://ns2.hellotvvod.com:9906/32c51542d12c4883a558a2ff1452846a
-8TV,mitv://ns2.hellotvvod.com:9906/e4658bfdc7f74ea3a198bb56dd158ab6
-中天亚洲台,mitv://ns2.hellotvvod.com:9906/0a5db7359cef4debb3d3d615816ffba9
-天映频道,mitv://ns2.hellotvvod.com:9906/c2b97a1c702f4192aec0fb17ca025b1f
-天映经典,mitv://ns2.hellotvvod.com:9906/dc9964d00dc440a491a334ef7125ec59
-翡翠台,mitv://ns2.hellotvvod.com:9906/454cd2639f0d4623b05f7ff5e8152de8
-爱奇艺,mitv://ns2.hellotvvod.com:9906/611202e488dd436a8424be0ad21788ef
-Zee Tamil,mitv://ns2.hellotvvod.com:9906/d268cd8056f741428c12cbace7225738
-TVS,mitv://ns2.hellotvvod.com:9906/8f3a2211433e45afa80f032f549ce1a2
-TVB娱乐新闻台,mitv://ns2.hellotvvod.com:9906/80dbd461c95241baa4e8ecd1c7135470
-TVB星河频道,mitv://ns2.hellotvvod.com:9906/ba66025e74bc46c798e13fc9a7187aca
-TVB经典台,mitv://ns2.hellotvvod.com:9906/d25f03b6eef546faa5598cdd0d763261
-TVBS亚洲,mitv://ns2.hellotvvod.com:9906/b2a12823dbc6412390163e1cfa631117
-TV9,mitv://ns2.hellotvvod.com:9906/879a0cb1262c4a07832d580378029960
-TV3,mitv://ns2.hellotvvod.com:9906/f09458437275466b8c878f2ea78c9e52
-TV2,mitv://ns2.hellotvvod.com:9906/44291c7151e746f5b46af4ecf97b6da6
-TV1,mitv://ns2.hellotvvod.com:9906/94207736e7bb474985e43e93c12d82b7
-TV Okey,mitv://ns2.hellotvvod.com:9906/1843f0897c6e4faa951dcdb404e4215d
-TA-DAA!,mitv://ns2.hellotvvod.com:9906/d4d1329e5af7429eb80f043e3b42789c
-SUN TV,mitv://ns2.hellotvvod.com:9906/c5f5a6747bfb439cb7a8ee6f2aa18e30
-Sun Music,mitv://ns2.hellotvvod.com:9906/06ada32a25f3481987f76d5f37b9b060
-Star Vijay,mitv://ns2.hellotvvod.com:9906/a36a7deb6e00489fb0feff7acf08b19e
-SPOTV,mitv://ns2.hellotvvod.com:9906/83a5ba9bfa974b63b69fe16080d7c052
-Sky News,mitv://ns2.hellotvvod.com:9906/86b388c5dde84d1ba9c6d94c18238e81
-SHOWCASE MOVIES,mitv://ns2.hellotvvod.com:9906/6d731e6e3c6140b1a26d2f503d5d0eb1
-PrimeTime Channel,mitv://ns2.hellotvvod.com:9906/11059f665bc245c7aac0763244c32351
-ONE,mitv://ns2.hellotvvod.com:9906/818dc6f31b6e49789df455f8b0ccfc4d
-Oh!K,mitv://ns2.hellotvvod.com:9906/1b36518aaf48498ba4dfe3ea30ae6365
-NTV7,mitv://ns2.hellotvvod.com:9906/f5a1208910ec40468a98d75104c37382
-Nickelodeon,mitv://ns2.hellotvvod.com:9906/25dca324431e4870a404f95173dd36fa
-NickJr.,mitv://ns2.hellotvvod.com:9906/4b8c2cb42b0a4a1f98066e5b1ca22d3b
-KIX,mitv://ns2.hellotvvod.com:9906/14ba954ebc9c4c5ca2ee71deefa16aa1
-KBS World,mitv://ns2.hellotvvod.com:9906/2e826e680aac405ea82972fc78773778
-France24,mitv://ns2.hellotvvod.com:9906/2522dd2a24e04a46934f8b3a673b12a0
-DW,mitv://ns2.hellotvvod.com:9906/9ea2debfd0504d4cb5a883bc59030643
-Drama Sangat,mitv://ns2.hellotvvod.com:9906/c2ae2e6e0de048c5ac2f2901b1446ed3
-Colors Tamil,mitv://ns2.hellotvvod.com:9906/1c73394c31d24a7d8ee8f592bf0f50da
-Colors Hindi,mitv://ns2.hellotvvod.com:9906/1cf90dc194b14eb199fc39d6769ed82d
-CNN,mitv://ns2.hellotvvod.com:9906/70bb587728714742ab29d8d5bc7a5f73
-CNBCHongKong,mitv://ns2.hellotvvod.com:9906/2cd33fecc1fa4311ae090718afdd89e1
-Chutti TV,mitv://ns2.hellotvvod.com:9906/2ee75cfb6b4f4114b00824ddc957a8d9
-CGTN,mitv://ns2.hellotvvod.com:9906/51f46c8734c54c8c98a76e587536959c
-Cartoon Network,mitv://ns2.hellotvvod.com:9906/4566ba8876e24ea58977503b34610246
-Boomerang,mitv://ns2.hellotvvod.com:9906/59e0e85687944cf082bee1f81a5e78fa
-BOO,mitv://ns2.hellotvvod.com:9906/9a87945ece624ce78ce271f94b7bff5a
-BollyOne,mitv://ns2.hellotvvod.com:9906/0525a86c05024c98a916855432a0b1f6
-BloombergTV,mitv://ns2.hellotvvod.com:9906/2ba5e04abe8a49129be65500c47382eb
-BERNAMA,mitv://ns2.hellotvvod.com:9906/0f2790c241ac46df85735a7d46dd5624
-Berita RTM,mitv://ns2.hellotvvod.com:9906/68c3c4131d1d4e8cad68992f9decfd18
-AXN,mitv://ns2.hellotvvod.com:9906/a6930fcb83344e5bbc709dc0d5dd7f4d
-Awesome TV,mitv://ns2.hellotvvod.com:9906/83c6c01d062d45ba85059b9a65040caa
 新闻,#genre#
 8TV,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
@@ -576,238 +313,220 @@ MOMO亲子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live
 SBN全球财经台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
 VOA美国之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
 中港台,#genre#
-[HK]翡翠台,http://iptv12k.com:35461/live/test167/12345/1021.m3u8
-[HK]无线新闻台,http://iptv12k.com:35461/live/test167/12345/1012.m3u8
-[HK]无线财经资讯台,http://iptv12k.com:35461/live/test167/12345/1011.m3u8
-[HK]J2,http://iptv12k.com:35461/live/test167/12345/1006.m3u8
-[HK]明珠台,http://iptv12k.com:35461/live/test167/12345/1020.m3u8
-[HK]TVB娱乐新闻台,http://iptv12k.com:35461/live/test167/12345/1001.m3u8
-[HK]TVB千禧经典台,http://iptv12k.com:35461/live/test167/12345/1003.m3u8
-[HK]TVB星河,http://iptv12k.com:35461/live/test167/12345/1000.m3u8
-[HK]RTHK31,http://iptv12k.com:35461/live/test167/12345/1004.m3u8
-[HK]RTHK32,http://iptv12k.com:35461/live/test167/12345/1005.m3u8
-[HK]有线新闻台,http://iptv12k.com:35461/live/test167/12345/1018.m3u8
-[HK]有线电影台,http://iptv12k.com:35461/live/test167/12345/1010.m3u8
-[HK]有线体育台,http://iptv12k.com:35461/live/test167/12345/1017.m3u8
-[HK]有线18台,http://iptv12k.com:35461/live/test167/12345/1022.m3u8
-[HK]有线603台,http://iptv12k.com:35461/live/test167/12345/1023.m3u8
-[HK]香港开电视,http://iptv12k.com:35461/live/test167/12345/1013.m3u8
-[HK]Now新闻台,http://iptv12k.com:35461/live/test167/12345/1002.m3u8
-[HK]Now直播台,http://iptv12k.com:35461/live/test167/12345/1015.m3u8
-[HK]Now Sports Prime,http://iptv12k.com:35461/live/test167/12345/1014.m3u8
-[HK]VIUTV,http://iptv12k.com:35461/live/test167/12345/1008.m3u8
-[HK]VIUTV 6,http://iptv12k.com:35461/live/test167/12345/1007.m3u8
-[HK]耀才财经台,http://iptv12k.com:35461/live/test167/12345/1016.m3u8
-[MY]ASSP,http://iptv12k.com:35461/live/test167/12345/972.m3u8
-[MY]ASSP(b),http://iptv12k.com:35461/live/test167/12345/7990.m3u8
-[MY]ASSP2,http://iptv12k.com:35461/live/test167/12345/971.m3u8
-[MY]ASSP2(b),http://iptv12k.com:35461/live/test167/12345/655.m3u8
-[MY]ASSP2(b2),http://iptv12k.com:35461/live/test167/12345/7988.m3u8
-[MY]ASSP3,http://iptv12k.com:35461/live/test167/12345/970.m3u8
-[MY]ASSP3(b),http://iptv12k.com:35461/live/test167/12345/654.m3u8
-[MY]ASSP3(b2),http://iptv12k.com:35461/live/test167/12345/7985.m3u8
-[MY]ASSP4,http://iptv12k.com:35461/live/test167/12345/7983.m3u8
-[MY]ASSP4(b),http://iptv12k.com:35461/live/test167/12345/969.m3u8
-[MY]ASSP4(b2),http://iptv12k.com:35461/live/test167/12345/653.m3u8
-[MY]ASSP5,http://iptv12k.com:35461/live/test167/12345/7982.m3u8
-[MY]AEC,http://iptv12k.com:35461/live/test167/12345/709.m3u8
-[MY]AOD351,http://iptv12k.com:35461/live/test167/12345/705.m3u8
-[MY]AOD352,http://iptv12k.com:35461/live/test167/12345/704.m3u8
-[MY]AOD353,http://iptv12k.com:35461/live/test167/12345/703.m3u8
-[MY]AOD354,http://iptv12k.com:35461/live/test167/12345/702.m3u8
-[MY]AOD355,http://iptv12k.com:35461/live/test167/12345/701.m3u8
-[MY]翡翠华丽台,http://iptv12k.com:35461/live/test167/12345/698.m3u8
-[MY]双星,http://iptv12k.com:35461/live/test167/12345/706.m3u8
-[MY]全佳,http://iptv12k.com:35461/live/test167/12345/710.m3u8
-[MY]欢喜台,http://iptv12k.com:35461/live/test167/12345/707.m3u8
-[MY]爱奇艺,http://iptv12k.com:35461/live/test167/12345/708.m3u8
-[MY]小太阳,http://iptv12k.com:35461/live/test167/12345/700.m3u8
-[MY]中天亞洲台,http://iptv12k.com:35461/live/test167/12345/694.m3u8
-[MY]TVBS亞洲台,http://iptv12k.com:35461/live/test167/12345/695.m3u8
-[MY]TVB星河,http://iptv12k.com:35461/live/test167/12345/696.m3u8
-[MY]TVB娛樂新聞台,http://iptv12k.com:35461/live/test167/12345/697.m3u8
-[MY]TVB經典台,http://iptv12k.com:35461/live/test167/12345/699.m3u8
-[MY]天映頻道,http://iptv12k.com:35461/live/test167/12345/581.m3u8
-[MY]天映頻道,http://iptv12k.com:35461/live/test167/12345/692.m3u8
-[MY]天映经典,http://iptv12k.com:35461/live/test167/12345/693.m3u8
-[MY]8TV,http://iptv12k.com:35461/live/test167/12345/738.m3u8
-[MY]ABC,http://iptv12k.com:35461/live/test167/12345/592.m3u8
-[MY]AFN,http://iptv12k.com:35461/live/test167/12345/640.m3u8
-[MY]ANIMAX,http://iptv12k.com:35461/live/test167/12345/605.m3u8
-[MY]ANIPLUS,http://iptv12k.com:35461/live/test167/12345/686.m3u8
-[MY]AXN,http://iptv12k.com:35461/live/test167/12345/608.m3u8
-[MY]AXN,http://iptv12k.com:35461/live/test167/12345/1243.m3u8
-[MY]AnimalPlanet,http://iptv12k.com:35461/live/test167/12345/633.m3u8
-[MY]BBCEarth,http://iptv12k.com:35461/live/test167/12345/624.m3u8
-[MY]BBC,http://iptv12k.com:35461/live/test167/12345/623.m3u8
-[MY]BOOMERANG,http://iptv12k.com:35461/live/test167/12345/614.m3u8
-[MY]BabyTV,http://iptv12k.com:35461/live/test167/12345/616.m3u8
-[MY]Bloomberg,http://iptv12k.com:35461/live/test167/12345/590.m3u8
-[MY]CARTOON,http://iptv12k.com:35461/live/test167/12345/613.m3u8
-[MY]CBeebies,http://iptv12k.com:35461/live/test167/12345/615.m3u8
-[MY]CI,http://iptv12k.com:35461/live/test167/12345/634.m3u8
-[MY]CINEMAX,http://iptv12k.com:35461/live/test167/12345/607.m3u8
-[MY]CN,http://iptv12k.com:35461/live/test167/12345/618.m3u8
-[MY]CNBC,http://iptv12k.com:35461/live/test167/12345/593.m3u8
-[MY]CNN,http://iptv12k.com:35461/live/test167/12345/594.m3u8
-[MY]CinemaWorld,http://iptv12k.com:35461/live/test167/12345/1881.m3u8
-[MY]Cinemax,http://iptv12k.com:35461/live/test167/12345/1882.m3u8
-[MY]Cinemax,http://iptv12k.com:35461/live/test167/12345/1883.m3u8
-[MY]ComedyCentral,http://iptv12k.com:35461/live/test167/12345/683.m3u8
-[MY]Cricket,http://iptv12k.com:35461/live/test167/12345/684.m3u8
-[MY]DMAX,http://iptv12k.com:35461/live/test167/12345/636.m3u8
-[MY]DW,http://iptv12k.com:35461/live/test167/12345/622.m3u8
-[MY]Discovery,http://iptv12k.com:35461/live/test167/12345/627.m3u8
-[MY]DisneyXD,http://iptv12k.com:35461/live/test167/12345/626.m3u8
-[MY]Eentertainment,http://iptv12k.com:35461/live/test167/12345/637.m3u8
-[MY]EURONEWS,http://iptv12k.com:35461/live/test167/12345/588.m3u8
-[MY]EUROSPORT,http://iptv12k.com:35461/live/test167/12345/647.m3u8
-[MY]FOXMOVIES+,http://iptv12k.com:35461/live/test167/12345/611.m3u8
-[MY]FOXMOVIES+,http://iptv12k.com:35461/live/test167/12345/612.m3u8
-[MY]FOXMOVIES,http://iptv12k.com:35461/live/test167/12345/610.m3u8
-[MY]FOXNEWS,http://iptv12k.com:35461/live/test167/12345/587.m3u8
-[MY]FOX,http://iptv12k.com:35461/live/test167/12345/609.m3u8
-[MY]FRANCE24,http://iptv12k.com:35461/live/test167/12345/589.m3u8
-[MY]FoodChannel,http://iptv12k.com:35461/live/test167/12345/638.m3u8
-[MY]GOLF,http://iptv12k.com:35461/live/test167/12345/651.m3u8
-[MY]HBOFamily,http://iptv12k.com:35461/live/test167/12345/1891.m3u8
-[MY]HBOFamily,http://iptv12k.com:35461/live/test167/12345/597.m3u8
-[MY]HBOHiTS,http://iptv12k.com:35461/live/test167/12345/603.m3u8
-[MY]HBOHits,http://iptv12k.com:35461/live/test167/12345/1889.m3u8
-[MY]HBOHits,http://iptv12k.com:35461/live/test167/12345/598.m3u8
-[MY]HBOSignature,http://iptv12k.com:35461/live/test167/12345/596.m3u8
-[MY]HBO,http://iptv12k.com:35461/live/test167/12345/599.m3u8
-[MY]HGTV,http://iptv12k.com:35461/live/test167/12345/641.m3u8
-[MY]HISTORY,http://iptv12k.com:35461/live/test167/12345/629.m3u8
-[MY]HITSMOVIES,http://iptv12k.com:35461/live/test167/12345/602.m3u8
-[MY]KBSWorld,http://iptv12k.com:35461/live/test167/12345/713.m3u8
-[MY]Kix,http://iptv12k.com:35461/live/test167/12345/689.m3u8
-[MY]LOVENATURE,http://iptv12k.com:35461/live/test167/12345/621.m3u8
-[MY]MTV,http://iptv12k.com:35461/live/test167/12345/586.m3u8
-[MY]NAT GEO,http://iptv12k.com:35461/live/test167/12345/632.m3u8
-[MY]NAT GEO WILD,http://iptv12k.com:35461/live/test167/12345/630.m3u8
-[MY]NET GEO WILD,http://iptv12k.com:35461/live/test167/12345/1222.m3u8
-[MY]NBATV,http://iptv12k.com:35461/live/test167/12345/942.m3u8
-[MY]NHKWORLD,http://iptv12k.com:35461/live/test167/12345/585.m3u8
-[MY]Oh!K,http://iptv12k.com:35461/live/test167/12345/712.m3u8
-[MY]One,http://iptv12k.com:35461/live/test167/12345/711.m3u8
-[MY]Outdoor,http://iptv12k.com:35461/live/test167/12345/582.m3u8
-[MY]PREMIERSPORTS,http://iptv12k.com:35461/live/test167/12345/687.m3u8
-[MY]ROCKENTERTAINMENT,http://iptv12k.com:35461/live/test167/12345/601.m3u8
-[MY]ROCKEXTREME,http://iptv12k.com:35461/live/test167/12345/600.m3u8
-[MY]SKYNEWS,http://iptv12k.com:35461/live/test167/12345/591.m3u8
-[MY]TLC,http://iptv12k.com:35461/live/test167/12345/639.m3u8
-[MY]TSN,http://iptv12k.com:35461/live/test167/12345/1878.m3u8
-[MY]TrvlChannel,http://iptv12k.com:35461/live/test167/12345/635.m3u8
-[MY]WARNERTV,http://iptv12k.com:35461/live/test167/12345/604.m3u8
-[MY]WWE,http://iptv12k.com:35461/live/test167/12345/652.m3u8
-[MY]nickjr,http://iptv12k.com:35461/live/test167/12345/619.m3u8
-[MY]nick,http://iptv12k.com:35461/live/test167/12345/617.m3u8
-[MY]tvNMovies,http://iptv12k.com:35461/live/test167/12345/715.m3u8
-[MY]tvN,http://iptv12k.com:35461/live/test167/12345/714.m3u8
-[TW]TVBS,http://iptv12k.com:35461/live/test167/12345/1272.m3u8
-[TW]TVBS欢乐台,http://iptv12k.com:35461/live/test167/12345/1271.m3u8
-[TW]三立iNews,http://iptv12k.com:35461/live/test167/12345/1358.m3u8
-[TW]三立台湾台,http://iptv12k.com:35461/live/test167/12345/1286.m3u8
-[TW]三立新闻,http://iptv12k.com:35461/live/test167/12345/1285.m3u8
-[TW]三立都会台,http://iptv12k.com:35461/live/test167/12345/1287.m3u8
-[TW]東森电影台,http://iptv12k.com:35461/live/test167/12345/1866.m3u8
-[TW]东森戏剧,http://iptv12k.com:35461/live/test167/12345/1255.m3u8
-[TW]东森综合,http://iptv12k.com:35461/live/test167/12345/1280.m3u8
-[TW]东森羊片,http://iptv12k.com:35461/live/test167/12345/1256.m3u8
-[TW]東森洋片,http://iptv12k.com:35461/live/test167/12345/1867.m3u8
-[TW]东森财经新闻,http://iptv12k.com:35461/live/test167/12345/1356.m3u8
-[TW]中天亚洲台,http://iptv12k.com:35461/live/test167/12345/1278.m3u8
-[TW]中天新闻,http://iptv12k.com:35461/live/test167/12345/1357.m3u8
-[TW]中视新闻,http://iptv12k.com:35461/live/test167/12345/1291.m3u8
-[TW]中视菁采台,http://iptv12k.com:35461/live/test167/12345/1273.m3u8
-[TW]八大娱乐台,http://iptv12k.com:35461/live/test167/12345/1281.m3u8
-[TW]八大戏剧台,http://iptv12k.com:35461/live/test167/12345/1284.m3u8
-[TW]八大第一台,http://iptv12k.com:35461/live/test167/12345/1282.m3u8
-[TW]八大综合台,http://iptv12k.com:35461/live/test167/12345/1283.m3u8
-[TW]卫视中文台,http://iptv12k.com:35461/live/test167/12345/1257.m3u8
-[TW]卫视电影台,http://iptv12k.com:35461/live/test167/12345/1258.m3u8
-[TW]卫视电影台,http://iptv12k.com:35461/live/test167/12345/1261.m3u8
-[TW]卫视电影台,http://iptv12k.com:35461/live/test167/12345/1868.m3u8
-[TW]台视,http://iptv12k.com:35461/live/test167/12345/1290.m3u8
-[TW]壹新闻,http://iptv12k.com:35461/live/test167/12345/1293.m3u8
-[TW]年代新闻,http://iptv12k.com:35461/live/test167/12345/1359.m3u8
-[TW]星卫HD电影,http://iptv12k.com:35461/live/test167/12345/1870.m3u8
-[TW]星卫娱乐台,http://iptv12k.com:35461/live/test167/12345/1247.m3u8
-[TW]纬来体育,http://iptv12k.com:35461/live/test167/12345/1237.m3u8
-[TW]纬来日本,http://iptv12k.com:35461/live/test167/12345/1238.m3u8
-[TW]纬来电影,http://iptv12k.com:35461/live/test167/12345/1236.m3u8
-[TW]纬来精采,http://iptv12k.com:35461/live/test167/12345/1239.m3u8
-[TW]纬来综合,http://iptv12k.com:35461/live/test167/12345/1240.m3u8
-[TW]美亚电影台,http://iptv12k.com:35461/live/test167/12345/1260.m3u8
-[TW]美亚电影台,http://iptv12k.com:35461/live/test167/12345/1869.m3u8
-[TW]美食星球,http://iptv12k.com:35461/live/test167/12345/1259.m3u8
-[TW]ELEVEN2,http://iptv12k.com:35461/live/test167/12345/1217.m3u8
-[TW]ELTA体育1台,http://iptv12k.com:35461/live/test167/12345/1221.m3u8
-[TW]ELTA体育3台,http://iptv12k.com:35461/live/test167/12345/1219.m3u8
-[TW]ELTA綜合,http://iptv12k.com:35461/live/test167/12345/679.m3u8
-[TW]ELTA影剧,http://iptv12k.com:35461/live/test167/12345/1248.m3u8
-[TW]EYE TV旅游,http://iptv12k.com:35461/live/test167/12345/1223.m3u8
-[TW]JET综合,http://iptv12k.com:35461/live/test167/12345/1262.m3u8
-[TW]霹靂台灣台,http://iptv12k.com:35461/live/test167/12345/690.m3u8
-[TW]大爱,http://iptv12k.com:35461/live/test167/12345/1204.m3u8
-[TW]天映頻道,http://iptv12k.com:35461/live/test167/12345/1875.m3u8
-[TW]天映经典,http://iptv12k.com:35461/live/test167/12345/1253.m3u8
-[TW]天映经典,http://iptv12k.com:35461/live/test167/12345/1871.m3u8
-[TW]新唐人亚太台,http://iptv12k.com:35461/live/test167/12345/1200.m3u8
-[TW]momo亲子台,http://iptv12k.com:35461/live/test167/12345/1209.m3u8
-[TW]人间卫视,http://iptv12k.com:35461/live/test167/12345/1202.m3u8
-[TW]SBN全球财经台,http://iptv12k.com:35461/live/test167/12345/1251.m3u8
-[TW]SBN全球财经台,http://iptv12k.com:35461/live/test167/12345/1277.m3u8
-[TW]AFN亚洲美食,http://iptv12k.com:35461/live/test167/12345/1229.m3u8
-[TW]动物星球,http://iptv12k.com:35461/live/test167/12345/1233.m3u8
-[TW]好莱坞电影,http://iptv12k.com:35461/live/test167/12345/1249.m3u8
-[TW]AXN b,http://iptv12k.com:35461/live/test167/12345/2127.m3u8
-[TW]AXN,http://iptv12k.com:35461/live/test167/12345/1885.m3u8
-[TW]CATCHPLAY电影台,http://iptv12k.com:35461/live/test167/12345/1252.m3u8
-[TW]CINEMAX,http://iptv12k.com:35461/live/test167/12345/1214.m3u8
-[TW]CatchPlay電影台,http://iptv12k.com:35461/live/test167/12345/1865.m3u8
-[TW]Ci罪案侦缉频道,http://iptv12k.com:35461/live/test167/12345/1246.m3u8
-[TW]DW,http://iptv12k.com:35461/live/test167/12345/1208.m3u8
-[TW]HBO HD,http://iptv12k.com:35461/live/test167/12345/1893.m3u8
-[TW]HBO HD,http://iptv12k.com:35461/live/test167/12345/1266.m3u8
-[TW]HBO原创,http://iptv12k.com:35461/live/test167/12345/1887.m3u8
-[TW]HBO原创,http://iptv12k.com:35461/live/test167/12345/1263.m3u8
-[TW]HBO家庭,http://iptv12k.com:35461/live/test167/12345/1265.m3u8
-[TW]HBO强档,http://iptv12k.com:35461/live/test167/12345/1264.m3u8
-[TW]HISTORY,http://iptv12k.com:35461/live/test167/12345/1206.m3u8
-[TW]HISTORY2,http://iptv12k.com:35461/live/test167/12345/1201.m3u8
-[CN]CCTV1,http://iptv12k.com:35461/live/test167/12345/1333.m3u8
-[CN]CCTV2,http://iptv12k.com:35461/live/test167/12345/1332.m3u8
-[CN]CCTV3,http://iptv12k.com:35461/live/test167/12345/1331.m3u8
-[CN]CCTV4,http://iptv12k.com:35461/live/test167/12345/1330.m3u8
-[CN]CCTV5,http://iptv12k.com:35461/live/test167/12345/1329.m3u8
-[CN]CCTV5+,http://iptv12k.com:35461/live/test167/12345/1328.m3u8
-[CN]CCTV6,http://iptv12k.com:35461/live/test167/12345/1327.m3u8
-[CN]CCTV7,http://iptv12k.com:35461/live/test167/12345/1326.m3u8
-[CN]CCTV8,http://iptv12k.com:35461/live/test167/12345/1325.m3u8
-[CN]CCTV9,http://iptv12k.com:35461/live/test167/12345/1324.m3u8
-[CN]CCTV10,http://iptv12k.com:35461/live/test167/12345/1323.m3u8
-[CN]CCTV11,http://iptv12k.com:35461/live/test167/12345/1322.m3u8
-[CN]CCTV12,http://iptv12k.com:35461/live/test167/12345/1321.m3u8
-[CN]CCTV13,http://iptv12k.com:35461/live/test167/12345/1320.m3u8
-[CN]CCTV14,http://iptv12k.com:35461/live/test167/12345/1319.m3u8
-[CN]CCTV15,http://iptv12k.com:35461/live/test167/12345/1318.m3u8
-[CN]东方卫视,http://iptv12k.com:35461/live/test167/12345/1309.m3u8
-[CN]北京卫视,http://iptv12k.com:35461/live/test167/12345/1312.m3u8
-[CN]广东卫视,http://iptv12k.com:35461/live/test167/12345/1313.m3u8
-[CN]浙江卫视,http://iptv12k.com:35461/live/test167/12345/1316.m3u8
-[CN]湖南卫视,http://iptv12k.com:35461/live/test167/12345/1317.m3u8
-[CN]深圳卫视,http://iptv12k.com:35461/live/test167/12345/1302.m3u8
-[CN]天津卫视,http://iptv12k.com:35461/live/test167/12345/1303.m3u8
-[CN]山东卫视,http://iptv12k.com:35461/live/test167/12345/1307.m3u8
-[CN]安徽卫视,http://iptv12k.com:35461/live/test167/12345/1308.m3u8
-[CN]辽宁卫视,http://iptv12k.com:35461/live/test167/12345/1295.m3u8
-[CN]黑龙江卫视,http://iptv12k.com:35461/live/test167/12345/1298.m3u8
-[CN]重庆卫视,http://iptv12k.com:35461/live/test167/12345/1299.m3u8
-[CN]海南卫视,http://iptv12k.com:35461/live/test167/12345/1301.m3u8
-[CN]云南卫视,http://iptv12k.com:35461/live/test167/12345/1297.m3u8
-[CN]河南卫视,http://iptv12k.com:35461/live/test167/12345/1300.m3u8
+##新闻##
+8TV,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+CCTV4,http://117.148.179.162/PLTV/88888888/224/3221231615/1.m3u8
+CCTV4b,http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
+中天新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
+中天新闻2,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
+有线18,rtmp://59.124.75.150/sat/hk041
+TVBS新聞台,rtmp://59.124.75.138/sat/tv551
+民视,rtmp://59.124.75.138/sat/tv051
+台视,rtmp://59.124.75.138/sat/tv071
+中视,rtmp://59.124.75.138/sat/tv091
+華视,rtmp://59.124.75.138/sat/tv111
+无线新闻,http://iptv12k.com:35461/live/test167/12345/1012.m3u8
+TVB娱乐新闻,http://iptv12k.com:35461/live/test167/12345/1001.m3u8
+有线新闻,http://iptv12k.com:35461/live/test167/12345/1018.m3u8
+##
+##台湾##
+民视,rtmp://59.124.75.150/sat/tv051
+台视,rtmp://59.124.75.150/sat/tv071
+中视,rtmp://59.124.75.150/sat/tv091
+華视,rtmp://59.124.75.150/sat/tv111
+TVBS新聞台,rtmp://59.124.75.150/sat/tv551
+TVBS歡樂台,rtmp://59.124.75.150/sat/tv421
+東森财经新聞,rtmp://59.124.75.150/sat/tv571
+緯來育樂,rtmp://59.124.75.150/sat/tv701
+緯來體育,rtmp://59.124.75.150/sat/tv721
+緯來日本,rtmp://59.124.75.150/sat/tv771
+momo综合台,rtmp://59.124.75.150/sat/tv761
+ELTA體育2台,rtmp://59.124.75.150/sat/md021
+ELTA體育2台,rtmp://59.124.75.150/sat/md041
+ELTA體育3台,rtmp://59.124.75.150/sat/md051
+ELEVEN1,rtmp://59.124.75.150/sat/tv731
+ELEVEN2,rtmp://59.124.75.150/sat/tv741
+CCTV-5体育,rtmp://59.124.75.150/sat/cn021
+CCTV-5+体育,rtmp://59.124.75.150/sat/cn051
+有线體育台,rtmp://59.124.75.150/sat/hk021
+有线18台,rtmp://59.124.75.150/sat/hk041
+民视,rtmp://59.124.75.138/sat/tv051
+台视,rtmp://59.124.75.138/sat/tv071
+中视,rtmp://59.124.75.138/sat/tv091
+華视,rtmp://59.124.75.138/sat/tv111
+TVBS新聞台,rtmp://59.124.75.138/sat/tv551
+TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
+東森财经新聞,rtmp://59.124.75.138/sat/tv571
+緯來育樂,rtmp://59.124.75.138/sat/tv701
+緯來體育,rtmp://59.124.75.138/sat/tv721
+緯來日本,rtmp://59.124.75.138/sat/tv771
+momo综合台,rtmp://59.124.75.138/sat/tv761
+ELTA體育2台,rtmp://59.124.75.138/sat/md021
+ELTA體育2台,rtmp://59.124.75.138/sat/md041
+ELTA體育3台,rtmp://59.124.75.138/sat/md051
+ELEVEN1,rtmp://59.124.75.138/sat/tv731
+ELEVEN2,rtmp://59.124.75.138/sat/tv741
+CCTV-5体育,rtmp://59.124.75.138/sat/cn021
+CCTV-5+体育,rtmp://59.124.75.138/sat/cn051
+有线體育台,rtmp://59.124.75.138/sat/hk021
+有线18台,rtmp://59.124.75.138/sat/hk041
+TVBS新闻台,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
+TVBS新闻台(备),http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
+三立新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
+三立综合台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
+三立财经iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
+东森LIVE,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
+东森新闻台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+东森财经新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
+东森财经新闻台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
+东森购物一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
+东森购物二台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174
+中天新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
+中天新闻台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
+中天美食旅游,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
+中天全民最大党,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
+中视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
+中视新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=zsxw
+中视新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+亚洲旅游台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
+人间卫视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
+公视戏剧,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
+半岛国际新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
+华视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
+华视新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
+华语戏剧台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
+华语综艺台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
+台视新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
+国会频道1,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv084&nid=170
+国会频道2,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv085&nid=171
+大爱电视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
+好消息2台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
+客家电视台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
+寰宇新闻台,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
+新唐人亚太台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
+时尚运动X,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
+智林体育台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58
+民视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
+民视台湾台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
+民视影剧台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
+民视新闻台,http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
+民视新闻台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
+民视旅游台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
+民视第一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
+民视综艺台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
+滚动力rollor,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
+爱尔达生活旅游台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
+猪哥亮歌厅秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
+精选动漫台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
+经典卡通台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
+经典电影台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
+金光布袋戏,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
+ARIRANG,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
+DW德国之声,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
+ELTV生活英语台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
+LUXE TV,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
+LiveABC互动英语,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
+MOMO亲子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
+SBN全球财经台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
+VOA美国之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
+##
+##香港##
+J1,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+J2,http://50.7.220.74:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
+TVB,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
+##
+##中港台##
+鳳凰資訊台,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/264509
+中天亞洲台,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/264515
+AOD 352,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/247411
+AOD 354,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/247413
+全佳,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/247427
+爱奇艺,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290508
+ANIMAL PLANET,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157532
+ANiPlus,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157611
+ASSP 1,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/146068
+ASSP 2,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157556
+ASSP 2,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157556
+ASSP 3,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157557
+ASSP 3,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157557
+ASSP 4,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157558
+ASSP 4,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157558
+AXN,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157542
+AXN,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165079
+Arena,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157485
+Arena,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157485
+Arena 2,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/287793
+Asian Food Network,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157549
+Baby TV,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157605
+BBC earth,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/171979
+BeINSports,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157561
+BeINSports,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/295289
+BeINSports 1,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/282772
+BeINSports 2,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/282773
+BeINSports 3,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/266844
+Bloomberg,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157533
+Bloomberg,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157599
+Boomerang,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165109
+Boomerang,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/171955
+Cartoon Network,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157593
+Cartoon Network,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/174684
+Celestial Movies,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/174687
+Cinema World,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/171956
+Cinemax,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157519
+Crime+ Investigation,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157554
+Crime+ Investigation,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165052
+DMAX,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/158351
+Disney Channel,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165075
+Disney Junior,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/162511
+Disney XD,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157544
+Egg Network,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157484
+FIGHT Sports,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157606
+FMN,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165057
+FOXSPORTS 1,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/162517
+FOXSPORTS 2,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157488
+Food Network,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/196454
+Fox Family Movies,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157570
+Fox.Crime,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165076
+Fox.Family.Movies,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157595
+Fox.Life,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165083
+Fox.Movies.Action,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157608
+France24,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157600
+GO SHOP,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/264511
+HBO,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157518
+HBO,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/266811
+HBO.Family,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/197055
+HBO.HITS,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/196480
+HGTV,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157553
+HITS Movies,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157477
+History,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/162519
+Hits,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157545
+KBS World,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157475
+KPLUS,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157567
+Kids TV,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/162505
+Life Style Fashion,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157592
+Life,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157585
+MYTV,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157603
+Music TV,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165108
+NAT GEO,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165094
+NATGEO Wild,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/174724
+Nick Junior,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157546
+Nick Junior,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165107
+Hickelodeon,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/162510
+ONE,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/158349
+RUGBY PASS TV,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290509
+Sky News,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157527
+Sony Channel,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/171974
+Sony One,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165077
+TLC,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157483
+TVB Classic,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157510
+TVN Movies,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157520
+TVN,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157476
+Thrill,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157580
+Warner TV,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157550
+Warner TV,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157594
+##
 IPTV,#genre#
 A&E,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1729
 A&E,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/275187
