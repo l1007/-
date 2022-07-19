@@ -46,8 +46,8 @@ vip,http://api.vip123kan.vip/?url=
 parwix,https://jx.parwix.com:4433/player/?url=
 300,https://jx.300ys.xyz/json/jianghu.php/?url=
 人人,https://jx.renrenmi.cc/?url=
-lekbox,https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=
-芒果,https://jx.parwix.com:4433/player/?url=
+nxflv,https://www.nxflv.com/?url=
+zui,https://jx.zui.cm/?url=
 爱奇艺,https://api.m3u8.tv:5678/home/api?type=ys&uid=7631191&key=cdemqsxFGKLNRVXYZ9&url=
 json,https://json.hfyrw.com/mao.go?url=
 BL,https://vip.bljiex.com/?v=
