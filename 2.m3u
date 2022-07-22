@@ -145,6 +145,16 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAK
 #EXTINF:-1 group-title="INDO" tvg-logo="https://play-lh.googleusercontent.com/ODBNl0nV9vjbUIOG0R22uIsnbNfv9BOiwfXHyCyYzkRvldMeA5lSfrQdgh3o1HM87Huy",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 
+#EXTINF:-1 group-title="2022" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/07/film-pee-nak-3-2022-lk21-d21.jpg",Pee Nak 3
+https://stream.xpeer.xyz/playlist1/pee-nak-3-2022/master_480.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/07/film-the-black-phone-2022-lk21-d21.jpg",The Black Phone
+https://stream.xpeer.xyz/playlist1/the-black-phone-2022/master_480.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/07/film-wrong-place-2022-lk21-d21.jpg",Wrong Place
+https://stream.xpeer.xyz/playlist1/wrong-place-2022/master_480.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/07/film-lightyear-2022-lk21-d21.jpg",Lightyear
+https://stream.xpeer.xyz/playlist1/lightyear-2022/master_480.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/03/film-moonfall-2022-lk21-d21.jpg",Moonfall
+https://stream.xpeer.xyz/playlist1/moonfall-2022-16.04.2022-07.47.40/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/06/film-the-man-from-toronto-2022-lk21-d21.jpg",The Man from Toronto
 https://stream.xpeer.xyz/playlist1/the-man-from-toronto-2022/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/04/film-morbius-2022-lk21-d21.jpg",Morbius
