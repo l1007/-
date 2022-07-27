@@ -1,0 +1,16 @@
+点播：
+LEKBOX,https://demo.if101.tv/api.php/provide/vod/at/xml,不解析
+结束
+解析：
+解析1,https://jx.blbo.cc:4433/?url=
+结束
+直播：
+【分类头】少儿频道【分类尾】
+【少儿频道头】
+爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+福建少儿 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226960/index.m3u8
+Hot少儿动漫 720,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/01.m3u8?fmt=ts2hls
+IPTV淘BABY,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8?
+CNTV动画王国,http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
+【少儿频道尾】
+结束
