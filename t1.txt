@@ -359,9 +359,6 @@ TRT WORLD,mitv://45.92.126.18:9906/626191960005358319d7cd241ef843c4
 Travel Channel,mitv://45.92.126.18:9906/626141950004f9a5189f492c02913ec0
 tvN,mitv://45.92.126.18:9906/6260e5b8000664c11738724174984fec
 MY,#genre#
-8TV,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
-Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-TV Alhijrah,http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 小太阳,mitv://ns2.hellotvvod.com:9906/bea32f8bf48c4ca399ec3df509cfc624
 双星,mitv://ns2.hellotvvod.com:9906/38169edf329241f4bfcc2d0564ead091
 全佳,mitv://ns2.hellotvvod.com:9906/c46a9c53a9584bba8b6cdac434620996
