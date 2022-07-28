@@ -64,31 +64,6 @@ rtmp://59.124.75.138/sat/tv091
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png",華视
 rtmp://59.124.75.138/sat/tv111
 
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",粤语电影1
-http://epg.112114.xyz/douyu/1226741
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",粤语电影2
-http://epg.112114.xyz/douyu/2466104
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",粤语电影3
-http://epg.112114.xyz/douyu/5033502
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",粤语电影4
-http://epg.112114.xyz/douyu/6566671
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",粤语电影5
-http://txtest-xp2p.p2p.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",粤语综艺
-http://epg.112114.xyz/douyu/7919720
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",电影欧美
-http://epg.112114.xyz/douyu/20415
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",喜剧科幻电影
-http://epg.112114.xyz/douyu/6537888
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",欧美电影
-http://epg.112114.xyz/douyu/6655271
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",变种人电影
-http://epg.112114.xyz/douyu/9651304
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",DC电影
-http://txtest-xp2p.p2p.huya.com/src/1448731701-1448731701-6222255276473450496-2789274560-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",韩国动作片
-http://txtest-xp2p.p2p.huya.com/src/1423782047-1423782047-6115097328496934912-2847687550-10057-A-0-1.xs
-
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a7c71d3ce5214d401b5d418aae7ab5ad.jpeg",魔女2
 https://m3u.if101.tv/xm3u8/e63a926cf70f4c66d3ce2c285602113b317063bcd0a7fdc061981830c08512bf9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8ad1251da686676fd378b05e8a7a9e43.jpeg",重案行动之限时拯救
@@ -399,9 +374,9 @@ https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/feb7d96
 https://m3u.if101.tv/xm3u8/c0187aa18d70e6fe6041ec244c2ebbcf85f9a2494b5771683e7313427cf6e9b99921f11e97d0da21.m3u8
 
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/37e14e2a29c611e8cf72d99114636297.jpeg",侏罗纪世界3
-https://new.qqaku.com/20220716/KH1INVyI/1100kb/hls/playlist_up.m3u8
+https://m3u.if101.tv/xm3u8/d4e4e600aaa34b3323f4450ef97497809b4c35b8adee033819ce0d7d45d6adb99921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/21f65ea27cf65e86b4c6ada46c26c912.jpeg",奇异博士2
-https://new.qqaku.com/20220621/83lZiMMp/1100kb/hls/playlist_up.m3u8
+https://m3u.if101.tv/xm3u8/25b4fe67d66eea73ed936c1e16264a889b6db2eb09ea6520fe0b0067c4d77bee9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/fa45578763b308eed180aaf7d551d1c5.jpeg",未来罪行
 https://sod.bunediy.com/20220621/nQcgiwvY/index.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5c184eb8e9756245fc44d680c225b4e0.jpeg",蜘蛛头
