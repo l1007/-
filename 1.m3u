@@ -64,6 +64,12 @@ rtmp://59.124.75.138/sat/tv091
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png",華视
 rtmp://59.124.75.138/sat/tv111
 
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/daf9553cff190f1fdd20c69e26069b28.jpeg",犯罪都市2
+https://m3u.if101.tv/xm3u8/89cd9b0111b82c10961de1be3c8b1090f6a29e833b49dc6ebd598197b9ec3e389921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/13d865af127a33ed08dd8757b07bc64f.jpeg",非常杀手
+https://m3u.if101.tv/xm3u8/0983bb28a42e5110733b56e54bd8017006f13829c1274eed7fae0c2ca953dc2d9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/20bcd247cfa3bd06895b7f1d156cc393.jpeg",恶到必除
+https://m3u.if101.tv/xm3u8/cffcfb7ab505e900734e06b76e2362fe51957c6277671ebb5029973c458359ef9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a7c71d3ce5214d401b5d418aae7ab5ad.jpeg",魔女2
 https://m3u.if101.tv/xm3u8/e63a926cf70f4c66d3ce2c285602113b317063bcd0a7fdc061981830c08512bf9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8ad1251da686676fd378b05e8a7a9e43.jpeg",重案行动之限时拯救
@@ -444,6 +450,8 @@ https://auete.top/datas/mov/zhuiyimiju.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b10a30838c845af6b308e910b2a80edb.jpeg",丛林奇航
 https://m3u.if101.tv/xm3u8/bb5cc76e43bbbb905e204a85671aa3e960b3eb5f8d00930d8232009e30ac0f9d9921f11e97d0da21.m3u8
 
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c9674502b10f3e242bb09d38d3bab3cb.jpeg",刀剑封魔
+https://sod.bunediy.com/20220724/tDOl6534/index.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c4350113862f2da072a925ee65dcee90.jpeg",光年正传
 https://new.qqaku.com/20220715/0Cu6rcwG/1100kb/hls/playlist_up.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/37aeb820aabb1cc02d4a6e572cf15a8b.jpeg",海兽猎人
@@ -537,6 +545,12 @@ https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/eef51ff518ffd8369993ca8ac4b89314.jpeg",武林怪兽
 https://v4.cdtlas.com/20211211/ZRwAC8vx/index.m3u8
 
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2f9ddfc6472f305e30d2ced7686908ea.jpeg",头七
+https://m3u.if101.tv/xm3u8/0c1000f4075f6c102969cd9f1c84bc24ae391f0b29bfb5fd0cb0aada6ea603fd9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/47198c5aea616c0b4db847a86fe3e880.jpeg",周末惊魂
+https://m3u.if101.tv/xm3u8/2a313e0cba463da58667c61879d36c4b324250c8d0579ed93b094943299bf1a39921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/975db386f92d4ac467fcecf0d16a844c.jpeg",当代猎巫行动
+https://m3.taopianplay1.com:43333/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/7c2f0e5f-bf71-49fc-99e3-02d8a9207593/62929/d70e0d1e-3171-4729-83e2-c742c6bc66c7/SD/playlist.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/53b8836354c12531ba510fc7e9aa0211.jpeg",咒
 https://m3u.if101.tv/xm3u8/bfd94459575e801a0c92a3ee9ea6aadc974c8641da7e02cd2eb5b0e57fd9babe9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/66e92628b43eedf042c50b91eb554338.jpeg",男人
@@ -689,6 +703,8 @@ https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49b
 #EXTINF:-1 group-title="DS灾难" tvg-logo="https://pic.rmb.bdstatic.com/bjh/08f7480efb883c61290e46b277986d48.jpeg",地陷
 https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/22376/a36103c3-47d3-439f-b911-7b519daff23b/SD/playlist.m3u8
 
+#EXTINF:-1 group-title="W战争" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c53e943b95755b99f4b47edd72e09664.jpeg",铁血抗联之血战松山涧
+https://ukzy.ukubf3.com/20220728/QCCOgC7N/index.m3u8
 #EXTINF:-1 group-title="W战争" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a5abb806cf9e8e10f09d2ffebc60a255.jpeg",狙击英雄
 https://m3u.if101.tv/xm3u8/272c4faf6836acf850971228c6307817353d8a47d187bf77f241c7adec589ad39921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="W战争" tvg-logo="https://pic.rmb.bdstatic.com/bjh/20cff9aa8d2a2fe1f0082b7819f323e6.jpeg",长津湖之水门桥
@@ -1133,6 +1149,8 @@ http://txtest-xp2p.p2p.huya.com/src/1279520922847-1279520922847-1681752828386738
 #EXTINF:-1 group-title="说电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",S哥影视-荒野独居
 http://txtest-xp2p.p2p.huya.com/src/1199577085634-1199577085634-5502755264056524800-2399154294724-10057-A-0-1.xs
 
+#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9f1808b03112823e72be67909ec947bf.jpeg",鬼寺凶灵3
+https://m3u.if101.tv/xm3u8/e24b935da7c27fcf0ee08ed194c4966aba9742cf318e10ba7c391ff5e0e67b8e9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2cff45cd5192ec994b77bd95b4071ed1.jpeg",嚎笑捉鬼队
 https://hnzy2.kaisacard.com:65/20220707/XqpW3xk8/index.m3u8
 #EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/898d6cc0fc43825a342aa52747a92702.jpeg",凝弑
