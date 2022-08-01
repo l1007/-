@@ -133,7 +133,7 @@ LiveABC互动英语,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gt
 MOMO亲子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 SBN全球财经台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
 VOA美国之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
-中港台,#genre#
+亚洲,#genre#
 [HK]翡翠台,http://iptv12k.com:35461/live/test167/12345/1021.m3u8
 [HK]无线新闻台,http://iptv12k.com:35461/live/test167/12345/1012.m3u8
 [HK]无线财经资讯台,http://iptv12k.com:35461/live/test167/12345/1011.m3u8
@@ -366,308 +366,36 @@ VOA美国之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ft
 [CN]海南卫视,http://iptv12k.com:35461/live/test167/12345/1301.m3u8
 [CN]云南卫视,http://iptv12k.com:35461/live/test167/12345/1297.m3u8
 [CN]河南卫视,http://iptv12k.com:35461/live/test167/12345/1300.m3u8
-IPTV,#genre#
-A&E,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1729
-A&E,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/275187
-ABC AUSTRALIA,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157526
-AFN,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157549
-AMC,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/503
-AMC,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/751
-ANIPLUS,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157611
-ASSP 2,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157556
-ASSP 3,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157557
-ASSP 4,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157558
-AXN,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157542
-Alibi,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1131
-Animal Planet,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157532
-Animal Planet,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/9259
-BBC AMERICA,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2277
-BBC Earth,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/163492
-BBC Earth,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/163987
-BBC NEWS,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/697
-BBC,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157522
-BEIN SPORTS 2,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/162592
-BET,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2278
-BIG NETWORK,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2279
-BNN Bloomberg,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/504
-BOX Hits,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/4742
-BT Sport 1,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/270
-BT Sport 2,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/273
-BT Sport 3,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/271
-Baby tv,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1129
-Bally Sports,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2324
-Bally Sports,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2325
-Blaze,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/4642
-Bloomberg,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157533
-Bloomberg,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157599
-Bloomberg,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1610
-Bloomberg,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2280
-Boomerang,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1125
-Boomerang,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2281
-Bravo,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2282
-C-SPAN2,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2284
-CBC NEWS,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/431
-CBC News Investigates,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/432
-CBC SPORTS,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/425
-CBS Drama,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1123
-CBS NEWS,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1728
-CBS Reality,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1121
-CGTN ESPANOL,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/163069
-CGTN,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/162161
-CINEMAX,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157519
-CITV,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1548
-CMT,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2294
-CMT,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/482
-CNBC,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157529
-CNBC,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2295
-CNN,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/480
-CNN,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/753
-COOKING CHANNEL,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2297
-COOKING CHANNEL,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/478
-CP24,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/476
-CRUISE TV,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1101
-CTV Comedy Channel,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/479
-CTV Drama,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/9220
-CTV NEWS Channel,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/474
-CTV,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/473
-CTV,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/483
-Cartoon Network,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/50929
-Cartoon Network,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/720
-Cartoonito,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1546
-Channel 4,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1120
-Channel 5,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1119
-Comedy Central,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/754
-Cottage Life,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/477
-Cpac,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/475 
-Crime+Investigation,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/14813
-Crime+Investigation,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157554
-Crime+Investigation,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/734
-DIGI WORLD,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2244
-DMAX Asia,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/158351
-DMAX,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1604
-DejaView,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/472
-Destination America,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2299
-Discovery Channel,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/755
-Discovery Family,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2300
-Discovery Family,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/273689
-Discovery History,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/273670
-Discovery History,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/694
-Discovery Science,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157530
-Discovery Science,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2301  
-Discovery Science,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/713
-Discovery Velocity,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2302
-Discovery turbo,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1114
-Discovery,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157528
-Discovery,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1726
-Discovery,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/708
-Disney Junior,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1112
-Disney XD,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1111
-E!,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1542
-E!,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2306
-E!,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/468
-E4,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1110
-ESPN 2,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/41918
-ESPN NBA,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/747
-ESPN News,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2312
-ESPN UK,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2311
-ESPN,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2340
-Euronews,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1554
-Euronews,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/687
-Eurosport 1,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/692
-Eurosport 2,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1555
-FIGHT SPORTS,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157606
-FOX ACTION MOVIES,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157608
-FOX Family MOVIES,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157570
-FOX Family MOVIES,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157595
-FOX NEWS,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1611
-FOX NEWS,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/163972
-FOX SOCCER plus,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2314
-FOX SPORTS RACING,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2327
-FOX,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/467
-FREEFORM Channel,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2329
-FS1,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/756
-FS2,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/757
-FX,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/758
-FXX,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2330
-FYI,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/30897
-Family Jr,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/471
-Fight Network,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157399
-FightBox,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/11485
-Food Network,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1724
-Food Network,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2315
-Fos Business,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2316
-France24,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157600
-FreeSports,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/37876
-Global NEWS,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/465
-Gold,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1108
-H2,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/456
-HBO Comedy,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2335
-HBO Family,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/760
-HBO Hits Asia,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/196480
-HBO Signature,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/6305
-HBO Zone,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/6328
-HBO,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2336
-HGTV Asia,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157553
-HGTV,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1600
-HGTV,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2273
-HISTORY,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2249
-HISTORY,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/462
-HISTORY,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/761
-HITS,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157545
-Hallmark,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/759
-HighStreetTV,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1122
-HighStreetTV,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/733
-Horror Channel,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/736
-IFC,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2339
-ITV 2,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/690
-ITV 3,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/703
-ITV 4,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/691
-Investigation Discovery,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/8557
-Ion,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2371
-Itv Be,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1560
-KIX,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157548
-Kiss TV,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/4746
-Lifetime,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/460
-Lifetime,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/5521
-Love Nature,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1723
-MAGNOLIA NETWORK,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2305
-MAGNOLIA NETWORK,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/469
-MAX3 SELECT,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157380
-MAX4 SELECT,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157379
-MEZZO,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/163497
-MLB,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2342
-MOVIES,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/463
-MSNBC,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/406
-MTV Base,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/273987
-MTV Beats,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/193068
-MTV,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1534
-MTV,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2344
-MTV2,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/459
-Motorvision TV,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/4012
-NAT GEO WILD,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2253
-NAT GEO,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2252
-NBATV,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1047
-NBATV,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/762
-NETFLIX CINEMA 2,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157381
-NETFLIX CINEMA 3,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157382
-NETFLIX CINEMA 4,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157383
-NETFLIX CINEMA 5,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157384
-NETFLIX CINEMA 6,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157385
-NETFLIX CINEMA,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157377
-NFL NETWORK,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2367
-NHL,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2348
-National Geographic Asia,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/165094
-National Geographic Wild UK,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/724
-National Geographic Wild,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/6503
-National Geographic,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/274077
-National Geographic,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/749
-News Channel 5,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2287
-Nick Jr. Asia,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/165107
-Nick Jr. UK,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/274441
-Nick Music,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/12982
-Nick jr,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1098
-Nick jr,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157546
-NickToons ,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/740
-NickToons,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2351
-Nickelodeon Asia,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/162510
-Nickelodeon,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/764
-OKEY,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/158347
-OLN,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/454
-OMNI TV,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/453
-PBS Kids,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/14837
-POP MAX,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1598
-POP,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1599
-Paramount Network,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/451
-Peachtree TV,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/484
-Pick,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1578
-Premier Sports 1,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1097
-Premier Sports 2,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/4723
-QUEST RED,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1577
-QUEST,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1096
-REALLY,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/742
-Racing TV,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/731  
-Reelz,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2354
-SBS Food,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/144778
-SKY SPORTS racing,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/163132
-SN NOW,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1720
-STARZ Comedy,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/12040
-STARZ Edge,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2357
-STARZ Encore Action,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/30773
-STARZ Encore Black,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/78155
-STARZ Encore Classic,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/25816
-STARZ Encore Suspense,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/25817
-STARZ Encore Westerns,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/30778
-STARZ Encore,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/12043
-STARZ Kids & Family,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/15052
-STARZ,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2261
-STARZ,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2274
-STINGRAY LITE TV,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/163975
-SUNDANCE,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2358
-Showcase,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/9210
-Showtime 2,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/78161
-Showtime Extreme,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/12036
-Showtime Family Zone,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/16139
-Showtime Next,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/13008
-Showtime Women,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/12995
-Sky Arts,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1094
-Sky Atlantic,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1093
-Sky Cinema Drama & Romance,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1089
-Sky Cinema Family,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/727
-Sky Cinema Greats,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1087
-Sky Cinema Hits,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1086
-Sky Cinema Premiere,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1085
-Sky Cinema Sci-Fi & Horror,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/725
-Sky Cinema Select,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/726
-Sky Cinema Showcase,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/17041
-Sky Crime,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/15155
-Sky Movies,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1082
-Sky News,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1081
-Sky One,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1080
-Sky Replay,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1074
-Sky Sports Action,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1130
-Sky Sports Action,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/268
-Sky Sports Arena,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/267
-Sky Sports Cricket,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/269
-Sky Sports F1,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/265
-Sky Sports Football,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/266
-Sky Sports Golf,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/264
-Sky Sports Golf,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/37179
-Sky Sports Mix,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/261
-Sky Sports News,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/260
-Sky Sports Premier League,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/263
-Sky Witness,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/11738
-Smithsonian Channel,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/8585
-Stingray iConcerts,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/17059
-SyFy UK,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1068
-SyFy,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2359
-TLC,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1067
-TLC,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2362
-TNT,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/769   
-TRACE URBAN,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1537
-TRT World,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/165074
-TSN1,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/770
-TSN2,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/771
-TSN3,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/772
-TSN4,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/773
-TSN5,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/774  
-TV LAND,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2364
-TeenNick,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/15058
-Tennis Channel,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1052
-Tennis Channel,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2275
-The Movies,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/752
-The Weather Channel,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2361
-The Weather Network,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/447  
-Travel Channel,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1066
-Travel Channel,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/1124
-Travel Channel,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/163974
-Treehouse TV,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/449
-Tvo kids,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/448
-USA Network,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/3390
-Utsav Plus,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/60347
-VH1,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2370
-WARNER TV,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2256
-WLVI TV CW56,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2298
-WWE,http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/2373
+体育,#genre#
+緯來體育,rtmp://59.124.75.150/sat/tv721
+ELTA體育2台,rtmp://59.124.75.150/sat/md021
+ELTA體育2台,rtmp://59.124.75.150/sat/md041
+ELTA體育3台,rtmp://59.124.75.150/sat/md051
+ELEVEN1,rtmp://59.124.75.150/sat/tv731
+ELEVEN2,rtmp://59.124.75.150/sat/tv741
+CCTV-5体育,rtmp://59.124.75.150/sat/cn021
+CCTV-5+体育,rtmp://59.124.75.150/sat/cn051
+有线18台,rtmp://59.124.75.150/sat/hk041
+EUROSPORT 2,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/80264 
+FOX SPORTS 501,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/279034 
+FOX SPORTS 502,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/81784 
+FOX SPORTS 503,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/280192 
+FOX SPORTS 504,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/280193 
+FOX SPORTS 505,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/144772 
+FOX SPORTS 507,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/280194 
+SuperSport Blitz,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/281536 
+SuperSport Cricket,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/11637 
+SuperSport Golf,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/11641 
+SuperSport Grandstand,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/194353 
+SuperSport Maximo 1,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38572 
+SuperSport Motorsport,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/11638 
+SuperSport Premier League,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/11642 
+SuperSport Rugby,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/11639 
+SuperSport Tennis,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/15200 
+SuperSport Variety 1,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/11633 
+SuperSport Variety 2,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/11634 
+SuperSport Variety 3,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/11635 
+SuperSport Variety 4,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/11636 
 虎牙,#genre#
 虎牙八点档,http://txtest-xp2p.p2p.huya.com/src/1524439855-1524439855-6547419321943982080-3049003166-10057-A-0-1.xs
 五福星系列,http://txtest-xp2p.p2p.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.xs
