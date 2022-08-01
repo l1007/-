@@ -42,9 +42,7 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/90_144.png",CCTV4澳洲
 http://117.148.179.162/PLTV/88888888/224/3221231615/1.m3u8
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/90_144.png",CCTV4
-http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
-#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png",CCTV13
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
+http://111.20.33.93/PLTV/88888893/224/3221226223/index.m3u8
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png",CCTV13
 http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/48/CTI_News_Logo.jpg/200px-CTI_News_Logo.jpg",中天新闻
