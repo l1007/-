@@ -60,13 +60,13 @@ rtmp://59.124.75.150/sat/hk041
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png",TVBS新聞台
 rtmp://59.124.75.138/sat/tv551
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/4e/FTV_Logo.svg/600px-FTV_Logo.svg.png",民视
-rtmp://59.124.75.138/sat/tv051
+rtmp://59.124.75.150/sat/tv051
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d2/TTV_HD_2012_logo.png",台视
-rtmp://59.124.75.138/sat/tv071
+rtmp://59.124.75.150/sat/tv071
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/22/CTV_text.png",中视
-rtmp://59.124.75.138/sat/tv091
+rtmp://59.124.75.150/sat/tv091
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png",華视
-rtmp://59.124.75.138/sat/tv111
+rtmp://59.124.75.150/sat/tv111
 
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/daf9553cff190f1fdd20c69e26069b28.jpeg",犯罪都市2
 https://m3u.if101.tv/xm3u8/89cd9b0111b82c10961de1be3c8b1090f6a29e833b49dc6ebd598197b9ec3e389921f11e97d0da21.m3u8
