@@ -849,6 +849,31 @@ https://m3u.if101.tv/xm3u8/47a6e0dc6af96e6035f287ee0ff9e89bdd0291643d2ca2d974fac
 #EXTINF:-1 group-title="安娜贝尔" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3515a9a57daf3e8ef09315ba1c77c3db.jpeg",3
 https://m3u.if101.tv/xm3u8/3322028b876ba065e919aa139a772ff689ee99a0520cd20f47b1a555b224b38b9921f11e97d0da21.m3u8
 
+#EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/fe28b90c8eb9dc11b87114f5a552ed6f.jpeg",鬼干部
+https://m1.taopianplay1.com:43333/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/feb7d963-714f-47a8-8094-714255671600/33556/59e23e0f-ffce-48d1-8790-d08b1c799298/SD/playlist.m3u8
+#EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4065a1746ab713304022523859e90e04.jpeg",驱魔警察
+https://m2.taopianplay1.com:43333/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/feb7d963-714f-47a8-8094-714255671600/52468/3c4bdb93-06e1-4b09-84d0-870d55acd689/SD/playlist.m3u8
+#EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/fb6ac922aecd88e8424ab8e1cdf50f73.jpeg",画皮之阴阳法王
+https://s1.zoubuting.com/20220619/9icFvYgK/index.m3u8
+#EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b5c8b614e740e5e8f8f620a8c80c6f4e.jpeg",僵尸家族
+https://s1.fsvod1.com/20220410/iigEEPhx/index.m3u8
+#EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/40a903e5f4911fecbedadbdac64a6a98.jpeg",人吓人
+https://s1.fsvod1.com/20220412/M3lL9ZfF/index.m3u8
+#EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a3bb55f9eb5d3388b30c0b20e4ea4c40.jpeg",时来运转
+https://s1.fsvod1.com/20220412/ujdxyGjM/index.m3u8
+#EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a247fe0cb99edf5470b0fdd79c0ce2b4.jpeg",鬼打鬼
+https://v4.cdtlas.com/20211209/5ou7Arqs/index.m3u8
+#EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/57e1007440fccb69b6524805b704c43f.jpeg",鬼打鬼之黄金道士
+https://b1.szjal.cn/20210514/LBWzVYVu/index.m3u8
+#EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/122bac88551a16adc6fddaeffd3948bf.jpeg",妖怪都市
+https://b1.szjal.cn/20210526/SN8T6RRB/index.m3u8
+#EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/624c149520e9311dd8788e5efd18c988.jpeg",一眉道人
+https://b1.szjal.cn/20210509/eIBDpIJc/index.m3u8
+#EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d8e7ab5ed0b67d6adca57a9b59d78cdd.jpeg",人鬼神
+https://b1.szjal.cn/20210121/C56EDh43/index.m3u8
+#EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d610a3a412035b60c7c25255084a32a6.jpeg",僵尸至尊
+https://v4.monidai.com/20200720/bZk2WCP9/index.m3u8
+
 #EXTINF:-1 group-title="丧尸ZOMBIE" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ce180929fb4668a8bd8a4b125ae63cb9.jpeg",哭悲
 https://m3u.if101.tv/xm3u8/27c99b8674f310600961ca91df4322ada02fd12f2675e7cd0bc78e4b025aae139921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="丧尸ZOMBIE" tvg-logo="https://pic.rmb.bdstatic.com/bjh/77356789f79c5c5f0d4dc3c39f2560f4.jpeg",谤法：在此矣
