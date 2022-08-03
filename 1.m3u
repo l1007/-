@@ -68,6 +68,8 @@ rtmp://59.124.75.150/sat/tv091
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png",華视
 rtmp://59.124.75.150/sat/tv111
 
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a25a9941b9f0f6d8145e6b87462dab0b.jpeg",排爆手
+https://m3u.if101.tv/xm3u8/1d1a8e6783612b8d9b5938c0b3a89ef60f1bc9fb2a9c7b6ee95580341f50eb109921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/daf9553cff190f1fdd20c69e26069b28.jpeg",犯罪都市2
 https://m3u.if101.tv/xm3u8/89cd9b0111b82c10961de1be3c8b1090f6a29e833b49dc6ebd598197b9ec3e389921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/13d865af127a33ed08dd8757b07bc64f.jpeg",非常杀手
@@ -454,6 +456,22 @@ https://auete.top/datas/mov/zhuiyimiju.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b10a30838c845af6b308e910b2a80edb.jpeg",丛林奇航
 https://m3u.if101.tv/xm3u8/bb5cc76e43bbbb905e204a85671aa3e960b3eb5f8d00930d8232009e30ac0f9d9921f11e97d0da21.m3u8
 
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/00d555653f4b51abc5b7a15e3a1113dd.jpeg",神偷奶爸前传
+https://m3u.if101.tv/xm3u8/9fb6165cdf6ae4de2036cb59494c2df986cc0a5b8b470a7dd2a259a9243a4c699921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d01d578f270597c1de24fb557fbc024b.jpeg",森林泰山
+https://m1.taopianplay1.com:43333/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/feb7d963-714f-47a8-8094-714255671600/35969/f28ea56f-2cac-42de-8ceb-deb8379a3ce4/SD/playlist.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9a4e9b223ef36b3d296ca121fe3097af.jpeg",森林泰山2
+https://m2.taopianplay1.com:43333/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/feb7d963-714f-47a8-8094-714255671600/63428/71fc0564-123c-4224-9115-dc9864a6e120/SD/playlist.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/184298fbd93d09c1d05eea5e3e785841.jpeg",泰山归来
+https://m3u.if101.tv/xm3u8/a3a62831dbec9ed467735195a981d0e708ce22cc439297670a2e8915b72545ad9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f55a7ecec3062efdde632d88f2242b6a.jpeg",奇幻森林
+https://m3u.if101.tv/xm3u8/ba62b2e49c42affe5b388e6d91bd3eec55ead9783b2b0795a0327fb67608d25f9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/456d70df95e1849618bc914a1c378168.jpeg",猩球崛起1
+https://m3u.if101.tv/xm3u8/e6058741507225439610c4f3edcda0c3f9e20872cafa69d42e37fd5af75f0f239921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/34044123f1de1050093fc9331fa955d7.jpeg",猩球崛起2
+https://m3u.if101.tv/xm3u8/4c17454f77e480dc80067fd5128f6be0d2326ee549cd31df39b54b9fb44278f79921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d9ce3ad7fa4734504c1bd9805bcd8dd4.jpeg",猩球崛起3
+https://m3u.if101.tv/xm3u8/2cdefdf812974657e3b2c2aaaac6fd35908124dabb8ac10c78ee2920cb4b97019921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c9674502b10f3e242bb09d38d3bab3cb.jpeg",刀剑封魔
 https://sod.bunediy.com/20220724/tDOl6534/index.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c4350113862f2da072a925ee65dcee90.jpeg",光年正传
@@ -784,6 +802,10 @@ https://v4.cdtlas.com/20211015/bcElpGzv/index.m3u8
 #EXTINF:-1 group-title="W战争" tvg-logo="https://pic.rmb.bdstatic.com/bjh/62e0aa07424ddd655d01ecda2bda5bd1.jpeg",中国营长
 https://new.iskcd.com/20211013/YIYvPyDE/index.m3u8
 
+#EXTINF:-1 group-title="悬疑Suspense" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1a62fb1988629af62e1d6577b6cc9155.jpeg",独家头条1
+https://m3u.if101.tv/xm3u8/3c1935410fe9881ea23ca8e8861041acf9432226c8d921b095ad0bf34cf8cf379921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="悬疑Suspense" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f929c0b9a989e1a58656fbb677d65a71.jpeg",独家头条2
+https://xlzycdn1.sy-precise.com:65/20220802/BFhrjpWx/index.m3u8
 #EXTINF:-1 group-title="悬疑Suspense" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2b4531f41954b27bc01988478a3adb19.jpeg",主播
 https://m3u.if101.tv/xm3u8/c2e3bc0caad76c20a5cb52c9d8a7ffb694ea63370463d88d790c3ddf6592417d9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="悬疑Suspense" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ab362dfd81dbdb7f95661c2b6f1e1daf.jpeg",犯罪现场
