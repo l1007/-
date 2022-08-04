@@ -221,9 +221,9 @@ https://cache.tkys.tv/m3u8/a27839fcf1bf7a7cbf59a0e95a992de1.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/036f47a1f117b29db50f725e8bfc4296.jpeg",正义骑士
 https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/19065/cc3adef6-fe7e-41ce-858b-9ddce9f08765/SD/playlist.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/09f66d21ffb0fb7610325eb9eb6b37ee.jpeg",王牌保镖1
-https://qq.sd-play.com/20211112/076nGKMo/hls/index.m3u8
-#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d868d25bf4697742488f9b8ece09603b.jpeg",王牌保镖2
-https://ukzy.ukubf2.com/20211109/YCcjgnnX/2000kb/hls/index.m3u8
+https://m3u.if101.tv/xm3u8/0f7068b78362998295d965923cf09c0e5befaef39276e6359fc53c029cf0adeb9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://i0.hdslb.com/bfs/album/c723eefbb9d31be10afc5d62af7c8e7f642d9706.jpg",王牌保镖2
+https://m3u.if101.tv/xm3u8/a17e86eeb17241fb259db69c1c83bbb28d8964e251b2629aeea0c99c1e22c6ca9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c972034773942b8156797b366dee58f5.jpeg",人质
 https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a8-2f53-49d9-bb94-aae2cd0e1c73/31847/b86fd020-2b6c-4abb-b6f6-224dc34cf91a/SD/playlist.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4d96379c451eb4ffb3045544c8810a4f.jpeg",通话惊魂
@@ -245,7 +245,7 @@ https://m3u.if101.tv/xm3u8/7d6b3b4dbb370d6a92c7b343f0d275cc099925076ca26e8ed9e0c
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/28a312fa7954bbb088d2da7885b2fffe.jpeg",戏法师
 https://m3u.if101.tv/xm3u8/ad9b12ff94a1ec3cb685f410697a31d92a435373c6eb672b6cc669f00ec5aff19921f11e97d0da21.m3u8
 
-#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9d748e6fdf282ecdd7ccfd661917a539.jpeg",人生大事
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://i0.hdslb.com/bfs/album/d66f69ba584c83db72387e7f412cc610e52b48ee.jpg",人生大事
 https://m3u.if101.tv/xm3u8/b5f0564ccf124ec2d60f921caddad96959790039098cadc3d7be6cde5a7551789921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/7196dd38c35c3da9346f1b7083e458b7.jpeg",黄金屋
 https://m3u.if101.tv/xm3u8/b83123e558f79b5c1dd16bdff3a33a23fb1179f696e24f89c54c758480ebcefe9921f11e97d0da21.m3u8
@@ -385,7 +385,7 @@ https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/feb7d96
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3fb4d9521def58da8735f915eebd5e44.jpeg",鬼同你住
 https://m3u.if101.tv/xm3u8/c0187aa18d70e6fe6041ec244c2ebbcf85f9a2494b5771683e7313427cf6e9b99921f11e97d0da21.m3u8
 
-#EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/37e14e2a29c611e8cf72d99114636297.jpeg",侏罗纪世界3
+#EXTINF:-1 group-title="SC科幻" tvg-logo="https://i0.hdslb.com/bfs/album/4d25745a962ee3d0f5fbe079e8a43dc8fe6bea1a.jpg",侏罗纪世界3
 https://m3u.if101.tv/xm3u8/d4e4e600aaa34b3323f4450ef97497809b4c35b8adee033819ce0d7d45d6adb99921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/21f65ea27cf65e86b4c6ada46c26c912.jpeg",奇异博士2
 https://m3u.if101.tv/xm3u8/25b4fe67d66eea73ed936c1e16264a889b6db2eb09ea6520fe0b0067c4d77bee9921f11e97d0da21.m3u8
@@ -1329,6 +1329,18 @@ http://txtest-xp2p.p2p.huya.com/src/1279520922847-1279520922847-1681752828386738
 #EXTINF:-1 group-title="说电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",S哥影视-荒野独居
 http://txtest-xp2p.p2p.huya.com/src/1199577085634-1199577085634-5502755264056524800-2399154294724-10057-A-0-1.xs
 
+#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2022/08/13052.jpg",16 ห้าว 19 เดือด
+https://vs01.kkembed.com/files/mp4/r/r4fDo.m3u8
+#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2022/08/13037.jpg",เการักที่เกาหลี ซอร์รี ซารังเฮโย
+https://vs01.kkembed.com/files/mp4/F/FcPlt.m3u8
+#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2022/07/13036.jpg",แดง พระโขนง
+https://vs01.kkembed.com/files/mp4/z/zlhqI.m3u8
+#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2022/07/12986.jpg",บักแตงโม
+https://vs01.kkembed.com/files/mp4/I/ITnG6.m3u8
+#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2022/07/12910.jpg",เร็วโหด..เหมือนโกรธเธอ
+https://vs01.kkembed.com/files/mp4/0/0uMIz.m3u8
+#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2022/06/12886.jpg",เทอมสอง สยองขวัญ
+https://vs01.kkembed.com/files/mp4/P/Py9mj.m3u8
 #EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9f1808b03112823e72be67909ec947bf.jpeg",鬼寺凶灵3
 https://m3u.if101.tv/xm3u8/e24b935da7c27fcf0ee08ed194c4966aba9742cf318e10ba7c391ff5e0e67b8e9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2cff45cd5192ec994b77bd95b4071ed1.jpeg",嚎笑捉鬼队
