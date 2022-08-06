@@ -68,48 +68,6 @@ rtmp://59.124.75.150/sat/tv091
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png",華视
 rtmp://59.124.75.150/sat/tv111
 
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",粤语电影1
-http://hlstct.douyucdn2.cn/dyliveflv3/1226741rHh1sHoB4_2000.m3u8?txSecret=cf166e96b1c1be7e5a2846019194cbd4&txTime=62ee2f79&token=h5-douyu-0-1226741-aa750cacdcf572fb3d7d7809ab49cd03&did=bbf42f8051886bb436acc34200071631&origin=tct&vhost=play3
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",粤语电影2
-http://hlstct.douyucdn2.cn/dyliveflv3a/5033502rNOtYDGbW.m3u8?txSecret=fd433a5c90cfd77da6a3f2fa8ffeb434&txTime=62ee302f&token=h5-douyu-0-5033502-fa5e339d6907166af08115c1200c06d3&did=bbf42f8051886bb436acc34200071631&origin=tct&vhost=play4
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",粤语电影3
-http://hlstct.douyucdn2.cn/dyliveflv3/6566671rGgUtOqFn_2000.m3u8?txSecret=b3d0c2824f19fc29643e2517b48f052d&txTime=62ee3076&token=h5-douyu-0-6566671-dde06f8e3e20b69fcfe3dd4b249fca16&did=bbf42f8051886bb436acc34200071631&origin=tct&vhost=play3
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",粤语喜剧
-http://txtest-xp2p.p2p.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",豆瓣高分
-http://hlstct.douyucdn2.cn/dyliveflv3a/8770422rpmtbecmG.m3u8?txSecret=4637e998a313633910c5420f141cc5e4&txTime=62ee32d9&token=h5-douyu-0-8770422-ad5addf1d890ea4e6dedae0ccca6f890&did=bbf42f8051886bb436acc34200071631&origin=tct&vhost=play4
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",DC电影
-http://hlstct.douyucdn2.cn/dyliveflv3a/10805828rTZkdRIe.m3u8?txSecret=645d662ee654b4e064f981ed15060c0e&txTime=62ee2e65&token=h5-douyu-0-10805828-4da3b13844cc9141eeefc1746041a8dd&did=bbf42f8051886bb436acc34200071631&origin=tct&vhost=play4
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",漫威科幻
-http://hlstct.douyucdn2.cn/dyliveflv3/315131rYwkeEgAEU.m3u8?txSecret=412af490dad4e0a81ca58c8e62b48d42&txTime=62ee2eb1&token=h5-douyu-0-315131-3f6dfab6f8b1a129b4f4796753d11743&did=bbf42f8051886bb436acc34200071631&origin=tct&vhost=play3
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",漫威系列
-http://hlstct.douyucdn2.cn/dyliveflv3/8107217rm30Q1gRt.m3u8?txSecret=66801ad134bc81d3743363c5d8c4cf18&txTime=62ee2f36&token=h5-douyu-0-8107217-f28a420ce941be9c402277e93313718d&did=bbf42f8051886bb436acc34200071631&origin=tct&vhost=play3
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",漫威
-http://hlstct.douyucdn2.cn/dyliveflv3/6140589rPz6xBRsP.m3u8?txSecret=58ee44b58f71ff4edec33028615439e9&txTime=62ee330f&token=h5-douyu-0-6140589-b875768b9232f9d7dcc70cc325cc6242&did=bbf42f8051886bb436acc34200071631&origin=tct&vhost=play3
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",变种人
-http://hlstct.douyucdn2.cn/dyliveflv3/9651304rGEz0Gmuv.m3u8?txSecret=fdfa49a1ad5481fb00c4f7c358c72eeb&txTime=62ee3132&token=h5-douyu-0-9651304-f68c69a1dee954fb70866890596cb07b&did=bbf42f8051886bb436acc34200071631&origin=tct&vhost=play3
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",欧美电影
-http://hlstct.douyucdn2.cn/dyliveflv3a/6655271rxe5DGAfE.m3u8?txSecret=4d4d4accb71cd919248ed1f007010bed&txTime=62ee2efa&token=h5-douyu-0-6655271-f483f28d1c1774713771131d55046868&did=bbf42f8051886bb436acc34200071631&origin=tct&vhost=play4
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",欧美电影2
-http://hlstct.douyucdn2.cn/dyliveflv1/36337rADlPFErcod.m3u8?txSecret=67789cc1388beb0e7cd82eb37f4c10bf&txTime=62ee2ff4&token=h5-douyu-0-36337-5a3e782439dc709e5d6f770ba4890ebb&did=bbf42f8051886bb436acc34200071631&origin=tct&vhost=play1
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",恐怖惊悚
-http://hlstct.douyucdn2.cn/dyliveflv1/96577rcmueDZlUT0_2000.m3u8?txSecret=fdb949b5801f749dd4983df0de3515a9&txTime=62ee30b6&token=h5-douyu-0-96577-850518d10d6ba647dd0f8059eb0a11f5&did=bbf42f8051886bb436acc34200071631&origin=tct&vhost=play1
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",恐怖
-http://hlstct.douyucdn2.cn/dyliveflv3a/1165374rrv9cG4OA.m3u8?txSecret=dca4fddb0bfe97afda259a60d0619475&txTime=62ee3166&token=h5-douyu-0-1165374-f10156190174ea45cf3ef8bbbc9c5c48&did=bbf42f8051886bb436acc34200071631&origin=tct&vhost=play4
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",恐怖
-http://hlstct.douyucdn2.cn/dyliveflv3a/74374rxBWPJfW7Gd.m3u8?txSecret=afc2df7cde05d3582e9c103ff611d75d&txTime=62ee31ae&token=h5-douyu-0-74374-411bebb573f04d6e45eada89756b5bd2&did=bbf42f8051886bb436acc34200071631&origin=tct&vhost=play4
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",欧美科幻
-http://hlstct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.m3u8?txSecret=38ac1b5b1c631daa6dd0a591390ff077&txTime=62ee31e5&token=h5-douyu-0-20415-db50f1a47920fa22009f2a2b1c9822c3&did=bbf42f8051886bb436acc34200071631&origin=tct&vhost=play2
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",灾难动作
-http://hlstct.douyucdn2.cn/dyliveflv1/252802rRTzh2o9Uj_2000.m3u8?txSecret=48d915d818b7024989c997f5445eb8b2&txTime=62ee3254&token=h5-douyu-0-252802-4986d6dddb419910ea8fff6e9b2a53ef&did=bbf42f8051886bb436acc34200071631&origin=tct&vhost=play1
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",精彩电影
-http://hlstct.douyucdn2.cn/dyliveflv3a/9650887ry1nZhDAp.m3u8?txSecret=4544d32af67ab909751f7f184e141a7b&txTime=62ee3298&token=h5-douyu-0-9650887-c9c4ea46711c38b98d07a86d042aaaf4&did=bbf42f8051886bb436acc34200071631&origin=tct&vhost=play4
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",恐怖
-http://hlstct.douyucdn2.cn/dyliveflv3a/263824rDqYbJThkR.m3u8?txSecret=af9705f58ea092d940de8a3d723ed9a3&txTime=62ee3345&token=h5-douyu-0-263824-fcbaba27abaa7cb9e7f82f0ac001ae01&did=bbf42f8051886bb436acc34200071631&origin=tct&vhost=play4
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",周末电影
-http://hlstct.douyucdn2.cn/dyliveflv3/3637726rQLDdfto7.m3u8?txSecret=289f371f98271f16f52178331244155b&txTime=62ee337c&token=h5-douyu-0-3637726-8a1529c2a47791deedb1616f43a8b6b0&did=bbf42f8051886bb436acc34200071631&origin=tct&vhost=play3
-#EXTINF:-1 group-title="电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",周末影院
-http://hlstct.douyucdn2.cn/dyliveflv3a/3637765rrt97QwBF.m3u8?txSecret=744763a161140efac6157a063416bbe8&txTime=62ee33b1&token=h5-douyu-0-3637765-400690c006b5641d99c8e336f4d2dd9d&did=bbf42f8051886bb436acc34200071631&origin=tct&vhost=play4
 
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2374fd5eb38f0deadea3e4266ca0628d.jpeg",排爆手
 https://m3u.if101.tv/xm3u8/1d1a8e6783612b8d9b5938c0b3a89ef60f1bc9fb2a9c7b6ee95580341f50eb109921f11e97d0da21.m3u8
