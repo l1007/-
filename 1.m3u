@@ -69,6 +69,10 @@ rtmp://59.124.75.150/sat/tv091
 rtmp://59.124.75.150/sat/tv111
 
 
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f00c1de8dad7eda7862bc2ee205b8ceb.jpeg",黄金大逃狱
+https://m3u.if101.tv/xm3u8/8e27854e9002b8bfdf5533d372183daa96cb4486d63ef4cc802d06e5fdcf79179921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/57e48e05e3e3f767355ea0d6edf37edb.jpeg",救命卡特
+https://m3u.if101.tv/xm3u8/66ffdeb27d514ea5febca3a4cc86390e98c99e50b685a531b6c4e51231ad386c9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2374fd5eb38f0deadea3e4266ca0628d.jpeg",排爆手
 https://m3u.if101.tv/xm3u8/1d1a8e6783612b8d9b5938c0b3a89ef60f1bc9fb2a9c7b6ee95580341f50eb109921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/daf9553cff190f1fdd20c69e26069b28.jpeg",犯罪都市2
@@ -386,6 +390,8 @@ https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/feb7d96
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3fb4d9521def58da8735f915eebd5e44.jpeg",鬼同你住
 https://m3u.if101.tv/xm3u8/c0187aa18d70e6fe6041ec244c2ebbcf85f9a2494b5771683e7313427cf6e9b99921f11e97d0da21.m3u8
 
+#EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a4c99ff029fa784de703af32138e4603.jpeg",铁血战士
+https://m3u.if101.tv/xm3u8/4d10bc433487fb68d4ace78c675fb8dec4f3e5fb72d03e8644b25ed84f29afe49921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://i0.hdslb.com/bfs/album/4d25745a962ee3d0f5fbe079e8a43dc8fe6bea1a.jpg",侏罗纪世界3
 https://m3u.if101.tv/xm3u8/d4e4e600aaa34b3323f4450ef97497809b4c35b8adee033819ce0d7d45d6adb99921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/21f65ea27cf65e86b4c6ada46c26c912.jpeg",奇异博士2
@@ -400,8 +406,6 @@ https://m3u.if101.tv/xm3u8/467ba19e4a0c5dbee610aadb3b6282fa907bac381dab455861249
 https://m3u.if101.tv/xm3u8/a577d206ba77b939c77cd59c99ca91c1aca2902dd0894f1ae614bb41ac5b13839921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3bf5e94ca9d827748eb7070d25e8f41c.jpeg",僵尸来袭2
 https://qq.sd-play.com/20220413/go5MklhN/hls/index.m3u8
-#EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c7e87a2000b4d0fc263db8e4e736df50.jpeg",特利迦奥特曼
-https://auete.top/datas/mov/dhp/telijiaaotemanepisodez.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/558ad4ef48416769fc1585addf3af6db.jpeg",宇宙黎明
 https://m3u8.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/45508302-83d1-49ca-9655-337540acdc03/45801/02c481d8-32fb-44ed-bcf3-7e0504031b4e/SD/playlist.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/356266276b0a18825082ee38d3839e4d.jpeg",亚当计划
@@ -412,14 +416,10 @@ https://m3u.if101.tv/xm3u8/0dd27a86c5d66a7bb2f29b3c770c2bced71c2da61557e69e1ec8a
 https://m3u8.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/39095/fff860d8-34b3-460e-9da4-ccaf02cb8b6e/SD/playlist.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/107e91417ab12aa2bb8385b0e586b3d4.jpeg",人类清除计划5
 https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/45508302-83d1-49ca-9655-337540acdc03/24584/937d42b5-0887-4739-ba37-a5a52400ed89/SD/playlist.m3u8
-#EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cb0f398ed8ce1b70705ce9c3080f4e8d.jpeg",特种部队
-https://auete.top/datas/mov/tezhongbudui_sheyanqiyuan.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e3a149c6536d654d33f4a4bd737b2b48.jpeg",哥斯拉大战金刚
-https://auete.top/datas/mov/gesiladazhanjingang.m3u8
-#EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2b0d71ecc5778c27cb7f6674903aaf5b.jpeg",氧气危机
-https://auete.top/datas/mov/yangqiweiji.m3u8
+https://m3u.if101.tv/xm3u8/022a1fdd11076f6669d3a0d5dc26bbe195dadf84a882c44d98b300c87076a9e29921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ce99ee4fe92a0426937a9a3da929b971.jpeg",黑寡妇2021
-https://auete.top/datas/mov/heiguafu2021.m3u8
+https://m3u.if101.tv/xm3u8/33e6ebf3d194f3a2d53ccdbd3e2ccb11cc00f21326c5f707d1671a4d8d33bb9e9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/edfe866e417fb3b993688567368969d0.jpeg",狂鼠列车
 https://cache.tkys.tv/m3u8/f45cfd5453a7d8429b82c6095c677656.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4cf8f3e72265a8f1845c1e858951ee4b.jpeg",记忆切割
@@ -446,14 +446,6 @@ https://new.iskcd.com/20211124/af7bcZkO/index.m3u8
 https://m3u.if101.tv/xm3u8/27a25cebb1b7ee7530ade1002acb90986d987f8aad1f0dc42fcdedca3a5a49319921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8660b824c5744ad8505db25c5716c835.jpeg",毒液2
 https://auete.top/datas/mov/duye2.m3u8
-#EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4ccc95cc03fb9176c8570529a3002ffc.jpeg",沙丘2021
-https://auete.top/datas/mov/shaqiu2021.m3u8
-#EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/eeea8c0ae74a3cdf1b4ff881cfe98665.jpeg",失控玩家
-https://auete.top/datas/mov/shikongwanjia.m3u8
-#EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9a17fda9c130c8add22a8b6053fa0d14.jpeg",寄生异形
-https://auete.top/datas/mov/jishengyixing.m3u8
-#EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3290b8b8c96da9c769cc872bbb6fccd7.jpeg",追忆迷局
-https://auete.top/datas/mov/zhuiyimiju.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b10a30838c845af6b308e910b2a80edb.jpeg",丛林奇航
 https://m3u.if101.tv/xm3u8/bb5cc76e43bbbb905e204a85671aa3e960b3eb5f8d00930d8232009e30ac0f9d9921f11e97d0da21.m3u8
 
