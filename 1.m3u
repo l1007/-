@@ -1302,6 +1302,16 @@ http://txtest-xp2p.p2p.huya.com/src/1279520922847-1279520922847-1681752828386738
 #EXTINF:-1 group-title="说电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",S哥影视-荒野独居
 http://txtest-xp2p.p2p.huya.com/src/1199577085634-1199577085634-5502755264056524800-2399154294724-10057-A-0-1.xs
 
+#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e6e8fe6e7826fde6e7286cadbac3f838.jpeg",มนต์รักทรานซิสเตอร์
+https://m3.taopianplay1.com:43333/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/71767/bd60c5fb-dff4-494d-88ce-a6d2c8b54e22/SD/playlist.m3u8
+#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3b5350e316c8eaeb2277079e58065b42.jpeg",ทวารยังหวานอยู่
+https://m3.taopianplay1.com:43333/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/feb7d963-714f-47a8-8094-714255671600/57395/b158579f-1075-4130-b5dc-666ebaa622ca/SD/playlist.m3u8
+#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/35d914d90cb2dd406a1748c79088afbf.jpeg",รัก ลวง หลอน
+https://m3.taopianplay1.com:43333/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/41063818-8998-4482-aad1-97ec8ad9d138/71327/5f5c359b-c0e9-4af2-8b6e-704cfee26768/SD/playlist.m3u8
+#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2c6d5394de70fbc843f72180efc26087.jpeg",วันสุดท้าย..ก่อนบายเธอ
+https://xlzycdn1.sy-precise.com:65/20220511/UejXwR3m/2000kb/hls/index.m3u8
+#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c16512f287bb6008ca10d131b83f71f0.jpeg",กะปิ ลิงจ๋อไม่หลอกจ้าว
+https://hd.njeere.com/play/34319/index.m3u8
 #EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2022/08/13052.jpg",16 ห้าว 19 เดือด
 https://vs01.kkembed.com/files/mp4/r/r4fDo.m3u8
 #EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2022/08/13037.jpg",เการักที่เกาหลี ซอร์รี ซารังเฮโย
@@ -1317,9 +1327,9 @@ https://vs01.kkembed.com/files/mp4/P/Py9mj.m3u8
 #EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9f1808b03112823e72be67909ec947bf.jpeg",鬼寺凶灵3
 https://m3u.if101.tv/xm3u8/e24b935da7c27fcf0ee08ed194c4966aba9742cf318e10ba7c391ff5e0e67b8e9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2cff45cd5192ec994b77bd95b4071ed1.jpeg",嚎笑捉鬼队
-https://hnzy2.kaisacard.com:65/20220707/XqpW3xk8/index.m3u8
+https://xlzycdn1.sy-precise.com:65/20220707/F5CuC7rc/index.m3u8
 #EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/898d6cc0fc43825a342aa52747a92702.jpeg",凝弑
-https://hnzy3.hnzycdn.com:65/20220701/lu9qEO2Q/index.m3u8
+https://new.qqaku.com/20220701/zBSyEZRn/1100kb/hls/index.m3u8
 #EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/315d617c510c4a27ce2780a5f8ecf6a5.jpeg",天降竹马
 https://s5.fsvod1.com/20220521/17NcyCis/index.m3u8
 #EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/94c364af4339c7778291d49881191629.jpeg",猛鬼实验室
