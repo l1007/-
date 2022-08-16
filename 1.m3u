@@ -79,6 +79,8 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 
 
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/85027d2cd69b1cf9d955bf27908bab31.jpeg",日班猎人
+https://m3u.if101.tv/xm3u8/9d89d000ac8b9fbbe52cdd06113d6d4afeef35eee256b9318f1bd3fdbdb313bb9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f00c1de8dad7eda7862bc2ee205b8ceb.jpeg",黄金大逃狱
 https://m3u.if101.tv/xm3u8/8e27854e9002b8bfdf5533d372183daa96cb4486d63ef4cc802d06e5fdcf79179921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/57e48e05e3e3f767355ea0d6edf37edb.jpeg",救命卡特
@@ -260,6 +262,8 @@ https://m3u.if101.tv/xm3u8/7d6b3b4dbb370d6a92c7b343f0d275cc099925076ca26e8ed9e0c
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/28a312fa7954bbb088d2da7885b2fffe.jpeg",戏法师
 https://m3u.if101.tv/xm3u8/ad9b12ff94a1ec3cb685f410697a31d92a435373c6eb672b6cc669f00ec5aff19921f11e97d0da21.m3u8
 
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f85803edc18815af4329898d52319bf9.jpeg",复生
+https://wolongzywcdn3.com:65/20220813/ChullcSE/index.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://i0.hdslb.com/bfs/album/d66f69ba584c83db72387e7f412cc610e52b48ee.jpg",人生大事
 https://m3u.if101.tv/xm3u8/b5f0564ccf124ec2d60f921caddad96959790039098cadc3d7be6cde5a7551789921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/7196dd38c35c3da9346f1b7083e458b7.jpeg",黄金屋
@@ -406,7 +410,7 @@ https://m3u.if101.tv/xm3u8/4d10bc433487fb68d4ace78c675fb8dec4f3e5fb72d03e8644b25
 https://m3u.if101.tv/xm3u8/d4e4e600aaa34b3323f4450ef97497809b4c35b8adee033819ce0d7d45d6adb99921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/21f65ea27cf65e86b4c6ada46c26c912.jpeg",奇异博士2
 https://m3u.if101.tv/xm3u8/25b4fe67d66eea73ed936c1e16264a889b6db2eb09ea6520fe0b0067c4d77bee9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/fa45578763b308eed180aaf7d551d1c5.jpeg",未来罪行
+#EXTINF:-1 group-title="SC科幻" tvg-logo="https://i0.hdslb.com/bfs/album/16de23e0b7ab79b5dc903e5254e9b413d51ae489.jpg",未来罪行
 https://sod.bunediy.com/20220621/nQcgiwvY/index.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5c184eb8e9756245fc44d680c225b4e0.jpeg",蜘蛛头
 https://m3u.if101.tv/xm3u8/f772a1c0f5e119af2d530e90af3e806d4b9681f4c7e060bd0dce75bf6b693e4e9921f11e97d0da21.m3u8
@@ -459,6 +463,8 @@ https://auete.top/datas/mov/duye2.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b10a30838c845af6b308e910b2a80edb.jpeg",丛林奇航
 https://m3u.if101.tv/xm3u8/bb5cc76e43bbbb905e204a85671aa3e960b3eb5f8d00930d8232009e30ac0f9d9921f11e97d0da21.m3u8
 
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c501dbeaeaa418dc7439fdfc9b4aab71.jpeg",冲出地球
+https://m3u.if101.tv/xm3u8/98007fd6a3bc737bc29246f93f0a3f42832e89e67f9418e1c409cef8524ca2ec9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/00d555653f4b51abc5b7a15e3a1113dd.jpeg",神偷奶爸前传
 https://m3u.if101.tv/xm3u8/9fb6165cdf6ae4de2036cb59494c2df986cc0a5b8b470a7dd2a259a9243a4c699921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d01d578f270597c1de24fb557fbc024b.jpeg",森林泰山
@@ -570,6 +576,8 @@ https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/eef51ff518ffd8369993ca8ac4b89314.jpeg",武林怪兽
 https://v4.cdtlas.com/20211211/ZRwAC8vx/index.m3u8
 
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/632a8e471b63e8aaccb7c538f513a22f.jpeg",夺命直播
+https://ukzy.ukubf3.com/20220812/AXSyVGwv/index.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2f9ddfc6472f305e30d2ced7686908ea.jpeg",头七
 https://m3u.if101.tv/xm3u8/0c1000f4075f6c102969cd9f1c84bc24ae391f0b29bfb5fd0cb0aada6ea603fd9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/47198c5aea616c0b4db847a86fe3e880.jpeg",周末惊魂
@@ -897,6 +905,34 @@ https://b1.szjal.cn/20210509/eIBDpIJc/index.m3u8
 #EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d610a3a412035b60c7c25255084a32a6.jpeg",僵尸至尊
 https://v4.monidai.com/20200720/bZk2WCP9/index.m3u8
 
+#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1d1b9a4809ae9ffd248ca5cb06b34906.jpeg",福星闯江湖
+https://s1.zoubuting.com/20220619/G3mI1BA3/index.m3u8
+#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/432e9823d135083cf79215bac7ce68ea.jpeg",夏日福星
+https://v4.cdtlas.com/20220601/8TvXDLAj/index.m3u8
+#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/10592de10a9ce1d5248a8aae19f81bbb.jpeg",福星高照
+https://cdn.zoubuting.com/20220521/g05zuoTU/index.m3u8
+#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5f23b3cc87bdb2b8c5b510f722279bc2.jpeg",僵尸福星仔
+https://cdn.zoubuting.com/20210717/Koyeqp61/index.m3u8
+#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/0495a89b37ebb7fcd794b96017c14c01.jpeg",奇谋妙计五福星
+https://v4.cdtlas.com/20211211/DfE6fo3x/index.m3u8
+#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/37bea856523c6ea2567fa7ac3d69568d.jpeg",安乐战场
+https://s1.zoubuting.com/20220619/GCrbvRQx/index.m3u8
+#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f57e909b3f5127ff2ec518c2b23de849.jpeg",大笑江湖
+https://s1.zoubuting.com/20220619/YG2H0rD7/index.m3u8
+#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c1c2d448f07f20512250061758e78281.jpeg",财神到
+https://cdn.zoubuting.com/20220614/kgJ4IrAw/index.m3u8
+#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/0e00c733ec9997cf3aefce18abc10b08.jpeg",花田喜事1
+https://v4.cdtlas.com/20211215/h2zYMhWO/index.m3u8
+#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/913e8fbf37f95bf542c945bb49bc0613.jpeg",花田喜事2
+https://cdn.zoubuting.com/20220613/a2nULN4e/index.m3u8
+#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/39be4cf544c757c4153c1383b2a7897a.jpeg",美丽密令
+https://cdn.zoubuting.com/20220614/Iw9j13cP/index.m3u8
+#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/367544bb30581ece0d662245c4e8eb1f.jpeg",妈妈的神奇小子
+https://s1.zoubuting.com/20220619/fkMGPGj3/index.m3u8
+#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8ecafb62328fcf31382f3aba7cfad099.jpeg",妖铃铃
+https://s1.zoubuting.com/20220620/ApyIedQI/index.m3u8
+#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/bd283faffcd32354161ccc45d262304d.jpeg",一眉道姑
+https://v4.cdtlas.com/20220603/UDDmUaeG/index.m3u8
 #EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cf4334feaee43b3df1d47a95c69e7dbd.jpeg",天与地
 https://cdn.zoubuting.com/20220515/Pm0wnee5/index.m3u8
 #EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4348cc14c0648473058ad1e556b08e24.jpeg",大话西游之月光宝盒
