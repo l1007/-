@@ -44,7 +44,9 @@ http://111.20.33.93/PLTV/88888893/224/3221226223/index.m3u8
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png",CCTV13
 http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/48/CTI_News_Logo.jpg/200px-CTI_News_Logo.jpg",中天新闻
-http://50.7.220.74:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/48/CTI_News_Logo.jpg/200px-CTI_News_Logo.jpg",中天新闻2
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/01/TVB_News_Channel_2017.png",无线新闻
 http://iptv12k.com:35461/live/test167/12345/1012.m3u8
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/eb/TVB_Entertainment_News.jpg/300px-TVB_Entertainment_News.jpg",TVB娱乐新闻
