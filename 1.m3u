@@ -75,6 +75,8 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 
 
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d525154d9c0e39de3ff84a7c440eb2fe.jpeg",广东十虎
+https://m3u.if101.tv/xm3u8/d2424b77483c41460d8fe591b0ffc81a819662c40aa81eb09a4d31c5da93885a9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/7f57753d5726b89273dfeaca272031ab.jpeg",壮志凌云2：独行侠
 https://new.qqaku.com/20220817/Ki5SL6rT/1100kb/hls/playlist_up.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/85027d2cd69b1cf9d955bf27908bab31.jpeg",日班猎人
@@ -1461,6 +1463,10 @@ http://txtest-xp2p.p2p.huya.com/src/1279520922847-1279520922847-1681752828386738
 #EXTINF:-1 group-title="说电影" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",S哥影视-荒野独居
 http://txtest-xp2p.p2p.huya.com/src/1199577085634-1199577085634-5502755264056524800-2399154294724-10057-A-0-1.xs
 
+#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4018a17024fe059363c37f51ed6615fb.jpeg",猛鬼大学2
+https://new.qqaku.com/20220819/SHTE4pS2/index.m3u8
+#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1b792f0883bf3e5d1885d78e8ff00641.jpeg",单反相机
+https://new.qqaku.com/20220819/Rm5fib4s/index.m3u8
 #EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e6e8fe6e7826fde6e7286cadbac3f838.jpeg",มนต์รักทรานซิสเตอร์
 https://m3.taopianplay1.com:43333/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/71767/bd60c5fb-dff4-494d-88ce-a6d2c8b54e22/SD/playlist.m3u8
 #EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3b5350e316c8eaeb2277079e58065b42.jpeg",ทวารยังหวานอยู่
