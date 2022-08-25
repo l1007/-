@@ -74,20 +74,14 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/01/TVB_News_Channel_2017.png",无线新闻2
 https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 
-#EXTINF:-1 group-title="电影" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",粤语电影1
-http://fangsong.live/hls/douyu.php?id=1226741
-#EXTINF:-1 group-title="电影" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",粤语电影2
-http://fangsong.live/hls/douyu.php?id=2466104
 #EXTINF:-1 group-title="电影" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",粤语电影3
 http://fangsong.live/hls/douyu.php?id=5033502
 #EXTINF:-1 group-title="电影" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",粤语电影4
 http://fangsong.live/hls/douyu.php?id=6566671
-#EXTINF:-1 group-title="电影" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",粤语港剧
+#EXTINF:-1 group-title="电影" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",粤综艺
 http://fangsong.live/hls/douyu.php?id=7919720
 #EXTINF:-1 group-title="电影" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",粤语港产片爱好者
 http://fangsong.live/hls/douyu.php?id=8603174
-#EXTINF:-1 group-title="电影" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",带你看遍奇葩老电影
-http://fangsong.live/hls/douyu.php?id=1224356
 #EXTINF:-1 group-title="电影" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",电影 欧美 科幻 经典
 http://fangsong.live/hls/douyu.php?id=20415
 #EXTINF:-1 group-title="电影" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",电影最TOP
@@ -578,10 +572,12 @@ http://198.16.64.10:8278/sbs_korea/playlist.m3u8?tid=MD4D1766226017662260&ct=192
 #EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[KO]TVN
 http://198.16.64.10:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&tsum=48ef5f1d47a64fc90e5f5ad5b182fb5d
 
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/bf68a5dae08ba120ca24e0e7da834c3f.jpeg",神探大战
+https://m3u.if101.tv/xm3u8/bb74189bec863001c68be53418719fd44fa1ff70321df63cfd0d7421a6d46d979921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d525154d9c0e39de3ff84a7c440eb2fe.jpeg",广东十虎
 https://m3u.if101.tv/xm3u8/d2424b77483c41460d8fe591b0ffc81a819662c40aa81eb09a4d31c5da93885a9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/7f57753d5726b89273dfeaca272031ab.jpeg",壮志凌云2：独行侠
-https://new.qqaku.com/20220817/Ki5SL6rT/1100kb/hls/playlist_up.m3u8
+https://m3u.if101.tv/xm3u8/3cd4073d8090aa70651feeac5c08a7e5161a81f4148759d22394199a3a5bdca99921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/85027d2cd69b1cf9d955bf27908bab31.jpeg",日班猎人
 https://m3u.if101.tv/xm3u8/9d89d000ac8b9fbbe52cdd06113d6d4afeef35eee256b9318f1bd3fdbdb313bb9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f00c1de8dad7eda7862bc2ee205b8ceb.jpeg",黄金大逃狱
