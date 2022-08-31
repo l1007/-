@@ -145,6 +145,12 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAK
 #EXTINF:-1 group-title="INDO" tvg-logo="https://play-lh.googleusercontent.com/ODBNl0nV9vjbUIOG0R22uIsnbNfv9BOiwfXHyCyYzkRvldMeA5lSfrQdgh3o1HM87Huy",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 
+#EXTINF:-1 group-title="2022" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/07/film-minions-the-rise-of-gru-2022-lk21-d21.jpg",Minions: The Rise of Gru
+https://stream.xpeer.xyz/xxx/minions-the-rise-of-gru-2022-28.08.2022-08.38.11/1/480.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/05/film-top-gun-maverick-2022-lk21-d21.jpg",Top Gun: Maverick
+https://stream.xpeer.xyz/xxx/top-gun-maverick-2022-26.08.2022-08.13.20/1/480.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/07/film-lightyear-2022-lk21-d21.jpg",Lightyear
+https://stream.xpeer.xyz/xxx/lightyear-2022/1/480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/06/film-the-man-from-toronto-2022-lk21-d21.jpg",The Man from Toronto
 https://stream.xpeer.xyz/playlist1/the-man-from-toronto-2022/master_480.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/04/film-morbius-2022-lk21-d21.jpg",Morbius
