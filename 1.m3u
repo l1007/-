@@ -907,8 +907,6 @@ https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/feb7d96
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3fb4d9521def58da8735f915eebd5e44.jpeg",鬼同你住
 https://m3u.if101.tv/xm3u8/c0187aa18d70e6fe6041ec244c2ebbcf85f9a2494b5771683e7313427cf6e9b99921f11e97d0da21.m3u8
 
-#EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a4c99ff029fa784de703af32138e4603.jpeg",铁血战士
-https://m3u.if101.tv/xm3u8/4d10bc433487fb68d4ace78c675fb8dec4f3e5fb72d03e8644b25ed84f29afe49921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://i0.hdslb.com/bfs/album/4d25745a962ee3d0f5fbe079e8a43dc8fe6bea1a.jpg",侏罗纪世界3
 https://m3u.if101.tv/xm3u8/d4e4e600aaa34b3323f4450ef97497809b4c35b8adee033819ce0d7d45d6adb99921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/21f65ea27cf65e86b4c6ada46c26c912.jpeg",奇异博士2
@@ -1370,6 +1368,17 @@ https://m3u.if101.tv/xm3u8/51525fdeabe56d9b370cf0e00462f4050fb1b01ffd7ca2ad83d1b
 https://m3u.if101.tv/xm3u8/8a200e03493723b39bdac4b7faeecc8cc2fb369cecadf25bf8323ddd7767a8389921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="悬疑Suspense" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2cb7a94ad09c73e21a465ee1e155e1b2.jpeg",缉魂
 https://m3u.if101.tv/xm3u8/fd5a44b29feb29ff40102a63e499c61eadf5a0db2a5dd7bb880eee321cf156e79921f11e97d0da21.m3u8
+
+#EXTINF:-1 group-title="铁血战士" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a4c99ff029fa784de703af32138e4603.jpeg",铁血战士2022
+https://m3u.if101.tv/xm3u8/4d10bc433487fb68d4ace78c675fb8dec4f3e5fb72d03e8644b25ed84f29afe49921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="铁血战士" tvg-logo="https://pic.rmb.bdstatic.com/bjh/264f00e665caa44feb91aa640fd27744.jpeg",铁血战士2018
+https://m3u.if101.tv/xm3u8/26d190cbed65bca2ffc3c93f213e9a8378785c56cffae33728709734567099699921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="铁血战士" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e7900469539fb9d78560d736d44f5388.jpeg",异形大战铁血战士1
+https://m3u.if101.tv/xm3u8/082e94e52c6b4d866442ae02f32709374524704c8c80a8f23e1a95f1eb6e54f49921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="铁血战士" tvg-logo="https://pic.rmb.bdstatic.com/bjh/69e14b7a1e38bdd68c9002820e70cc49.jpeg",异形大战铁血战士2
+https://m3u.if101.tv/xm3u8/aa80c68d2ac6a2f0e0770d491773798e4fd0eadf6a42cd4c94fc6a3ab1e3e84a9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="铁血战士" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2b5862e9700f06692cfa70733436ae04.jpeg",新铁血战士
+https://m3u.if101.tv/xm3u8/6c8a8ef4a1963107b50ec95c4c5d116c6350c7eef2d11a9db32c4e1f32550ef69921f11e97d0da21.m3u8
 
 #EXTINF:-1 group-title="金刚狼" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e8531dd6080d4f602f6f805cdb857e71.jpeg",1
 https://m3u.if101.tv/xm3u8/9de33964adef7581bda3723bc6dc488f1dd0028fa42f0926ca87c67665bd9e5e9921f11e97d0da21.m3u8
