@@ -46,12 +46,12 @@ vip,http://api.vip123kan.vip/?url=
 parwix,https://jx.parwix.com:4433/player/?url=
 300,https://jx.300ys.xyz/json/jianghu.php/?url=
 人人,https://jx.renrenmi.cc/?url=
-lekbox,https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=
+虾米,https://jx.xmflv.com/?url=
 芒果,https://jx.parwix.com:4433/player/?url=
-爱奇艺,https://api.m3u8.tv:5678/home/api?type=ys&uid=7631191&key=cdemqsxFGKLNRVXYZ9&url=
+九亿,https://m3u8.look4you.top/?url=
 json,https://json.hfyrw.com/mao.go?url=
 BL,https://vip.bljiex.com/?v=
-优剧,https://zy.ujuba.com/play.php?url=
+vip2,https://wds.ecsxs.com/217915.html?url=
 片库,https://api.jhdyw.vip/?url=
 番茄,https://dp.8b5q.cn/dplayer/?url=
 结束
