@@ -4,7 +4,7 @@
 "sites":[
 {"key":"csp_biubiu_欧乐","name":"🚐LEKBOX(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8yvzt2658/raw"},
 {"key":"csp_biubiu_小宝","name":"📀LEKBOX2(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://glot.io/snippets/g8g4vycbo5/raw"},
-{"key":"推荐","name":"❤️推荐","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1"},
+{"key":"推荐","name":"❤️推荐","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_biubiu_555","name":"🚐555(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/gcp73b7icr/raw"},
 {"key":"csp_biubiu_乐猪","name":"💽乐猪(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/g8ywcmy74k/raw"},
 {"key":"csp_biubiu_douyu","name":"🚍斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://glot.io/snippets/gcc40t2vep/raw"},
