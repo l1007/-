@@ -685,6 +685,8 @@ https://m3u.if101.tv/xm3u8/7d6b3b4dbb370d6a92c7b343f0d275cc099925076ca26e8ed9e0c
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/28a312fa7954bbb088d2da7885b2fffe.jpeg",戏法师
 https://m3u.if101.tv/xm3u8/ad9b12ff94a1ec3cb685f410697a31d92a435373c6eb672b6cc669f00ec5aff19921f11e97d0da21.m3u8
 
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2176bcb7119eeed9101a47effce92933.jpeg",沼泽深处的女孩
+https://m3u8.zhisongip.com:38741/video/a357776eb6dfdd62415552e7943c9272.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f85803edc18815af4329898d52319bf9.jpeg",复生
 https://wolongzywcdn3.com:65/20220813/ChullcSE/index.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://i0.hdslb.com/bfs/album/d66f69ba584c83db72387e7f412cc610e52b48ee.jpg",人生大事
@@ -775,6 +777,10 @@ https://wolongzywcdn3.com:65/20220508/kpMBuR2c/index.m3u8
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3fb4d9521def58da8735f915eebd5e44.jpeg",鬼同你住
 https://m3u.if101.tv/xm3u8/c0187aa18d70e6fe6041ec244c2ebbcf85f9a2494b5771683e7313427cf6e9b99921f11e97d0da21.m3u8
 
+#EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a8cfc89d98dc7b7ffe2734639f403419.jpeg",雷神4
+https://m3u.if101.tv/xm3u8/842ecbe085accd4c11aa77bdd88abe371a6e113a0344eed10b773fc257d6bb909921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a22e2cc636e1f218cf3656cc764b1b2d.jpeg",双子座计划
+https://m3u.if101.tv/xm3u8/e2a1fec18a6dfe7a3ea662e55d04c3ecd62f6b70a35ddee8fb2c7cdbf92b1a7f9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://i0.hdslb.com/bfs/album/4d25745a962ee3d0f5fbe079e8a43dc8fe6bea1a.jpg",侏罗纪世界3
 https://m3u.if101.tv/xm3u8/d4e4e600aaa34b3323f4450ef97497809b4c35b8adee033819ce0d7d45d6adb99921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/21f65ea27cf65e86b4c6ada46c26c912.jpeg",奇异博士2
@@ -818,6 +824,16 @@ https://m3u.if101.tv/xm3u8/6780790796195e718a9928f7e35c25d6ccf9adbbf12a031445a95
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b10a30838c845af6b308e910b2a80edb.jpeg",丛林奇航
 https://m3u.if101.tv/xm3u8/bb5cc76e43bbbb905e204a85671aa3e960b3eb5f8d00930d8232009e30ac0f9d9921f11e97d0da21.m3u8
 
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://iknow-pic.cdn.bcebos.com/500fd9f9d72a60590835c58f3a34349b033bba79",奇门暗刃
+https://m3u.if101.tv/xm3u8/48d96779da3bb608b39882183ea788a1cb7bc591e9659a52ea28722da922a6a79921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://iknow-pic.cdn.bcebos.com/0824ab18972bd407f612ea6869899e510eb30949",大虫灾
+https://m3u.if101.tv/xm3u8/b1a06022f0fa1450b4d6d03b0174b4fc9f8db030967574f5d2a3d3ee0b63af389921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://cdn.u1.huluxia.com/g4/M03/95/21/rBAAdmMQL0eAVeHjAADiDlfPd6A849.jpg",鬼吹灯之精绝古城
+https://m3u.if101.tv/xm3u8/b091d706fea66c2f0814a15eac7be983f1e2f7a3e12069d4b75f143977ba18759921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://iknow-pic.cdn.bcebos.com/a50f4bfbfbedab64cd3c6c55e536afc378311edc",新灰姑娘2
+https://hd.njeere.com/play/86403/index.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/25fa26d692170df365959d545b2dc332.jpeg",雪鹰领主
+https://m3u.if101.tv/xm3u8/4c656394f73d2573d3ccbccaea259d1547853c0bb6e134ae984fbfce1a2822dd9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c501dbeaeaa418dc7439fdfc9b4aab71.jpeg",冲出地球
 https://m3u.if101.tv/xm3u8/98007fd6a3bc737bc29246f93f0a3f42832e89e67f9418e1c409cef8524ca2ec9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/00d555653f4b51abc5b7a15e3a1113dd.jpeg",神偷奶爸前传
@@ -909,6 +925,22 @@ https://m3u.if101.tv/xm3u8/355497d43b51b2dbf0a699b63cf48978135a8444169e1f9fc53bb
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/eef51ff518ffd8369993ca8ac4b89314.jpeg",武林怪兽
 https://v4.cdtlas.com/20211211/ZRwAC8vx/index.m3u8
 
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1fed1b33f1a8559b72a2494d91880e19.jpeg",灵魂停留
+https://m3u.if101.tv/xm3u8/aecaff09d753dcde32e2f8a8dfe07cb23e8ede07cf5b2aaf4d592786c2c696959921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/6a3d87d81530b5053d9d3327ce6ef242.jpeg",坏种1
+https://m3u.if101.tv/xm3u8/b56a99141c8484d1b752af03897e7d72afed282b7305d4d08f20a31ce9e6eea89921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://iknow-pic.cdn.bcebos.com/b2de9c82d158ccbfef6394af0bd8bc3eb0354143",坏种2
+https://m3u8.zhisongip.com:38741/video/85725f907ccecfae71a48812a02e3420.m3u8
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://iknow-pic.cdn.bcebos.com/35a85edf8db1cb13cb2b0286cf54564e93584be0",恶邻居
+https://m3u8.zhisongip.com:38741/video/a24e15836670cbffdec20ffaeb9b8084.m3u8
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/367f2c267897f3ee8378f55a04a9999b.jpeg",3号房死去的女孩
+https://m3u8.zhisongip.com:38741/video/f9e6e28164876ad240363f245e7c8611.m3u8
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://iknow-pic.cdn.bcebos.com/a71ea8d3fd1f413403853eeb371f95cad0c85ef0",先驱者
+https://m3u8.zhisongip.com:38741/video/ee856a584534bc9bf227bab1aa477841.m3u8
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/7476aa4be5ec8eee072da5ca6d0f2f6b.jpeg",最后的影像
+https://m3u8.zhisongip.com:38741/video/f030dc6ae860b2de7b420499c6202a3f.m3u8
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/bbea730914c521ae2d03023463d8f36b.jpeg",新鲜
+https://m3u.if101.tv/xm3u8/3521926cbe1487e1be4cd08f78c84fd694d5fee28c81c28b150dcc41aeaae2bb9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/632a8e471b63e8aaccb7c538f513a22f.jpeg",夺命直播
 https://ukzy.ukubf3.com/20220812/AXSyVGwv/index.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2f9ddfc6472f305e30d2ced7686908ea.jpeg",头七
@@ -1015,6 +1047,10 @@ https://m3u.if101.tv/xm3u8/7376d9c433329609a63565dad7eca16866a23f77b24da24af781f
 #EXTINF:-1 group-title="DS灾难" tvg-logo="https://pic.rmb.bdstatic.com/bjh/08f7480efb883c61290e46b277986d48.jpeg",地陷
 https://m3u.if101.tv/xm3u8/ea13b5694db0e8904016df919f9795bd5eab40ac80a56214b0aeb101c4f810339921f11e97d0da21.m3u8
 
+#EXTINF:-1 group-title="W战争" tvg-logo="https://i0.hdslb.com/bfs/album/6fc0dec4c08b731ac2e9d48fe6449d181446d05e.jpg",闲山
+https://m3u8.zhisongip.com:38741/video/811890c832d02cd9facabc8ee455fd87.m3u8
+#EXTINF:-1 group-title="W战争" tvg-logo="https://i0.hdslb.com/bfs/album/4d6b1b30671d092f08d5a6a24f1fcb0a4ae6dba6.jpg",爱国者时代
+https://m3u8.zhisongip.com:38741/video/1240fc2eae6d40594aa1e8cb2ac54426.m3u8
 #EXTINF:-1 group-title="W战争" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c53e943b95755b99f4b47edd72e09664.jpeg",铁血抗联之血战松山涧
 https://m3u.if101.tv/xm3u8/5b5d1058c6fd4d718405feb18a1146e54e9933ecc1a319413aadb3492495c6519921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="W战争" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a5abb806cf9e8e10f09d2ffebc60a255.jpeg",狙击英雄
