@@ -568,6 +568,8 @@ http://198.16.64.10:8278/sbs_korea/playlist.m3u8?tid=MD4D1766226017662260&ct=192
 #EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[KO]TVN
 http://198.16.64.10:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&tsum=48ef5f1d47a64fc90e5f5ad5b182fb5d
 
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://iknow-pic.cdn.bcebos.com/e1fe9925bc315c60446f477a9fb1cb13485477a8",异种浩劫
+https://m3u8.zhisongip.com:38741/video/ed2cffe00cbe7c25cb85a3ffcfca738c.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/bf68a5dae08ba120ca24e0e7da834c3f.jpeg",神探大战
 https://m3u.if101.tv/xm3u8/bb74189bec863001c68be53418719fd44fa1ff70321df63cfd0d7421a6d46d979921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d525154d9c0e39de3ff84a7c440eb2fe.jpeg",广东十虎
@@ -824,6 +826,8 @@ https://m3u.if101.tv/xm3u8/6780790796195e718a9928f7e35c25d6ccf9adbbf12a031445a95
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b10a30838c845af6b308e910b2a80edb.jpeg",丛林奇航
 https://m3u.if101.tv/xm3u8/bb5cc76e43bbbb905e204a85671aa3e960b3eb5f8d00930d8232009e30ac0f9d9921f11e97d0da21.m3u8
 
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/33f91d32e9b58459db2897bfea52facf.jpeg",匹诺曹
+https://m3u.if101.tv/xm3u8/323d65b4b7ad5e1229a17be4c188a85119332ba28c8f78ea02c807e643a8e83d9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://iknow-pic.cdn.bcebos.com/500fd9f9d72a60590835c58f3a34349b033bba79",奇门暗刃
 https://m3u.if101.tv/xm3u8/48d96779da3bb608b39882183ea788a1cb7bc591e9659a52ea28722da922a6a79921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://iknow-pic.cdn.bcebos.com/0824ab18972bd407f612ea6869899e510eb30949",大虫灾
@@ -1146,7 +1150,7 @@ https://m3u.if101.tv/xm3u8/4d10bc433487fb68d4ace78c675fb8dec4f3e5fb72d03e8644b25
 #EXTINF:-1 group-title="铁血战士" tvg-logo="https://pic.rmb.bdstatic.com/bjh/264f00e665caa44feb91aa640fd27744.jpeg",铁血战士2018
 https://m3u.if101.tv/xm3u8/26d190cbed65bca2ffc3c93f213e9a8378785c56cffae33728709734567099699921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="铁血战士" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e7900469539fb9d78560d736d44f5388.jpeg",异形大战铁血战士1
-https://m3u.if101.tv/xm3u8/082e94e52c6b4d866442ae02f32709374524704c8c80a8f23e1a95f1eb6e54f49921f11e97d0da21.m3u8
+https://m3u8.zhisongip.com:38741/video/a5538f0bcd4f15650c01a632f0f6c27e.m3u8
 #EXTINF:-1 group-title="铁血战士" tvg-logo="https://pic.rmb.bdstatic.com/bjh/69e14b7a1e38bdd68c9002820e70cc49.jpeg",异形大战铁血战士2
 https://m3u.if101.tv/xm3u8/aa80c68d2ac6a2f0e0770d491773798e4fd0eadf6a42cd4c94fc6a3ab1e3e84a9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="铁血战士" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2b5862e9700f06692cfa70733436ae04.jpeg",新铁血战士
@@ -1165,29 +1169,6 @@ https://m3u.if101.tv/xm3u8/ef6508239cd94a8a7db45219c8e13ac142a97962908781e9984b3
 https://m3u.if101.tv/xm3u8/47a6e0dc6af96e6035f287ee0ff9e89bdd0291643d2ca2d974fac308326be0379921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="安娜贝尔" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3515a9a57daf3e8ef09315ba1c77c3db.jpeg",3
 https://m3u.if101.tv/xm3u8/3322028b876ba065e919aa139a772ff689ee99a0520cd20f47b1a555b224b38b9921f11e97d0da21.m3u8
-
-#EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/fe28b90c8eb9dc11b87114f5a552ed6f.jpeg",鬼干部
-https://m1.taopianplay1.com:43333/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/feb7d963-714f-47a8-8094-714255671600/33556/59e23e0f-ffce-48d1-8790-d08b1c799298/SD/playlist.m3u8
-#EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4065a1746ab713304022523859e90e04.jpeg",驱魔警察
-https://m2.taopianplay1.com:43333/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/feb7d963-714f-47a8-8094-714255671600/52468/3c4bdb93-06e1-4b09-84d0-870d55acd689/SD/playlist.m3u8
-#EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/fb6ac922aecd88e8424ab8e1cdf50f73.jpeg",画皮之阴阳法王
-https://s1.zoubuting.com/20220619/9icFvYgK/index.m3u8
-#EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b5c8b614e740e5e8f8f620a8c80c6f4e.jpeg",僵尸家族
-https://s1.fsvod1.com/20220410/iigEEPhx/index.m3u8
-#EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/40a903e5f4911fecbedadbdac64a6a98.jpeg",人吓人
-https://s1.fsvod1.com/20220412/M3lL9ZfF/index.m3u8
-#EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a3bb55f9eb5d3388b30c0b20e4ea4c40.jpeg",时来运转
-https://s1.fsvod1.com/20220412/ujdxyGjM/index.m3u8
-#EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a247fe0cb99edf5470b0fdd79c0ce2b4.jpeg",鬼打鬼
-https://v4.cdtlas.com/20211209/5ou7Arqs/index.m3u8
-#EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/57e1007440fccb69b6524805b704c43f.jpeg",鬼打鬼之黄金道士
-https://b1.szjal.cn/20210514/LBWzVYVu/index.m3u8
-#EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/122bac88551a16adc6fddaeffd3948bf.jpeg",妖怪都市
-https://b1.szjal.cn/20210526/SN8T6RRB/index.m3u8
-#EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/624c149520e9311dd8788e5efd18c988.jpeg",一眉道人
-https://b1.szjal.cn/20210509/eIBDpIJc/index.m3u8
-#EXTINF:-1 group-title="林正英系列" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d610a3a412035b60c7c25255084a32a6.jpeg",僵尸至尊
-https://v4.monidai.com/20200720/bZk2WCP9/index.m3u8
 
 #EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1d1b9a4809ae9ffd248ca5cb06b34906.jpeg",福星闯江湖
 https://s1.zoubuting.com/20220619/G3mI1BA3/index.m3u8
@@ -1615,36 +1596,3 @@ https://vs01.kkembed.com/files/mp4/6/64gf3.m3u8
 https://vs01.kkembed.com/files/mp4/N/NC7hx.m3u8
 #EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/12/11028.jpg",ห้าวเป้งจ๋า อย่าแกงน้อง God Bless The Trainees Too
 https://vs01.kkembed.com/files/mp4/b/bMrCD.m3u8
-
-#EXTINF:-1 group-title="True Beauty" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4317a6b8b97a0a4da652fb1ff1a20ede.jpeg",1
-https://insertkai.com/movie/True%20Beauty%20(2020)%20EP%201.mp4
-#EXTINF:-1 group-title="True Beauty" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4317a6b8b97a0a4da652fb1ff1a20ede.jpeg",2
-https://insertkai.com/movie/True%20Beauty%20EP%202.mp4
-#EXTINF:-1 group-title="True Beauty" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4317a6b8b97a0a4da652fb1ff1a20ede.jpeg",3
-https://insertkai.com/movie/True%20Beauty%20EP%203.mp4
-#EXTINF:-1 group-title="True Beauty" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4317a6b8b97a0a4da652fb1ff1a20ede.jpeg",4
-https://insertkai.com/movie/True%20Beauty%20EP%204.mp4
-#EXTINF:-1 group-title="True Beauty" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4317a6b8b97a0a4da652fb1ff1a20ede.jpeg",5
-https://insertkai.com/movie/True%20Beauty%20EP%205.mp4
-#EXTINF:-1 group-title="True Beauty" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4317a6b8b97a0a4da652fb1ff1a20ede.jpeg",6
-https://insertkai.com/movie/True%20Beauty%20EP%206.mp4
-#EXTINF:-1 group-title="True Beauty" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4317a6b8b97a0a4da652fb1ff1a20ede.jpeg",7
-https://insertkai.com/movie/True%20Beauty%20EP%207.mp4
-#EXTINF:-1 group-title="True Beauty" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4317a6b8b97a0a4da652fb1ff1a20ede.jpeg",8
-https://insertkai.com/movie/True%20Beauty%20EP%208.mp4
-#EXTINF:-1 group-title="True Beauty" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4317a6b8b97a0a4da652fb1ff1a20ede.jpeg",9
-https://insertkai.com/movie/True%20Beauty%20EP%209.mp4
-#EXTINF:-1 group-title="True Beauty" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4317a6b8b97a0a4da652fb1ff1a20ede.jpeg",10
-https://insertkai.com/movie/True%20Beauty%20EP%210.mp4
-#EXTINF:-1 group-title="True Beauty" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4317a6b8b97a0a4da652fb1ff1a20ede.jpeg",11
-https://insertkai.com/movie/True%20Beauty%20EP%211.mp4
-#EXTINF:-1 group-title="True Beauty" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4317a6b8b97a0a4da652fb1ff1a20ede.jpeg",12
-https://insertkai.com/movie/True%20Beauty%20EP%212.mp4
-#EXTINF:-1 group-title="True Beauty" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4317a6b8b97a0a4da652fb1ff1a20ede.jpeg",13
-https://insertkai.com/movie/True%20Beauty%20EP%213.mp4
-#EXTINF:-1 group-title="True Beauty" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4317a6b8b97a0a4da652fb1ff1a20ede.jpeg",14
-https://insertkai.com/movie/True%20Beauty%20EP%214.mp4
-#EXTINF:-1 group-title="True Beauty" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4317a6b8b97a0a4da652fb1ff1a20ede.jpeg",15
-https://insertkai.com/movie/True%20Beauty%20EP%215.mp4
-#EXTINF:-1 group-title="True Beauty" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4317a6b8b97a0a4da652fb1ff1a20ede.jpeg",16
-https://insertkai.com/movie/True%20Beauty%20EP%216.mp4
