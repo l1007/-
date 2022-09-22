@@ -24,6 +24,14 @@ MBO,http://mbomovie.com/api.php/provide/vod/at/xml,解析
 麒麟,http://www.qilinzyz.com/api.php/provide/vod/at/xml,解析
 测试,http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml,解析
 千寻,http://wy.dqyhg.cn/api.php/provide/vod/at/xml,解析
+555,https://555dy3.com/api.php/app/,解析
+OK,http://123.ok00.xyz/api.php/v1.vod,解析
+天空,https://tkys.tv/xgapp.php/v1/,解析
+追剧,https://vipmv.co/api.php/app/,解析
+可乐,http://klyingshi.com/api.php/v1.vod,解析
+创艺,http://www.30dian.cn/api.php/v1.vod,解析
+百淘,http://ys.58g8.com/lvdou_api.php/v1.vod,解析
+9亿,http://vod.9e03.com/lvdou_api.php/v1.vod,解析
 77,https://www.77diany.com/api.php/provide/vod/at/xml,解析
 闪电,http://sdzyapi.com/api.php/provide/vod/at/xml,解析
 速更,https://sugengzy.cn/api.php/provide/vod/at/xml,解析
