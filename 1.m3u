@@ -538,6 +538,12 @@ http://50.7.220.74:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&
 
 
 
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa0516842f7c03db6906352cf7f16ccf3a889d692d8b96a783ff00071/0.jpg",盗贼
+https://m3u8.zhisongip.com:38741/video/817a7bb6ba7927c9d9b346d16cdc29c1.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://i0.hdslb.com/bfs/album/c728f69b79a302c053dfc929d11bb643aca519e5.jpg",子弹列车
+https://m3u.if101.tv/xm3u8/c6a9db785f3ca2b19c9f257b84d54e92fbab8ed25bf071f705b19ad09dcb0a759921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/21bf244b8d82082b673209a9fd3aa499.jpeg",坠落
+https://m3u.if101.tv/xm3u8/1659a7e866d443b0278ee70f60401fb9b09a01f0785c76002e8824242fbd83c29921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://iknow-pic.cdn.bcebos.com/e1fe9925bc315c60446f477a9fb1cb13485477a8",异种浩劫
 https://m3u8.zhisongip.com:38741/video/ed2cffe00cbe7c25cb85a3ffcfca738c.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/bf68a5dae08ba120ca24e0e7da834c3f.jpeg",神探大战
@@ -657,6 +663,10 @@ https://m3u.if101.tv/xm3u8/7d6b3b4dbb370d6a92c7b343f0d275cc099925076ca26e8ed9e0c
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/28a312fa7954bbb088d2da7885b2fffe.jpeg",戏法师
 https://m3u.if101.tv/xm3u8/ad9b12ff94a1ec3cb685f410697a31d92a435373c6eb672b6cc669f00ec5aff19921f11e97d0da21.m3u8
 
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/0e7820e9c8138ba99855b7896144919b.jpeg",万湖会议
+https://m3u.if101.tv/xm3u8/1f6eb38fac02b1daea6fa6da63ba8fe80db4989e40333641aeafd29f5d3007279921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa051684240df581a6f2a0519f9f724d6b2677dace04f6551e06cd159/0.jpg",巨星养成记
+https://vip.lz-cdn2.com/20220926/21435_acb45a6b/index.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2176bcb7119eeed9101a47effce92933.jpeg",沼泽深处的女孩
 https://m3u8.zhisongip.com:38741/video/a357776eb6dfdd62415552e7943c9272.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f85803edc18815af4329898d52319bf9.jpeg",复生
@@ -796,6 +806,16 @@ https://m3u.if101.tv/xm3u8/6780790796195e718a9928f7e35c25d6ccf9adbbf12a031445a95
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b10a30838c845af6b308e910b2a80edb.jpeg",丛林奇航
 https://m3u.if101.tv/xm3u8/bb5cc76e43bbbb905e204a85671aa3e960b3eb5f8d00930d8232009e30ac0f9d9921f11e97d0da21.m3u8
 
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa0516842cc005f97b716f82f175d52898ba11214babc5c0a7400ba59/0.jpg",变种人:幽灵战姬
+https://m3u8.zhisongip.com:38741/video/0d678ba021a9b21feda646dfc18017f2.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/31a4ab482e0734ca26b3a17b56b251c5.jpeg",津门玄案
+https://m3u.if101.tv/xm3u8/1f67b2c4701861a392212a303563502f2379940353b171f0132f0dd314c5f75f9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4858e1d5be7c07a195ff87c57e947993.jpeg",三生三世花之殇
+https://m3u.if101.tv/xm3u8/fbce71330ae3cf9453bd28be1b9638beb36e85e650d89e64df242c7970f8c2e39921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa0516842e4234da6874506a5c76da60ea38ca2ddd187a4237970ea19/0.jpg",山海经之再见怪兽
+https://m3u.if101.tv/xm3u8/4b7d4a638849075e596cc15bbe2bf04a12ec391266a334e6ef1573fe2c5d8ff09921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://i0.hdslb.com/bfs/album/1999f90412f5ee4e3eac5492ef03333afa46eba9.jpg",小龙女
+https://m3u.if101.tv/xm3u8/ebc9fd5d558d3f16812f4ae67ebef094e9509ebe1719877573579b787f085b939921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/33f91d32e9b58459db2897bfea52facf.jpeg",匹诺曹
 https://m3u.if101.tv/xm3u8/323d65b4b7ad5e1229a17be4c188a85119332ba28c8f78ea02c807e643a8e83d9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://iknow-pic.cdn.bcebos.com/500fd9f9d72a60590835c58f3a34349b033bba79",奇门暗刃
