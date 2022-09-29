@@ -536,6 +536,16 @@ http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&
 #EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]TLC
 http://50.7.220.74:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 
+#EXTINF:-1 group-title="2022" tvg-logo="https://i0.hdslb.com/bfs/album/6fc0dec4c08b731ac2e9d48fe6449d181446d05e.jpg",闲山：龙的出现
+https://m3u8.zhisongip.com:38741/video/811890c832d02cd9facabc8ee455fd87.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cd93863e182a6d4a0576d725fe8bf458.jpeg",世界上最爱我的人
+https://m3u.if101.tv/xm3u8/d70979cb137959928bee8b67a16edd3ebb21d668488e1eb841652e0510e88e1a9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa05168427923031f230106767ae542fc03548f637bb2067f940cc501/0.jpg",金发梦露
+https://m3u8.zhisongip.com:38741/video/8ef1b73583dfd16236f5c54c4d867b93.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a31ac0af34b3ef9c85f7e938b64c3b12.jpeg",当时间越来越大声
+https://m3u8.zhisongip.com:38741/video/3243bff26217290e280d903dc5cca656.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5265806d367e88e1cfb0a89e273a8cee.jpeg",狩猎
+https://m3u8.zhisongip.com:38741/video/03ec531f9dcfef69c8a8201820de7b3e.m3u8
 
 
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa0516842f7c03db6906352cf7f16ccf3a889d692d8b96a783ff00071/0.jpg",盗贼
@@ -1041,8 +1051,6 @@ https://m3u.if101.tv/xm3u8/7376d9c433329609a63565dad7eca16866a23f77b24da24af781f
 #EXTINF:-1 group-title="DS灾难" tvg-logo="https://pic.rmb.bdstatic.com/bjh/08f7480efb883c61290e46b277986d48.jpeg",地陷
 https://m3u.if101.tv/xm3u8/ea13b5694db0e8904016df919f9795bd5eab40ac80a56214b0aeb101c4f810339921f11e97d0da21.m3u8
 
-#EXTINF:-1 group-title="W战争" tvg-logo="https://i0.hdslb.com/bfs/album/6fc0dec4c08b731ac2e9d48fe6449d181446d05e.jpg",闲山
-https://m3u8.zhisongip.com:38741/video/811890c832d02cd9facabc8ee455fd87.m3u8
 #EXTINF:-1 group-title="W战争" tvg-logo="https://i0.hdslb.com/bfs/album/4d6b1b30671d092f08d5a6a24f1fcb0a4ae6dba6.jpg",爱国者时代
 https://m3u8.zhisongip.com:38741/video/1240fc2eae6d40594aa1e8cb2ac54426.m3u8
 #EXTINF:-1 group-title="W战争" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c53e943b95755b99f4b47edd72e09664.jpeg",铁血抗联之血战松山涧
@@ -1134,24 +1142,6 @@ https://m3u.if101.tv/xm3u8/15cfb0a80412963f0581b4e995886970d41cda9ae3e6a92ef6e3e
 https://m3u.if101.tv/xm3u8/51525fdeabe56d9b370cf0e00462f4050fb1b01ffd7ca2ad83d1b12b3f50f6d99921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="悬疑Suspense" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8d3f4e34d18dc1a095f62d5ea084d7c3.jpeg",换子疑云
 https://m3u.if101.tv/xm3u8/8a200e03493723b39bdac4b7faeecc8cc2fb369cecadf25bf8323ddd7767a8389921f11e97d0da21.m3u8
-
-#EXTINF:-1 group-title="铁血战士" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a4c99ff029fa784de703af32138e4603.jpeg",铁血战士2022
-https://m3u.if101.tv/xm3u8/4d10bc433487fb68d4ace78c675fb8dec4f3e5fb72d03e8644b25ed84f29afe49921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="铁血战士" tvg-logo="https://pic.rmb.bdstatic.com/bjh/264f00e665caa44feb91aa640fd27744.jpeg",铁血战士2018
-https://m3u.if101.tv/xm3u8/26d190cbed65bca2ffc3c93f213e9a8378785c56cffae33728709734567099699921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="铁血战士" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e7900469539fb9d78560d736d44f5388.jpeg",异形大战铁血战士1
-https://m3u8.zhisongip.com:38741/video/a5538f0bcd4f15650c01a632f0f6c27e.m3u8
-#EXTINF:-1 group-title="铁血战士" tvg-logo="https://pic.rmb.bdstatic.com/bjh/69e14b7a1e38bdd68c9002820e70cc49.jpeg",异形大战铁血战士2
-https://m3u.if101.tv/xm3u8/aa80c68d2ac6a2f0e0770d491773798e4fd0eadf6a42cd4c94fc6a3ab1e3e84a9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="铁血战士" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2b5862e9700f06692cfa70733436ae04.jpeg",新铁血战士
-https://m3u.if101.tv/xm3u8/6c8a8ef4a1963107b50ec95c4c5d116c6350c7eef2d11a9db32c4e1f32550ef69921f11e97d0da21.m3u8
-
-#EXTINF:-1 group-title="金刚狼" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e8531dd6080d4f602f6f805cdb857e71.jpeg",1
-https://m3u.if101.tv/xm3u8/9de33964adef7581bda3723bc6dc488f1dd0028fa42f0926ca87c67665bd9e5e9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="金刚狼" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8bf6ca4e2c7c7b65dc591e27337924e3.jpeg",2
-https://m3u.if101.tv/xm3u8/383db410aa152ed4aa771fee73cbc502e12f81f6405cb68d2835183d495d1f049921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="金刚狼" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ecafee71c1139cf12bc7c67ba9589e0e.jpeg",3
-https://m3u.if101.tv/xm3u8/22e697ff419a08a4cb55a2dabd4d23b731f8eb391a1ba6abafc798d1ed437a899921f11e97d0da21.m3u8
 
 #EXTINF:-1 group-title="安娜贝尔" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3dc16bd7f45e9bd050600b4223384e25.jpeg",1
 https://m3u.if101.tv/xm3u8/ef6508239cd94a8a7db45219c8e13ac142a97962908781e9984b3619b4eea7969921f11e97d0da21.m3u8
@@ -1331,256 +1321,3 @@ https://s2.fsvod1.com/20220226/BUli0nu1/index.m3u8
 #EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1b92a92c174d42d75a862787cb0c392c.jpeg",澳门风云3
 https://v3.cdtlas.com/20211209/2A3CeWF4/index.m3u8
 
-#EXTINF:-1 group-title="丧尸ZOMBIE" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ce180929fb4668a8bd8a4b125ae63cb9.jpeg",哭悲
-https://m3u.if101.tv/xm3u8/27c99b8674f310600961ca91df4322ada02fd12f2675e7cd0bc78e4b025aae139921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸ZOMBIE" tvg-logo="https://pic.rmb.bdstatic.com/bjh/77356789f79c5c5f0d4dc3c39f2560f4.jpeg",谤法：在此矣
-https://m3u.if101.tv/xm3u8/d4ee4b83886dc83f836896d9c8f62272a74f7954e84a9ac1319b61959ae1b7769921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸ZOMBIE" tvg-logo="https://pic.rmb.bdstatic.com/bjh/166964df31fb770787c75116751bf0e8.jpeg",新生化危机
-https://m3u.if101.tv/xm3u8/787b4ab69faab1533f981a79bddb8118254669efb70a8b48163c257d6496f2d79921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸ZOMBIE" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b4068be330047474a0e223ab5490f947.jpeg",神偷军团
-https://m3u.if101.tv/xm3u8/6d303b3dc14b6d1b46e2e5541cbf5f6ccefa68b0e3e959276489ddc4eaa4ed559921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸ZOMBIE" tvg-logo="https://pic.rmb.bdstatic.com/bjh/dadbcd673896a41341a5e6bfd4a4e308.jpeg",活死人军团
-https://m3u.if101.tv/xm3u8/43124d9416f059f7fbfe4e51039776f98f3c2461cb21693076ad3458d57417ef9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸ZOMBIE" tvg-logo="https://pic.rmb.bdstatic.com/bjh/0a7ca7e3ebc5a7466301b6d6cbae5cff.jpeg",王国：北方的阿信
-https://m3u.if101.tv/xm3u8/117fea10b35945d8ce919622920d19b4d72751b719ad2e814e0c8b5543ef15169921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸ZOMBIE" tvg-logo="https://pic.rmb.bdstatic.com/bjh/6805586035a9380feed3cf0dcad28ba7.jpeg",吃人大叔
-https://m3u.if101.tv/xm3u8/31acb34b0306165a5fdfb4a522313b2f9e57263b4c2c8ef34024e10e23d0b0bf9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸ZOMBIE" tvg-logo="https://pic.rmb.bdstatic.com/bjh/629aed87249fa262e54f908baca4a2c0.jpeg",釜山行2：半岛
-https://m3u.if101.tv/xm3u8/7f32b58162b96b4937f57dd081791dc75f43c3c51e6279c5b4ffc162797c3d219921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸ZOMBIE" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4ac8b88c9e22588e6e5b839fd9e48a95.jpeg",活着
-https://m3u.if101.tv/xm3u8/347455530cbadcd29e4ff8c0e97bcce204e4b97daafd7b1a631505eea629d5079921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸ZOMBIE" tvg-logo="https://pic.rmb.bdstatic.com/bjh/0305bac85f028d3273cf6f69016d884a.jpeg",丧尸乐园2
-https://m3u.if101.tv/xm3u8/3aa1c1f1b1c88e740d40bf8bc7db8e76563dd97233d482c27d6ac724122b04b69921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸ZOMBIE" tvg-logo="https://pic.rmb.bdstatic.com/bjh/7495ff52e2285a3ebd308f8d696d66b9.jpeg",奇妙的家族
-https://m3u.if101.tv/xm3u8/c42c3ee9b50cea09a03ccc6b40f5e049846353cb3642989ff3ec68366a33320b9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸ZOMBIE" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4634a570e475a1de8a000520468113f0.jpeg",丧尸未逝
-https://m3u.if101.tv/xm3u8/7930f10cc0e2fabc408d32c999d81c12aa9e9b3c6d924b04df2ab8661b507c189921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸ZOMBIE" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e63be9de36f54a63b4c222e5914d2ebf.jpeg",霸主
-https://m3u.if101.tv/xm3u8/7a62996382f7e09a1e0068edd1d57c716974cb5dd995d051ba022d88262b92b49921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸ZOMBIE" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4cb3cfa643422d41c7e0966048547876.jpeg",摄影机不要停！
-https://m3u.if101.tv/xm3u8/6372c8f33f452b8eb4ed3c3af9ee64378ecabdf1932fccfec12638e789fa18be9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸ZOMBIE" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a3e5d9ce9cd98435a97cda820bf0ecb8.jpeg",负重前行
-https://m3u.if101.tv/xm3u8/bd16ddafda891f0336c080bd6885025119885da562bd327e75e15ae304573f1c9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸ZOMBIE" tvg-logo="https://pic.rmb.bdstatic.com/bjh/285d79608609088eb5f45478a2d78971.jpeg",活尸电梯
-https://m3u.if101.tv/xm3u8/5a9f59b54bc43ceb3f6b24fb7487e77812050f0ebf11ee6092ff26ea2da3e26e9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸ZOMBIE" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5f1660e9af876f5af57c2c4808b6b57d.jpeg",天赐之女
-https://m3u.if101.tv/xm3u8/ae2fa5c5c15ea81883a4ed1872fae09066ea7b0b69d98e28e085c49d9ffb53b39921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸ZOMBIE" tvg-logo="https://pic.rmb.bdstatic.com/bjh/6e5a13d7d0eeb1cbbd4453c07c427f52.jpeg",请叫我英雄
-https://m3u.if101.tv/xm3u8/054a047117405f12d7823afd5b68dca1aad3645b96ce24f7c3d5ac7fb21e9fbd9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸ZOMBIE" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4f7938c291e292df6599070d3d00245c.jpeg",童军手册之僵尸启示录
-https://m3u.if101.tv/xm3u8/130fa96a5566b40100e5233df7a58cf18145cf95acb348bb8db0b63389ae03a99921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="丧尸ZOMBIE" tvg-logo="https://pic.rmb.bdstatic.com/bjh/16de04d30f33c39a10b929dde518a4b3.jpeg",丧家之女
-https://m3u.if101.tv/xm3u8/c5871248e7d5ee646319cee7c42d89fe7da39791463abaedad74baca62d11d2f9921f11e97d0da21.m3u8
-
-#EXTINF:-1 group-title="反贪风暴" tvg-logo="https://pic.rmb.bdstatic.com/bjh/25ab7cd7838ff503dc20ea676f2d6d5a.jpeg",1
-https://m3u.if101.tv/xm3u8/6aa2b925c1097f8cd8e2acddc1b92d10b9bd99eae5bf9ce4469163d3b209734a9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="反贪风暴" tvg-logo="https://pic.rmb.bdstatic.com/bjh/93766ceee1b9088f8d71124831fdd2a7.jpeg",2
-https://ukzy.ukubf4.com/20220407/PvonzybI/index.m3u8
-#EXTINF:-1 group-title="反贪风暴" tvg-logo="https://pic.rmb.bdstatic.com/bjh/442e4535dea306d6cd8a190e6cd1e849.jpeg",3
-https://ukzy.ukubf4.com/20220407/UmDYfuOT/index.m3u8
-#EXTINF:-1 group-title="反贪风暴" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a9a303cc7bf1b212350b3f567909b171.jpeg",4
-https://m3u.if101.tv/xm3u8/fca4dda64ec4e4bbf996af8edadda14a1e4ca1b8d06b5c67424dccd5ab3bc4099921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="反贪风暴" tvg-logo="https://pic.rmb.bdstatic.com/bjh/17a5630c2634c25e39379efd226606df.jpeg",5
-https://m3u.if101.tv/xm3u8/a2b3371d5aa23902d406353d6f8a92474f96d9420c5994a4e16d3af65b3350669921f11e97d0da21.m3u8
-
-#EXTINF:-1 group-title="速度与激情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/150377aa2dbdb587ad840f6b9d225c4f.jpeg",2001
-https://m3u.if101.tv/xm3u8/20d8b07a94c3d148172bdc1bb4b415c310e68cb5f0f4af8a92542d47f1f25ffe9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="速度与激情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/bc971b119a9e35567c250f29de0fdd2a.jpeg",2003
-https://m3u.if101.tv/xm3u8/c37acc7f403463c77b8fb79cc1fcb116a98a774f9be0198254f47079e3bc223e9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="速度与激情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/62b7be691d43bef48e47191f2689d4d6.jpeg",2006
-https://m3u.if101.tv/xm3u8/6275a13da423c2314481b8fa212437fd1a4376775687c910765f8b182971382b9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="速度与激情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/dd38e74de241f2cfbcc79e1193265bdb.jpeg",2009
-https://m3u.if101.tv/xm3u8/c3131f646c93b3c3140aaff4419476d7391dcf120b4d3962b065a6ffd27fbbaa9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="速度与激情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a50aa18be087f6595cd1416895b0d7dc.jpeg",2011
-https://m3u.if101.tv/xm3u8/891a1f834b9a9e37e44586ac71f01f60e9a932d52a933737f917bd7de1724f819921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="速度与激情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/845889a3a59f6a40f570fa364d481e65.jpeg",2013
-https://m3u.if101.tv/xm3u8/97b04c2006370bc9f5c40d4932ec1061e73633640929112d80d871eaf2e667e59921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="速度与激情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/695acc3afbb142b3ba234bd4becc7e09.jpeg",2015
-https://m3u.if101.tv/xm3u8/e728613fb3adbb16e8e1bccd5913937083d0ef49e5b0e3f7790213b8d5a02e0e9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="速度与激情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f84cfee238355018ce45d8afe520e494.jpeg",2017
-https://m3u.if101.tv/xm3u8/86bbfbcf04f1cc8fe21e217d5d00b5e8300cf1386bf03afc291937fd24152e169921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="速度与激情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/34764bb5947f182fe7a1e28503a9ff5f.jpeg",2019
-https://m3u.if101.tv/xm3u8/2459cafad44c2da49c4c1d0dab33effa9320d846a22e91dd256c5a6e33d36dca9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="速度与激情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c9441b459779e5b18b0ac1693dc6f0a7.jpeg",2021
-https://m3u.if101.tv/xm3u8/529323abd4a746a35c601d3d80035cceb301a6a0281e70b225181b3bd170cbbf9921f11e97d0da21.m3u8
-
-#EXTINF:-1 group-title="变形金刚" tvg-logo="https://pic.rmb.bdstatic.com/bjh/df643264c178e2d53bdcbec0b606b846.jpeg",1
-https://m3u.if101.tv/xm3u8/864056f0fbdddc731d1d7342ad1f1ec356f40a197445f55b285861912df255559921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="变形金刚" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b1d650f43733d668bac4adb23abd3ab9.jpeg",2
-https://m3u.if101.tv/xm3u8/619dbdbf544b853ff6f23f9cf94d90fae53608c972285cdb9b659ac8302cde7b9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="变形金刚" tvg-logo="https://pic.rmb.bdstatic.com/bjh/88693acfd3f4a3da9757cec209c19358.jpeg",3
-https://m3u.if101.tv/xm3u8/c074a7fba074719314b3d6b8a8eb3982a1e57b671b42ba1141c798dfd95162bb9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="变形金刚" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f4c9789f8d6ed17bfe40202f72634ea3.jpeg",4
-https://m3u.if101.tv/xm3u8/14dea13b0b1d92f3e76be50dacf8ee4287107f50e6b67ba8522b6e3b1d150b419921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="变形金刚" tvg-logo="https://pic.rmb.bdstatic.com/bjh/02f3af7f6e921a015453c72ea8212926.jpeg",5
-https://m3u.if101.tv/xm3u8/d5d3264ceac4e4e008385d76a665266183b54b77a7397b85b5e7d16d73e5d87f9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="变形金刚" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1dbe245f793121fbb10a38022fd3b3bd.jpeg",大黄蜂
-https://m3u.if101.tv/xm3u8/205197c5b4d4039645057d5ec0c482f9949b1c32ae443a3f7965c12cc2c70d549921f11e97d0da21.m3u8
-
-#EXTINF:-1 group-title="生化危机" tvg-logo="https://pic.rmb.bdstatic.com/bjh/eb918af756c379fb74d4af3c9b041f73.jpeg",1
-https://m3u.if101.tv/xm3u8/116e72b5fd7557e36568c819cb361a4ee28f7dd93f39da8ae973123a5967dc519921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="生化危机" tvg-logo="https://pic.rmb.bdstatic.com/bjh/db8fd697739b6ccb5cec4e04b98c08e6.jpeg",2
-https://m3u.if101.tv/xm3u8/085f0dffa30ca975f944f65853172b459a3a29f07c49eb8012539f5be07018e79921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="生化危机" tvg-logo="https://pic.rmb.bdstatic.com/bjh/52999c0f0a94fd7ba3d8f2a2459a1121.jpeg",3
-https://m3u.if101.tv/xm3u8/cbc049dbd63406103374fa34de1acb64e2dbb795f7a73bafc07f0e1aafeb1a189921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="生化危机" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c90a6ded45cd8a50ae2cc29e0a59cb03.jpeg",4
-https://m3u.if101.tv/xm3u8/de755f6d203537d311e13ff545983207efba2bdf26f5172232fb17bcdacf67c99921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="生化危机" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b74edea83eaf75e1473ca743da87ac27.jpeg",5
-https://m3u.if101.tv/xm3u8/c6d2eb895bf9e574573db39fd9ada627f199aef8a7844a1d491253925989d7cb9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="生化危机" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5b0b363d6472de0c1a78f6a10708e0cc.jpeg",6
-https://m3u.if101.tv/xm3u8/21c56b2301df86e2c968ac1263a0606f87b6fae3f1f45c320c01b6f8d50784939921f11e97d0da21.m3u8
-
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4018a17024fe059363c37f51ed6615fb.jpeg",猛鬼大学2
-https://new.qqaku.com/20220819/SHTE4pS2/index.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1b792f0883bf3e5d1885d78e8ff00641.jpeg",单反相机
-https://new.qqaku.com/20220819/Rm5fib4s/index.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e6e8fe6e7826fde6e7286cadbac3f838.jpeg",มนต์รักทรานซิสเตอร์
-https://m3.taopianplay1.com:43333/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/71767/bd60c5fb-dff4-494d-88ce-a6d2c8b54e22/SD/playlist.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3b5350e316c8eaeb2277079e58065b42.jpeg",ทวารยังหวานอยู่
-https://m3.taopianplay1.com:43333/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/feb7d963-714f-47a8-8094-714255671600/57395/b158579f-1075-4130-b5dc-666ebaa622ca/SD/playlist.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/35d914d90cb2dd406a1748c79088afbf.jpeg",รัก ลวง หลอน
-https://m3.taopianplay1.com:43333/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/41063818-8998-4482-aad1-97ec8ad9d138/71327/5f5c359b-c0e9-4af2-8b6e-704cfee26768/SD/playlist.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2c6d5394de70fbc843f72180efc26087.jpeg",วันสุดท้าย..ก่อนบายเธอ
-https://xlzycdn1.sy-precise.com:65/20220511/UejXwR3m/2000kb/hls/index.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c16512f287bb6008ca10d131b83f71f0.jpeg",กะปิ ลิงจ๋อไม่หลอกจ้าว
-https://hd.njeere.com/play/34319/index.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2022/08/13052.jpg",16 ห้าว 19 เดือด
-https://vs01.kkembed.com/files/mp4/r/r4fDo.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2022/08/13037.jpg",เการักที่เกาหลี ซอร์รี ซารังเฮโย
-https://vs01.kkembed.com/files/mp4/F/FcPlt.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2022/07/13036.jpg",แดง พระโขนง
-https://vs01.kkembed.com/files/mp4/z/zlhqI.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2022/07/12986.jpg",บักแตงโม
-https://vs01.kkembed.com/files/mp4/I/ITnG6.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2022/07/12910.jpg",เร็วโหด..เหมือนโกรธเธอ
-https://vs01.kkembed.com/files/mp4/0/0uMIz.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2022/06/12886.jpg",เทอมสอง สยองขวัญ
-https://vs01.kkembed.com/files/mp4/P/Py9mj.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9f1808b03112823e72be67909ec947bf.jpeg",鬼寺凶灵3
-https://m3u.if101.tv/xm3u8/e24b935da7c27fcf0ee08ed194c4966aba9742cf318e10ba7c391ff5e0e67b8e9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2cff45cd5192ec994b77bd95b4071ed1.jpeg",嚎笑捉鬼队
-https://xlzycdn1.sy-precise.com:65/20220707/F5CuC7rc/index.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/898d6cc0fc43825a342aa52747a92702.jpeg",凝弑
-https://new.qqaku.com/20220701/zBSyEZRn/1100kb/hls/index.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/315d617c510c4a27ce2780a5f8ecf6a5.jpeg",天降竹马
-https://s5.fsvod1.com/20220521/17NcyCis/index.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/94c364af4339c7778291d49881191629.jpeg",猛鬼实验室
-https://m3u.if101.tv/xm3u8/9125a1dc9934bc387b462590a2416eb766b5c3c6d9b703d26a7feee30ec7e3f19921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/6572a8ba8f60f01e1eed0e2abb2adf65.jpeg",安眠实验
-https://m3u.if101.tv/xm3u8/7c2fe54105a41a86e842ad1a0f38dcdcbcb8aed2a4584fa7797c41f80e2b5f1f9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b69293ad5aa0186c45c0dd195208a097.jpeg",黑暗世界
-https://s5.fsvod1.com/20220403/L7YQTqDn/index.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9c44f102a900363da71df5bcb65b1a45.jpeg",真相背后
-https://europe.olemovienews.com/hlstimeofffmp4/20211202/CjgGyhwe/mp4/CjgGyhwe.mp4/master.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e2590e7f885f45919bca26f9d3265d75.jpeg",我的老板是连环杀手
-https://sod.bunediy.com/20220209/un7bMar8/index.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/20da2a5e72c807efa62c4d4333c1d9b3.jpeg",换妆游戏
-https://c1.monidai.com/20211124/zDSPzMlW/index.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5d5234bf67b5b3827e7495208948a58e.jpeg",爱似热汤滚滚开
-https://sod.bunediy.com/20220405/8lbj7vyV/index.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a28d09acd21699de7bebce461713be96.jpeg",牛气冲天的Riam
-https://m3u8.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/feb7d963-714f-47a8-8094-714255671600/30293/0a91557c-0875-426b-90df-483d8887fb52/SD/playlist.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/59302a48d326340f9292f51ae0b98035.jpeg",祈求你
-https://c1.monidai.com/20211016/QcsiX4yt/index.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ab6129fbb97b3d8eecea8c5c4d97dbe1.jpeg",扫黑2020
-https://vod.bunediy.com/20210607/qVlo30wh/index.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ed4672bd33d0d123f1e8d7c60d9eb34b.jpeg",公子变形计
-https://vod.bunediy.com/20210529/ckFQWzVN/index.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ed07b750c4b2af886640af4939d69be6.jpeg",恋爱局中局
-https://cdn2.bzjupinhang.com:65/20220228/bF2WRzaf/index.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/bf42d06100cde46b8a890818e42ad07a.jpeg",假如爱有天意
-https://m3u.if101.tv/xm3u8/7ce874c87b5ef4d35b39e3431e2aff8e5bb32c75aadd9022388e4536fac1f3539921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4f46d32797067bea1d524a03bb70247a.jpeg",鬼女佣
-https://m3u.if101.tv/xm3u8/2caeaa447c4622deb3445f5b2abeb5f2f4f3c6ab6801a3627c7645ee440f7cda9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/16083a0d7a11baa1369c609646fd8b95.jpeg",友谊我和你
-https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/b483bd43-c905-4fb9-8d82-541a0d6afc6f/27265/b3d552fb-4510-47d3-a329-1b4d837fbba2/SD/playlist.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/0f985460282f30962c024041b1deac08.jpeg",四天王
-https://sod.bunediy.com/20220529/tDO8KHYr/index.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5393ca3e4b60d3b75dc2f22d86d31b61.jpeg",噗通噗通跳动的心
-https://v5.szjal.cn/20201029/VcXGTSrv/index.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f7108c742e565c51b6509373bb1e051e.jpeg",爱情大乱斗
-https://cdn.zoubuting.com/20210716/b6Dwbr7E/hls/index.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2022/04/12571.jpg",Som Pla Noi (2021)
-https://vs01.kkembed.com/files/mp4/c/cMBh6.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2022/04/12567.jpg",Groove Town Detectives (2022)
-https://vs01.kkembed.com/files/mp4/6/662bw.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2022/04/12368.jpg",Phu Bao Thai Bahn E-Saan Juad (2021)
-https://vs01.kkembed.com/files/mp4/z/zG7P7.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2022/04/12510.jpg",Memories of New Years (2017)
-https://vs01.kkembed.com/files/mp4/A/AuRai.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2022/04/12503.jpg",The Cleaner (2022)
-https://vs01.kkembed.com/files/mp4/4/4kZqC.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/12/12115.jpg",(2020) Luckily in Love
-https://vs01.kkembed.com/files/mp4/V/VxDN6.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2022/05/12630.jpg",完美情侣 (2022)
-https://vs01.kkembed.com/files/mp4/S/S8SN7.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2020/10/1038.jpg",Poh Tak
-https://vs01.kkembed.com/files/mp4/L/LXyw2.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2020/09/333.jpg",See How They Run
-https://vs01.kkembed.com/files/mp4/H/HPYPt.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2020/11/1482.jpg",Wo maba maha sanuk
-https://vs01.kkembed.com/files/mp4/v/vnYSb.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/04/10608.jpg",Sodemacom Killer
-https://vs01.kkembed.com/files/mp4/M/MEyhR.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2020/11/9903.jpg",The Protect
-https://vs01.kkembed.com/files/mp4/X/Xl3CN.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2020/10/1085.jpg",tengdong
-https://vs01.kkembed.com/files/mp4/p/pynMV.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/10/11179.png",Master Petchtai
-https://vs01.kkembed.com/files/mp4/B/BtLw0.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/09/8658.jpg",Heavens Seven2
-https://vs01.kkembed.com/files/mp4/q/qdbr4.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/09/3824.jpg",Iron Ladies
-https://vs01.kkembed.com/files/mp4/J/J8xiF.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/09/732.jpg",善恶无赦
-https://s1.zoubuting.com/20220622/eAQVJOYs/index.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/08/11229.jpg",Come and See
-https://vs01.kkembed.com/files/mp4/d/dPDMF.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://cdn.majorcineplex.com/uploads/movie/2503/thumb_2503.jpg?261120200620",NAKEE 2
-https://vs01.kkembed.com/files/mp4/a/aLNag.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/08/7725.jpg",Oh My Ghost 6
-https://vs01.kkembed.com/files/mp4/T/T4A9z.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/08/7601.jpg",Krasue-Siam
-https://vs01.kkembed.com/files/mp4/b/bj9qj.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/08/7283.jpg",Dok-Fah-Mha-Jazz
-https://vs01.kkembed.com/files/mp4/s/sRwMW.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/08/7263.jpg",Hug Paeng The Movie
-https://vs01.kkembed.com/files/mp4/x/xRtOw.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/08/7236.jpg",Slumboy Soi Teeed
-https://vs01.kkembed.com/files/mp4/i/ixsTe.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/08/7189.jpg",Poo Baow Tai Ban 3
-https://vs01.kkembed.com/files/mp4/c/cBvsZ.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/07/7083.jpg",Cheua Ba Kla Kao
-https://vs01.kkembed.com/files/mp4/Z/Z4ZNI.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/07/6709.jpg",Luang Phee Jazz 5G
-https://vs01.kkembed.com/files/mp4/b/beV5y.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/06/6268.jpg",Nai-Kai-Jeow
-https://vs01.kkembed.com/files/mp4/G/GEjYc.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/06/6201.jpg",The Golden Riders
-https://vs01.kkembed.com/files/mp4/S/SmB5j.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/06/6190.jpg",SOM PAK SIAN
-https://vs01.kkembed.com/files/mp4/x/x26t3.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/06/6154.jpg",Gang Preed
-https://vs01.kkembed.com/files/mp4/P/PktDf.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/06/6001.jpg",Thailand Only
-https://vs01.kkembed.com/files/mp4/K/KahG4.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/05/5606.jpg",Love 555
-https://vs01.kkembed.com/files/mp4/2/21GlD.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/05/5605.jpg",Lob Phi Phi Mai Lob
-https://vs01.kkembed.com/files/mp4/B/Bf3Bs.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/05/5444.jpg",Pard 888
-https://vs01.kkembed.com/files/mp4/b/bAumU.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/04/10605.jpg",E Riam Sing
-https://vs01.kkembed.com/files/mp4/E/EoEiW.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/04/4830.jpg",Ban phi poeb
-https://vs01.kkembed.com/files/mp4/j/jBOoB.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/11/10625.jpg",Morning Glory Love Story (2021)
-https://vs01.kkembed.com/files/mp4/9/9mvhq.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/11/10603.jpg",Pojaman Sawang KaTa
-https://vs01.kkembed.com/files/mp4/S/SImST.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/12/11614.jpg",พันธนาการ Soul Prison
-https://vs01.kkembed.com/files/mp4/6/64gf3.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/12/11803.jpg",วอน (เธอ) Please (Her)
-https://vs01.kkembed.com/files/mp4/N/NC7hx.m3u8
-#EXTINF:-1 group-title="TH" tvg-logo="https://hengku666.com/wp-content/uploads/2021/12/11028.jpg",ห้าวเป้งจ๋า อย่าแกงน้อง God Bless The Trainees Too
-https://vs01.kkembed.com/files/mp4/b/bMrCD.m3u8
