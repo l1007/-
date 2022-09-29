@@ -537,7 +537,7 @@ http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&
 http://50.7.220.74:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 
 #EXTINF:-1 group-title="2022" tvg-logo="https://i0.hdslb.com/bfs/album/6fc0dec4c08b731ac2e9d48fe6449d181446d05e.jpg",闲山：龙的出现
-https://m3u8.zhisongip.com:38741/video/811890c832d02cd9facabc8ee455fd87.m3u8
+https://m3u.if101.tv/xm3u8/8d5cd3e4874559db86d8358635ffced2147ab30668ac8fd2a81a14d250f3fad29921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cd93863e182a6d4a0576d725fe8bf458.jpeg",世界上最爱我的人
 https://m3u.if101.tv/xm3u8/d70979cb137959928bee8b67a16edd3ebb21d668488e1eb841652e0510e88e1a9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa05168427923031f230106767ae542fc03548f637bb2067f940cc501/0.jpg",金发梦露
@@ -551,11 +551,11 @@ https://m3u8.zhisongip.com:38741/video/03ec531f9dcfef69c8a8201820de7b3e.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa0516842f7c03db6906352cf7f16ccf3a889d692d8b96a783ff00071/0.jpg",盗贼
 https://m3u8.zhisongip.com:38741/video/817a7bb6ba7927c9d9b346d16cdc29c1.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://i0.hdslb.com/bfs/album/c728f69b79a302c053dfc929d11bb643aca519e5.jpg",子弹列车
-https://m3u.if101.tv/xm3u8/c6a9db785f3ca2b19c9f257b84d54e92fbab8ed25bf071f705b19ad09dcb0a759921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/21bf244b8d82082b673209a9fd3aa499.jpeg",坠落
-https://m3u.if101.tv/xm3u8/1659a7e866d443b0278ee70f60401fb9b09a01f0785c76002e8824242fbd83c29921f11e97d0da21.m3u8
+https://new.qqaku.com/20220926/btxUv58X/1100kb/hls/playlist_up.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://iknow-pic.cdn.bcebos.com/e1fe9925bc315c60446f477a9fb1cb13485477a8",异种浩劫
 https://m3u8.zhisongip.com:38741/video/ed2cffe00cbe7c25cb85a3ffcfca738c.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/21bf244b8d82082b673209a9fd3aa499.jpeg",坠落
+https://m3u.if101.tv/xm3u8/1659a7e866d443b0278ee70f60401fb9b09a01f0785c76002e8824242fbd83c29921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/bf68a5dae08ba120ca24e0e7da834c3f.jpeg",神探大战
 https://m3u.if101.tv/xm3u8/bb74189bec863001c68be53418719fd44fa1ff70321df63cfd0d7421a6d46d979921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d525154d9c0e39de3ff84a7c440eb2fe.jpeg",广东十虎
