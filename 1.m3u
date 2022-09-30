@@ -536,6 +536,8 @@ http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&
 #EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]TLC
 http://50.7.220.74:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 
+#EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/151f1ee260f67b4f80641185697720b8.jpeg",隐入尘烟
+https://m3u.if101.tv/xm3u8/d9f98b9a80bc3c69eebf860453ec23611a5e4d6863cb57df9f2eb64ea102ce2c9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://i0.hdslb.com/bfs/album/6fc0dec4c08b731ac2e9d48fe6449d181446d05e.jpg",闲山：龙的出现
 https://m3u.if101.tv/xm3u8/8d5cd3e4874559db86d8358635ffced2147ab30668ac8fd2a81a14d250f3fad29921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cd93863e182a6d4a0576d725fe8bf458.jpeg",世界上最爱我的人
@@ -547,6 +549,14 @@ https://m3u8.zhisongip.com:38741/video/3243bff26217290e280d903dc5cca656.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5265806d367e88e1cfb0a89e273a8cee.jpeg",狩猎
 https://m3u8.zhisongip.com:38741/video/03ec531f9dcfef69c8a8201820de7b3e.m3u8
 
+#EXTINF:-1 group-title="2021" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1dd46aca812cdeb05c14124be7c963a3.jpeg",137枪
+https://m2.taopianplay1.com:43333/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/74d2ec5b-73ec-4d43-87c4-c772f8fb9e86/41982/a8f2e6bd-a185-48b5-9f27-b1043db9705a/SD/playlist.m3u8
+#EXTINF:-1 group-title="2021" tvg-logo="https://pic.rmb.bdstatic.com/bjh/bf909f9e79aa96e7cd781d4d9194b155.jpeg",复见余生
+https://m3u.if101.tv/xm3u8/3015fca5788ab8cebdcffdc781f1fd14cea5136f69315d74ae744c90fc47c8db9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2021" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e8ea9d0e1514463707d34f2071d7de9e.jpeg",蓝色海湾
+https://m3u.if101.tv/xm3u8/a287eb9c45337b363805de00c487b9d808a47eed8defe17048275f7b2cfa81669921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2021" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4d96379c451eb4ffb3045544c8810a4f.jpeg",通话惊魂
+https://m3u.if101.tv/xm3u8/e539e2964d89127ccbe6ec817464c47039322df251af21bb662b53cbf1a97b359921f11e97d0da21.m3u8
 
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa0516842f7c03db6906352cf7f16ccf3a889d692d8b96a783ff00071/0.jpg",盗贼
 https://m3u8.zhisongip.com:38741/video/817a7bb6ba7927c9d9b346d16cdc29c1.m3u8
@@ -1142,13 +1152,6 @@ https://m3u.if101.tv/xm3u8/15cfb0a80412963f0581b4e995886970d41cda9ae3e6a92ef6e3e
 https://m3u.if101.tv/xm3u8/51525fdeabe56d9b370cf0e00462f4050fb1b01ffd7ca2ad83d1b12b3f50f6d99921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="悬疑Suspense" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8d3f4e34d18dc1a095f62d5ea084d7c3.jpeg",换子疑云
 https://m3u.if101.tv/xm3u8/8a200e03493723b39bdac4b7faeecc8cc2fb369cecadf25bf8323ddd7767a8389921f11e97d0da21.m3u8
-
-#EXTINF:-1 group-title="安娜贝尔" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3dc16bd7f45e9bd050600b4223384e25.jpeg",1
-https://m3u.if101.tv/xm3u8/ef6508239cd94a8a7db45219c8e13ac142a97962908781e9984b3619b4eea7969921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="安娜贝尔" tvg-logo="https://pic.rmb.bdstatic.com/bjh/06ec066fb07e10bb31b1bbeda241f5ad.jpeg",2
-https://m3u.if101.tv/xm3u8/47a6e0dc6af96e6035f287ee0ff9e89bdd0291643d2ca2d974fac308326be0379921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="安娜贝尔" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3515a9a57daf3e8ef09315ba1c77c3db.jpeg",3
-https://m3u.if101.tv/xm3u8/3322028b876ba065e919aa139a772ff689ee99a0520cd20f47b1a555b224b38b9921f11e97d0da21.m3u8
 
 #EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/624c149520e9311dd8788e5efd18c988.jpeg",一眉道人
 https://hd.njeere.com/play/51530/index.m3u8
