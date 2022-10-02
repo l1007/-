@@ -536,6 +536,14 @@ http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&
 #EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]TLC
 http://50.7.220.74:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa05168425eb8eb992870b92b66afb349901d132b53a1975ca6b5a858/0.jpg",爱跃星空
+https://m3u8.zhisongip.com:38741/video/06e9d462a6eed5acf1fba153f8e28837.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa0516842710441f93421ab0538e2fb6c583fc3ba8aa1e049c7e5f60a/0.jpg",被消失的凶案
+https://vip.lz-cdn2.com/20220930/21516_647eab35/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/70de5477bd633b152223a2250c55b669.jpeg",维斯珀
+https://m3u8.zhisongip.com:38741/video/ec61a3643d90b181e45bfa72f480898b.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa0516842a5373cce3c7c9f5ca6e309f698b027ac1133c5cdb12176a4/0.jpg",N号栋
+https://m3u8.zhisongip.com:38741/video/d132da4fae55f3d9f18496e0dd306b19.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/151f1ee260f67b4f80641185697720b8.jpeg",隐入尘烟
 https://m3u.if101.tv/xm3u8/d9f98b9a80bc3c69eebf860453ec23611a5e4d6863cb57df9f2eb64ea102ce2c9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://i0.hdslb.com/bfs/album/6fc0dec4c08b731ac2e9d48fe6449d181446d05e.jpg",闲山：龙的出现
