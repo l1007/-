@@ -1,7 +1,7 @@
 {
 "作者":"lekbox",
 "站名":"小宝",
-"主页url":"https://xiaoheimi.net/",
+"主页url":"https://xiaoheimi.net/index.php",
 "热门推荐":"1",
 "直接播放":"0",
 "列表显示":"0",
@@ -18,6 +18,8 @@
 "biaotihou": "\"", 
 "lianjieqian": "href=\"",
 "lianjiehou": "\"", 
+"fubiaotiqian": "text-right\">&&</span",
+"fubiaotihou": "",
 "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
 "sousuohou": "&limit=500",
 "sousuohouzhui": "/index.php/vod/detail/id/", 
@@ -58,9 +60,9 @@
 "bfbiaotihou": "<", 
 "bflianjieqian": "href=\"", 
 "bflianjiehou": "\"",
-"免嗅":"0",
-"副标题":"class=\"text-right\">&&</span",
-"分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$21",
+"免嗅":"1",
+"副标题":"class=\"module-item-note\">&&</div>",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$21#体育$20",
 "分类url":"https://xiaoheimi.net/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
 "筛选":{
 "1":[
@@ -307,6 +309,32 @@
 {"n":"评分","v":"score"}
 ]
 }
+],
+"21":[
+{
+"key":"area",
+"name":"地区",
+"value":[
+{"n":"全部","v":""},
+{"n":"中国","v":"大陆"},
+{"n":"香港","v":"香港"},
+{"n":"台湾","v":"台湾"},
+{"n":"韩国","v":"韩国"},
+{"n":"欧美","v":"欧美"},
+{"n":"日本","v":"日本"},
+{"n":"其他","v":"其它"}
 ]
+},
+{
+"key":"by",
+"name":"排序",
+"value":[
+{"n":"全部","v":""},
+{"n":"时间","v":"time"},
+{"n":"人气","v":"hits"},
+{"n":"评分","v":"score"}
+]
+}
+],
 }
 }
