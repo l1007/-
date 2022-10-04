@@ -18,8 +18,6 @@
 "biaotihou": "\"", 
 "lianjieqian": "href=\"",
 "lianjiehou": "\"", 
-"fubiaotiqian": "text-right\">",
-"fubiaotihou": "</span",
 "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
 "sousuohou": "&limit=500",
 "sousuohouzhui": "/index.php/vod/detail/id/", 
