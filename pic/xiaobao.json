@@ -60,8 +60,8 @@
 "bfbiaotihou": "<", 
 "bflianjieqian": "href=\"", 
 "bflianjiehou": "\"",
-"免嗅":"1",
-"副标题":"class=\"module-item-note\">&&</div>",
+"免嗅":"0",
+//"副标题":"class=\"module-item-note\">&&</div>",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$21",
 "分类url":"https://xiaoheimi.net/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
 "筛选":{
