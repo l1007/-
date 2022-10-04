@@ -1,7 +1,7 @@
 {
 "作者":"lekbox",
 "站名":"小宝",
-"主页url":"https://xiaoheimi.net/index.php",
+"主页url":"https://xiaoheimi.net/",
 "热门推荐":"1",
 "直接播放":"0",
 "列表显示":"0",
@@ -61,7 +61,7 @@
 "bflianjieqian": "href=\"", 
 "bflianjiehou": "\"",
 "免嗅":"0",
-//"副标题":"class=\"module-item-note\">&&</div>",
+"副标题":"class=\"text-right\">&&</span",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$21",
 "分类url":"https://xiaoheimi.net/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
 "筛选":{
