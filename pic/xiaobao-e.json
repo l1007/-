@@ -1,0 +1,338 @@
+{
+"作者":"lekbox",
+"站名":"Recommend",
+"主页url":"https://xiaoheimi.net/",
+"热门推荐":"1",
+"直接播放":"0",
+"列表显示":"0",
+"图片代理":"0",
+"起始页":"1",
+"shifouercijiequ": "0", 
+"jiequqian": "空", 
+"jiequhou": "空", 
+"jiequshuzuqian": "lazyload\"", 
+"jiequshuzuhou": "</a>",
+"tupianqian": "data-original=\"", 
+"tupianhou": "\"", 
+"biaotiqian": "title=\"", 
+"biaotihou": "\"", 
+"lianjieqian": "href=\"",
+"lianjiehou": "\"", 
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=500",
+"sousuohouzhui": "/index.php/vod/detail/id/", 
+"ssmoshi": "0",
+"sousuoshifouercijiequ": "0",
+"jspic": "pic",
+"jsname": "name",
+"jsid": "id",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",
+"sstupianhou": "空",
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "sort-list", 
+"bfjiequshuzuhou": "</ul>", 
+"zhuangtaiqian": "更新：</span>",
+"zhuangtaihou": "</p>", 
+"daoyanqian": "导演：</span>", 
+"daoyanhou": "</p>", 
+"zhuyanqian": "主演：</span>", 
+"zhuyanhou": "</p>", 
+"juqingqian": "简介：</span>", 
+"juqinghou": "<a", 
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空", 
+"bfyjiequhou": "空", 
+"bfyjiequshuzuqian": "<a", 
+"bfyjiequshuzuhou": "/a>", 
+"bfbiaotiqian": ">", 
+"bfbiaotihou": "<", 
+"bflianjieqian": "href=\"", 
+"bflianjiehou": "\"",
+"免嗅":"1",
+"副标题":"class=\"text-right\"></span",
+"分类":"Movie$1#Drama$2#Variety$3#Comic$4#Documentary$21#Sport$20",
+"分类url":"https://xiaoheimi.net/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+"筛选":{
+"1":[
+{
+"key":"class",
+"name":"分类",
+"value":[
+{"n":"All","v":""},
+{"n":"Comedy","v":"喜剧片"},
+{"n":"Affectional","v":"爱情片"},
+{"n":"Horror","v":"恐怖片"},
+{"n":"Action","v":"动作片"},
+{"n":"Science","v":"科幻片"},
+{"n":"Feature","v":"剧情片"},
+{"n":"War","v":"战争片"},
+{"n":"Disaster","v":"灾难片"},
+{"n":"Criminal","v":"犯罪片"},
+{"n":"Cartoon","v":"动画电影"},
+{"n":"Fantasy","v":"奇幻片"},
+{"n":"Adventure","v":"冒险片"},
+{"n":"Suspense","v":"悬疑片"},
+{"n":"Thriller","v":"惊悚片"},
+{"n":"Internet","v":"网络电影"}
+]
+},
+{
+"key":"area",
+"name":"Area",
+"value":[
+{"n":"All","v":""},
+{"n":"China","v":"大陆"},
+{"n":"Hong Kong","v":"香港"},
+{"n":"Taiwan","v":"台湾"},
+{"n":"US","v":"欧美"},
+{"n":"Japan","v":"日本"},
+{"n":"Korea","v":"韩国"},
+{"n":"Singapore Malaysia","v":"新马"},
+{"n":"Thailand","v":"泰国"},
+{"n":"Other","v":"其它"}
+]
+},
+{
+"key":"year",
+"name":"Year",
+"value":[
+{"n":"All","v":""},
+{"n":"2022","v":"2022"},
+{"n":"2021","v":"2021"},
+{"n":"2020","v":"2020"},
+{"n":"2019","v":"2019"},
+{"n":"2018","v":"2018"},
+{"n":"2017","v":"2017"},
+{"n":"2016","v":"2016"},
+{"n":"2015","v":"2015"},
+{"n":"2014","v":"2014"},
+{"n":"2013","v":"2013"},
+{"n":"2012","v":"2012"},
+{"n":"2011","v":"2011"},
+{"n":"2010","v":"2010"}
+]
+},
+{
+"key":"by",
+"name":"By",
+"value":[
+{"n":"All","v":""},
+{"n":"Time","v":"time"},
+{"n":"Hits","v":"hits"},
+{"n":"Score","v":"score"}
+]
+}
+],
+"2":[
+{
+"key":"class",
+"name":"剧情",
+"value":[
+{"n":"All","v":""},
+{"n":"Costume","v":"电视剧-古装"},
+{"n":"War","v":"电视剧-战争"},
+{"n":"Comedy","v":"电视剧-喜剧"},
+{"n":"Family","v":"电视剧-家庭"},
+{"n":"Criminal","v":"电视剧-犯罪"},
+{"n":"Action","v":"电视剧-动作"},
+{"n":"Fantasy","v":"电视剧-奇幻"},
+{"n":"Drama","v":"电视剧-剧情"},
+{"n":"Science","v":"电视剧-科幻"},
+{"n":"Thriller","v":"电视剧-惊悚"},
+{"n":"Horror","v":"电视剧-恐怖"},
+{"n":"Suspense","v":"电视剧-悬疑"},
+{"n":"Time-travel","v":"电视剧-穿越"},
+{"n":"Other","v":"电视剧-其它"}
+]
+},
+{
+"key":"area",
+"name":"Area",
+"value":[
+{"n":"All","v":""},
+{"n":"China","v":"大陆"},
+{"n":"Hong Kong","v":"香港"},
+{"n":"Taiwan","v":"台湾"},
+{"n":"Us","v":"欧美"},
+{"n":"Japan","v":"日本"},
+{"n":"Korea","v":"韩国"},
+{"n":"Thailand","v":"泰国"},
+{"n":"Singapore Malaysia","v":"新马"},
+{"n":"Other","v":"其它"}
+]
+},
+{
+"key":"year",
+"name":"Year",
+"value":[
+{"n":"All","v":""},
+{"n":"2022","v":"2022"},
+{"n":"2021","v":"2021"},
+{"n":"2020","v":"2020"},
+{"n":"2019","v":"2019"},
+{"n":"2018","v":"2018"},
+{"n":"2017","v":"2017"},
+{"n":"2016","v":"2016"},
+{"n":"2015","v":"2015"},
+{"n":"2014","v":"2014"},
+{"n":"2013","v":"2013"},
+{"n":"2012","v":"2012"},
+{"n":"2011","v":"2011"},
+{"n":"2010","v":"2010"},
+{"n":"2009","v":"2009"},
+{"n":"2008","v":"2008"},
+{"n":"2007","v":"2007"},
+{"n":"2006","v":"2006"},
+{"n":"2005","v":"2005"},
+{"n":"2004","v":"2004"}
+]
+},
+{
+"key":"by",
+"name":"By",
+"value":[
+{"n":"All","v":""},
+{"n":"Time","v":"time"},
+{"n":"Hits","v":"hits"},
+{"n":"Score","v":"score"}
+]
+}
+],
+"4":[
+{
+"key":"area",
+"name":"Area",
+"value":[
+{"n":"All","v":""},
+{"n":"China","v":"大陆"},
+{"n":"Japan","v":"日本"},
+{"n":"Us","v":"欧美"},
+{"n":"Other","v":"其它"}
+]
+},
+{
+"key":"year",
+"name":"Year",
+"value":[
+{"n":"All","v":""},
+{"n":"2022","v":"2022"},
+{"n":"2021","v":"2021"},
+{"n":"2020","v":"2020"},
+{"n":"2019","v":"2019"},
+{"n":"2018","v":"2018"},
+{"n":"2017","v":"2017"},
+{"n":"2016","v":"2016"},
+{"n":"2015","v":"2015"},
+{"n":"2014","v":"2014"},
+{"n":"2013","v":"2013"},
+{"n":"2012","v":"2012"},
+{"n":"2011","v":"2011"},
+{"n":"2010","v":"2010"},
+{"n":"2009","v":"2009"},
+{"n":"2008","v":"2008"},
+{"n":"2007","v":"2007"},
+{"n":"2006","v":"2006"},
+{"n":"2005","v":"2005"},
+{"n":"2004","v":"2004"}
+]
+},
+{
+"key":"by",
+"name":"By",
+"value":[
+{"n":"All","v":""},
+{"n":"Time","v":"time"},
+{"n":"Hits","v":"hits"},
+{"n":"Score","v":"score"}
+]
+}
+],
+"3":[
+{
+"key":"area",
+"name":"Area",
+"value":[
+{"n":"All","v":""},
+{"n":"China","v":"大陆"},
+{"n":"Hong Kong","v":"香港"},
+{"n":"Korea","v":"韩国"},
+{"n":"Japan","v":"日本"},
+{"n":"Taiwan","v":"台湾"},
+{"n":"Us","v":"欧美"}
+]
+},
+{
+"key":"year",
+"name":"Year",
+"value":[
+{"n":"All","v":""},
+{"n":"2022","v":"2022"},
+{"n":"2021","v":"2021"},
+{"n":"2020","v":"2020"},
+{"n":"2019","v":"2019"},
+{"n":"2018","v":"2018"},
+{"n":"2017","v":"2017"},
+{"n":"2016","v":"2016"},
+{"n":"2015","v":"2015"},
+{"n":"2014","v":"2014"},
+{"n":"2013","v":"2013"},
+{"n":"2012","v":"2012"},
+{"n":"2011","v":"2011"},
+{"n":"2010","v":"2010"},
+{"n":"2009","v":"2009"},
+{"n":"2008","v":"2008"},
+{"n":"2007","v":"2007"},
+{"n":"2006","v":"2006"},
+{"n":"2005","v":"2005"},
+{"n":"2004","v":"2004"}
+]
+},
+{
+"key":"by",
+"name":"By",
+"value":[
+{"n":"All","v":""},
+{"n":"Time","v":"time"},
+{"n":"Hits","v":"hits"},
+{"n":"Score","v":"score"}
+]
+}
+],
+"21":[
+{
+"key":"area",
+"name":"Area",
+"value":[
+{"n":"All","v":""},
+{"n":"China","v":"大陆"},
+{"n":"Hong Kong","v":"香港"},
+{"n":"Taiwan","v":"台湾"},
+{"n":"Korea","v":"韩国"},
+{"n":"Us","v":"欧美"},
+{"n":"Japan","v":"日本"},
+{"n":"Other","v":"其它"}
+]
+},
+{
+"key":"by",
+"name":"By",
+"value":[
+{"n":"All","v":""},
+{"n":"Time","v":"time"},
+{"n":"Hits","v":"hits"},
+{"n":"Score","v":"score"}
+]
+}
+]
+}
+}
