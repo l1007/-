@@ -536,6 +536,28 @@ http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&
 #EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]TLC
 http://50.7.220.74:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa051684246e01ce52856a305d46b4c1ddbc56ca810fb984007786995/0.jpg",狼群
+https://m3u.if101.tv/xm3u8/413026ff81ff76910ebf575b1146819e5b9b35b3379b5a402d2aaee4dbecfec19921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://iknow-pic.cdn.bcebos.com/c83d70cf3bc79f3d816ce7a5a8a1cd11738b2991",上帝的国度
+https://m3u8.zhisongip.com:38741/video/2fa083bf3dd588498f951962458c0c6a.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa0516842e83c0a43387daa5b1699bdc4ee8e659630d951d2d0da0ed1/0.jpg",沉默的双胞胎
+https://m3u8.zhisongip.com:38741/video/f2d4791d8bf7dc4d3cf5cf9d502078bd.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/64dbe27e0ba590330871b37a3c07194f.jpeg",狙击手·白乌鸦
+https://m3u.if101.tv/xm3u8/9336a2fa4465f372b600649949d681d5cd05cb471e8c9e2cc4e5c38178dba2a69921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa0516842022f1b55d403674c6a69ee31c8418703acea6f7954b50170/0.jpg",34号跑道
+https://m3u8.zhisongip.com:38741/video/66b47df09c8a0511ab7e6905f52b6891.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/de493ea04ea27904a5fb1a44fff9b9a0.jpeg",新·奥特曼
+https://m3u8.zhisongip.com:38741/video/a5867f5ef01fded73e6ba263fea4092f.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa0516842e33653fb9898a948dcad01032035026a043bf363b4250951/0.jpg",米雅的精灵王国
+https://m3u8.zhisongip.com:38741/video/d35133f6a4bf5928a95293e853329e13.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa05168424d07734d0edc7303e9d165ed3e594545129fdd63eb8bf9fc/0.jpg",我要和你在一起
+https://m3u.if101.tv/xm3u8/1a807055267913467e462ab9e6ef6f3cb5fa3741bda2622022e5071cc42aed5a9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa05168424d07734d0edc7303346396fc00331e5b055c1ae3d52ff1e7/0.jpg",生死排爆
+https://m3u8.zhisongip.com:38741/video/6e547b14afa35a798610d44eaddc615c.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa05168421f22e308a1f35195a78bb50c45ec9aa39617ce473706db8e/0.jpg",6/45
+https://m3u8.zhisongip.com:38741/video/dc93e1c93a71dcc6fb1b4f888bb6a3ed.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa051684251ec10981017d4671fc5a8be88789ba23cd86d7b0e7fce4e/0.jpg",丧尸不要停
+https://m3u8.zhisongip.com:38741/video/f9be4a8f52b4e031ff7ff8324168d7e2.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa05168425eb8eb992870b92b66afb349901d132b53a1975ca6b5a858/0.jpg",爱跃星空
 https://m3u8.zhisongip.com:38741/video/06e9d462a6eed5acf1fba153f8e28837.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa0516842710441f93421ab0538e2fb6c583fc3ba8aa1e049c7e5f60a/0.jpg",被消失的凶案
@@ -557,6 +579,34 @@ https://m3u8.zhisongip.com:38741/video/3243bff26217290e280d903dc5cca656.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5265806d367e88e1cfb0a89e273a8cee.jpeg",狩猎
 https://m3u8.zhisongip.com:38741/video/03ec531f9dcfef69c8a8201820de7b3e.m3u8
 
+#EXTINF:-1 group-title="2021" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f94e3d097b2f579de0a58ab6cf93a142.jpeg",8位机圣诞
+https://m3u8.zhisongip.com:38741/video/c1b5d066fbfd39423ac35cd7ea1c067c.m3u8
+#EXTINF:-1 group-title="2021" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a0c593e8267319d4813e6b9de8bccd43.jpeg",浅草小子
+https://m3u.if101.tv/xm3u8/8b8f051413c5752acf8b25099ffb9645ea2c56586700bdc6bd779063e3faf5c99921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2021" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d40ff7ed9689de82b34a3626c6a6de3a.jpeg",美国女孩
+https://m3u.if101.tv/xm3u8/f9302f4f1e69a1dd065c9491f74dafa094332e47e0ec45607baa0e3569e0db0d9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2021" tvg-logo="https://pic.rmb.bdstatic.com/bjh/852f14859b8772b8e85f9b46828fd506.jpeg",圣诞男孩
+https://m3u.if101.tv/xm3u8/9706b700ce0b831557a0da2ff422906e89e6cc03a1413a7bebea78354c443a1f9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2021" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c97fa8cec0390e01ff8ba680de93739f.jpeg",一部警察电影
+https://m3u.if101.tv/xm3u8/3fef68884c98baa04cac63132284e49512269d15e8c42b432317f6fe740fb25c9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2021" tvg-logo="https://pic.rmb.bdstatic.com/bjh/eeea8c0ae74a3cdf1b4ff881cfe98665.jpeg",失控玩家
+https://m3u.if101.tv/xm3u8/562983c52c5c9164ab5e36c7465e9f5e446ce36571ea5544d5f0a8d29033ab669921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2021" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5082782d5b19754c037e3adddebaec3b.jpeg",致埃文·汉森
+https://m3u.if101.tv/xm3u8/01f9a5acebaac3484465071861918405acc29a31637a3a4b0957c92f8dce23959921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2021" tvg-logo="https://pic.rmb.bdstatic.com/bjh/815035928be5e815ba04a5ab6e80ac4f.jpeg",你好，李焕英
+https://m3u.if101.tv/xm3u8/a838e8326be60623f78f520112bf3674b11550726e38d7cd75fc974be90807ed9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2021" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa051684246e01ce52856a305ffc958896bf2d80e467516e1bc408d68/0.jpg",沙漠伏击
+https://m3u8.zhisongip.com:38741/video/7543f3b06343a4207134d847aa121eb2.m3u8
+#EXTINF:-1 group-title="2021" tvg-logo="https://pic.rmb.bdstatic.com/bjh/dc181c805ab1dd9b5901841ab1db8c7f.jpeg",爱情神话
+https://m3u.if101.tv/xm3u8/ba0bcff692d23d8d600a128eefd254d4355c3199cb3589c57b3fe41e98bef7969921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2021" tvg-logo="https://pic.rmb.bdstatic.com/bjh/28e7f088c653054de544d385c6c14a2e.jpeg",德维塔耶夫
+https://m3u.if101.tv/xm3u8/9100397642ca9603e609d05512317de690e32d8dc19ac125429d11518112b7029921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2021" tvg-logo="https://pic.rmb.bdstatic.com/bjh/315d617c510c4a27ce2780a5f8ecf6a5.jpeg",天降竹马
+https://vip.lz-cdn1.com/20220317/128_4cd2a712/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="2021" tvg-logo="https://i0.hdslb.com/bfs/album/31037133e13be171e2677cfbedd472dfc741233f.jpg",古董局中局
+https://m3u.if101.tv/xm3u8/ca431e5e932f127f4cb077defc48eeebe8b60e27532d160b7e8f997ebb88f3499921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2021" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2c6d5394de70fbc843f72180efc26087.jpeg",一杯上路
+https://m3u.if101.tv/xm3u8/3c763e41640bff1d047863c4711c24e163cb2f46fbf05201764b0e34626930ed9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="2021" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1dd46aca812cdeb05c14124be7c963a3.jpeg",137枪
 https://m2.taopianplay1.com:43333/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/74d2ec5b-73ec-4d43-87c4-c772f8fb9e86/41982/a8f2e6bd-a185-48b5-9f27-b1043db9705a/SD/playlist.m3u8
 #EXTINF:-1 group-title="2021" tvg-logo="https://pic.rmb.bdstatic.com/bjh/bf909f9e79aa96e7cd781d4d9194b155.jpeg",复见余生
