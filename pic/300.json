@@ -1,67 +1,67 @@
 {
 "作者":"lekbox",
-"站名":"极品",
-"主页url":"https://www.jpys.me",
+"站名":"创艺",
+"主页url":"https://www.30dian.cn",
 "热门推荐":"1",
 "直接播放":"0",
 "列表显示":"0",
 "图片代理":"0",
 "起始页":"1",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "lazyload\"",
-"jiequshuzuhou": "</a>",
-"tupianqian": "data-original=\"",
-"tupianhou": "\"",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-"sousuohou": "&limit=500",
-"sousuohouzhui": "/voddetail/",
-"ssmoshi": "0",
-"sousuoshifouercijiequ": "0",
-"jspic": "pic",
-"jsname": "name",
-"jsid": "id",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "空",
-"ssjiequshuzuhou": "空",
-"sstupianqian": "空",
-"sstupianhou": "空",
-"ssbiaotiqian": "空",
-"ssbiaotihou": "空",
-"sslianjieqian": "空",
-"sslianjiehou": "空",
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"myui-content__list",
-"bfjiequshuzuhou": "</ul>",
-"zhuangtaiqian": "更新：</span>",
-"zhuangtaihou": "</p>",
-"daoyanqian": "导演：</span>",
-"daoyanhou": "</p>",
-"zhuyanqian": "主演：</span>",
-"zhuyanhou": "</p>",
-"juqingqian": "简介：</span>",
-"juqinghou": "<a",
-"bfyshifouercijiequ": "0",
-"bfyjiequqian": "空",
-"bfyjiequhou": "空",
-"bfyjiequshuzuqian": "<a",
-"bfyjiequshuzuhou": "/a>",
-"bfbiaotiqian": ">",
-"bfbiaotihou": "<",
-"bflianjieqian": "href=\"",
+"shifouercijiequ": "0", 
+"jiequqian": "空", 
+"jiequhou": "空", 
+"jiequshuzuqian": "class=\"myui-vodlist__box\"", 
+"jiequshuzuhou": "</span>", 
+"tupianqian": "original=\"", 
+"tupianhou": "\"", 
+"biaotiqian": "title=\"", 
+"biaotihou": "\"", 
+"lianjieqian": "href=\"", 
+"lianjiehou": "\"", 
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=", 
+"sousuohou": "&limit=500", 
+"sousuohouzhui": "/voddetail/", 
+"ssmoshi": "0", 
+"sousuoshifouercijiequ": "0", 
+"jspic": "pic", 
+"jsname": "name", 
+"jsid": "id", 
+"ssjiequqian": "空", 
+"ssjiequhou": "空", 
+"ssjiequshuzuqian": "空", 
+"ssjiequshuzuhou": "空", 
+"sstupianqian": "空", 
+"sstupianhou": "空", 
+"ssbiaotiqian": "空", 
+"ssbiaotihou": "空", 
+"sslianjieqian": "空", 
+"sslianjiehou": "空", 
+"bfshifouercijiequ": "0", 
+"bfjiequqian": "空", 
+"bfjiequhou": "空", 
+"bfjiequshuzuqian": "id=\"playlist", 
+"bfjiequshuzuhou": "</ul>", 
+"zhuangtaiqian": "class=\"text-red\">", 
+"zhuangtaihou": "</span>", 
+"daoyanqian": "导演：</span>", 
+"daoyanhou": "</p>", 
+"zhuyanqian": "主演：</span>", 
+"zhuyanhou": "</p>", 
+"juqingqian": "style=\"display: none;\"><p>", 
+"juqinghou": "</p>", 
+"bfyshifouercijiequ": "0", 
+"bfyjiequqian": "空", 
+"bfyjiequhou": "空", 
+"bfyjiequshuzuqian": "<a", 
+"bfyjiequshuzuhou": "/a>", 
+"bfbiaotiqian": ">", 
+"bfbiaotihou": "<", 
+"bflianjieqian": "href=\"", 
 "bflianjiehou": "\"",
 "免嗅":"1",
 "副标题":"class=\"text-right\"></span>",
-"分类":"电影$1#电视剧$2#综艺$4#动漫$3",
-"分类url":"https://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$30",
+"分类url":"https://www.30dian.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "筛选":{
 "1":[
 {
@@ -102,7 +102,7 @@
 {"n":"马来西亚","v":"马来西亚"},
 {"n":"新加坡","v":"新加坡"},
 {"n":"泰国","v":"泰国"},
-{"n":"其他","v":"其它"}
+{"n":"其他","v":"其他"}
 ]
 },
 {
@@ -156,7 +156,7 @@
 {"n":"恐怖","v":"恐怖"},
 {"n":"悬疑","v":"悬疑"},
 {"n":"穿越","v":"穿越"},
-{"n":"其他","v":"其它"}
+{"n":"其他","v":"其他"}
 ]
 },
 {
@@ -164,7 +164,7 @@
 "name":"地区",
 "value":[
 {"n":"全部","v":""},
-{"n":"大陆","v":"内地"},
+{"n":"大陆","v":"大陆"},
 {"n":"香港","v":"香港"},
 {"n":"台湾","v":"台湾"},
 {"n":"美国","v":"美国"},
@@ -172,56 +172,7 @@
 {"n":"韩国","v":"韩国"},
 {"n":"泰国","v":"泰国"},
 {"n":"印度","v":"印度"},
-{"n":"其他","v":"其它"}
-]
-},
-{
-"key":"year",
-"name":"年份",
-"value":[
-{"n":"全部","v":""},
-{"n":"2022","v":"2022"},
-{"n":"2021","v":"2021"},
-{"n":"2020","v":"2020"},
-{"n":"2019","v":"2019"},
-{"n":"2018","v":"2018"},
-{"n":"2017","v":"2017"},
-{"n":"2016","v":"2016"},
-{"n":"2015","v":"2015"},
-{"n":"2014","v":"2014"},
-{"n":"2013","v":"2013"},
-{"n":"2012","v":"2012"},
-{"n":"2011","v":"2011"},
-{"n":"2010","v":"2010"},
-{"n":"2009","v":"2009"},
-{"n":"2008","v":"2008"},
-{"n":"2007","v":"2007"},
-{"n":"2006","v":"2006"},
-{"n":"2005","v":"2005"},
-{"n":"2004","v":"2004"}
-]
-},
-{
-"key":"by",
-"name":"排序",
-"value":[
-{"n":"全部","v":""},
-{"n":"时间","v":"time"},
-{"n":"人气","v":"hits"},
-{"n":"评分","v":"score"}
-]
-}
-],
-"3":[
-{
-"key":"area",
-"name":"地区",
-"value":[
-{"n":"全部","v":""},
-{"n":"中国","v":"内地"},
-{"n":"日本","v":"日本"},
-{"n":"欧美","v":"欧美"},
-{"n":"其他","v":"其它"}
+{"n":"其他","v":"其他"}
 ]
 },
 {
@@ -263,6 +214,55 @@
 ],
 "4":[
 {
+"key":"area",
+"name":"地区",
+"value":[
+{"n":"全部","v":""},
+{"n":"中国","v":"大陆"},
+{"n":"日本","v":"日本"},
+{"n":"美国","v":"美国"},
+{"n":"其他","v":"其他"}
+]
+},
+{
+"key":"year",
+"name":"年份",
+"value":[
+{"n":"全部","v":""},
+{"n":"2022","v":"2022"},
+{"n":"2021","v":"2021"},
+{"n":"2020","v":"2020"},
+{"n":"2019","v":"2019"},
+{"n":"2018","v":"2018"},
+{"n":"2017","v":"2017"},
+{"n":"2016","v":"2016"},
+{"n":"2015","v":"2015"},
+{"n":"2014","v":"2014"},
+{"n":"2013","v":"2013"},
+{"n":"2012","v":"2012"},
+{"n":"2011","v":"2011"},
+{"n":"2010","v":"2010"},
+{"n":"2009","v":"2009"},
+{"n":"2008","v":"2008"},
+{"n":"2007","v":"2007"},
+{"n":"2006","v":"2006"},
+{"n":"2005","v":"2005"},
+{"n":"2004","v":"2004"}
+]
+},
+{
+"key":"by",
+"name":"排序",
+"value":[
+{"n":"全部","v":""},
+{"n":"时间","v":"time"},
+{"n":"人气","v":"hits"},
+{"n":"评分","v":"score"}
+]
+}
+],
+"3":[
+{
 "key":"class",
 "name":"分类",
 "value":[
@@ -282,7 +282,7 @@
 "name":"地区",
 "value":[
 {"n":"全部","v":""},
-{"n":"大陆","v":"国产"},
+{"n":"大陆","v":"大陆"},
 {"n":"香港","v":"香港"},
 {"n":"台湾","v":"台湾"},
 {"n":"美国","v":"美国"},
