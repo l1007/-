@@ -1,7 +1,7 @@
 {
 "作者":"lekbox",
-"站名":"大米星球",
-"主页url":"https://www.dmxq.fun",
+"站名":"瓜皮TV",
+"主页url":"https://guapitv.xyz",
 "热门推荐":"1",
 "直接播放":"0",
 "列表显示":"0",
@@ -9,18 +9,18 @@
 "起始页":"1",
 "shifouercijiequ": "1",
 "jiequqian": "class=\"module-items",
-"jiequhou": "class=\"fixedGroup",
-"jiequshuzuqian": "<a",
-"jiequshuzuhou": "alt=\"",
+"jiequhou": "<div id=\"page", 
+"jiequshuzuqian": "<a", 
+"jiequshuzuhou": "alt=\"", 
 "tupianqian": "data-original=\"",
-"tupianhou": "\"",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"lianjieqian": "href=\"",
+"tupianhou": "\"", 
+"biaotiqian": "title=\"", 
+"biaotihou": "\"", 
+"lianjieqian": "href=\"", 
 "lianjiehou": "\"",
 "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
 "sousuohou": "&limit=500",
-"sousuohouzhui": "/voddetail/",
+"sousuohouzhui": "/index.php/vod/detail/id/", 
 "ssmoshi": "0",
 "sousuoshifouercijiequ": "0",
 "jspic": "pic",
@@ -39,31 +39,31 @@
 "bfshifouercijiequ": "0",
 "bfjiequqian": "空",
 "bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"module-play-list\"",
+"bfjiequshuzuqian": "<div class=\"module-play-list-content",
 "bfjiequshuzuhou": "</div>",
-"zhuangtaiqian": "备注：</span>",
+"zhuangtaiqian": "更新：</span>",
 "zhuangtaihou": "</div>",
-"daoyanqian": "导演：</span>",
+"daoyanqian": "导演：</span>", 
 "daoyanhou": "</div>",
 "zhuyanqian": "主演：</span>",
 "zhuyanhou": "</div>",
-"juqingqian": "n-content\"><p>",
+"juqingqian": "introduction-content\"><p>", 
 "juqinghou": "</p>",
 "bfyshifouercijiequ": "0",
 "bfyjiequqian": "空",
-"bfyjiequhou": "空",
+"bfyjiequhou": "空", 
 "bfyjiequshuzuqian": "<a",
-"bfyjiequshuzuhou": "/a>",
-"bfbiaotiqian": "span>",
-"bfbiaotihou": "</span",
-"bflianjieqian": "href=\"",
+"bfyjiequshuzuhou": "/a>", 
+"bfbiaotiqian": "span>", 
+"bfbiaotihou": "</span", 
+"bflianjieqian": "href=\"", 
 "bflianjiehou": "\"",
 "免嗅":"1",
 //"副标题":"class=\"note\"></div>",
-"分类":"电影$20#电视剧$21#综艺纪录$23#动漫$22",
-"分类url":"https://www.dmxq.fun/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$21",
+"分类url":"https://www.guapi1.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "筛选":{
-"20":[
+"1":[
 {
 "key":"class",
 "name":"分类",
@@ -137,7 +137,7 @@
 ]
 }
 ],
-"21":[
+"2":[
 {
 "key":"class",
 "name":"分类",
@@ -215,13 +215,13 @@
 ]
 }
 ],
-"22":[
+"4":[
 {
 "key":"area",
 "name":"地区",
 "value":[
 {"n":"全部","v":""},
-{"n":"中国","v":"大陆"},
+{"n":"中国","v":"中国大陆"},
 {"n":"日本","v":"日本"},
 {"n":"美国","v":"美国"},
 {"n":"其他","v":"其他"}
@@ -264,7 +264,7 @@
 ]
 }
 ],
-"23":[
+"3":[
 {
 "key":"class",
 "name":"分类",
@@ -285,7 +285,7 @@
 "name":"地区",
 "value":[
 {"n":"全部","v":""},
-{"n":"大陆","v":"大陆"},
+{"n":"大陆","v":"中国大陆"},
 {"n":"香港","v":"中国香港"},
 {"n":"韩国","v":"韩国"},
 {"n":"日本","v":"日本"},
