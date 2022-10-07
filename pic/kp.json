@@ -3,7 +3,7 @@
 "站名":"看片",
 "主页url":"https://www.kpkuang.de",
 "热门推荐":"1",
-"直接播放":"0",
+"直接播放":"1",
 "列表显示":"0",
 "图片代理":"0",
 "起始页":"1",
@@ -59,7 +59,7 @@
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\"",
 "免嗅":"1",
-"副标题":"class=\"n-bottom\"></span",
+//"副标题":"class=\"n-bottom\"></span",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
 "分类url":"https://www.kpkuang.de/vodshow/{cateId}-{area}-{by}------{catePg}--{class}-{year}--.html",
 "筛选":{
