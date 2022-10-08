@@ -7,20 +7,20 @@
 "列表显示":"0",
 "图片代理":"0",
 "起始页":"1",
-"shifouercijiequ": "0", //截取的列表数组是否需要二次截取，0不需要，1需要
-"jiequqian": "空", //不需要二次截取就填空
-"jiequhou": "空", //不需要二次截取就填空
-"jiequshuzuqian": "class=\"hl-item-thumb", //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-"jiequshuzuhou": "</a>", //截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义
-"tupianqian": "data-original=\"", //列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
-"tupianhou": "\"", //列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义
-"biaotiqian": "title=\"", //列表中资源的标题前关键词,截取的关键词有 " 的用 \ 进行转义
-"biaotihou": "\"", //列表中资源的标题后关键词,截取的关键词有 " 的用 \ 进行转义
-"lianjieqian": "href=\"", //列表中资源的详情页跳转链接前关键词,截取的关键词有 " 的用 \ 进行转义
-"lianjiehou": "\"", //列表中资源的详情页跳转链接后关键词,截取的关键词有 " 的用 \ 进行转义
+"shifouercijiequ": "0",
+"jiequqian": "空",
+"jiequhou": "空", 
+"jiequshuzuqian": "class=\"hl-item-thumb",
+"jiequshuzuhou": "</a>",
+"tupianqian": "data-original=\"", 
+"tupianhou": "\"",
+"biaotiqian": "title=\"", 
+"biaotihou": "\"", 
+"lianjieqian": "href=\"", 
+"lianjiehou": "\"", 
 "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
 "sousuohou": "&limit=500",
-"sousuohouzhui": "/voddetail/", //搜索页影片跳转详情页的中间标识链接部分
+"sousuohouzhui": "/voddetail/", 
 "ssmoshi": "0",
 "sousuoshifouercijiequ": "0",
 "jspic": "pic",
@@ -39,24 +39,24 @@
 "bfshifouercijiequ": "0",
 "bfjiequqian": "空",
 "bfjiequhou": "空",
-"bfjiequshuzuqian": "id=\"hl-plays-list", //播放截取的列表数组的前关键词
-"bfjiequshuzuhou": "<div", //播放截取的列表数组的后关键词
-"zhuangtaiqian": "状态：</em><span class=\"hl-text-conch\">", //状态前关键词
-"zhuangtaihou": "</span>", //状态后关键词
-"daoyanqian": "导演：</em>", //导演前关键词
-"daoyanhou": "</li>", //导演态后关键词
-"zhuyanqian": "主演：</em>", //主演前关键词
-"zhuyanhou": "</li>", //主演后关键词
-"juqingqian": "简介：</em>", //剧情前关键词
-"juqinghou": "</li>", //剧情后关键词
-"bfyshifouercijiequ": "0", //截取的播放列表数组是否需要二次截取，0不需要，1需要
-"bfyjiequqian": "空", //不需要二次截取就填空
-"bfyjiequhou": "空", //不需要二次截取就填空
-"bfyjiequshuzuqian": "<a", //播放剧集数组前关键词
-"bfyjiequshuzuhou": "/a>", //播放剧集数组后关键词
-"bfbiaotiqian": ">", //播放剧集标题前关键词
-"bfbiaotihou": "<", //状播放剧集标题后关键词
-"bflianjieqian": "href=\"", //播放剧集链接前关键词
+"bfjiequshuzuqian": "id=\"hl-plays-list",
+"bfjiequshuzuhou": "<div",
+"zhuangtaiqian": "状态：</em><span class=\"hl-text-conch\">", 
+"zhuangtaihou": "</span>",
+"daoyanqian": "导演：</em>", 
+"daoyanhou": "</li>", 
+"zhuyanqian": "主演：</em>",
+"zhuyanhou": "</li>", 
+"juqingqian": "简介：</em>", 
+"juqinghou": "</li>", 
+"bfyshifouercijiequ": "0", 
+"bfyjiequqian": "空", 
+"bfyjiequhou": "空", 
+"bfyjiequshuzuqian": "<a", 
+"bfyjiequshuzuhou": "/a>", 
+"bfbiaotiqian": ">", 
+"bfbiaotihou": "<",
+"bflianjieqian": "href=\"", 
 "bflianjiehou": "\"",
 "免嗅":"1",
 "副标题":"class=\"remarks\"></span>",
