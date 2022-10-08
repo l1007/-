@@ -1,7 +1,7 @@
 {
 "作者":"lekbox",
-"站名":"美剧天堂",
-"主页url":"https://www.90r.cc",
+"站名":"348",
+"主页url":"https://www.348z.com",
 "热门推荐":"1",
 "直接播放":"0",
 "列表显示":"0",
@@ -10,60 +10,60 @@
 "shifouercijiequ": "0",
 "jiequqian": "空",
 "jiequhou": "空",
-"jiequshuzuqian": "class=\"mo-paxs-5px mo-pamd-10px mo-cols-info mo-cols-xs4 mo-cols-sm3 mo-cols-lg2",
-"jiequshuzuhou": "</li>",
+"jiequshuzuqian": "class=\"pack-ykpack",
+"jiequshuzuhou": "</div>",
 "tupianqian": "data-original=\"",
 "tupianhou": "\"",
-"biaotiqian": "\.html\">",
-"biaotihou": "</a>",
+"biaotiqian": "title=\"",
+"biaotihou": "\"",
 "lianjieqian": "href=\"",
 "lianjiehou": "\"",
 "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-"sousuohou": "",
+"sousuohou": "&limit=500",
 "sousuohouzhui": "/voddetail/",
-"ssmoshi": "0",
+"ssmoshi": "1",
 "sousuoshifouercijiequ": "0",
-"jspic": "pic",
-"jsname": "name",
-"jsid": "id",
+"jspic": "空",
+"jsname": "空",
+"jsid": "空",
 "ssjiequqian": "空",
 "ssjiequhou": "空",
-"ssjiequshuzuqian": "空",
-"ssjiequshuzuhou": "空",
-"sstupianqian": "空",
-"sstupianhou": "空",
-"ssbiaotiqian": "空",
-"ssbiaotihou": "空",
-"sslianjieqian": "空",
-"sslianjiehou": "空",
+"ssjiequshuzuqian": "class=\"thumb",
+"ssjiequshuzuhou": "</li>",
+"sstupianqian": "data-original=\"",
+"sstupianhou": "\"",
+"ssbiaotiqian": "title=\"",
+"ssbiaotihou": "\"",
+"sslianjieqian": "href=\"",
+"sslianjiehou": "\"",
 "bfshifouercijiequ": "0",
 "bfjiequqian": "空",
 "bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"mo-movs-item mo-sort-boxs mo-cols-rows mo-pamd-5px mo-cols-show",
+"bfjiequshuzuqian": "<ul class=\"content_playlist",
 "bfjiequshuzuhou": "</ul>",
-"zhuangtaiqian": "年份:&nbsp;</span>",
+"zhuangtaiqian": "状态：</span>",
 "zhuangtaihou": "</li>",
-"daoyanqian": "导演:&nbsp;</span>",
+"daoyanqian": "导演：</span>",
 "daoyanhou": "</li>",
-"zhuyanqian": "\_blank\">",
-"zhuyanhou": "</a>",
-"juqingqian": "class=\"mo-paxs-5px mo-ptxs-0px",
+"zhuyanqian": "主演：</span>",
+"zhuyanhou": "</li>",
+"juqingqian": "详情：</span>",
 "juqinghou": "</div>",
 "bfyshifouercijiequ": "0",
 "bfyjiequqian": "空",
 "bfyjiequhou": "空",
-"bfyjiequshuzuqian": "<a",
-"bfyjiequshuzuhou": "/a>",
+"bfyjiequshuzuqian": "<li",
+"bfyjiequshuzuhou": "</li>",
 "bfbiaotiqian": ">",
-"bfbiaotihou": "<",
+"bfbiaotihou": "</a>",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\"",
 "免嗅":"1",
 //"副标题":"class=\"note\"></div>",
-"分类":"电影$dianying#电视剧$jiju#综艺$zongyi#动漫$dongman",
-"分类url":"https://www.90r.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4#4K$37",
+"分类url":"https://www.348z.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
 "筛选":{
-"dianying":[
+"1":[
 {
 "key":"class",
 "name":"分类",
@@ -103,7 +103,7 @@
 {"n":"印度","v":"印度"},
 {"n":"韩国","v":"韩国"},
 {"n":"泰国","v":"泰国"},
-{"n":"其它","v":"其它"}
+{"n":"其他","v":"其他"}
 ]
 },
 {
@@ -137,7 +137,7 @@
 ]
 }
 ],
-"jiju":[
+"2":[
 {
 "key":"class",
 "name":"分类",
@@ -158,7 +158,7 @@
 {"n":"恐怖","v":"恐怖"},
 {"n":"悬疑","v":"悬疑"},
 {"n":"穿越","v":"穿越"},
-{"n":"其它","v":"其它"}
+{"n":"其他","v":"其他"}
 ]
 },
 {
@@ -175,7 +175,7 @@
 {"n":"韩国","v":"韩国"},
 {"n":"泰国","v":"泰国"},
 {"n":"印度","v":"印度"},
-{"n":"其它","v":"其它"}
+{"n":"其他","v":"其他"}
 ]
 },
 {
@@ -215,7 +215,7 @@
 ]
 }
 ],
-"dongman":[
+"4":[
 {
 "key":"area",
 "name":"地区",
@@ -224,7 +224,7 @@
 {"n":"中国","v":"中国大陆"},
 {"n":"日本","v":"日本"},
 {"n":"美国","v":"美国"},
-{"n":"其它","v":"其它"}
+{"n":"其他","v":"其他"}
 ]
 },
 {
@@ -264,7 +264,7 @@
 ]
 }
 ],
-"zongyi":[
+"3":[
 {
 "key":"class",
 "name":"分类",
@@ -277,7 +277,7 @@
 {"n":"搞笑","v":"搞笑"},
 {"n":"少儿","v":"少儿"},
 {"n":"纪录","v":"纪录"},
-{"n":"其它","v":"其它"}
+{"n":"其他","v":"其他"}
 ]
 },
 {
