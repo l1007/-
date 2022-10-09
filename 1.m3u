@@ -536,6 +536,22 @@ http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&
 #EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]TLC
 http://50.7.220.74:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 
+#EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/50a17b4582575e2b7441898f9ea31e36.jpeg",我吃了那男孩一整年的早餐
+https://m3u.if101.tv/xm3u8/7c41a957bb394590c3b16776108b9b7d2bec2b54863d1bae20fe53910e2012549921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d3f0a6938b2ec9c5c94295db1eca3ea1.jpeg",天堂公路
+https://m3u.if101.tv/xm3u8/d4b32a34fceb53aa3895c0cdfa59a6cefe824b04a463b091041d52addbdbbd189921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa0516842bd009e888927bc0ac223064bf18a33a9879b583e737ff49f/0.jpg",暗夜狼人
+https://m3u.if101.tv/xm3u8/3849e0c407efdea33bc62595d8728549dcf3f5433187cbe752c0e6198f8c11429921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa0516842bd009e888927bc0aa1ac80a22f92651a2032b4362219483e/0.jpg",最幸运的女孩
+https://m3u.if101.tv/xm3u8/b07ab14bdc4bada78c8ddd2f9a5717e45d1f0a9d656261c021f58232499f12089921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa0516842bd009e888927bc0af1264236142fe49ffdbab6d0aa70cbfb/0.jpg",2037
+https://m3u.if101.tv/xm3u8/3f46585a59d9998ef091d549b1ae06765c2733dd627dedae8c8c2d5b92d8884d9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4c046aca58754b208c9ccf4a55260ee2.jpeg",独行月球
+https://m3u.if101.tv/xm3u8/271d10761840b713ba2f3e15da6e42a4c9ab4d41261f29624d1e9269ad8105c69921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa051684240df581a6f2a0519f9f724d6b2677dace04f6551e06cd159/0.jpg",巨星养成记
+https://m3u.if101.tv/xm3u8/ec677ddc8adc3326f06ac485fe3dab0a85b1d102d9c069bc03a4a1726f839f429921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa0516842cc005f97b716f82f175d52898ba11214babc5c0a7400ba59/0.jpg",变种人：幽灵战姬
+https://m3u.if101.tv/xm3u8/d9e414bcd2a0fdc6f22ecb6333d3403198920ac40277aa2838c0c282540f272d9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa051684246e01ce52856a305d46b4c1ddbc56ca810fb984007786995/0.jpg",狼群
 https://m3u.if101.tv/xm3u8/413026ff81ff76910ebf575b1146819e5b9b35b3379b5a402d2aaee4dbecfec19921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://iknow-pic.cdn.bcebos.com/c83d70cf3bc79f3d816ce7a5a8a1cd11738b2991",上帝的国度
