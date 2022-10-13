@@ -39,14 +39,8 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://static.astroawani.com/images/astro_awani_501_logo.png",Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/90_144.png",CCTV4
-http://111.20.33.93/PLTV/88888893/224/3221226223/index.m3u8
-#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png",CCTV13
-http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/48/CTI_News_Logo.jpg/200px-CTI_News_Logo.jpg",中天新闻
-http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
-#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/48/CTI_News_Logo.jpg/200px-CTI_News_Logo.jpg",中天新闻2
-http://98.142.138.122:1635/zhiboyuandakaTV/zhongtian98432987.m3u8
+http://50.7.220.74:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png",TVBS新聞台
 rtmp://59.124.75.138/sat/tv551
 #EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/4e/FTV_Logo.svg/600px-FTV_Logo.svg.png",民视
