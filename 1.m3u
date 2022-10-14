@@ -530,6 +530,20 @@ http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&
 #EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]TLC
 http://50.7.220.74:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 
+#EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1ca589a9749991d68a6275caf7cfdeeb.jpeg",暗夜博士
+https://m3u.if101.tv/xm3u8/467ba19e4a0c5dbee610aadb3b6282fa907bac381dab45586124914ed72b575f9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa05168429ecaf5877c61fdc6a737948dd7467ce211bade1b3d4ccd42/0.jpg",春天
+https://m3u.if101.tv/xm3u8/619964b91db33012451aed4438a7792982ea2de06c9eb7e92aed86e8a23628e99921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa05168422cd016916c42ced788a9c49843b57ae7188aa85d2a24186b/0.jpg",特级英雄黄继光
+https://m3u.if101.tv/xm3u8/f3ad152b66bca9bddbffeea1fa7d532d408087ef8a936b3d9f422fb6bb923af39921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa0516842bd009e888927bc0aed8e4d9bd8c89c6316a3b3df8a85aef6/0.jpg",养鬼吃人
+https://m3u.if101.tv/xm3u8/0127b317c823d71cc60feff4b7caf6803c76141a84b4c84c13ca6174a8c72fe49921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://i0.hdslb.com/bfs/album/da2ee443cde231e89f975e8adb056ff008a94b23.jpg",晚安妈咪
+https://m3u.if101.tv/xm3u8/2edbd64e3c47bfbeedabad2084d524743a9f78931702132dc1e7751f50dff9c09921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/00d555653f4b51abc5b7a15e3a1113dd.jpeg",神偷奶爸前传
+https://m3u.if101.tv/xm3u8/9fb6165cdf6ae4de2036cb59494c2df986cc0a5b8b470a7dd2a259a9243a4c699921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c4350113862f2da072a925ee65dcee90.jpeg",光年正传
+https://m3u.if101.tv/xm3u8/32966c21598592c77fa1b65509b23141b7e372f925b324fc8b67cf36e0270ef19921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/50a17b4582575e2b7441898f9ea31e36.jpeg",我吃了那男孩一整年的早餐
 https://m3u.if101.tv/xm3u8/7c41a957bb394590c3b16776108b9b7d2bec2b54863d1bae20fe53910e2012549921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d3f0a6938b2ec9c5c94295db1eca3ea1.jpeg",天堂公路
