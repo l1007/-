@@ -60,7 +60,7 @@
 "bflianjiehou": "\"",
 "免嗅":"1",
 //"副标题":"class=\"note\"></div>",
-"分类":"电影$Movie#电视剧$Tv#综艺纪录$Variety#动漫$Cartoon",
+"分类":"电影$Movie#电视剧$Tv#综艺$Variety#动漫$Cartoon",
 "分类url":"https://www.ajeee.com/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
 "筛选":{
 "Movie":[
