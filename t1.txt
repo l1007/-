@@ -1,60 +1,21 @@
-亚洲,#genre#
+MYTV,#genre#
+TV1,https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
+TV2,https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
+TV6,https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
+NTV7,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 8TV,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
-Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-ASSP,mitv://51.81.90.177:9906/630a2aaa0003fd1a418acb6709fd0fb3
-ASSP 2,mitv://51.81.90.177:9906/630a2b850006f329418e23ab1241569a
-ASSP 3,mitv://51.81.90.177:9906/89ec59d1c7494b91859ae49088d0f94c
-ASSP 4,mitv://51.81.90.177:9906/7ffdcb1808ce47729119ed92e54db6a3
-ASSP 5,mitv://51.81.90.177:9906/a2d72c42277d4f33806798d2d4602bbc
-SPOTV,mitv://51.81.90.177:9906/9029f49196374af7b13a601a532e7495
-AOD 311,mitv://51.81.90.177:9906/0acbe82cb7d64c3889fba6035940a09d
-AOD 352,mitv://51.81.90.177:9906/af8542f44a264aad9dfeb498348e709e
-AOD 354,mitv://51.81.90.177:9906/13184fba07d64d9da68ba630262dec99
-AEC,mitv://51.81.90.177:9906/b57dd45e3fad4283895f56e11820314e
-AEC(備),mitv://51.81.90.177:9906/d956ceff1cac4275b9b2ae2d0fb87a02
-翡翠台(华丽台),mitv://51.81.90.177:9906/c7e2750231af4b4a8062e51e93fba43e
-雙星,mitv://51.81.90.177:9906/8ee38bf9536b415086bb50a6c9cbf00a
-全佳,mitv://51.81.90.177:9906/3a5934f1983746e3b34c2b0e24dfe8ca
-歡喜台,mitv://51.81.90.177:9906/e770579190dd4ce3accfe63f287b0890
-歡喜台(備),mitv://51.81.90.177:9906/9e1407f6658b4af0bd3ff0fb8e41b915
-愛奇藝,mitv://51.81.90.177:9906/25f24b7b5a354a638f342919a8b5266c
-小太阳,mitv://51.81.90.177:9906/25e867c4bc474e4489152d651c9a90cc
-中天亞洲台,mitv://51.81.90.177:9906/81d676cca99b4b10b90c99828a8111ee
-衛視電影台,mitv://51.81.90.177:9906/8d22d953e4184dbfb3753b093f401769
-天映經典,mitv://51.81.90.177:9906/c1a0c02038054f0ca278d14d348fbaaf
-天映頻道,mitv://51.81.90.177:9906/ad9114e184ff4a469895ff75c6c57cb9
-八度空間,mitv://51.81.90.177:9906/f91c6cc0f797454aa2b63ef70c0519f9
-八度空間(備),mitv://51.81.90.177:9906/2b7b58d9c41847be90eab3fa5b2ff9eb
-TVBS亞洲台,mitv://51.81.90.177:9906/b936d3af525e4df6b7a74aa9d343f813
-TVB娛樂新聞台,mitv://51.81.90.177:9906/6b2555a831bc43c2882e0d2632603480
-TVB星河(粵),mitv://51.81.90.177:9906/9d44d9c4102c4f5bb1b6733718e5fe08
-TVB經典台,mitv://51.81.90.177:9906/6c82a743dec540f29d95129ed3c90647
-ABC Australia,mitv://51.81.90.177:9906/5b2fe6928d154686a7f1a40fa83f1770
-AXN,mitv://51.81.90.177:9906/cfe34e74f67844eb9f68f247cb43cd78
-Bloomberg TV,mitv://51.81.90.177:9906/7159f32158a948bd88826275eef9314b
-Boomerang,mitv://51.81.90.177:9906/c5a10b118a004a11bb573081bdd9ccd0
-CGTN,mitv://51.81.90.177:9906/e8ed48a3d6784b3a877278b2e901f876
-CNBC,mitv://51.81.90.177:9906/82885eb8d6c4422dbcde6d916126b454
-CNN,mitv://51.81.90.177:9906/fc613681ff784ae59a30ba7c9ed3efb0
-Cartoon Network,mitv://51.81.90.177:9906/a2b31d20412f4277a9b84460545cdfe4
-DW,mitv://51.81.90.177:9906/18868a175de34d8fa525b81e87bdb849
-France24,mitv://51.81.90.177:9906/05a079cf58ae4885bb677ead92032505
-HITS Movies,mitv://51.81.90.177:9906/762a87b38ece494db77445e65e389138
-KBS World,mitv://51.81.90.177:9906/0db8739a75634c4e826143e7bb9b7a7d
-KIX,mitv://51.81.90.177:9906/74388187f5704ec9b4cda1f2f7c52608
-Nat Geo Wild,mitv://51.81.90.177:9906/8dd3662a489a4a54924614e0df67cb8e
-Nick Jr.,mitv://51.81.90.177:9906/9da48f721119493b986714f05240a082
-Nickelodeon,mitv://51.81.90.177:9906/86279b335519488890d07cc41cf633ca
-ONE,mitv://51.81.90.177:9906/1aadb9f831f4475fa617466cfc65ffb3
-SHOWCASE MOVIES,mitv://51.81.90.177:9906/e6269891bc194b6ca984533bb36db764
-Sky News,mitv://51.81.90.177:9906/fbd9fa4839564d239ab83d2b3ed9092c
-TA-DAA!,mitv://51.81.90.177:9906/d23b1d4eae7d41acbfc190626e9d837e
-Thrill,mitv://51.81.90.177.com:9906/cb40f6b156a947638ab47bf7ee97dd97 
-tvN Movies HD,mitv://51.81.90.177:9906/1c7ea21ac1b2413e9e1d5eaad3670f3f
+TV9,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+AWANI,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+Drama Sangat,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+OKEY,https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
+Berita RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8
+Sukan RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
+IKIM,http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+亚洲,#genre#
 [MY]ASSP 1,http://50.7.220.74:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
 [MY]ASSP 3,http://50.7.220.74:8278/Assp3/playlist.m3u8?tid=MC0C7920827879208278&ct=19225&tsum=b76aa6813f86d2c2e2c69f4b8ab6f21e
 [MY]AOD350,http://50.7.220.74:8278/Aod350/playlist.m3u8?tid=MB1B2059094520590945&ct=19225&tsum=bcc2ef93d38a7d6692870a50d8754563
-[MY]AEC,http://50.7.220.74:8278/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsum=463d13f46eb7fbc9a5566be797c3d48f
+[MY]AEC,http://51.79.82.208:16021
 [MY]华丽台,http://50.7.220.74:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 [MY]双星,http://50.7.220.74:8278/Shuangxing/playlist.m3u8?tid=MB0B7558160375581603&ct=19226&tsum=1625699c9d4f1dfe61991065455cb256
 [MY]全佳,http://50.7.220.74:8278/Quanjia/playlist.m3u8?tid=MFFF3293542732935427&ct=19226&tsum=27c80d1bed9942e20443c39f523846fb
@@ -217,3 +178,40 @@ tvN Movies HD,mitv://51.81.90.177:9906/1c7ea21ac1b2413e9e1d5eaad3670f3f
 [TW]HBO原创巨献,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 [TW]HBO温馨家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 [TW]TLC,http://50.7.220.74:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
+空中课堂,#genre#
+空中课堂一年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkyinj/1300000/mnf.m3u8
+空中课堂二年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkernj/1300000/mnf.m3u8
+空中课堂三年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksannj/1300000/mnf.m3u8
+空中课堂四年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksinj/1300000/mnf.m3u8
+空中课堂五年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkwunj/1300000/mnf.m3u8
+空中课堂六年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkliunj/1300000/mnf.m3u8
+空中课堂七年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkqinj/1300000/mnf.m3u8
+空中课堂八年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkbanj/1300000/mnf.m3u8
+空中课堂九年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkjiunj/1300000/mnf.m3u8
+空中课堂高一,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8
+空中课堂高二,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
+空中课堂高三,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
+一年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
+一年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkyinj/1300000/mnf.m3u8
+二年级,http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8
+二年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkernj/1300000/mnf.m3u8
+三年级,http://liveplay-kk.rtxapp.com/live/program/live/kksannj/1300000/mnf.m3u8
+三年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksannj/1300000/mnf.m3u8
+四年级,http://liveplay-kk.rtxapp.com/live/program/live/kksinj/1300000/mnf.m3u8
+四年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksinj/1300000/mnf.m3u8
+五年级,http://liveplay-kk.rtxapp.com/live/program/live/kkwunj/1300000/mnf.m3u8
+五年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkwunj/1300000/mnf.m3u8
+六年级,http://liveplay-kk.rtxapp.com/live/program/live/kkliunj/1300000/mnf.m3u8
+六年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkliunj/1300000/mnf.m3u8
+初一,http://liveplay-kk.rtxapp.com/live/program/live/kkqinj/1300000/mnf.m3u8
+初一,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkqinj/1300000/mnf.m3u8
+初二,http://liveplay-kk.rtxapp.com/live/program/live/kkbanj/1300000/mnf.m3u8
+初二,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkbanj/1300000/mnf.m3u8
+初三,http://liveplay-kk.rtxapp.com/live/program/live/kkjiunj/1300000/mnf.m3u8
+初三,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkjiunj/1300000/mnf.m3u8
+高一,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8
+高一,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8
+高二,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
+高二,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
+高三,http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
+高三,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
