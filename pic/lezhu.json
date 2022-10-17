@@ -61,7 +61,7 @@
 "免嗅":"1",
 //"副标题":"class=\"head_box"></div>",
 "分类":"电影$电影#电视剧$电视剧#综艺$综艺#动漫$动漫",
-"分类url":"http://www.lezhutv.com/type/{cateId}_{catePg}.html",
+"分类url":"http://www.lezhutv.com/type/{class}_{catePg}.html",
 "筛选":{
 "电影":[
 {
