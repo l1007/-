@@ -61,11 +61,11 @@
 "免嗅":"1",
 //"副标题":"class=\"head_box"></div>",
 "分类":"电影$电影#电视剧$电视剧#综艺$综艺#动漫$动漫",
-"分类url":"http://www.lezhutv.com/type/{class}_{catePg}.html",
+"分类url":"http://www.lezhutv.com/type/{cateId}_{catePg}.html",
 "筛选":{
 "电影":[
 {
-"key":"class",
+"key":"cateId",
 "name":"分类",
 "value":[
 {"n":"全部","v":"1"},
@@ -87,7 +87,7 @@
 ],
 "电视剧":[
 {
-"key":"area",
+"key":"cateId",
 "name":"地区",
 "value":[
 {"n":"全部","v":"2"},
@@ -103,7 +103,7 @@
 ],
 "综艺":[
 {
-"key":"area",
+"key":"cateId",
 "name":"地区",
 "value":[
 {"n":"全部","v":"3"},
@@ -116,7 +116,7 @@
 ],
 "动漫":[
 {
-"key":"class",
+"key":"cateId",
 "name":"分类",
 "value":[
 {"n":"全部","v":"4"}
