@@ -1,7 +1,7 @@
 {
 "作者":"lekbox",
 "站名":"瓜皮TV",
-"主页url":"https://guapitv.xyz",
+"主页url":"https://www.guapi1.com",
 "热门推荐":"1",
 "直接播放":"0",
 "列表显示":"0",
@@ -59,9 +59,8 @@
 "bflianjieqian": "href=\"", 
 "bflianjiehou": "\"",
 "免嗅":"1",
-//"副标题":"class=\"note\"></div>",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$21",
-"分类url":"https://www.guapi1.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+"分类url":"https://www.guapi1.com/vodshow/{cateId}-{area}-{by}-{class}----{catePg}---{year}.html",
 "筛选":{
 "1":[
 {
