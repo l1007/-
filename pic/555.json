@@ -10,7 +10,7 @@
 "线路标题": "<span>&&</small>",
 "播放数组": "module-play-list\"</div>",
 "免嗅":"1",
-"副标题":"class=\"note\"></div>",
+"副标题": "module-item-note\"></div>",
 "分类":"电影$1#电视剧$2#综艺纪录$3#动漫$4",
 "分类url":"https://www.zxk555.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "筛选":{
