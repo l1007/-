@@ -530,6 +530,18 @@ http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&
 #EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]TLC
 http://50.7.220.74:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa051684286e2464dab3656f59684338a8076c19229c6b1984873697a/0.jpg",胖妞
+https://m3u8.zhisongip.com:38741/video/6f9b47c301a831fe618e8db209d0ef64.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/be1489102d06b841f7b537ab9778184c.jpeg",别惹白鸽之她的秘密
+https://m3u.if101.tv/xm3u8/8a7a6b829862dc07c31b6121091d60ca78e4d93e48b1b57fa5bee6d037cf545b9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa051684214d44124cf2ce946b478aa3aabde32831440e728c1664e59/0.jpg",意外杀手2
+https://m3u.if101.tv/xm3u8/6249d6069a840d94a3130c0525556a6687db41cca828807e156226715e3eea519921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa051684237ab8cd60790b5e0c849a616026af230051b257e014fa509/0.jpg",地狱尖兵
+https://m3u8.zhisongip.com:38741/video/6952d0a43852cb718ba8b058e941227a.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/170a08367f5bc6bec4653eb8059785c9.jpeg",不老山异事
+https://m3u.if101.tv/xm3u8/19599453eb771f0e21db3ade1ec5fdf3d8e3893487166ecdb66be411da3abc719921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa0516842c76cf078abd09542cbe7ae77dd116891300d2ed7733128d2/0.jpg",月光光心慌慌
+https://m3u.if101.tv/xm3u8/e536df8a0d24167f1fe1a228892f59f525201053ef1809c82ba0929ca288c4b59921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1ca589a9749991d68a6275caf7cfdeeb.jpeg",暗夜博士
 https://m3u.if101.tv/xm3u8/467ba19e4a0c5dbee610aadb3b6282fa907bac381dab45586124914ed72b575f9921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa05168429ecaf5877c61fdc6a737948dd7467ce211bade1b3d4ccd42/0.jpg",春天
