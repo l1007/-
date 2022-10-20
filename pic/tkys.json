@@ -1,7 +1,7 @@
 {
 "作者":"lekbox",
 "站名":"天空",
-"主页url":"https://tkznp.com/",
+"主页url":"https://tkznp.com",
 "sousuohouzhui": "/voddetail/",
 "bfjiequqian": "空",
 "bfjiequhou": "空",
@@ -17,7 +17,7 @@
 "juqinghou": "</span>",
 "免嗅":"1",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-"分类url":"https://tkznp.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+"分类url":"https://tkznp.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
 "筛选":{
 "1":[
 {
