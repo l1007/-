@@ -15,7 +15,7 @@
 "zhuyanhou": "</div>",
 "juqingqian": "class=\"video-info-item video-info-content vod_content\">",
 "juqinghou": "</span>",
-"免嗅":"1",
+"免嗅":"0",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
 "分类url":"https://tkznp.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
 "筛选":{
