@@ -61,7 +61,7 @@
 "1":[
 {
 "key":"class",
-"name":"分类",
+"name":"class",
 "value":[
 {"n":"All","v":""},
 {"n":"Comedy","v":"喜剧片"},
@@ -131,7 +131,7 @@
 "2":[
 {
 "key":"class",
-"name":"剧情",
+"name":"class",
 "value":[
 {"n":"All","v":""},
 {"n":"Costume","v":"电视剧-古装"},
