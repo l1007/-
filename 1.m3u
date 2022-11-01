@@ -546,6 +546,22 @@ http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&
 #EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]TLC
 http://50.7.220.74:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa051684246e01ce52856a305fc62ae48cbc2437fd67c08f963c2d856/0.jpg",共助2：国际
+https://m3u.haiwaikan.com/xm3u8/34c35c93cbf183c0b3c8d37fc06d9aadee4d55acfcec465fd4961d2a588673919921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa0516842de586b88f69bd733dc6fff099110e161fa4c5408598ed163/0.jpg",龙女孩
+https://datas-s8pwfqdu9yystn90fb----------------cache.haozhansou.com/datas/mov2/longnvhai.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa0516842105f529d199f083cdfd2dbd11a5bc76743dd64f16b38b699/0.jpg",密弑逃生
+https://m3u.haiwaikan.com/xm3u8/6b9b6ea0a4d87962581587d87e4c2490116134a3259ec49068662117fe9db47b9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cf7e056482684fd863115f66a670787b.jpeg",千里不留行
+https://m3u.haiwaikan.com/xm3u8/49554ce975f47ed0a994f7ab0db9b2c0c9ff56abc47f9a8b094592927e3e71a89921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa0516842f8102aae2e35314249acf739254dcf34fc699c07e6d67239/0.jpg",20世纪少女
+https://m3u.haiwaikan.com/xm3u8/c2685d15d590b49ab9f7a3b5386e624903817cc745b4488341b6bff249e03f459921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8ebf640d2f89f06847db3209ba492b5e.jpeg",奇迹·笨小孩
+https://m3u.haiwaikan.com/xm3u8/376977e14461078b095acfa2bebfa4f1f4f1b127e82aeb28d3b1cdc47a47d5fc9921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8d5f7d9c112f8c4a69ea62396dd0e2e4.jpeg",奇怪国家的数学家
+https://m3u.haiwaikan.com/xm3u8/d0950bcde5772587fd4aaec723cc642febb6cd7d29c36c8028bae865b8832a549921f11e97d0da21.m3u8
+#EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa05168424f3ca6ea5b1906c01991b648ea9afd16cb6d41a921f75e50/0.jpg",狼狩猎
+https://vip.lz-cdn10.com/20221025/2879_a900ccb9/1200k/hls/index.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa0516842f2e3fb1310770cfb128d5e1ecbdf82fefbcba14f3876b2fb/0.jpg",巢穴
 https://m3u8.zhisongip.com:38741/video/2d24a08595ad854eb99ef1ce0c88a871.m3u8
 #EXTINF:-1 group-title="2022" tvg-logo="https://p.qlogo.cn/hy_personal/3e28f14aa0516842f8102aae2e353142e8158cea6850f3b1adc5936d87247e62/0.jpg",西线无战事
