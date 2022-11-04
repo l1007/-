@@ -172,7 +172,7 @@ http://tc-tct.douyucdn2.cn/dyliveflv3a/52787r9HIk75n2XN_1024p.flv?wsAuth=433147d
 http://tc-tct.douyucdn2.cn/dyliveflv3/315131rYwkeEgAEU.flv?wsAuth=b5108f3a2e5959328dccce6e45f4de81&token=cpn-androidmpro-0-315131-6111c9fd6176354d79368ca511ead696fc4de8ab9d6d12e6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 #EXTINF:-1 group-title="电影" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",斗鱼电影12
 http://tc-tct.douyucdn2.cn/dyliveflv1/20415rnWbjg6Ex1K_2000.flv?wsAuth=5f94a343cf9b1ef538ccbe4784cb9cd3&token=cpn-androidmpro-0-20415-b6774b3b3249db1770be4689d65eefb1ac820519a17fd36e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 group-title="电影" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",周星星粤语经典版
+#EXTINF:-1 group-title="电影" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",周星星HK粤语电影版
 http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
 #EXTINF:-1 group-title="电影" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",粤语喜剧专场
 http://txtest-xp2p.p2p.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.xs
@@ -721,233 +721,233 @@ https://m3u.haiwaikan.com/xm3u8/efd02478974d472d74a33bfd152dbbd81582ed3cddf86a39
 #EXTINF:-1 group-title="丧尸zombie" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f950a7a0b9e7f52189d3eecf5f0ce866.jpeg",死人岛
 https://m3u.haiwaikan.com/xm3u8/0f31daa466fa0e2a9fc9858b016de990cdeb17c247730100b797434cf216be3b9921f11e97d0da21.m3u8
 
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ab362dfd81dbdb7f95661c2b6f1e1daf.jpeg",犯罪现场
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ab362dfd81dbdb7f95661c2b6f1e1daf.jpeg",犯罪现场
 https://m3u.haiwaikan.com/xm3u8/a252102d74e88b5ca20fbb468684657bb5c937445bafc2d9c2e6db88485460009921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/725344fc144c489826403d5b974b2f84.jpeg",廉政风云
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/725344fc144c489826403d5b974b2f84.jpeg",廉政风云
 https://ukzy.ukubf4.com/20220407/IzqEGBNI/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/23e9ed32097cbf17d18b2f7e41adf938.jpeg",神探1
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/23e9ed32097cbf17d18b2f7e41adf938.jpeg",神探1
 https://m3u.haiwaikan.com/xm3u8/70ce02ddb342d87fe03ea1133392822b5bf8bd3d2a639c8bbea54edc5738fdcb9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f2d6283049eda845ce3b51dd497b9c8e.jpeg",扫毒1
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f2d6283049eda845ce3b51dd497b9c8e.jpeg",扫毒1
 https://v4.cdtlas.com/20211209/1NZkfh4X/1100kb/hls/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d4fc79e2e730987cec38831c4e4ab135.jpeg",扫毒2
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d4fc79e2e730987cec38831c4e4ab135.jpeg",扫毒2
 https://m3u.haiwaikan.com/xm3u8/35d113b118f6667d4980479886ea8ef1125414e888d073ece6759f70372f8aff9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://i0.hdslb.com/bfs/album/d0c4c44cb156728524ca73876d2d87274c0d2c4b.jpg",踏血寻梅
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://i0.hdslb.com/bfs/album/d0c4c44cb156728524ca73876d2d87274c0d2c4b.jpg",踏血寻梅
 https://m3u.haiwaikan.com/xm3u8/67ab3e3fe7e8e6f85f9c9a612290f0641a52480b7711ece061455ac1953ec3749921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/942ad9d5531999565f25587a599d04eb.jpeg",催眠·裁决
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/942ad9d5531999565f25587a599d04eb.jpeg",催眠·裁决
 https://s2.fsvod1.com/20220220/T2EKTfgx/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cc3d14069ba3b45d1de315138d56249b.jpeg",拆弹专家1
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cc3d14069ba3b45d1de315138d56249b.jpeg",拆弹专家1
 https://m3u.haiwaikan.com/xm3u8/770ea0da75740e8c56a58754da3ef02bcb964ac1ecfcc05b31bf342a687d46fb9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e0a8ae3844164b167be18a714a82f7c0.jpeg",拆弹专家2
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e0a8ae3844164b167be18a714a82f7c0.jpeg",拆弹专家2
 https://m3u.haiwaikan.com/xm3u8/8957ae5eb89e3fd300ece9f25b0caf1be12395a94c7239b5865a3ac3e0b458c89921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9c676a3b53a544da47ce7a37d97109e8.jpeg",叶问1
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9c676a3b53a544da47ce7a37d97109e8.jpeg",叶问1
 https://m3u.haiwaikan.com/xm3u8/b296b9c56be221ff610ae4a6ea5a38701e1baf0c161a43cacc73a354a15362d79921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/377367cb3f4c186ffc6d2f34990af3f6.jpeg",叶问2
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/377367cb3f4c186ffc6d2f34990af3f6.jpeg",叶问2
 https://m3u.haiwaikan.com/xm3u8/9a84d6b86917a8040cd8706f8d2a81a810e89bcb2436fa52090afd27757e0d9a9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2c048b382beeb44490c384f87a8102f9.jpeg",叶问3
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2c048b382beeb44490c384f87a8102f9.jpeg",叶问3
 https://m3u.haiwaikan.com/xm3u8/3bc2c573880613c27367fbf5bda12cf1236bf590f98042430833496d5386b6589921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c1c28656839cd9daf6d5ff284e93427a.jpeg",叶问4
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c1c28656839cd9daf6d5ff284e93427a.jpeg",叶问4
 https://m3u.haiwaikan.com/xm3u8/280c8170d55a0d3891fd039287b852f0053086d8f80b14a6be10a77ec73ef2be9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/44f55ea96bbe36fee86ff437d2b61e6a.jpeg",导火线
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/44f55ea96bbe36fee86ff437d2b61e6a.jpeg",导火线
 https://m3u.haiwaikan.com/xm3u8/4c94dbd318894aefb00fd20289d7ec0f298f5ca52d0a492f34b96d6aad2dc0939921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b3123664ec1fb2bac788e428fd9f3dce.jpeg",杀破狼1
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b3123664ec1fb2bac788e428fd9f3dce.jpeg",杀破狼1
 https://m3u.haiwaikan.com/xm3u8/30dab37fd028f5b9470062d09c55656940666a2c0e2a7ff39098d569719fab2c9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e7e58cc927fde37ea7234ca55b569ae7.jpeg",杀破狼2
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e7e58cc927fde37ea7234ca55b569ae7.jpeg",杀破狼2
 https://m3u.haiwaikan.com/xm3u8/8b2514693d18867a9d3da02084d3947b72f9872836b1df917ae490f7f210e0e59921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/13755bb3b4b4e696e4ac4f4384e88355.jpeg",杀破狼3
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/13755bb3b4b4e696e4ac4f4384e88355.jpeg",杀破狼3
 https://v4.cdtlas.com/20211211/3v07bsnK/1100kb/hls/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/85f02843c982b0be668b5cfe10992730.jpeg",黑金
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/85f02843c982b0be668b5cfe10992730.jpeg",黑金
 https://m3u.haiwaikan.com/xm3u8/28880bfbcfdc4eebdf005e799d56e1333d38fdd483cb2771c60867549e72400b9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5e153ea41339c8783d85ed9520b09c02.jpeg",特殊身份
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5e153ea41339c8783d85ed9520b09c02.jpeg",特殊身份
 https://m3u.haiwaikan.com/xm3u8/b151fa6ce85cd382adc3ca1283be089d591a3aab20a6d47a0194bf942ff455b69921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/6ce05eebb77dd9a3ed6bd656db98901c.jpeg",大师兄
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/6ce05eebb77dd9a3ed6bd656db98901c.jpeg",大师兄
 https://m3u.haiwaikan.com/xm3u8/ae72227c20d4eaee67c9af101d88a1592a90b1f946258e0ffbdf5e512d4c3ca59921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d114207f2d0b640afac0a0832a949aa8.jpeg",机动部队—同袍
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d114207f2d0b640afac0a0832a949aa8.jpeg",机动部队—同袍
 https://m3u.haiwaikan.com/xm3u8/8a0539a243539711b8dfd90024a4aa4f8916f9b33640d94bb764ae374c87a7e79921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/82be98b5d64c4b5d69c1a9341469f9b7.jpeg",机动部队—伙伴
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/82be98b5d64c4b5d69c1a9341469f9b7.jpeg",机动部队—伙伴
 https://m3u.haiwaikan.com/xm3u8/b94d201d49432cad0bc53a26196618fc6441fbdcf3fee9d17345bbf3fef076769921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8a98301c62f542aa100fe8f55a563367.jpeg",机动部队—人性
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8a98301c62f542aa100fe8f55a563367.jpeg",机动部队—人性
 https://m3u.haiwaikan.com/xm3u8/6fdfc9c281d2f54c294c12891275016973556fcfc9423f1b0ffcecf2088d87b89921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/77b614b9a83d44e92537699f92b0150c.jpeg",机动部队—绝路
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/77b614b9a83d44e92537699f92b0150c.jpeg",机动部队—绝路
 https://m3u.haiwaikan.com/xm3u8/237ddcd092b6ea6890576e543e6ef4550b6cbbe02f61cb406e38b5559453d14f9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cc3d14069ba3b45d1de315138d56249b.jpeg",拆弹专家1
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cc3d14069ba3b45d1de315138d56249b.jpeg",拆弹专家1
 https://m3u.haiwaikan.com/xm3u8/770ea0da75740e8c56a58754da3ef02bcb964ac1ecfcc05b31bf342a687d46fb9921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e0a8ae3844164b167be18a714a82f7c0.jpeg",拆弹专家2
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e0a8ae3844164b167be18a714a82f7c0.jpeg",拆弹专家2
 https://m3u.haiwaikan.com/xm3u8/8957ae5eb89e3fd300ece9f25b0caf1be12395a94c7239b5865a3ac3e0b458c89921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://iknow-pic.cdn.bcebos.com/96dda144ad345982f532c5071ef431adcaef84ee",大事件
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://iknow-pic.cdn.bcebos.com/96dda144ad345982f532c5071ef431adcaef84ee",大事件
 https://new.qqaku.com/20220927/Isvd057d/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/dcce7ccb11345e7ccea9d6ed4fbb803c.jpeg",头文字D
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/dcce7ccb11345e7ccea9d6ed4fbb803c.jpeg",头文字D
 https://s1.zoubuting.com/20220620/uIiqXL1f/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2826270c7717ffc2e9e179d5988677b7.jpeg",12金鸭
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2826270c7717ffc2e9e179d5988677b7.jpeg",12金鸭
 https://cdn.zoubuting.com/20220929/3oZEAFCN/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e5d94024d2d7d14c6d74055cdd7ce9b9.jpeg",小男人周记
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e5d94024d2d7d14c6d74055cdd7ce9b9.jpeg",小男人周记
 https://new.qqaku.com/20220927/9QewCZOg/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f57e909b3f5127ff2ec518c2b23de849.jpeg",大笑江湖
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f57e909b3f5127ff2ec518c2b23de849.jpeg",大笑江湖
 https://s1.zoubuting.com/20220619/YG2H0rD7/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f36e2b05ed3cb9d4a8784126bcca15f3.jpeg",天若有情
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f36e2b05ed3cb9d4a8784126bcca15f3.jpeg",天若有情
 https://v4.cdtlas.com/20211211/80xGpZGc/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c4166616518c559d9f5c411cabf981fe.jpeg",我爱太空人
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c4166616518c559d9f5c411cabf981fe.jpeg",我爱太空人
 https://s1.zoubuting.com/20220620/zt9yQGMj/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/38c1c96720cc9159a07bddb1a5bf6650.jpeg",忠烈杨家
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/38c1c96720cc9159a07bddb1a5bf6650.jpeg",忠烈杨家
 https://new.qqaku.com/20211221/ZeY8LeHB/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/0e8a740dd803141aa9902709e0ee07ee.jpeg",带子洪郎
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/0e8a740dd803141aa9902709e0ee07ee.jpeg",带子洪郎
 https://new.qqaku.com/20211224/b9EYDKJr/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/7201f6838121562be15b2a7254edba18.jpeg",大内密探灵灵狗
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/7201f6838121562be15b2a7254edba18.jpeg",大内密探灵灵狗
 https://m3u.haiwaikan.com/xm3u8/07fd7cf8c9dc43b3bdea68273cf0e94b74266ef7a7b26306d7aa5019c7cdad889921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/77ab88cb9140f981377ac8765821f380.jpeg",赌神3之少年赌神
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/77ab88cb9140f981377ac8765821f380.jpeg",赌神3之少年赌神
 https://m3u.haiwaikan.com/xm3u8/9714b4767a260703bb72a05aedaa35ffe861c017b267c78ba27fc95d840241559921f11e97d0da21.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/624c149520e9311dd8788e5efd18c988.jpeg",一眉道人
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/624c149520e9311dd8788e5efd18c988.jpeg",一眉道人
 https://hd.njeere.com/play/51530/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4323d2ba8c754fa49711554e67027016.jpeg",非洲和尚
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4323d2ba8c754fa49711554e67027016.jpeg",非洲和尚
 https://cdn.zoubuting.com/20220523/sT4mhvy8/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/fe28b90c8eb9dc11b87114f5a552ed6f.jpeg",鬼干部
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/fe28b90c8eb9dc11b87114f5a552ed6f.jpeg",鬼干部
 https://vip.lz-cdn6.com/20220410/3275_475efc87/1200k/hls/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f5b615ca25a34ae2a8e852553e7868bb.jpeg",败家仔
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f5b615ca25a34ae2a8e852553e7868bb.jpeg",败家仔
 https://qq.sd-play.com/20220509/JCBgCsFQ/hls/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/40a903e5f4911fecbedadbdac64a6a98.jpeg",人吓人
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/40a903e5f4911fecbedadbdac64a6a98.jpeg",人吓人
 https://hd.njeere.com/play/3525/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/fc912a53795df87c4d2e783a4512eb9c.jpeg",东方秃鹰
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/fc912a53795df87c4d2e783a4512eb9c.jpeg",东方秃鹰
 https://vip.lz-cdn1.com/20220404/980_3e6bdca8/1200k/hls/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1d1b9a4809ae9ffd248ca5cb06b34906.jpeg",福星闯江湖
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1d1b9a4809ae9ffd248ca5cb06b34906.jpeg",福星闯江湖
 https://s1.zoubuting.com/20220619/G3mI1BA3/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/432e9823d135083cf79215bac7ce68ea.jpeg",夏日福星
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/432e9823d135083cf79215bac7ce68ea.jpeg",夏日福星
 https://v4.cdtlas.com/20220601/8TvXDLAj/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/10592de10a9ce1d5248a8aae19f81bbb.jpeg",福星高照
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/10592de10a9ce1d5248a8aae19f81bbb.jpeg",福星高照
 https://cdn.zoubuting.com/20220521/g05zuoTU/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5f23b3cc87bdb2b8c5b510f722279bc2.jpeg",僵尸福星仔
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5f23b3cc87bdb2b8c5b510f722279bc2.jpeg",僵尸福星仔
 https://cdn.zoubuting.com/20210717/Koyeqp61/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/0495a89b37ebb7fcd794b96017c14c01.jpeg",奇谋妙计五福星
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/0495a89b37ebb7fcd794b96017c14c01.jpeg",奇谋妙计五福星
 https://v4.cdtlas.com/20211211/DfE6fo3x/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/37bea856523c6ea2567fa7ac3d69568d.jpeg",安乐战场
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/37bea856523c6ea2567fa7ac3d69568d.jpeg",安乐战场
 https://s1.zoubuting.com/20220619/GCrbvRQx/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f57e909b3f5127ff2ec518c2b23de849.jpeg",大笑江湖
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f57e909b3f5127ff2ec518c2b23de849.jpeg",大笑江湖
 https://s1.zoubuting.com/20220619/YG2H0rD7/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c1c2d448f07f20512250061758e78281.jpeg",财神到
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c1c2d448f07f20512250061758e78281.jpeg",财神到
 https://cdn.zoubuting.com/20220614/kgJ4IrAw/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/0e00c733ec9997cf3aefce18abc10b08.jpeg",花田喜事1
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/0e00c733ec9997cf3aefce18abc10b08.jpeg",花田喜事1
 https://v4.cdtlas.com/20211215/h2zYMhWO/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/913e8fbf37f95bf542c945bb49bc0613.jpeg",花田喜事2
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/913e8fbf37f95bf542c945bb49bc0613.jpeg",花田喜事2
 https://cdn.zoubuting.com/20220613/a2nULN4e/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/39be4cf544c757c4153c1383b2a7897a.jpeg",美丽密令
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/39be4cf544c757c4153c1383b2a7897a.jpeg",美丽密令
 https://cdn.zoubuting.com/20220614/Iw9j13cP/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/367544bb30581ece0d662245c4e8eb1f.jpeg",妈妈的神奇小子
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/367544bb30581ece0d662245c4e8eb1f.jpeg",妈妈的神奇小子
 https://s1.zoubuting.com/20220619/fkMGPGj3/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8ecafb62328fcf31382f3aba7cfad099.jpeg",妖铃铃
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8ecafb62328fcf31382f3aba7cfad099.jpeg",妖铃铃
 https://s1.zoubuting.com/20220620/ApyIedQI/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/bd283faffcd32354161ccc45d262304d.jpeg",一眉道姑
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/bd283faffcd32354161ccc45d262304d.jpeg",一眉道姑
 https://v4.cdtlas.com/20220603/UDDmUaeG/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cf4334feaee43b3df1d47a95c69e7dbd.jpeg",天与地
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cf4334feaee43b3df1d47a95c69e7dbd.jpeg",天与地
 https://cdn.zoubuting.com/20220515/Pm0wnee5/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4348cc14c0648473058ad1e556b08e24.jpeg",大话西游之月光宝盒
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4348cc14c0648473058ad1e556b08e24.jpeg",大话西游之月光宝盒
 https://v3.cdtlas.com/20211209/DQW1WNlU/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b5cf31cb642ce85b3364827ed67416a9.jpeg",大话西游之大圣娶亲
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b5cf31cb642ce85b3364827ed67416a9.jpeg",大话西游之大圣娶亲
 https://s1.zoubuting.com/20220619/P7fvmuxf/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/6dcd8b268f0fa8df049667cdae50687c.jpeg",龙的传人
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/6dcd8b268f0fa8df049667cdae50687c.jpeg",龙的传人
 https://s1.zoubuting.com/20220619/sX2F78yC/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/750f580ab3c8cf9eb3b87f16dfff5712.jpeg",龙凤茶楼
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/750f580ab3c8cf9eb3b87f16dfff5712.jpeg",龙凤茶楼
 https://s1.zoubuting.com/20220619/tJVVeNHP/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ec706cf4d03fbb8e9c2af21c2bf19abd.jpeg",整蛊专家
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ec706cf4d03fbb8e9c2af21c2bf19abd.jpeg",整蛊专家
 https://s1.zoubuting.com/20220620/AJrs0hst/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/20537b568eb722b5698bbfc7fb08200a.jpeg",大内密探零零发
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/20537b568eb722b5698bbfc7fb08200a.jpeg",大内密探零零发
 https://s1.zoubuting.com/20220620/LDkbnuF6/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/112a8ba85f658df6c70d2cc5fe10cf69.jpeg",霹雳先锋
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/112a8ba85f658df6c70d2cc5fe10cf69.jpeg",霹雳先锋
 https://new.qqaku.com/20211220/hF5lBXOF/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3418c84c305d560eacb2c7b09c962d0b.jpeg",义胆群英
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3418c84c305d560eacb2c7b09c962d0b.jpeg",义胆群英
 https://new.qqaku.com/20211226/rHrUPeGL/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d83123fbd375887e9386bd35fa49cf17.jpeg",功夫
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d83123fbd375887e9386bd35fa49cf17.jpeg",功夫
 https://new.qqaku.com/20220208/ic6Z6gGs/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/be11e3c97a0fa8c9908bb8aabe4a4b29.jpeg",赌霸
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/be11e3c97a0fa8c9908bb8aabe4a4b29.jpeg",赌霸
 https://new.qqaku.com/20220208/jBHYb6XI/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1a5cd2e36faf1b4bab89af81ae7a0c85.jpeg",少林足球
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1a5cd2e36faf1b4bab89af81ae7a0c85.jpeg",少林足球
 https://new.qqaku.com/20220208/YgNPApqT/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/56114fb9d8dea3b907e28a1cc583396f.jpeg",望夫成龙
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/56114fb9d8dea3b907e28a1cc583396f.jpeg",望夫成龙
 https://new.qqaku.com/20211220/v34wN32E/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/554ba9da5a638f2d987a91d79d41083b.jpeg",最佳女婿
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/554ba9da5a638f2d987a91d79d41083b.jpeg",最佳女婿
 https://new.qqaku.com/20211221/JyT4p4N0/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/24423407bed75f142f00df6c6f42640f.jpeg",孖仔孖心肝
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/24423407bed75f142f00df6c6f42640f.jpeg",孖仔孖心肝
 https://v4.cdtlas.com/20220531/5H94cpkA/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c4d0de5ba32bcfda936c27c1d1384332.jpeg",唐伯虎点秋香
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c4d0de5ba32bcfda936c27c1d1384332.jpeg",唐伯虎点秋香
 https://v4.cdtlas.com/20211209/mZYbNsip/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://i0.hdslb.com/bfs/album/cc90c2e46cd819e9fe46dfed51f46ce27b981aca.jpg",逃学威龙1
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://i0.hdslb.com/bfs/album/cc90c2e46cd819e9fe46dfed51f46ce27b981aca.jpg",逃学威龙1
 https://cdn.zoubuting.com/20220521/hUV5C3Ch/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c6681b841e98658286740b55fcf35299.jpeg",逃学威龙2
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c6681b841e98658286740b55fcf35299.jpeg",逃学威龙2
 https://v4.cdtlas.com/20211210/ld4VaNv9/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://i0.hdslb.com/bfs/album/f2bc39721c47f7192d6b0d473ae6417909958923.jpg",逃学威龙3
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://i0.hdslb.com/bfs/album/f2bc39721c47f7192d6b0d473ae6417909958923.jpg",逃学威龙3
 https://cdn.zoubuting.com/20220521/yZTNSPKd/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/51e7d481b4b80b5dec0e4688318b5300.jpeg",一本漫画闯天涯II
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/51e7d481b4b80b5dec0e4688318b5300.jpeg",一本漫画闯天涯II
 https://cdn.zoubuting.com/20220526/S2dr4tt5/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/7ca68bbe1f128ce92f029b0523743b2e.jpeg",百变星君
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/7ca68bbe1f128ce92f029b0523743b2e.jpeg",百变星君
 https://v4.cdtlas.com/20211211/vT51gzoY/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f1d86fc5d5d698b8c37a12a20aeaeafd.jpeg",赌神
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f1d86fc5d5d698b8c37a12a20aeaeafd.jpeg",赌神
 https://v3.cdtlas.com/20220626/WpwKcKE1/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9620018ba36480f6dc53cac16afba10a.jpeg",赌侠2
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9620018ba36480f6dc53cac16afba10a.jpeg",赌侠2
 https://v4.cdtlas.com/20211209/wEwPVJZM/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/7da0610522a20fd87000b0484fc4fec5.jpeg",大佬爱美丽
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/7da0610522a20fd87000b0484fc4fec5.jpeg",大佬爱美丽
 https://s1.zoubuting.com/20220619/INK0JUok/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a00d9513f2f489a61330cc96321233be.jpeg",A计划
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a00d9513f2f489a61330cc96321233be.jpeg",A计划
 https://s1.zoubuting.com/20220619/25duX34J/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1a1c6b5066c6c5ebb57d37caf9077064.jpeg",警察故事3
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1a1c6b5066c6c5ebb57d37caf9077064.jpeg",警察故事3
 https://s1.zoubuting.com/20220619/T4sMSltm/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/6f29ab357e124ad1265f6268da9228fc.jpeg",新少林寺
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/6f29ab357e124ad1265f6268da9228fc.jpeg",新少林寺
 https://s1.zoubuting.com/20220620/PT55uANg/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1e09b73ad718cc94cc91c74cf64fcf2e.jpeg",川岛芳子
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1e09b73ad718cc94cc91c74cf64fcf2e.jpeg",川岛芳子
 https://s1.zoubuting.com/20220619/KKzxne5K/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/66b613536fdd7a72ceaffd3a9833f2a7.jpeg",全职杀手
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/66b613536fdd7a72ceaffd3a9833f2a7.jpeg",全职杀手
 https://s1.zoubuting.com/20220620/2map7nIK/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e3b80939464595c40418741dfa5ae08e.jpeg",无间道
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e3b80939464595c40418741dfa5ae08e.jpeg",无间道
 https://s1.zoubuting.com/20220620/kf8UPZIC/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/bd13efdebe3d69de21ecff68ba073c4c.jpeg",无间道2
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/bd13efdebe3d69de21ecff68ba073c4c.jpeg",无间道2
 https://v4.cdtlas.com/20211211/fbRj9Acf/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2e31b9f1628090755b885763d11d354d.jpeg",无间道3
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2e31b9f1628090755b885763d11d354d.jpeg",无间道3
 https://v4.cdtlas.com/20211211/LwcHH93z/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/15ffb5e7aaba9b20c69d45f73f222071.jpeg",王牌逗王牌
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/15ffb5e7aaba9b20c69d45f73f222071.jpeg",王牌逗王牌
 https://s1.zoubuting.com/20220620/63r6o6HO/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9b5fd6453913345b2e52cca22c4eef38.jpeg",赌侠大战拉斯维加斯
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9b5fd6453913345b2e52cca22c4eef38.jpeg",赌侠大战拉斯维加斯
 https://s1.zoubuting.com/20220619/wIZT167F/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ec706cf4d03fbb8e9c2af21c2bf19abd.jpeg",整蛊专家
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ec706cf4d03fbb8e9c2af21c2bf19abd.jpeg",整蛊专家
 https://s1.zoubuting.com/20220620/AJrs0hst/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/85f02843c982b0be668b5cfe10992730.jpeg",黑金
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/85f02843c982b0be668b5cfe10992730.jpeg",黑金
 https://new.qqaku.com/20220619/arf5Nvob/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/80175d29e992756e477af329d5b3b48f.jpeg",我的特工爷爷
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/80175d29e992756e477af329d5b3b48f.jpeg",我的特工爷爷
 https://new.qqaku.com/20211223/A0FRmIeH/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/92066faf3db67fad5ed5046fa5daa14b.jpeg",桃姐
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/92066faf3db67fad5ed5046fa5daa14b.jpeg",桃姐
 https://new.qqaku.com/20211224/scNctWGx/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ad0e02893baefc56fd0f7d98fc5c8481.jpeg",烈火战车
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ad0e02893baefc56fd0f7d98fc5c8481.jpeg",烈火战车
 https://new.qqaku.com/20211226/i8CailmK/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/135970a31ef35fcce6099e633d16382d.jpeg",风暴
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/135970a31ef35fcce6099e633d16382d.jpeg",风暴
 https://v4.cdtlas.com/20211210/osj6kmwA/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ceab608c31d1b62762498b75dc67b651.jpeg",满城尽带黄金甲,
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ceab608c31d1b62762498b75dc67b651.jpeg",满城尽带黄金甲,
 https://s1.zoubuting.com/20220620/eBcmRdG7/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ccca7fa7d0cc1906834520536bf0f200.jpeg",英雄本色1
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ccca7fa7d0cc1906834520536bf0f200.jpeg",英雄本色1
 https://s1.zoubuting.com/20220620/OVWhMdsA/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/58c831290ef3e2cdc5289d70b80ce9e4.jpeg",英雄本色2
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/58c831290ef3e2cdc5289d70b80ce9e4.jpeg",英雄本色2
 https://s1.zoubuting.com/20220620/p42l1i1T/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8a061fba6d4b986620477b272c84710e.jpeg",英雄本色3
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8a061fba6d4b986620477b272c84710e.jpeg",英雄本色3
 https://v4.cdtlas.com/20220606/a27lB36y/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/481f9bf5468c2b85d7ec98f7e5237dfb.jpeg",龙虎风云
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/481f9bf5468c2b85d7ec98f7e5237dfb.jpeg",龙虎风云
 https://new.qqaku.com/20211226/4WjYs5p6/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/7853e4ba0e348990c3ac1e2b6cf366d0.jpeg",花旗少林
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/7853e4ba0e348990c3ac1e2b6cf366d0.jpeg",花旗少林
 https://new.qqaku.com/20220326/Rv82nizO/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/6dc585ff0e219b917887da51382e17f1.jpeg",吉星拱照
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/6dc585ff0e219b917887da51382e17f1.jpeg",吉星拱照
 https://new.qqaku.com/20211226/Mv90DHJn/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f968bda1f919514de4b902f0809d2d3f.jpeg",喋血双雄
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f968bda1f919514de4b902f0809d2d3f.jpeg",喋血双雄
 https://s1.zoubuting.com/20220620/jBShmAM4/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/7b644f62a2d3268c71152df923384ed9.jpeg",防弹武僧
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/7b644f62a2d3268c71152df923384ed9.jpeg",防弹武僧
 https://v4.cdtlas.com/20220601/r86vTvqg/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/dbd65f302bc8de2205abe13754b77072.jpeg",义盖云天
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/dbd65f302bc8de2205abe13754b77072.jpeg",义盖云天
 https://cdn.zoubuting.com/20220513/bFniWwLM/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d27f44abbd0bba26ca4cd8b64bcd24f7.jpeg",伴我闯天涯
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d27f44abbd0bba26ca4cd8b64bcd24f7.jpeg",伴我闯天涯
 https://cdn.zoubuting.com/20210715/S0PUDQZz/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/da140c00d1b51ecc336b7f4b28241a32.jpeg",精装追女仔1
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/da140c00d1b51ecc336b7f4b28241a32.jpeg",精装追女仔1
 https://v4.cdtlas.com/20211127/J8OrtoGj/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ea0fa56c34094cf92f5fa719ca46c3d5.jpeg",精装追女仔2
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ea0fa56c34094cf92f5fa719ca46c3d5.jpeg",精装追女仔2
 https://v4.cdtlas.com/20211127/wIUlF0x4/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9319aeb9d5f153565d0f13fba7697390.jpeg",精装追女仔3
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9319aeb9d5f153565d0f13fba7697390.jpeg",精装追女仔3
 https://v4.cdtlas.com/20211127/zEF494AO/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ca41e38dfc259946cade2c4bda109326.jpeg",澳门风云1
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ca41e38dfc259946cade2c4bda109326.jpeg",澳门风云1
 https://ukzy.ukubf4.com/20220331/4VKM1AXb/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/fd58e0dc7ae2c0e8f5ec543226fba938.jpeg",澳门风云2
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/fd58e0dc7ae2c0e8f5ec543226fba938.jpeg",澳门风云2
 https://s2.fsvod1.com/20220226/BUli0nu1/index.m3u8
-#EXTINF:-1 group-title="粤语经典" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1b92a92c174d42d75a862787cb0c392c.jpeg",澳门风云3
+#EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1b92a92c174d42d75a862787cb0c392c.jpeg",澳门风云3
 https://v3.cdtlas.com/20211209/2A3CeWF4/index.m3u8
 
 #EXTINF:-1 group-title="哔哩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Bilibili_logo.svg/330px-Bilibili_logo.svg.png",蜡笔小新
@@ -1504,7 +1504,7 @@ http://fangsong.live/hls/douyu.php?id=997925
 http://epg.112114.xyz/huya/880261
 #EXTINF:-1 group-title="虎牙" tvg-logo="https://www.y8freegame.com/uploadfile/2022/0705/20220705092338563.jpg",[女神系列]邱淑贞 王祖贤 张曼玉
 http://epg.112114.xyz/huya/11336571
-#EXTINF:-1 group-title="虎牙" tvg-logo="https://www.y8freegame.com/uploadfile/2022/0705/20220705092338563.jpg",周星星粤语经典版
+#EXTINF:-1 group-title="虎牙" tvg-logo="https://www.y8freegame.com/uploadfile/2022/0705/20220705092338563.jpg",周星星HK粤语电影版
 http://epg.112114.xyz/huya/11336587
 #EXTINF:-1 group-title="虎牙" tvg-logo="https://www.y8freegame.com/uploadfile/2022/0705/20220705092338563.jpg",成龙
 http://epg.112114.xyz/huya/11342386
@@ -1546,7 +1546,7 @@ http://epg.112114.xyz/huya/11336572
 http://epg.112114.xyz/huya/11336578
 #EXTINF:-1 group-title="虎牙" tvg-logo="https://www.y8freegame.com/uploadfile/2022/0705/20220705092338563.jpg",上古神器轩辕剑
 http://epg.112114.xyz/huya/11336579
-#EXTINF:-1 group-title="虎牙" tvg-logo="https://www.y8freegame.com/uploadfile/2022/0705/20220705092338563.jpg",周星星粤语经典版
+#EXTINF:-1 group-title="虎牙" tvg-logo="https://www.y8freegame.com/uploadfile/2022/0705/20220705092338563.jpg",周星星HK粤语电影版
 http://epg.112114.xyz/huya/11336587
 #EXTINF:-1 group-title="虎牙" tvg-logo="https://www.y8freegame.com/uploadfile/2022/0705/20220705092338563.jpg",愚人节一起笑破肚皮
 http://epg.112114.xyz/huya/11336590
