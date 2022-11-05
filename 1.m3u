@@ -631,7 +631,7 @@ https://m2.taopianplay1.com:43333/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/7
 #EXTINF:-1 group-title="2021" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2e9d6ab4b65ebec4e8b12ffc701a15f1.jpeg",明日之战
 https://m3u8.zhisongip.com:38741/video/7bc6feb356ba4234cd1633c5ae208203.m3u8
 
-#EXTINF:-1 group-title="此链接不再更新请联络LEK更新链接This link will not be updated again. Please contact LEK to update the link",LekBox
+#EXTINF:-1 group-title="此链接不再更新请联络LEK更新链接",LekBox2
 http://
 
 #EXTINF:-1 group-title="丧尸zombie" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4ac8b88c9e22588e6e5b839fd9e48a95.jpeg",活着
@@ -739,7 +739,7 @@ https://m3u.haiwaikan.com/xm3u8/efd02478974d472d74a33bfd152dbbd81582ed3cddf86a39
 #EXTINF:-1 group-title="丧尸zombie" tvg-logo="https://pic.rmb.bdstatic.com/bjh/f950a7a0b9e7f52189d3eecf5f0ce866.jpeg",死人岛
 https://m3u.haiwaikan.com/xm3u8/0f31daa466fa0e2a9fc9858b016de990cdeb17c247730100b797434cf216be3b9921f11e97d0da21.m3u8
 
-#EXTINF:-1 group-title="此链接不再更新请联络LEK更新链接This link will not be updated again. Please contact LEK to update the link",LekBox
+#EXTINF:-1 group-title="This link will not be updated again. Please contact LEK to update the link",LekBox
 http://
 
 #EXTINF:-1 group-title="HK粤语电影" tvg-logo="https://pic.rmb.bdstatic.com/bjh/27e8cf22da87460528ac56bfbc373560.jpeg",警察故事1
