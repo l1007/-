@@ -2,7 +2,6 @@
 "作者":"lekbox",
 "站名":"Auete影视",
 "主页url":"https://auete.com",
-"qishiye": "2",
 "shifouercijiequ": "0",
 "jiequqian": "空",
 "jiequhou": "空",
@@ -54,9 +53,53 @@
 "bfbiaotihou": "<",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
+"起始页":"2",
 "免嗅":"1",
-"分类":"Netflix影视$/Netflix/movies#谍战剧集推荐$/diezhan/index#电影$/Movie/index#电视剧$/Tv/index#综艺$/Zy/index#动漫$/Dm/index#其他$/qita/index#记录片$/qita/Jlp/index#国产剧$/Tv/neidi/index#韩剧$/Tv/hanju/index#美剧$/Tv/oumei/index#日剧$/Tv/riju/index#泰剧$/Tv/yataiju/index#网剧$/Tv/wangju/index#台剧$/Tv/taiju/index#港剧$/Tv/tvbgj/index#英剧$/Tv/yingju/index#经典剧$/qita/Jdj/index#动画$/Dm/donghua/index#日漫$/Dm/riman/index#国漫$/Dm/guoman/index#美漫$/Dm/meiman/index#经典片$/qita/Jdp/index#网大电影$/qita/wlp/index#国产老电影$/qita/laodianying/index#喜剧片$/Movie/xjp/index#动作片$/Movie/dzp/index#爱情片$/Movie/aqp/index#科幻片$/Movie/khp/index#恐怖片$/Movie/kbp/index#惊悚片$/Movie/jsp/index#战争片$/Movie/zzp/index#剧情片$/Movie/jqp/index",
-"分类url":"https://auete.com{cateId}/index.html",
-"年份": "2000-2022",
-"筛选": "0"
+"分类":"电影$Movie#电视剧$Tv#综艺$Zy#动漫$Dm#其他$qita#记录片$Jlp#",
+"分类url":"https://auete.com/{cateId}/{class}/index{catePg}.html",
+"筛选":{
+"Movie":[
+{
+"key":"class",
+"name":"分类",
+"value":[
+{"n":"全部","v":""},
+{"n":"Netflix","v":"Netflix"},
+{"n":"喜剧","v":"xjp"},
+{"n":"爱情","v":"aqp"},
+{"n":"恐怖","v":"kbp"},
+{"n":"动作","v":"dzp"},
+{"n":"科幻","v":"khp"},
+{"n":"剧情","v":"jqp"},
+{"n":"战争","v":"zzp"},
+{"n":"灾难","v":"znp"},
+{"n":"犯罪","v":"fzp"},
+{"n":"动画","v":"dhp"},
+{"n":"奇幻","v":"qhp"},
+{"n":"冒险","v":"mxp"},
+{"n":"丧尸","v":"ssp"},
+{"n":"悬疑","v":"xyp"},
+{"n":"惊悚","v":"jsp"},
+{"n":"网络电影","v":"wldy"}
+]
+}
+],
+"Tv":[
+{
+"key":"class",
+"name":"分类",
+"value":[
+{"n":"大陆","v":"neidi"},
+{"n":"香港","v":"tvbgj"},
+{"n":"台湾","v":"taiju"},
+{"n":"美国","v":"oumei"},
+{"n":"日本","v":"riju"},
+{"n":"韩国","v":"hanju"},
+{"n":"泰国","v":"yataiju"},
+{"n":"英国","v":"yingju"},
+{"n":"网剧","v":"wangju"}
+]
+}
+]
+}
 }
