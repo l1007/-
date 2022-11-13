@@ -52,7 +52,7 @@
 "bfbiaotiqian": ">",
 "bfbiaotihou": "<",
 "bflianjieqian": "href=\"",
-"bflianjiehou": "\""},
+"bflianjiehou": "\"",
 "免嗅":"1",
 "分类":"电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman",
 "分类url":"https://www.fantuantva.com/s/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
