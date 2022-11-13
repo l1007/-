@@ -54,7 +54,7 @@
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\"",
 "起始页":"2",
-"免嗅":"1",
+"免嗅":"0",
 "分类":"电影$Movie#电视剧$Tv#综艺$Zy#动漫$Dm#其他$qita",
 "分类url":"https://auete.com/{cateId}/{class}/index{catePg}.html",
 "筛选":{
