@@ -140,10 +140,6 @@ http://50.7.220.74:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254
 http://50.7.220.74:8278/WarnerTV/playlist.m3u8?tid=MADA9911440699114406&ct=19225&tsum=19bde622e34ceabf296cf92a9a1adede
 #EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]Warner TV
 http://50.7.220.74:8278/WarnerTV/playlist.m3u8?tid=MEAE1940571519405715&ct=19249&tsum=977961c82f61c35af96e8af5dfbc8a3d
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]WWE
-http://50.7.220.74:8278/Wwe/playlist.m3u8?tid=ME9E9974073099740730&ct=19225&tsum=8840b20a73441662838a72c53f7889d8
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]WWE
-http://50.7.220.74:8278/Wwe/playlist.m3u8?tid=MAFA6271885362718853&ct=19249&tsum=087e1206a291a44e120fba9b3c0ddb2d
 #EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[SG]CNA
 http://50.7.220.74:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
 #EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[SG]Ch 8
