@@ -1,7 +1,7 @@
 {
 "作者":"lekbox",
 "站名":"看片",
-"主页url":"https://www.kpkuang.de",
+"主页url":"https://www.kpkuang.org",
 "热门推荐":"1",
 "直接播放":"0",
 "列表显示":"0",
@@ -61,7 +61,7 @@
 "免嗅":"0",
 "副标题":"class=\"n-bottom\"></span",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-"分类url":"https://www.kpkuang.de/vodshow/{cateId}-{area}-{by}------{catePg}--{class}-{year}--.html",
+"分类url":"https://www.kpkuang.org/vodshow/{cateId}-{area}-{by}------{catePg}--{class}-{year}--.html",
 "筛选":{
 "1":[
 {
