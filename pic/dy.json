@@ -1,64 +1,74 @@
 {
-"author": "20220611",
-"name": "斗鱼",
-"url": "https://www.douyu.com/",
-"tihuan": "cnzz.com",
-"User": "空", 
-"shouye": "1",
-"横图显示": "1",
-"fenlei": "一起看$gapi/rkc/directory/mixList/2_208/#美食$gapi/rkc/directory/mixList/2_194/#汽车$gapi/rkc/directory/mixList/2_136/#纪录片$gapi/rkc/directory/mixList/2_514/", 
-"houzhui": "",
-"shifouercijiequ": "0", 
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "\"type\":1", 
-"jiequshuzuhou": "\"rs16\"",
-"tupianqian": "\"rs1\":\"",
-"tupianhou": "\"",
-"biaotiqian": "\"rn\":\"",
-"biaotihou": "\"",
-"lianjieqian": "\"rid\":",
-"lianjiehou": ",\"",
-"fubiaotiqian": "\"nn\":\"",
-"fubiaotihou": "\"",
-"sousuoqian": "/japi/search/api/searchShow?kw=",
-"sousuohou": "&page=1&pageSize=50",
-"sousuohouzhui": "/", 
-"ssmoshi": "0",
-"sousuoshifouercijiequ": "0",
-"jspic": "roomSrc",
-"jsname": "roomName",
-"jsid": "rid",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "空",
-"ssjiequshuzuhou": "空",
-"sstupianqian": "空",
-"sstupianhou": "空",
-"ssbiaotiqian": "空",
-"ssbiaotihou": "空",
-"sslianjieqian": "空",
-"sslianjiehou": "空",
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "left\"><div class=\"Title",
-"bfjiequshuzuhou": "</a>", 
-"zhuangtaiqian": "Header-logo\" title=\"", 
-"zhuangtaihou": "\"",
-"daoyanqian": "Title-anchorNameH2\">",
-"daoyanhou": "</h2>", 
-"zhuyanqian": "canonical\" href=\"", 
-"zhuyanhou": "\"", 
-"juqingqian": "is-announceTxt\">",
-"juqinghou": "</p>", 
-"bfyshifouercijiequ": "0", 
-"bfyjiequqian": "空",
-"bfyjiequhou": "空", 
-"bfyjiequshuzuqian": "<h3 class=\"Title", 
-"bfyjiequshuzuhou": "target=\"_blank", 
-"bfbiaotiqian": "header\">", 
-"bfbiaotihou": "</h3>",
-"bflianjieqian": "rid=", 
-"bflianjiehou": "\""
-}
+  "author": "20220711",
+  "name": "斗鱼",
+  "url": "https://www.douyu.com/", //填网站链接
+  "tihuan": "", //这个不用动，是个别网站嗅探时过滤地址用的
+  "User": "空", //这个不用动，是个别网站播放需要请求头时才用到
+  "shouye": "1",
+  "横图显示": "1",
+
+  "fenlei": "一起看$gapi/rkc/directory/mixList/2_208/", //网站列表的分类
+  "houzhui":"&size=20", //网站翻页链接的后缀
+
+  "shifouercijiequ": "0", //截取的列表数组是否需要二次截取，0不需要，1需要
+  "jiequqian": "空", //不需要二次截取就填空
+  "jiequhou": "空", //不需要二次截取就填空
+  "jiequshuzuqian": "\"type\":1", //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
+  "jiequshuzuhou": "\"rs16\"", //截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义
+  "tupianqian": "\"rs1\":\"", //列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
+  "tupianhou": "\"", //列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义
+  "biaotiqian": "\"rn\":\"", //列表中资源的标题前关键词,截取的关键词有 " 的用 \ 进行转义
+  "biaotihou": "\"", //列表中资源的标题后关键词,截取的关键词有 " 的用 \ 进行转义
+  "lianjieqian": "\"rid\":", //列表中资源的详情页跳转链接前关键词,截取的关键词有 " 的用 \ 进行转义
+  "lianjiehou": ",\"", //列表中资源的详情页跳转链接后关键词,截取的关键词有 " 的用 \ 进行转义
+
+ 
+  "fubiaotiqian": "\"nn\":\"",
+  "fubiaotihou": "\"",
+
+
+  //搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
+  "sousuoqian": "/japi/search/api/searchShow?kw=",
+  "sousuohou": "&page=1&pageSize=50",
+  "sousuohouzhui": "/", //搜索页影片跳转详情页的中间标识链接部分
+  "ssmoshi": "0",
+  "sousuoshifouercijiequ": "0",
+  "jspic": "roomSrc",
+  "jsname": "roomName",
+  "jsid": "rid",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "left\"><div class=\"Title", //播放截取的列表数组的前关键词
+  "bfjiequshuzuhou": "</a>", //播放截取的列表数组的后关键词
+
+  "zhuangtaiqian": "Header-logo\" title=\"", //状态前关键词
+  "zhuangtaihou": "\"", //状态后关键词
+  "daoyanqian": "Title-anchorNameH2\">", //导演前关键词
+  "daoyanhou": "</h2>", //导演态后关键词
+  "zhuyanqian": "canonical\" href=\"", //主演前关键词
+  "zhuyanhou": "\"", //主演后关键词
+  "juqingqian": "is-announceTxt\">", //剧情前关键词
+  "juqinghou": "</p>", //剧情后关键词
+
+  "bfyshifouercijiequ": "0", //截取的播放列表数组是否需要二次截取，0不需要，1需要
+  "bfyjiequqian": "空", //不需要二次截取就填空
+  "bfyjiequhou": "空", //不需要二次截取就填空
+  "bfyjiequshuzuqian": "<h3 class=\"Title", //播放剧集数组前关键词
+  "bfyjiequshuzuhou": "target=\"_blank", //播放剧集数组后关键词
+  "bfbiaotiqian": "header\">", //播放剧集标题前关键词
+  "bfbiaotihou": "</h3>", //状播放剧集标题后关键词
+  "bflianjieqian": "rid=", //播放剧集链接前关键词
+  "bflianjiehou": "\""
+} //播放剧集链接后关键词
