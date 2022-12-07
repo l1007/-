@@ -1,64 +1,53 @@
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml" refresh="1440" max-conn="1" refresh="24"
-#EXTINF:-1 tvg-id="101" group-title="MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
+#EXTINF:-1 tvg-id="101" group-title="MYTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
-#EXTINF:-1 tvg-id="102" group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",TV2
+#EXTINF:-1 tvg-id="102" group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
-#EXTINF:-1 tvg-id="106" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV6_Logo.jpg/285px-TV6_Logo.jpg",TV6
+#EXTINF:-1 tvg-id="106" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV6_Logo.jpg/285px-TV6_Logo.jpg",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
-#EXTINF:-1 tvg-id="110" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
+#EXTINF:-1 tvg-id="110" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
-#EXTINF:-1 tvg-id="123" group-title="MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+#EXTINF:-1 tvg-id="123" group-title="MYTV" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",BERITA RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
-#EXTINF:-1 tvg-id="111" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SUKAN_RTM.jpg",Sukan RTM
+#EXTINF:-1 tvg-id="111" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SUKAN_RTM.jpg",TV SUKAN
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]ASSP 2
-http://50.7.220.74:8278/Assp2/playlist.m3u8?tid=ME1E4056565440565654&ct=19249&tsum=1bf59bebb8a43a859eae9f1b3759f844
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]ASSP 3
-http://51.79.82.208:16062
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]ASSP 3
-http://50.7.220.74:8278/Assp3/playlist.m3u8?tid=MC0C7920827879208278&ct=19225&tsum=b76aa6813f86d2c2e2c69f4b8ab6f21e
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]ASSP 3
-http://50.7.220.74:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]BeIN Sports
-http://51.79.82.208:16064
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]BeIN Sports 3
-http://51.79.82.208:16065
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]SPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]SPOTV
-http://50.7.220.74:8278/Weishimovie/playlist.m3u8?tid=MEEE4802495448024954&ct=19249&tsum=1731f56127d23a79a645f2d7d958dec7
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]SPOTV 2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]8TV
-http://23.237.10.66:16495
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]8TV
-http://50.7.220.74:8278/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsum=463d13f46eb7fbc9a5566be797c3d48f
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]翡翠台(华丽台)
-http://23.237.10.66:16410
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]八度空间
-http://51.79.82.208:16005
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]八度空间
-http://23.237.10.66:16406
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]八度空间
-http://50.7.220.74:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]AXN
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP 1
+http://50.7.220.74:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP 3
+http://198.16.64.10:8278/Assp3/playlist.m3u8?tid=MC0C7920827879208278&ct=19225&tsum=b76aa6813f86d2c2e2c69f4b8ab6f21e
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP 3
+http://198.16.64.10:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ARENA 2
+http://50.7.220.74:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ARENA
+http://50.7.220.74:8278/Arena/playlist.m3u8?tid=MA4A2365848123658481&ct=19225&tsum=06e68996e319c7afbc368a66c862fe90
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",AXN
 http://50.7.220.74:8278/Axn/playlist.m3u8?tid=MDAD8374621983746219&ct=19225&tsum=60883af30a38d2c40db4c04f8651ffaa
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]Animal Planet
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",AXN
+http://50.7.220.74:8278/Axn/playlist.m3u8?tid=MF5F8488555684885556&ct=19254&tsum=b053d03f18972fd57458dea9ae82c0aa
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Animal Planet
+http://50.7.220.74:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Animal Planet
 http://50.7.220.74:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]Boo
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Boo
 http://23.237.10.66:16420
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]NAT GEO
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NAT GEO
 http://50.7.220.74:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]NAT GEO WILD
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NAT GEO WILD
 http://50.7.220.74:8278/Natgeowild/playlist.m3u8?tid=MB1B3860629238606292&ct=19225&tsum=315ac040bcdf094ccacd3f57a127d1bf
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]Nickelodeon
-http://50.7.220.74:8278/Nickelodeon/playlist.m3u8?tid=MBBB9174743591747435&ct=19249&tsum=9901089db6361b9cafc0ab9de5612bee
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]One
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NAT GEO WILD
+http://50.7.220.74:8278/Natgeowild/playlist.m3u8?tid=MCEC8162047281620472&ct=19249&tsum=903a62e36d9cd6c67654b4e2ca6bcbd5
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",One
+http://50.7.220.74:8278/One/playlist.m3u8?tid=MB4B6226023862260238&ct=19225&tsum=a05a992f9150d8a389300bf4e108767f
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",One
 http://50.7.220.74:8278/One/playlist.m3u8?tid=MC4C3559816135598161&ct=19249&tsum=dce7930990cd11c5385de1298a06c226
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]TLC
-http://50.7.220.74:8278/Tlc/playlist.m3u8?tid=MF3F1922397419223974&ct=19249&tsum=463e97d27a96d75f2d46fe7f081af271
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]Warner TV
-http://50.7.220.74:8278/WarnerTV/playlist.m3u8?tid=MEAE1940571519405715&ct=19249&tsum=977961c82f61c35af96e8af5dfbc8a3d
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",One
+http://50.7.220.74:8278/SetOne/playlist.m3u8?tid=MD7D1616979216169792&ct=19249&tsum=228e9d46280149ba7ecfdce2acb28ad9
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WWE
+http://50.7.220.74:8278/Wwe/playlist.m3u8?tid=ME9E9974073099740730&ct=19225&tsum=8840b20a73441662838a72c53f7889d8
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WWE
+http://50.7.220.74:8278/Wwe/playlist.m3u8?tid=MAFA6271885362718853&ct=19249&tsum=087e1206a291a44e120fba9b3c0ddb2d
+
 
 #EXTINF:-1 group-title="AsiaTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Tv1
 http://51.79.82.208:16001
