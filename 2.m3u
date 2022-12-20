@@ -89,53 +89,341 @@ http://50.7.220.74:8278/Wwe/playlist.m3u8?tid=MAFA6271885362718853&ct=19249&tsum
 
 
 
-
-
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP
-http://iptv12k.com:35461/live/test167/12345/972.m3u8
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP(b)
-http://iptv12k.com:35461/live/test167/12345/7990.m3u8
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP2(b2)
-http://iptv12k.com:35461/live/test167/12345/7988.m3u8
+http://iptv12k.com:35461/80203091402/213445/972
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP(a)
+http://iptv12k.com:35461/80203091402/213445/7990
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP2
+http://iptv12k.com:35461/80203091402/213445/971
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP2(a)
+http://iptv12k.com:35461/80203091402/213445/655
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP2(b)
+http://iptv12k.com:35461/80203091402/213445/7988
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP3
-http://iptv12k.com:35461/live/test167/12345/970.m3u8
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP3(b2)
-http://iptv12k.com:35461/live/test167/12345/5221.m3u8
+http://iptv12k.com:35461/80203091402/213445/970
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP3(b)
+http://iptv12k.com:35461/80203091402/213445/5221
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP3(c)
+http://iptv12k.com:35461/80203091402/213445/7985
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP4
-http://iptv12k.com:35461/live/test167/12345/7983.m3u8
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP4(b)
-http://iptv12k.com:35461/live/test167/12345/969.m3u8
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP4(b3)
-http://iptv12k.com:35461/live/test167/12345/6509.m3u8
+http://iptv12k.com:35461/80203091402/213445/7983
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP4(a)
+http://iptv12k.com:35461/80203091402/213445/969
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP5
-http://iptv12k.com:35461/live/test167/12345/7982.m3u8
+http://iptv12k.com:35461/80203091402/213445/7982
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Arena
-http://iptv12k.com:35461/live/test167/12345/688.m3u8
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Arena(b)
-http://iptv12k.com:35461/live/test167/12345/966.m3u8
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP 3
-http://50.7.220.74:8278/Assp3/playlist.m3u8?tid=MC0C7920827879208278&ct=19225&tsum=b76aa6813f86d2c2e2c69f4b8ab6f21e
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP 3
-http://50.7.220.74:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SPOTV
-http://50.7.220.74:8278/Weishimovie/playlist.m3u8?tid=MEEE4802495448024954&ct=19249&tsum=1731f56127d23a79a645f2d7d958dec7
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SPOTV 2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ARENA 2
-http://50.7.220.74:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP 3
-http://198.16.64.10:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4
+http://iptv12k.com:35461/80203091402/213445/688
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Arena(a)
+http://iptv12k.com:35461/80203091402/213445/966
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BALLY SPORTS GREAT LAKES US
+http://iptv12k.com:35461/80203091402/213445/5532
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports SG
+http://iptv12k.com:35461/80203091402/213445/227
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports
-http://51.79.82.208:16064
+http://iptv12k.com:35461/80203091402/213445/4800
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports
+http://iptv12k.com:35461/80203091402/213445/7803
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 2 AU
+http://iptv12k.com:35461/80203091402/213445/3309
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 3 English
+http://iptv12k.com:35461/80203091402/213445/224
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 3 English
+http://iptv12k.com:35461/80203091402/213445/961
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 3
-http://51.79.82.208:16065
+http://iptv12k.com:35461/80203091402/213445/4799
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports US
+http://iptv12k.com:35461/80203091402/213445/5672
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 4 US
+http://iptv12k.com:35461/80203091402/213445/5674
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 6 US
+http://iptv12k.com:35461/80203091402/213445/5673
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 11 US
+http://iptv12k.com:35461/80203091402/213445/5675
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 1 PH
+http://iptv12k.com:35461/80203091402/213445/9697
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 2 PH
+http://iptv12k.com:35461/80203091402/213445/9696
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 3 PH
+http://iptv12k.com:35461/80203091402/213445/9695
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Big ten Network US
+http://iptv12k.com:35461/80203091402/213445/5663
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sport 1 HD UK
+http://iptv12k.com:35461/80203091402/213445/2380
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sport 1 UK
+http://iptv12k.com:35461/80203091402/213445/2381
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sport 1 UK
+http://iptv12k.com:35461/80203091402/213445/5422
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sport 2 UK
+http://iptv12k.com:35461/80203091402/213445/5421
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sport 2 UK
+http://iptv12k.com:35461/80203091402/213445/12553
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sport 3 FHD UK
+http://iptv12k.com:35461/80203091402/213445/5420
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sport 3 SD UK
+http://iptv12k.com:35461/80203091402/213445/2377
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sport Europe HD UK
+http://iptv12k.com:35461/80203091402/213445/5419
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sport Extra 1 HD UK
+http://iptv12k.com:35461/80203091402/213445/5418
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sport Extra 2 UK
+http://iptv12k.com:35461/80203091402/213445/5417
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sport Extra 3 HD UK
+http://iptv12k.com:35461/80203091402/213445/5416
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sport Extra 4 UK
+http://iptv12k.com:35461/80203091402/213445/5415
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sport Extra 5 UK
+http://iptv12k.com:35461/80203091402/213445/5414
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sport Extra 6 UK
+http://iptv12k.com:35461/80203091402/213445/5413
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",DD Sports
+http://iptv12k.com:35461/80203091402/213445/8881
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",EGG Network
+http://iptv12k.com:35461/80203091402/213445/311
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",EGG Network SG
+http://iptv12k.com:35461/80203091402/213445/944
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN 1 AU
+http://iptv12k.com:35461/80203091402/213445/3382
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN 3 HD US
+http://iptv12k.com:35461/80203091402/213445/5819
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN HD US
+http://iptv12k.com:35461/80203091402/213445/1642
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN News HD US
+http://iptv12k.com:35461/80203091402/213445/5825
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN U HD US
+http://iptv12k.com:35461/80203091402/213445/1640
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN U HD US
+http://iptv12k.com:35461/80203091402/213445/5822
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN
+http://iptv12k.com:35461/80203091402/213445/1212
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Eir Sports 2
+http://iptv12k.com:35461/80203091402/213445/5270
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Eurosport UK
+http://iptv12k.com:35461/80203091402/213445/647
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Eurosport 2 UK
+http://iptv12k.com:35461/80203091402/213445/2365
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Eurosport 2 UK
+http://iptv12k.com:35461/80203091402/213445/2366
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fight Sports
+http://iptv12k.com:35461/80203091402/213445/946
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fight Sports
+http://iptv12k.com:35461/80203091402/213445/1788
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fight Sports SG
+http://iptv12k.com:35461/80203091402/213445/314
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fight Sports SG
+http://iptv12k.com:35461/80203091402/213445/946
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fox Soccer Plus US
+http://iptv12k.com:35461/80203091402/213445/5898
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fox Sport 1 US
+http://iptv12k.com:35461/80203091402/213445/15038
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fox Sports 1
+http://iptv12k.com:35461/80203091402/213445/5890
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fox Sports 2 HD US
+http://iptv12k.com:35461/80203091402/213445/5889
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fox Sports 2 AU
+http://iptv12k.com:35461/80203091402/213445/316
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fox Sports 2 HD US
+http://iptv12k.com:35461/80203091402/213445/1632
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fox Sports 501 AU
+http://iptv12k.com:35461/80203091402/213445/3391
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fox Sports 502 AU
+http://iptv12k.com:35461/80203091402/213445/3390
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fox Sports 503 AU
+http://iptv12k.com:35461/80203091402/213445/3389
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fox Sports 504 AU
+http://iptv12k.com:35461/80203091402/213445/3388
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fox Sports 505 AU
+http://iptv12k.com:35461/80203091402/213445/3387
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fox Sports 506 AU
+http://iptv12k.com:35461/80203091402/213445/3386
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fox Sports 506 HD US
+http://iptv12k.com:35461/80203091402/213445/1631
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fox Sports 507 AU
+http://iptv12k.com:35461/80203091402/213445/3385
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fox Sports News AU
+http://iptv12k.com:35461/80203091402/213445/3392
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fox Sports News US
+http://iptv12k.com:35461/80203091402/213445/5891
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",GOLF
+http://iptv12k.com:35461/80203091402/213445/1228
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",J SPORTS 1 JP
+http://iptv12k.com:35461/80203091402/213445/3134
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",J SPORTS 2 JP
+http://iptv12k.com:35461/80203091402/213445/3135
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",J SPORTS 3 JP
+http://iptv12k.com:35461/80203091402/213445/3136
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",J SPORTS 4 JP
+http://iptv12k.com:35461/80203091402/213445/3137
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",スカイ A sports JP
+http://iptv12k.com:35461/80203091402/213445/3156
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",MUTV 
+http://iptv12k.com:35461/80203091402/213445/1954
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBA CA
+http://iptv12k.com:35461/80203091402/213445/1227
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBA TV HD
+http://iptv12k.com:35461/80203091402/213445/226
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Premier Sports
+http://iptv12k.com:35461/80203091402/213445/943
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Premier Sports 1
+http://iptv12k.com:35461/80203091402/213445/5436
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Viaplay
+http://iptv12k.com:35461/80203091402/213445/5399
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",PTV Sports
+http://iptv12k.com:35461/80203091402/213445/4857
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Racing.CH88
+http://iptv12k.com:35461/80203091402/213445/1829
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Racing.CH89
+http://iptv12k.com:35461/80203091402/213445/1828
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Racing.com AU
+http://iptv12k.com:35461/80203091402/213445/3380
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Racing.com HD AU
+http://iptv12k.com:35461/80203091402/213445/6886
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Racing.com HD AU
+http://iptv12k.com:35461/80203091402/213445/6887
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Racing 1  HD AU
+http://iptv12k.com:35461/80203091402/213445/6893
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Racing 2 HD AU
+http://iptv12k.com:35461/80203091402/213445/6892
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Action HD UK
+http://iptv12k.com:35461/80203091402/213445/2346
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Arena HD UK
+http://iptv12k.com:35461/80203091402/213445/2351
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports F1 HD UK
+http://iptv12k.com:35461/80203091402/213445/2350
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports F1 HD UK
+http://iptv12k.com:35461/80203091402/213445/5407
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports F1 UK
+http://iptv12k.com:35461/80203091402/213445/5362
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports MAIN EVENT HD UK
+http://iptv12k.com:35461/80203091402/213445/2340
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports MAIN EVENT UK
+http://iptv12k.com:35461/80203091402/213445/2341
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports News HD UK
+http://iptv12k.com:35461/80203091402/213445/5253
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports News UK
+http://iptv12k.com:35461/80203091402/213445/2348
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports News UK
+http://iptv12k.com:35461/80203091402/213445/5444
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports PREMIER LEAGUE HD UK
+http://iptv12k.com:35461/80203091402/213445/2337
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports PREMIER LEAGUE UK
+http://iptv12k.com:35461/80203091402/213445/5398
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports RACING UK
+http://iptv12k.com:35461/80203091402/213445/5402
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SPOTV
-http://198.16.64.10:8278/Weishimovie/playlist.m3u8?tid=MEEE4802495448024954&ct=19249&tsum=1731f56127d23a79a645f2d7d958dec7
-
+http://iptv12k.com:35461/80203091402/213445/967
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport 
+http://iptv12k.com:35461/80203091402/213445/5671
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Action
+http://iptv12k.com:35461/80203091402/213445/5002
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Blitz
+http://iptv12k.com:35461/80203091402/213445/4843
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Cricket
+http://iptv12k.com:35461/80203091402/213445/5000
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Football US
+http://iptv12k.com:35461/80203091402/213445/5670
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Grandstand
+http://iptv12k.com:35461/80203091402/213445/5007
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport La-Liga
+http://iptv12k.com:35461/80203091402/213445/5003
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport La-Liga
+http://iptv12k.com:35461/80203091402/213445/5004
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport LaLiga US
+http://iptv12k.com:35461/80203091402/213445/5669
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Motorsport US
+http://iptv12k.com:35461/80203091402/213445/5667
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport PSL
+http://iptv12k.com:35461/80203091402/213445/5006
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport PSL US
+http://iptv12k.com:35461/80203091402/213445/5666
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Premier League
+http://iptv12k.com:35461/80203091402/213445/5005
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Premier League
+http://iptv12k.com:35461/80203091402/213445/5671
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Rugby
+http://iptv12k.com:35461/80203091402/213445/943
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Rugby
+http://iptv12k.com:35461/80203091402/213445/5001
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Variety 1 
+http://iptv12k.com:35461/80203091402/213445/4999
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Variety 2
+http://iptv12k.com:35461/80203091402/213445/4998
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Variety 3 
+http://iptv12k.com:35461/80203091402/213445/4997
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Variety 3 US
+http://iptv12k.com:35461/80203091402/213445/5665
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Variety 4
+http://iptv12k.com:35461/80203091402/213445/4996
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Supersport Variety 4 US
+http://iptv12k.com:35461/80203091402/213445/5664
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",T-Sports
+http://iptv12k.com:35461/80203091402/213445/2564
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Ten Sports
+http://iptv12k.com:35461/80203091402/213445/7126
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Tennis Channel US
+http://iptv12k.com:35461/80203091402/213445/5660
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Truesports 2
+http://iptv12k.com:35461/80203091402/213445/4985
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Truesports 2
+http://iptv12k.com:35461/80203091402/213445/4995
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Truesports 3
+http://iptv12k.com:35461/80203091402/213445/4984
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Truesports 3
+http://iptv12k.com:35461/80203091402/213445/4994
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Truesports 4
+http://iptv12k.com:35461/80203091402/213445/4983
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Truesports 4
+http://iptv12k.com:35461/80203091402/213445/4993
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Truesports 5
+http://iptv12k.com:35461/80203091402/213445/4982
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Truesports 5
+http://iptv12k.com:35461/80203091402/213445/4992
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Truesports 7 
+http://iptv12k.com:35461/80203091402/213445/4991
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Truesports 7
+http://iptv12k.com:35461/80203091402/213445/4981
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 1 SPORTS
+http://iptv12k.com:35461/80203091402/213445/10812
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 1 TL
+http://iptv12k.com:35461/80203091402/213445/10811
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 1 US
+http://iptv12k.com:35461/80203091402/213445/5746
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 2 SPORTS
+http://iptv12k.com:35461/80203091402/213445/10810
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 2
+http://iptv12k.com:35461/80203091402/213445/10809
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 3 SPORTS
+http://iptv12k.com:35461/80203091402/213445/10808
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 3
+http://iptv12k.com:35461/80203091402/213445/10807
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 4 SPORTS
+http://iptv12k.com:35461/80203091402/213445/10806
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 4 US
+http://iptv12k.com:35461/80203091402/213445/5743
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 4
+http://iptv12k.com:35461/80203091402/213445/1009
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 4
+http://iptv12k.com:35461/80203091402/213445/10805
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 4
+http://iptv12k.com:35461/80203091402/213445/1878
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 5 SPORTS
+http://iptv12k.com:35461/80203091402/213445/10804
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 5 US
+http://iptv12k.com:35461/80203091402/213445/5742
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 5
+http://iptv12k.com:35461/80203091402/213445/10803
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",UFC Fight Pass UK
+http://iptv12k.com:35461/80203091402/213445/5401
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",UFC Fight pass US
+http://iptv12k.com:35461/80203091402/213445/1691
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Viaplay Sports1 UK
+http://iptv12k.com:35461/80203091402/213445/5270
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Viaplay Sports2 UK
+http://iptv12k.com:35461/80203091402/213445/5399
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WWE NETWORK
-http://abc123.digital:8080/stacks_7@hotmail.com/Hx9mOToi4E/392617
+http://iptv12k.com:35461/80203091402/213445/993
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WWE PPV
+http://iptv12k.com:35461/80203091402/213445/5400
+
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",MASFIGHT
 http://111.62.156.15/tx.flv.huya.com/src/1099531739833-1099531739833-86380627070287872-2199063603122-10057-A-0-1.flv?wsSecret=e5abe49f1dffe5d3fb3ad1b80b6e621a&wsTime=6283a6cc&u=0&seqid=16527086849687740&ctype=tars_mp&txyp=o%3Anc2%3B&fs=bgct&t=102
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WWE_RAW
@@ -593,249 +881,244 @@ http://abc123.digital:8080/stacks_7@hotmail.com/Hx9mOToi4E/392617
 
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ABC
-http://iptv12k.com:35461/live/test167/12345/592.m3u8
+http://iptv12k.com:35461/80203091402/213445/592
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",AFN
-http://iptv12k.com:35461/live/test167/12345/640.m3u8
+http://iptv12k.com:35461/80203091402/213445/640
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",AFN(a)
+http://iptv12k.com:35461/80203091402/213445/13543
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Animax
+http://iptv12k.com:35461/80203091402/213445/9113
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Aniplus
+http://iptv12k.com:35461/80203091402/213445/686
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Aniplus(a)
+http://iptv12k.com:35461/80203091402/213445/13575
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",AXN
-http://iptv12k.com:35461/live/test167/12345/274.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",AXN
-http://iptv12k.com:35461/live/test167/12345/608.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",AnimalPlanet
-http://iptv12k.com:35461/live/test167/12345/633.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BBCEarth
-http://iptv12k.com:35461/live/test167/12345/624.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BBC
-http://iptv12k.com:35461/live/test167/12345/623.m3u8
+http://iptv12k.com:35461/80203091402/213445/274
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",AXN(a)
+http://iptv12k.com:35461/80203091402/213445/608
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",AXN(b)
+http://iptv12k.com:35461/80203091402/213445/13471
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",AXN(c)
+http://iptv12k.com:35461/80203091402/213445/1885
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Aljazeera
+http://iptv12k.com:35461/80203091402/213445/13393
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Aljazeera(a)
+http://iptv12k.com:35461/80203091402/213445/13614
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Animal Planet
+http://iptv12k.com:35461/80203091402/213445/633
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Animal Planet(a)
+http://iptv12k.com:35461/80203091402/213445/13536
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BBC Earth
+http://iptv12k.com:35461/80203091402/213445/624
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BBC Earth(a)
+http://iptv12k.com:35461/80203091402/213445/13528
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BBC Lifestyle
+http://iptv12k.com:35461/80203091402/213445/13529
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BOO
-http://iptv12k.com:35461/live/test167/12345/722.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BOOMERANG
-http://iptv12k.com:35461/live/test167/12345/614.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BabyTV
-http://iptv12k.com:35461/live/test167/12345/616.m3u8
+http://iptv12k.com:35461/80203091402/213445/614
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BOO(a)
+http://iptv12k.com:35461/80203091402/213445/722
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BOO(b)
+http://iptv12k.com:35461/80203091402/213445/13477
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BOO(c)
+http://iptv12k.com:35461/80203091402/213445/13611
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Bloomberg
-http://iptv12k.com:35461/live/test167/12345/590.m3u8
+http://iptv12k.com:35461/80203091402/213445/590
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Bloomberg(a)
+http://iptv12k.com:35461/80203091402/213445/13446
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Cartoon Network
-http://iptv12k.com:35461/live/test167/12345/618.m3u8
+http://iptv12k.com:35461/80203091402/213445/618
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Cartoon Network(a)
+http://iptv12k.com:35461/80203091402/213445/13481
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CBeebies
-http://iptv12k.com:35461/live/test167/12345/615.m3u8
+http://iptv12k.com:35461/80203091402/213445/615
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CBeebies(a)
+http://iptv12k.com:35461/80203091402/213445/13478
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Cinema World
-http://iptv12k.com:35461/live/test167/12345/186.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Cinema World
-http://iptv12k.com:35461/live/test167/12345/606.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CINEMAX
-http://iptv12k.com:35461/live/test167/12345/607.m3u8
+http://iptv12k.com:35461/80203091402/213445/186
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Cinema World(a)
+http://iptv12k.com:35461/80203091402/213445/606
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Cinema World(b)
+http://iptv12k.com:35461/80203091402/213445/1881
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Cinema World(c)
+http://iptv12k.com:35461/80203091402/213445/13468
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Cinemax
+http://iptv12k.com:35461/80203091402/213445/1882
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Cinemax(a)
+http://iptv12k.com:35461/80203091402/213445/13469
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CNBC
-http://iptv12k.com:35461/live/test167/12345/593.m3u8
+http://iptv12k.com:35461/80203091402/213445/593
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CNN
-http://iptv12k.com:35461/live/test167/12345/594.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CinemaWorld
-http://iptv12k.com:35461/live/test167/12345/1881.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Cinemax
-http://iptv12k.com:35461/live/test167/12345/1882.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Cinemax
-http://iptv12k.com:35461/live/test167/12345/1883.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ComedyCentral
-http://iptv12k.com:35461/live/test167/12345/683.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Cricket
-http://iptv12k.com:35461/live/test167/12345/684.m3u8
+http://iptv12k.com:35461/80203091402/213445/594
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Comedy Central
+http://iptv12k.com:35461/80203091402/213445/683
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Comedy Central(a)
+http://iptv12k.com:35461/80203091402/213445/13572
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Crime & Investigation
-http://iptv12k.com:35461/live/test167/12345/634.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Crime & Investigation
-http://iptv12k.com:35461/live/test167/12345/2111.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",DMAX
-http://iptv12k.com:35461/live/test167/12345/636.m3u8
+http://iptv12k.com:35461/80203091402/213445/634
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Crime & Investigation(a)
+http://iptv12k.com:35461/80203091402/213445/13537
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Crime & Investigation(b)
+http://iptv12k.com:35461/80203091402/213445/2111
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",DW
-http://iptv12k.com:35461/live/test167/12345/622.m3u8
+http://iptv12k.com:35461/80203091402/213445/622
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",DW(a)
+http://iptv12k.com:35461/80203091402/213445/13526
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Discovery
-http://iptv12k.com:35461/live/test167/12345/627.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Discovery Asia
-http://iptv12k.com:35461/live/test167/12345/628.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Disney Junior
-http://iptv12k.com:35461/live/test167/12345/2092.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",DisneyXD
-http://iptv12k.com:35461/live/test167/12345/626.m3u8
+http://iptv12k.com:35461/80203091402/213445/627
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Discovery(a)
+http://iptv12k.com:35461/80203091402/213445/13531
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Disney XD
+http://iptv12k.com:35461/80203091402/213445/626
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Disney XD(a)
+http://iptv12k.com:35461/80203091402/213445/13530
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Dreamworks
+http://iptv12k.com:35461/80203091402/213445/13476
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",E!
-http://iptv12k.com:35461/live/test167/12345/637.m3u8
+http://iptv12k.com:35461/80203091402/213445/637
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",E!(a)
+http://iptv12k.com:35461/80203091402/213445/13319
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",E!(b)
+http://iptv12k.com:35461/80203091402/213445/13540
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",EURONEWS
-http://iptv12k.com:35461/live/test167/12345/588.m3u8
+http://iptv12k.com:35461/80203091402/213445/588
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",EURONEWS(a)
+http://iptv12k.com:35461/80203091402/213445/13444
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",EUROSPORT
-http://iptv12k.com:35461/live/test167/12345/647.m3u8
+http://iptv12k.com:35461/80203091402/213445/647
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",EUROSPORT(a)
+http://iptv12k.com:35461/80203091402/213445/13545
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Food Network Asia
-http://iptv12k.com:35461/live/test167/12345/285.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX  ACTION MOVIES+
-http://iptv12k.com:35461/live/test167/12345/612.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX MOVIES+
-http://iptv12k.com:35461/live/test167/12345/611.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX MOVIES
-http://iptv12k.com:35461/live/test167/12345/610.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX NEWS
-http://iptv12k.com:35461/live/test167/12345/587.m3u8
+http://iptv12k.com:35461/80203091402/213445/285
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Food Network Asia(a)
+http://iptv12k.com:35461/80203091402/213445/13541
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX
-http://iptv12k.com:35461/live/test167/12345/609.m3u8
+http://iptv12k.com:35461/80203091402/213445/609
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX HD
+http://iptv12k.com:35461/80203091402/213445/13473
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX MOVIES
+http://iptv12k.com:35461/80203091402/213445/610
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX NEWS
+http://iptv12k.com:35461/80203091402/213445/587
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX NEWS(a)
+http://iptv12k.com:35461/80203091402/213445/13443
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FRANCE24
-http://iptv12k.com:35461/live/test167/12345/589.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FoodChannel
-http://iptv12k.com:35461/live/test167/12345/638.m3u8
+http://iptv12k.com:35461/80203091402/213445/589
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FRANCE24(a)
+http://iptv12k.com:35461/80203091402/213445/13185
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FRANCE24(b)
+http://iptv12k.com:35461/80203091402/213445/13445
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Food Network
+http://iptv12k.com:35461/80203091402/213445/638
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",GOLF
-http://iptv12k.com:35461/live/test167/12345/651.m3u8
+http://iptv12k.com:35461/80203091402/213445/651
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HBO
-http://iptv12k.com:35461/live/test167/12345/599.m3u8
+http://iptv12k.com:35461/80203091402/213445/599
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HBO(a)
+http://iptv12k.com:35461/80203091402/213445/13458
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HBO Family
-http://iptv12k.com:35461/live/test167/12345/1891.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HBO Family
-http://iptv12k.com:35461/live/test167/12345/597.m3u8
+http://iptv12k.com:35461/80203091402/213445/597
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HBO HiTS
-http://iptv12k.com:35461/live/test167/12345/256.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HBO HiTS
-http://iptv12k.com:35461/live/test167/12345/603.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HBO Hits
-http://iptv12k.com:35461/live/test167/12345/1889.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HBO Hits
-http://iptv12k.com:35461/live/test167/12345/598.m3u8
+http://iptv12k.com:35461/80203091402/213445/598
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HBO HiTS(a)
+http://iptv12k.com:35461/80203091402/213445/13456
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HBO Signature
-http://iptv12k.com:35461/live/test167/12345/596.m3u8
+http://iptv12k.com:35461/80203091402/213445/596
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HBO Signature(a)
+http://iptv12k.com:35461/80203091402/213445/13452
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HGTV
-http://iptv12k.com:35461/live/test167/12345/287.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HGTV
-http://iptv12k.com:35461/live/test167/12345/641.m3u8
+http://iptv12k.com:35461/80203091402/213445/287
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HISTORY
-http://iptv12k.com:35461/live/test167/12345/629.m3u8
+http://iptv12k.com:35461/80203091402/213445/629
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HITS
+http://iptv12k.com:35461/80203091402/213445/603
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HITS(a)
+http://iptv12k.com:35461/80203091402/213445/13463
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Hits Movies
-http://iptv12k.com:35461/live/test167/12345/181
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Hits Movies
-http://iptv12k.com:35461/live/test167/12345/602
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",KBSWorld
-http://iptv12k.com:35461/live/test167/12345/713.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",KIX
-http://iptv12k.com:35461/live/test167/12345/272.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",KIX
-http://iptv12k.com:35461/live/test167/12345/689.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Love Nature
-http://iptv12k.com:35461/live/test167/12345/621.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",MTV
-http://iptv12k.com:35461/live/test167/12345/586.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NAT GEO
-http://iptv12k.com:35461/live/test167/12345/632.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NAT GEO WILD
-http://iptv12k.com:35461/live/test167/12345/630.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NET GEO WILD
-http://iptv12k.com:35461/live/test167/12345/1222.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBATV
-http://iptv12k.com:35461/live/test167/12345/942.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NHK WORLD
-http://iptv12k.com:35461/live/test167/12345/585.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Nick
-http://iptv12k.com:35461/live/test167/12345/617.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Nick jr
-http://iptv12k.com:35461/live/test167/12345/619.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Nickelodeon
-http://iptv12k.com:35461/live/test167/12345/289.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Oh!K
-http://iptv12k.com:35461/live/test167/12345/712.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",One
-http://iptv12k.com:35461/live/test167/12345/711.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Outdoor
-http://iptv12k.com:35461/live/test167/12345/582.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",PREMIERSPORTS
-http://iptv12k.com:35461/live/test167/12345/687.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ROCK ENTERTAINMENT
-http://iptv12k.com:35461/live/test167/12345/601.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ROCK EXTREME
-http://iptv12k.com:35461/live/test167/12345/600.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SKY NEWS
-http://iptv12k.com:35461/live/test167/12345/591.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Thrill
-http://iptv12k.com:35461/live/test167/12345/261.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TLC
-http://iptv12k.com:35461/live/test167/12345/639.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN
-http://iptv12k.com:35461/live/test167/12345/1878.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TrvlChannel
-http://iptv12k.com:35461/live/test167/12345/635.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",tvN
-http://iptv12k.com:35461/live/test167/12345/251.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",tvN
-http://iptv12k.com:35461/live/test167/12345/714.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",tvNMovies
-http://iptv12k.com:35461/live/test167/12345/715.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Warner TV
-http://iptv12k.com:35461/live/test167/12345/182.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Warner TV
-http://iptv12k.com:35461/live/test167/12345/604.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Warner TV
-http://iptv12k.com:35461/live/test167/12345/1880.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WWE
-http://iptv12k.com:35461/live/test167/12345/652.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ABC Australia
-http://iptv12k.com:35461/live/test167/12345/2145.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",AXN in
-http://iptv12k.com:35461/live/test167/12345/1884.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CinemaWorld
-http://iptv12k.com:35461/live/test167/12345/2124.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Cinemax
-http://iptv12k.com:35461/live/test167/12345/2114.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Daai TV
-http://iptv12k.com:35461/+66627837567/free11am-6pm/2170.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HBO
-http://iptv12k.com:35461/live/test167/12345/1892.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HBO
-http://iptv12k.com:35461/live/test167/12345/2121.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HBO Family
-http://iptv12k.com:35461/live/test167/12345/1890.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HBO Family
-http://iptv12k.com:35461/live/test167/12345/2120.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HBO Hits
-http://iptv12k.com:35461/live/test167/12345/1877.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HBO Hits
-http://iptv12k.com:35461/live/test167/12345/1888.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HBO Signature
-http://iptv12k.com:35461/live/test167/12345/1886.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HBO Signature
-http://iptv12k.com:35461/live/test167/12345/2118.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HGTV
-http://iptv12k.com:35461/live/test167/12345/2059.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",History
-http://iptv12k.com:35461/live/test167/12345/2065.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Hits
-http://iptv12k.com:35461/live/test167/12345/2126.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Hits Movies
-http://iptv12k.com:35461/live/test167/12345/2122.m3u8
+http://iptv12k.com:35461/80203091402/213445/181
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Hits Movies(a)
+http://iptv12k.com:35461/80203091402/213445/602
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Hits Movies(b)
+http://iptv12k.com:35461/80203091402/213445/13462
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",KBS World
-http://iptv12k.com:35461/live/test167/12345/2146.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",KiX
-http://iptv12k.com:35461/live/test167/12345/2125.m3u8
+http://iptv12k.com:35461/80203091402/213445/713
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",KBS World(a)
+http://iptv12k.com:35461/80203091402/213445/13600
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",KIX
-http://iptv12k.com:35461/+66627837567/free11am-6pm/2080.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",KIX MOVIE
-http://iptv12k.com:35461/+66627837567/free11am-6pm/1876.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Miao Mi
-http://iptv12k.com:35461/live/test167/12345/2074.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NatGeo
-http://iptv12k.com:35461/live/test167/12345/2066.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NatGeo Wild
-http://iptv12k.com:35461/live/test167/12345/2067.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Paramountchannel
-http://iptv12k.com:35461/live/test167/12345/2123.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ROCKEntertainment
-http://iptv12k.com:35461/live/test167/12345/2053.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ROCKExtreme
-http://iptv12k.com:35461/live/test167/12345/2052.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Thrill
-http://iptv12k.com:35461/live/test167/12345/2128.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TLC
-http://iptv12k.com:35461/live/test167/12345/2057.m3u8
+http://iptv12k.com:35461/80203091402/213445/272
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",KIX(a)
+http://iptv12k.com:35461/80203091402/213445/689
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",KIX(b)
+http://iptv12k.com:35461/80203091402/213445/13577
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Love Nature
+http://iptv12k.com:35461/80203091402/213445/621
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Love Nature(a)
+http://iptv12k.com:35461/80203091402/213445/13483
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",MTV
+http://iptv12k.com:35461/80203091402/213445/586
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",MTV(a)
+http://iptv12k.com:35461/80203091402/213445/13442
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NAT GEO
+http://iptv12k.com:35461/80203091402/213445/632
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NAT GEO(a)
+http://iptv12k.com:35461/80203091402/213445/13535
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NAT GEO WILD
+http://iptv12k.com:35461/80203091402/213445/630
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NAT GEO WILD(a)
+http://iptv12k.com:35461/80203091402/213445/1222
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NAT GEO WILD(b)
+http://iptv12k.com:35461/80203091402/213445/13534
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Nick jr
+http://iptv12k.com:35461/80203091402/213445/619
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Nick jr(a)
+http://iptv12k.com:35461/80203091402/213445/13482
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Nickelodeon
+http://iptv12k.com:35461/80203091402/213445/289
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Nickelodeon(a)
+http://iptv12k.com:35461/80203091402/213445/617
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Nickelodeon(b)
+http://iptv12k.com:35461/80203091402/213445/13480
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",One
+http://iptv12k.com:35461/80203091402/213445/711
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",One(a)
+http://iptv12k.com:35461/80203091402/213445/13599
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Outdoor
+http://iptv12k.com:35461/80203091402/213445/582
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Outdoor(a)
+http://iptv12k.com:35461/80203091402/213445/13440
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Paramount Channel
+http://iptv12k.com:35461/80203091402/213445/1824
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Paramount Channel(a)
+http://iptv12k.com:35461/80203091402/213445/13436
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ROCK ENTERTAINMENT
+http://iptv12k.com:35461/80203091402/213445/601
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ROCK EXTREME
+http://iptv12k.com:35461/80203091402/213445/600
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Showcase Movies
+http://iptv12k.com:35461/80203091402/213445/1826
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Showcase Movies(a)
+http://iptv12k.com:35461/80203091402/213445/13437
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SKY NEWS
+http://iptv12k.com:35461/80203091402/213445/591
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky News HD
+http://iptv12k.com:35461/80203091402/213445/13447
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 4
+http://iptv12k.com:35461/80203091402/213445/1878
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",tvN
-http://iptv12k.com:35461/live/test167/12345/2050.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",tvN
-http://iptv12k.com:35461/live/test167/12345/2056.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",tvN Movies
-http://iptv12k.com:35461/live/test167/12345/2049.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Waku-Waku Japan
-http://iptv12k.com:35461/live/test167/12345/1793.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WarnerTV
-http://iptv12k.com:35461/live/test167/12345/1879.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WarnerTV
-http://iptv12k.com:35461/live/test167/12345/2115.m3u8
+http://iptv12k.com:35461/80203091402/213445/251
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",tvN(a)
+http://iptv12k.com:35461/80203091402/213445/714
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",tvNMovies
+http://iptv12k.com:35461/80203091402/213445/715
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Warner TV
+http://iptv12k.com:35461/80203091402/213445/182
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Warner TV(a)
+http://iptv12k.com:35461/80203091402/213445/604
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Warner TV(b)
+http://iptv12k.com:35461/80203091402/213445/1880
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WWE
+http://iptv12k.com:35461/80203091402/213445/652
+
 
 
 
