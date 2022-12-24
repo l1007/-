@@ -11,12 +11,12 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #EXTINF:-1 tvg-id="111" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SUKAN_RTM.jpg",TV SUKAN
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
-#EXTINF:-1, group-title="MYTV" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
-http://edge.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTINF:-1 group-title="MYTV" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 #EXTINF:-1 group-title="MYTV" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png",Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg",8TV
+http://23.237.10.66:16406
+
 #EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png",TV3
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 #EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/NTV7_logo_%282018%29.svg/1200px-NTV7_logo_%282018%29.svg.png",NTV7
@@ -27,14 +27,11 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 #EXTINF:-1 group-title="MYTV" tvg-logo="https://static9.tgstat.ru/channels/_0/e8/e8d015d17d29e7d0db09b5136c6e3f0e.jpg",DRAMA SANGAT
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
-
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Go Shop
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://d3avoj45mekucs.cloudfront.net/ulagam/media/2017/astro-go-resized-(2).jpg?ext=.jpg",Go Shop GAAYA
 https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TVS
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg",TVS
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Hello
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TV IKIM
+#EXTINF:-1 group-title="MYTV" tvg-logo="http://www.tvikim.my/images/logo-header-bak.png",TV IKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
 
 
