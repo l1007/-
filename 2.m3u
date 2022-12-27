@@ -25,11 +25,11 @@ http://23.237.10.66:16406
 http://23.237.10.66:16404
 #EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/NTV7_logo_%282018%29.svg/1200px-NTV7_logo_%282018%29.svg.png",NTV7
 http://23.237.10.66:16405
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",OASIS
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Astro_Oasis_HD.png",OASIS
 http://23.237.10.66:16471
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SURIA
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Mediacorp_Suria_logo.svg",SURIA
 http://23.237.10.66:16492
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BOO
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",BOO
 http://23.237.10.66:16420
 
 #EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png",TV3
@@ -71,48 +71,7 @@ http://50.7.220.74:8278/One/playlist.m3u8?tid=MB4B6226023862260238&ct=19225&tsum
 http://50.7.220.74:8278/One/playlist.m3u8?tid=MC4C3559816135598161&ct=19249&tsum=dce7930990cd11c5385de1298a06c226
 #EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",One
 http://50.7.220.74:8278/SetOne/playlist.m3u8?tid=MD7D1616979216169792&ct=19249&tsum=228e9d46280149ba7ecfdce2acb28ad9
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WWE
-http://50.7.220.74:8278/Wwe/playlist.m3u8?tid=ME9E9974073099740730&ct=19225&tsum=8840b20a73441662838a72c53f7889d8
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WWE
-http://50.7.220.74:8278/Wwe/playlist.m3u8?tid=MAFA6271885362718853&ct=19249&tsum=087e1206a291a44e120fba9b3c0ddb2d
 
-
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Arena
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/157485
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Cricket
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/157565
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Oasis
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/157489
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport 1
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/146068
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",AXN
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/157542
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BBC Earth
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/171979
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",beIN Sports
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/157561
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Cartoon Network
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/174684
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Celestial Movies
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/174687
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Chutti TV
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/157495
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Discovery Science
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/157530
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX SPORTS 2
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/157488
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NAT GEO Wild
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/174724
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Nick Junior
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/157546
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NTV 7
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/174695
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TV 9
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/171953
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TV Alhijrah
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/157491
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Warner TV
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/157550
 
 
 
@@ -120,9 +79,7 @@ http://iptvmedia.live:8080/1eae94e3/e22181ebb2/157550
 
 
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP1
-http://193.107.202.221:81/live/Kirk123/Kirk123/1552951.ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP1
-http://50.7.220.74:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
+http://eminent.live:25461/Kf5MXkcskw/phwOVG7le8/197514
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP2
 http://eminent.live:25461/Kf5MXkcskw/phwOVG7le8/197515
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP3
@@ -142,10 +99,6 @@ http://50.7.220.74:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&t
 
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SPOTV
-http://198.16.64.10:8278/Weishimovie/playlist.m3u8?tid=MEEE4802495448024954&ct=19249&tsum=1731f56127d23a79a645f2d7d958dec7
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SPOTV
-http://50.7.220.74:8278/Weishimovie/playlist.m3u8?tid=MEEE4802495448024954&ct=19249&tsum=1731f56127d23a79a645f2d7d958dec7
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SPOTV 2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
@@ -292,24 +245,16 @@ http://111.62.156.15/tx.flv.huya.com/src/1099531739996-1099531739996-86381327149
 http://111.62.156.15/tx.flv.huya.com/src/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.flv?wsSecret=ea70713c86bc147d6efb1afd0ae3e20e&wsTime=6283adab&u=0&seqid=16527104435428000&ctype=tars_mp&txyp=o%3Anc2%3B&fs=bgct&t=102
 
 
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SUKAN RTM
-http://23.237.10.66:16476
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CCTV5
+https://node1.olelive.com:6443/live/CCTV5HD_1080_SRT/hls.m3u8
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CCTV5
+https://node2.olelive.com:6443/live/CCTV5HD_1080/hls.m3u8
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CCTV5
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CCTV5
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CCTV5
-http://159.75.85.63:828/shijiebei/sjb.php?id=3007a
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CCTV5
-http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CCTV5
-http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",五星体育
-http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",五星体育
-http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",五星体育
-http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CCTV5+
+https://node2.olelive.com:6443/live/CCTV5PHD_1080/hls.m3u8
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",爱尔达体育1
 http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",爱尔达体育1
