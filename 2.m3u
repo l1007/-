@@ -64,38 +64,43 @@ https://asrazunifi.ddns.net:8443/live.m3u8
 #EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Movies X
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",AWANI
-http://mxu03.wanicelife.com:8880/6m0350051/45613376/1704
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Aura HD
-http://mxu03.wanicelife.com:8880/6m0350051/45613376/71145
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BOO
-http://mxu03.wanicelife.com:8880/6m0350051/45613376/1697
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BERNAMA
-http://mxu03.wanicelife.com:8880/6m0350051/45613376/1717
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Citra HD
-http://mxu03.wanicelife.com:8880/6m0350051/45613376/71146
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Ceria
-http://mxu03.wanicelife.com:8880/6m0350051/45613376/71080
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Drama Sangat
-http://mxu03.wanicelife.com:8880/6m0350051/45613376/71117
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",OASIS
-http://mxu03.wanicelife.com:8880/6m0350051/45613376/1701
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",OASIS HD
-http://mxu03.wanicelife.com:8880/6m0350051/45613376/71021
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",OKTO
-http://mxu03.wanicelife.com:8880/6m0350051/45613376/1699
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",PRIMA
-http://mxu03.wanicelife.com:8880/6m0350051/45613376/1702
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Prima HD
-http://mxu03.wanicelife.com:8880/6m0350051/45613376/71020
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Rania HD
-http://mxu03.wanicelife.com:8880/6m0350051/45613376/71144
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",RIA
-http://mxu03.wanicelife.com:8880/6m0350051/45613376/1705
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Suria
-http://mxu03.wanicelife.com:8880/6m0350051/45613376/1700
-#EXTINF:-1 group-title="MYTV" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WARNA
-http://mxu03.wanicelife.com:8880/6m0350051/45613376/1706
+#EXTINF:-1 group-title="MYTV" tvg-logo="jpg",Awesome TV
+http://mxu03.wanicelife.com:8880/6mm690017/13249341/71149
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png",Aura HD
+http://mxu03.wanicelife.com:8880/6mm690017/13249341/71145
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png",AWANI
+http://mxu03.wanicelife.com:8880/6mm690017/13249341/1704
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png",BERNAMA
+http://mxu03.wanicelife.com:8880/6mm690017/13249341/1717
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",BOO
+http://mxu03.wanicelife.com:8880/6mm690017/13249341/1697
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png",Citra HD
+http://mxu03.wanicelife.com:8880/6mm690017/13249341/71146
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png",Ceria
+http://mxu03.wanicelife.com:8880/6mm690017/13249341/71080
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://static9.tgstat.ru/channels/_0/e8/e8d015d17d29e7d0db09b5136c6e3f0e.jpg",Drama Sangat
+http://mxu03.wanicelife.com:8880/6mm690017/13249341/71117
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY TV
+http://mxu03.wanicelife.com:8880/6mm690017/13249341/71060
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png",OASIS
+http://mxu03.wanicelife.com:8880/6mm690017/13249341/1701
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Astro_Oasis_HD.png",OASIS HD
+http://mxu03.wanicelife.com:8880/6mm690017/13249341/71021
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png",PRIMA
+http://mxu03.wanicelife.com:8880/6mm690017/13249341/1702
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Astro_Prima_HD.png",Prima HD
+http://mxu03.wanicelife.com:8880/6mm690017/13249341/71020
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png",RIA
+http://mxu03.wanicelife.com:8880/6mm690017/13249341/1705
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",Rania HD
+http://mxu03.wanicelife.com:8880/6mm690017/13249341/71144
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Mediacorp_Suria_logo.svg",Suria
+http://mxu03.wanicelife.com:8880/6mm690017/13249341/1700
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png",WARNA
+http://mxu03.wanicelife.com:8880/6mm690017/13249341/1706
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg",TVS
+http://mxu03.wanicelife.com:8880/6mm690017/13249341/71148
+
 
 
 
