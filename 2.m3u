@@ -30,7 +30,7 @@ http://23.237.10.66:16471
 #EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Mediacorp_Suria_logo.svg",SURIA
 http://23.237.10.66:16492
 #EXTINF:-1 group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",BOO
-http://23.237.10.66:16420
+http://iptv12k.com:35461/live/test167/12345/722.m3u8
 
 #EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png",TV3
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
