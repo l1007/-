@@ -75,20 +75,10 @@ http://mxu03.wanicelife.com:8880/12mk0110007/16863251/1706
 
 
 
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP1
-http://ptv.is:2095/fqAEYSeq/azMUkNnz/115615
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP2
-http://ptv.is:2095/fqAEYSeq/azMUkNnz/115616
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP3
-http://ptv.is:2095//fqAEYSeq/azMUkNnz/115617
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP4
-http://ptv.is:2095//fqAEYSeq/azMUkNnz/115617
-
-
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+http://198.16.64.10:8278/Weishimovie/playlist.m3u8?tid=MEEE4802495448024954&ct=19249&tsum=1731f56127d23a79a645f2d7d958dec7
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SPOTV 2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
+http://23.237.10.66:16180
 
 
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SKY SPORT MOTOGP
@@ -181,6 +171,184 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
 
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/01/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",Mulan
+https://data.streamku.xyz/mv/110a-mulan.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/01/8HCCYAIocXxMKn7J9yQfDX1vBM5.jpg",The Old Way
+https://data.streamku.xyz/mv/113-old.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/01/1UKNef590A0ZaMnxsscIcWuK1Em.jpg",Resident Evil
+https://data.streamku.xyz/mv/110a-resident.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2019/05/84s6e0V8hB87eOI5X3zVtkDboto.jpg",Resident Evil: Extinction
+https://player.mv21.cc/stream/360/KRZ40EVuebQcTLq/__001
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/01/qf8XoYwhPuk7omhcSdvAH2742my-170x255.jpg",Resident Evil: Afterlife
+https://data.streamku.xyz/mv/110a-reafter.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/01/ohdUDWVlcbuWphaLu6wS91xdJ73.jpg",Resident Evil: Retribution
+https://data.streamku.xyz/mv/110a-reretri.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/01/7glPlA0xPpxPxBu0TnY4ulQVCV1.jpg",Resident Evil: The Final Chapter
+https://data.streamku.xyz/mv/110a-refinal.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2019/04/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",Captain America: The First Avenger
+https://data.streamku.xyz/mv/79a-captainfirst.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2020/05/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",Captain America: The Winter Soldier
+https://data.streamku.xyz/mv/79a-captainwinter.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2020/05/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",Guardians of the Galaxy
+https://data.streamku.xyz/mv/79a-guardiangalaxy.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2020/03/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",Guardians of the Galaxy Vol. 2
+https://data.streamku.xyz/mv/79a-guardianvol2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/11/rS97hUJ1otKTTripGwQ0ujbuIri.jpg",Ant-Man
+https://data.streamku.xyz/mv/79a-antman.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2020/05/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg",Ant-Man and the Wasp
+https://data.streamku.xyz/mv/79a-antwasp.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/11/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",Logan
+https://data.streamku.xyz/mv/90b-logan.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/11/iI9c8XNdPuwB4RYbHMd62QNhoRK.jpg",Female Fight Squad
+https://data.streamku.xyz/mv/86b-female.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/11/l4G4M6V9UrNRdbcsbnMmEZUyBGw.jpg",Shock Wave
+https://data.streamku.xyz/mv/86b-shock.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/11/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg",The Hitman’s Bodyguard
+https://data.streamku.xyz/mv/87b-hitman.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/11/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",Captain America: Civil War
+https://data.streamku.xyz/mv/79a-captaincivil.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/11/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",Thor: The Dark World
+https://data.streamku.xyz/mv/78a-thordark.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/11/AtsgWhDnHTq68L0lLsUrCnM7TjG-170x255.jpg",Captain Marvel
+https://data.streamku.xyz/mv/78a-captain.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/11/78lPtwv72eTNqFW9COBYI0dWDJa-170x255.jpg",Iron Man
+https://data.streamku.xyz/mv/78a-iron.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/11/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",Iron Man 2
+https://data.streamku.xyz/mv/78a-iron2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/11/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",Iron Man 3
+https://data.streamku.xyz/mv/78a-iron3.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/11/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",Thor
+https://data.streamku.xyz/mv/77a-thor.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/11/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",Thor: The Dark World
+https://data.streamku.xyz/mv/78a-thordark.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2019/04/rzRwTcFvttcN1ZpX2xv4j3tSdJu-170x255.jpg",Thor: Ragnarok
+https://data.streamku.xyz/mv/56-thor.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://185.99.135.212/wp-content/uploads/2022/07/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg", Thor: Love and Thunder
+https://data.streamku.xyz/mv/78a-thorlove.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/11/7WfK17BXE6szXlm4WOxfswgbdsL.jpg",Doctor Strange
+https://data.streamku.xyz/mv/78a-doctor.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/05/film-doctor-strange-in-the-multiverse-of-madness-2022-lk21-d21.jpg",Doctor Strange in the Multiverse of Madness
+https://data.streamku.xyz/mv/78a-doctor.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/10/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",The Avengers
+https://data.streamku.xyz/mv/75a-avenger.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/11/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",Avengers: Age of Ultron
+https://data.streamku.xyz/mv/78a-avengerage.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/11/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",Avengers: Infinity War
+https://data.streamku.xyz/mv/78a-avengerinfinity.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/11/or06FN3Dka5tukK1e9sl16pB3iy-1-170x255.jpg",Avengers: Endgame
+https://data.streamku.xyz/mv/78a-avengerendgame.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/01/djM2s4wSaATn4jVB33cV05PEbV7.jpg",Lou
+https://data.streamku.xyz/mv/107-lou.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/01/w3s6XEDNVGq5LUlghqs6VlvsvL6.jpg",Prey for the Devil
+https://data.streamku.xyz/mv/106-preyforthedevil2022.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/01/8jIyu2UfEsCYlxg2vFUaHeALeoD.jpg",Blacklight
+https://data.streamku.xyz/mv/106-blacklight2022.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/01/pLAeWgqXbTeJ2gQtNvRmdIncYsk.jpg",Father Stu
+https://data.streamku.xyz/mv/106-fatherstu2022.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/12/uQt2dJFMnJmAp9zLAWNfGilK0BW.jpg",The 355
+https://data.streamku.xyz/mv/103-355.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/12/sa3Ku5yNVjp8NloWxJoI9dQjvOi.jpg",Encanto at the Hollywood Bowl
+https://data.streamku.xyz/mv/103-encanto.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/12/1CHp8QQjGwqWaPZWjzcRidlt5Xs-1.jpg",Violent Night
+https://data.streamku.xyz/mv/101-violent.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/12/film-the-chalk-line-2022-lk21-d21.jpg",The Chalk Line
+https://data.streamku.xyz/mv/99a-chalk.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/12/film-she-said-2022-lk21-d21.jpg",She Said
+https://data.streamku.xyz/mv/99a-she.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/12/film-the-banshees-of-inisherin-2022-lk21-d21.jpg",The Banshees of Inisherin
+https://data.streamku.xyz/mv/99a-banshee.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/08/film-prey-2022-lk21-d21.jpg",Prey
+https://data03.streamku.xyz/mv/14a-prey.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/07/film-the-princess-2022-lk21-d21.jpg",The Princess
+https://v2.streamku.xyz/stream/1080/icE8Lh7TKRwMJf7/__001
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/02/film-new-kung-fu-cult-master-yi-tin-to-lung-gei-2022-lk21-d21.jpg",New Kung Fu Cult Master 1
+https://streamku.xyz/stream/1080/X2oRVKHmxWkJ4zP/__001
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/02/film-new-kung-fu-cult-master-2-2022-lk21-d21.jpg",New Kung Fu Cult Master 2
+https://streamku.xyz/stream/1080/ILgkW5n0QMMLCGi/__001
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/02/film-a-man-called-hero-2022-lk21-d21.jpg",A Man Called Hero
+https://streamku.xyz/stream/1080/UMxBbtNEQq5yTWo/__001
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/08/film-day-shift-2022-lk21-d21.jpg",Day Shift
+https://data03.streamku.xyz/mv/19a-day.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/06/film-the-unbearable-weight-of-massive-talent-2022-lk21-d21.jpg",The Unbearable Weight of Massive Talent
+https://v2.streamku.xyz/stream/1080/6tAaqoqrkE5N1ov/__001
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/12/rEy4VFXn3fukXRhx8TnSZtOnlcm.jpg",Night at the Museum: Kahmunrah Rises Again
+https://data.streamku.xyz/mv/97a-night.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/12/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg",Emancipation
+https://data.streamku.xyz/mv/96a-emanci.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/12/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",Guillermo del Toro’s Pinocchio
+https://data.streamku.xyz/mv/96b-guill.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/12/kTUNmJeqDLfPihBxZ3dMtXQNQIj-1.jpg",Killer Design
+https://data.streamku.xyz/mv/93a-killer.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/12/9Vyo740WlMp0C9qCnYp3fXbrOU0.jpg",The Stronghold
+https://data.streamku.xyz/mv/94b-stronghold.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/12/7l3war94J4tRyWUiLAGokr3ViF2.jpg",My Name Is Vendetta
+https://data.streamku.xyz/mv/92a-name.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/11/m80kPdrmmtEh9wlLroCp0bwUGH0.jpg",One Piece Film Red
+https://data.streamku.xyz/mv/84a-piece.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/11/h7kaQG5MbraSLibOuTpo0gtMxRz.jpg",Emergency Declaration
+https://data.streamku.xyz/mv/83a-emergency.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/11/xdmmd437QdjcCls8yCQxrH5YYM4.jpg",Paradise City
+https://data.streamku.xyz/mv/83a-paradise.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/11/icQM4lMTEUVYPrSOV3BH9LZjvmY.jpg",The Witch: Part 2
+https://data.streamku.xyz/mv/77a-witch2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/10/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg",All Quiet on the Western Front
+https://data.streamku.xyz/mv/75-all.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/10/w6E7MiAdPh0qA9ZqGKWmD4X1GUH.jpg",Shin Ultraman
+https://data.streamku.xyz/mv/74a-shin.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/10/y8Od2FzJCqPVWvEwIkIIrS46BbP.jpg",Vendetta
+https://data.streamku.xyz/mv/74a-vendet.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/10/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg",The School for Good and Evil
+https://data.streamku.xyz/mv/69-school.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/10/w3LxiVYdWWRvEVdn5RYq6jIqkb1-170x255.jpg",Everything Everywhere All at Once
+https://data.streamku.xyz/mv/63a-every.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/10/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg",Werewolf by Night
+https://data.streamku.xyz/mv/63a-were.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/10/558yQ3UaiOIkb8tJfbYuz23gom2.jpg",Avarice
+https://data.streamku.xyz/mv/61a-avarice.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/09/rfKvX0oB3YyJfYEtUe2TazaQdRq-170x255.jpg",Wolves of War
+https://data.streamku.xyz/mv/54a-wolv.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/09/3G1wHQNITyfiABp2fgytpiFMHf9-170x255.jpg",Section 8
+https://data.streamku.xyz/mv/5a-section.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/09/y6b8OraLybW0O4VFIxnmkPl9ZJc-170x255.jpg",Fullmetal Alchemist
+https://data.streamku.xyz/mv/49a-full.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/09/b9ykj4v8ykjRoGB7SpI1OuxblNU-170x255.jpg",Wire Room
+https://data.streamku.xyz/mv/36a-wire.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/08/ffX0TL3uKerLXACkuZGWhAPMbAq-170x255.jpg",Seoul Vibe
+https://data03.streamku.xyz/mv/29a-seoul.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://185.99.135.212/wp-content/uploads/2022/11/lvEtTSshU47BCchwwU1Ej1PKsGn-170x255.jpg", Remember
+https://data.streamku.xyz/mv/91a-remember.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://185.99.135.212/wp-content/uploads/2022/05/Nonton-Streaming-Download-Film-Top-Gun-Maverick-2022-Sub-Indo-Full-Movie-170x255.jpg", Top Gun: Maverick
+https://data03.streamku.xyz/mv/28a-top.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/12/film-troll-2022-lk21-d21.jpg",Troll
+https://data.streamku.xyz/mv/92a-troll.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/11/film-limit-2022-lk21-d21.jpg",Limit
+https://data.streamku.xyz/mv/90a-limit.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/10/film-black-adam-2022-lk21-d21.jpg",Black Adam
+https://streamku.xyz/stream/1080/44GUtoWVvBmDV3H/__001
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/11/film-lost-bullet-2-back-for-more-2022-lk21-d21.jpg",Lost Bullet 2
+https://data.streamku.xyz/mv/82a-lost.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/11/film-shadow-master-2022-lk21-d21.jpg",Shadow Master
+https://data.streamku.xyz/mv/81a-shadow.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/12/film-warriors-of-future-2022-lk21-d21.jpg",Warriors of Future
+https://data.streamku.xyz/mv/92a-warrior.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/11/film-the-woman-king-2022-lk21-d21.jpg",The Woman King
+https://data.streamku.xyz/mv/79a-woman.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/11/film-enola-holmes-2-2022-lk21-d21.jpg",Enola Holmes 2
+https://data.streamku.xyz/mv/78a-enola.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/10/film-project-wolf-hunting-2022-lk21-d21.jpg",Project Wolf Hunting
+https://data.streamku.xyz/mv/78a-project.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/04/film-morbius-2022-lk21-d21.jpg",Morbius
+https://data.streamku.xyz/mv/84a-morbi.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/11/film-b-cut-2022-lk21-d21.jpg",B Cut
+https://data.streamku.xyz/mv/84a-cut.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/10/film-the-inhabitant-2022-lk21-d21.jpg",The Inhabitant
+https://data.streamku.xyz/mv/83a-inha.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/09/film-hansan-rising-dragon-2022-lk21-d21.jpg",Hansan
+https://data.streamku.xyz/mv/82a-hansan.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/10/film-smile-2022-lk21-d21.jpg",Smile
+https://data.streamku.xyz/mv/78a-smi.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/09/film-bullet-train-2022-lk21-d21.jpg",Bullet Train
+https://data.streamku.xyz/mv/75a-bullet.mp4
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://image.tmdb.org/t/p/w500/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg",Jurassic World: Fallen Kingdom
 https://www.googleapis.com/drive/v3/files/1l_59hufoP8_tVN01Z1i4zG9W6d7WyM3o?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/2/1-172325275.jpg",Transporter
@@ -191,123 +359,7 @@ https://www.googleapis.com/drive/v3/files/1aHNMwzVw8B8H7b_HkW8tYfyhw7DyNMdi?alt=
 
 
 
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/01/djM2s4wSaATn4jVB33cV05PEbV7.jpg",Lou
-https://data.streamku.xyz/mv/107-lou.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/01/w3s6XEDNVGq5LUlghqs6VlvsvL6-60x90.jpg",Prey for the Devil
-https://data.streamku.xyz/mv/106-preyforthedevil2022.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/01/8jIyu2UfEsCYlxg2vFUaHeALeoD-60x90.jpg",Blacklight
-https://data.streamku.xyz/mv/106-blacklight2022.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/01/pLAeWgqXbTeJ2gQtNvRmdIncYsk-60x90.jpg",Father Stu
-https://data.streamku.xyz/mv/106-fatherstu2022.mp4
 
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/12/uQt2dJFMnJmAp9zLAWNfGilK0BW.jpg",The 355
-https://data.streamku.xyz/mv/103-355.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/12/sa3Ku5yNVjp8NloWxJoI9dQjvOi.jpg",Encanto at the Hollywood Bowl
-https://data.streamku.xyz/mv/103-encanto.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.234/wp-content/uploads/2022/12/1CHp8QQjGwqWaPZWjzcRidlt5Xs-1.jpg",Violent Night
-https://data.streamku.xyz/mv/101-violent.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/12/film-the-chalk-line-2022-lk21-d21.jpg",The Chalk Line
-https://data.streamku.xyz/mv/99a-chalk.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/12/film-she-said-2022-lk21-d21.jpg",She Said
-https://data.streamku.xyz/mv/99a-she.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/12/film-the-banshees-of-inisherin-2022-lk21-d21.jpg",The Banshees of Inisherin
-https://data.streamku.xyz/mv/99a-banshee.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/08/film-prey-2022-lk21-d21.jpg",Prey
-https://data03.streamku.xyz/mv/14a-prey.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/07/film-the-princess-2022-lk21-d21.jpg",The Princess
-https://v2.streamku.xyz/stream/1080/icE8Lh7TKRwMJf7/__001
-#EXTINF:-1 group-title="2022" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/02/film-new-kung-fu-cult-master-yi-tin-to-lung-gei-2022-lk21-d21.jpg",New Kung Fu Cult Master 1
-https://streamku.xyz/stream/1080/X2oRVKHmxWkJ4zP/__001
-#EXTINF:-1 group-title="2022" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/02/film-new-kung-fu-cult-master-2-2022-lk21-d21.jpg",New Kung Fu Cult Master 2
-https://streamku.xyz/stream/1080/ILgkW5n0QMMLCGi/__001
-#EXTINF:-1 group-title="2022" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/02/film-a-man-called-hero-2022-lk21-d21.jpg",A Man Called Hero
-https://streamku.xyz/stream/1080/UMxBbtNEQq5yTWo/__001
-#EXTINF:-1 group-title="2022" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/08/film-day-shift-2022-lk21-d21.jpg",Day Shift
-https://data03.streamku.xyz/mv/19a-day.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/06/film-the-unbearable-weight-of-massive-talent-2022-lk21-d21.jpg",The Unbearable Weight of Massive Talent
-https://v2.streamku.xyz/stream/1080/6tAaqoqrkE5N1ov/__001
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/12/rEy4VFXn3fukXRhx8TnSZtOnlcm.jpg",Night at the Museum: Kahmunrah Rises Again
-https://data.streamku.xyz/mv/97a-night.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/12/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg",Emancipation
-https://data.streamku.xyz/mv/96a-emanci.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/12/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",Guillermo del Toro’s Pinocchio
-https://data.streamku.xyz/mv/96b-guill.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/12/kTUNmJeqDLfPihBxZ3dMtXQNQIj-1.jpg",Killer Design
-https://data.streamku.xyz/mv/93a-killer.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/12/9Vyo740WlMp0C9qCnYp3fXbrOU0.jpg",The Stronghold
-https://data.streamku.xyz/mv/94b-stronghold.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/12/7l3war94J4tRyWUiLAGokr3ViF2.jpg",My Name Is Vendetta
-https://data.streamku.xyz/mv/92a-name.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/11/m80kPdrmmtEh9wlLroCp0bwUGH0-170x255.jpg",One Piece Film Red
-https://data.streamku.xyz/mv/84a-piece.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/11/h7kaQG5MbraSLibOuTpo0gtMxRz.jpg",Emergency Declaration
-https://data.streamku.xyz/mv/83a-emergency.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/11/xdmmd437QdjcCls8yCQxrH5YYM4.jpg",Paradise City
-https://data.streamku.xyz/mv/83a-paradise.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/11/icQM4lMTEUVYPrSOV3BH9LZjvmY.jpg",The Witch: Part 2
-https://data.streamku.xyz/mv/77a-witch2.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/10/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg",All Quiet on the Western Front
-https://data.streamku.xyz/mv/75-all.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/10/w6E7MiAdPh0qA9ZqGKWmD4X1GUH.jpg",Shin Ultraman
-https://data.streamku.xyz/mv/74a-shin.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/10/y8Od2FzJCqPVWvEwIkIIrS46BbP.jpg",Vendetta
-https://data.streamku.xyz/mv/74a-vendet.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/10/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg",The School for Good and Evil
-https://data.streamku.xyz/mv/69-school.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/10/w3LxiVYdWWRvEVdn5RYq6jIqkb1-170x255.jpg",Everything Everywhere All at Once
-https://data.streamku.xyz/mv/63a-every.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/10/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg",Werewolf by Night
-https://data.streamku.xyz/mv/63a-were.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/10/558yQ3UaiOIkb8tJfbYuz23gom2.jpg",Avarice
-https://data.streamku.xyz/mv/61a-avarice.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/09/rfKvX0oB3YyJfYEtUe2TazaQdRq-170x255.jpg",Wolves of War
-https://data.streamku.xyz/mv/54a-wolv.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/09/3G1wHQNITyfiABp2fgytpiFMHf9-170x255.jpg",Section 8
-https://data.streamku.xyz/mv/5a-section.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/09/y6b8OraLybW0O4VFIxnmkPl9ZJc-170x255.jpg",Fullmetal Alchemist
-https://data.streamku.xyz/mv/49a-full.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/09/b9ykj4v8ykjRoGB7SpI1OuxblNU-170x255.jpg",Wire Room
-https://data.streamku.xyz/mv/36a-wire.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/08/ffX0TL3uKerLXACkuZGWhAPMbAq-170x255.jpg",Seoul Vibe
-https://data03.streamku.xyz/mv/29a-seoul.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="http://185.99.135.212/wp-content/uploads/2022/11/lvEtTSshU47BCchwwU1Ej1PKsGn-170x255.jpg", Remember
-https://data.streamku.xyz/mv/91a-remember.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="http://185.99.135.212/wp-content/uploads/2022/07/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg", Thor: Love and Thunder
-https://data.streamku.xyz/mv/78a-thorlove.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="http://185.99.135.212/wp-content/uploads/2022/05/Nonton-Streaming-Download-Film-Top-Gun-Maverick-2022-Sub-Indo-Full-Movie-170x255.jpg", Top Gun: Maverick
-https://data03.streamku.xyz/mv/28a-top.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/12/film-troll-2022-lk21-d21.jpg",Troll
-https://data.streamku.xyz/mv/92a-troll.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/11/film-limit-2022-lk21-d21.jpg",Limit
-https://data.streamku.xyz/mv/90a-limit.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/10/film-black-adam-2022-lk21-d21.jpg",Black Adam
-https://streamku.xyz/stream/1080/44GUtoWVvBmDV3H/__001
-#EXTINF:-1 group-title="2022" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/11/film-lost-bullet-2-back-for-more-2022-lk21-d21.jpg",Lost Bullet 2
-https://data.streamku.xyz/mv/82a-lost.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/11/film-shadow-master-2022-lk21-d21.jpg",Shadow Master
-https://data.streamku.xyz/mv/81a-shadow.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/12/film-warriors-of-future-2022-lk21-d21.jpg",Warriors of Future
-https://data.streamku.xyz/mv/92a-warrior.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/11/film-the-woman-king-2022-lk21-d21.jpg",The Woman King
-https://data.streamku.xyz/mv/79a-woman.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/11/film-enola-holmes-2-2022-lk21-d21.jpg",Enola Holmes 2
-https://data.streamku.xyz/mv/78a-enola.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/10/film-project-wolf-hunting-2022-lk21-d21.jpg",Project Wolf Hunting
-https://data.streamku.xyz/mv/78a-project.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/04/film-morbius-2022-lk21-d21.jpg",Morbius
-https://data.streamku.xyz/mv/84a-morbi.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/11/film-b-cut-2022-lk21-d21.jpg",B Cut
-https://data.streamku.xyz/mv/84a-cut.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/10/film-the-inhabitant-2022-lk21-d21.jpg",The Inhabitant
-https://data.streamku.xyz/mv/83a-inha.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/09/film-hansan-rising-dragon-2022-lk21-d21.jpg",Hansan
-https://data.streamku.xyz/mv/82a-hansan.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/10/film-smile-2022-lk21-d21.jpg",Smile
-https://data.streamku.xyz/mv/78a-smi.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/05/film-doctor-strange-in-the-multiverse-of-madness-2022-lk21-d21.jpg",Doctor Strange in the Multiverse of Madness
-https://data.streamku.xyz/mv/78a-doctor.mp4
-#EXTINF:-1 group-title="2022" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/09/film-bullet-train-2022-lk21-d21.jpg",Bullet Train
-https://data.streamku.xyz/mv/75a-bullet.mp4
 
 
 #EXTINF:-1 group-title="MALAY" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/01/bQnx6jgLL4AOz46BOnfMjEc6J1S.jpg",Musyrik
