@@ -3,7 +3,7 @@
 "站名":"唐人街",
 "主页url":"https://www.tangrenjie.tv",
 "免嗅":"1",
-"分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$28",
+"分类":"电影$1#电视剧$2#综艺$3#纪录片$28#动漫$4",
 "分类url":"https://www.tangrenjie.tv/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
 "筛选":{
 "1":[
