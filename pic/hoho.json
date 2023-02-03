@@ -4,7 +4,7 @@
 "主页url": "https://www.hoho.tv",
 "分类": "电影&电视剧&综艺&动漫&纪录片",
 "分类值": "1&2&3&4&20",
-"分类url": "https://hoho.tv/vod/show/{cateId}{area}{class}/page/{catePg}{year}.html",
+"分类url": "https://hoho.tv/vod/show/{cateId}/{area}/{class}/page/{catePg}/{year}.html",
 "数组": "module-item\">&&module-item-titlebox\">",
 "副标题": "module-item-caption\">&&</div>",
 "搜索模式": "0",
