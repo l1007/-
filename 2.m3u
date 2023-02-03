@@ -239,6 +239,12 @@ https://data.streamku.xyz/mv/112-dog.mp4
 
 
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/02/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",Black Panther: Wakanda Forever
+https://data.streamku.xyz/mv/122-black.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/02/6X8oKNgny4DqXEwQiYKoS6Yedw-170x255.jpg",Christmas Carol
+https://data.streamku.xyz/mv/122-christ.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/02/ad58ZmsbKMMcEF8qkL9HKRLD2vZ.jpg",Faces of Anne
+https://data.streamku.xyz/mv/122-faces.mp4
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/01/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",Mulan
 https://data.streamku.xyz/mv/110a-mulan.mp4
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/01/8HCCYAIocXxMKn7J9yQfDX1vBM5.jpg",The Old Way
@@ -430,6 +436,8 @@ https://www.googleapis.com/drive/v3/files/1aHNMwzVw8B8H7b_HkW8tYfyhw7DyNMdi?alt=
 
 
 
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/02/g1A1dtk1iLksWfsPT2F5MnkyicK-170x255.jpg",Remp-It 2
+https://data.streamku.xyz/mv/122-remp.mp4
 #EXTINF:-1 group-title="MALAY" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/01/bQnx6jgLL4AOz46BOnfMjEc6J1S.jpg",Musyrik
 https://data.streamku.xyz/mv/107-musyrik.mp4
 #EXTINF:-1 group-title="MALAY" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/01/meBdUcg308d7jhoVShOXxJDU8pn.jpg",The Devil’s Deception
