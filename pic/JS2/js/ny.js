@@ -1,10 +1,9 @@
-var rule={     
+muban.mxone5.二级.desc = '.video-info-items:eq(6)&&Text;;;.video-info-actor:eq(1)&&Text;.video-info-actor:eq(0)&&Text';
+var rule={
     title:'NY影院',
+    模板:'mxone5',
     host:'https://www.nycvod.com',
-    //url:'/vodshow/fyclass--------fypage---.html',
-    searchUrl:'/vodsearch/**----------fypage---.html',
-    searchable:2,//是否启用全局搜索,
-    quickSearch:0,//是否启用快速搜索,
+    // url:'/vodshow/fyclass--------fypage---.html',
 	url:'/vodshow/fyfilter.html',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
@@ -16,13 +15,9 @@ var rule={
 		4:{cateId:'4'},
 		5:{cateId:'5'}
 	},
-    //class_parse:'.nav-menu-items&&li;a&&Text;a&&href;.*/(.*?).html',
-    //cate_exclude:'演员',
-    class_name:'电影&电视剧&综艺&动漫&竞技体育',
-    class_url:'1&2&3&4&5',  
-   推荐:'.module-list;.module-items&&.module-item;a&&title;img&&data-src;.module-item-text&&Text;a&&href',
-   double:true, // 推荐内容是否双层定位
-   一级:'.module-items .module-item;a&&title;img&&data-src;.module-item-text&&Text;a&&href',
-   二级:{"title":"h1&&Text;.video-info-aux&&div&&a:eq(0)&&Text","img":".module-item-pic&&img&&data-src","desc":";.video-info-aux&&a:eq(1)&&Text;.video-info-aux&&a:eq(2)&&Text;.video-info-items:eq(1)&&Text;.video-info-items:eq(0)&&Text","content":".video-info-content&&Text","tabs":".module-tab-item.tab-item","lists":".module-player-list:eq(#id)&&.scroll-content&&a"},
-   搜索:'.module-items .module-search-item;a&&title;img&&data-src;.video-serial&&Text;a&&href',
+    cate_exclude:'网址',
+    // searchUrl:'/vodsearch/**----------fypage---.html',
+    searchUrl:'/index.php/ajax/suggest?mid=1&wd=**',
+    detailUrl:'/voddetail/fyid.html', //非必填,二级详情拼接链接
+    搜索:'json:list;name;pic;;id',
 }
