@@ -3,7 +3,7 @@
 "站名":"视中心",
 "主页url":"https://www.ksksy.com",
 "bfjiequshuzuqian": "class=\"module-blocklist scroll-box scroll-box-y\"",
-"bfjiequshuzuhou": "</div>",
+"bfjiequshuzuhou": "<div",
 "免嗅":"1",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
 "分类url":"https://www.ksksy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
