@@ -2,10 +2,9 @@
 "作者":"lekbox",
 "站名":"视中心",
 "主页url":"https://www.ksksy.com",
-"bfjiequshuzuqian": "class=\"module-list module-player-list",
-"bfjiequshuzuhou": "</div",
+"bfjiequshuzuqian": "class=\"module-blocklist scroll-box scroll-box-y\"",
+"bfjiequshuzuhou": "</div>",
 "免嗅":"1",
-//"副标题":"class=\"text-right\"></span>",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
 "分类url":"https://www.ksksy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "筛选":{
