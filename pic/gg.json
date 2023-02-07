@@ -2,7 +2,9 @@
 "作者":"lekbox",
 "站名":"光棍影院",
 "主页url":"https://www.wwstcs.com",
-"免嗅":"1",
+"bfjiequshuzuqian": "class=\"stui-content",
+"bfjiequshuzuhou": "</div>",
+"免嗅":"0",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
 "分类url":"https://www.wwstcs.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 "筛选":{
