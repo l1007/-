@@ -13,7 +13,9 @@
 "简介": "vod_content\">&&<a",
 "线路数组": "data-dropdown-value=&&</div>",
 "线路标题": "<span>&&</small>[替换:</span><small>>>👉]+集♥",
-"播放数组": "<div class=\"scroll-content&&</div>",
+"bfjiequshuzuqian": "class=\"scroll-content",
+"bfjiequshuzuhou": "</div>",
+//"播放数组": "<div class=\"scroll-content&&</div>",
 "筛选":{
 "1":[
 {
