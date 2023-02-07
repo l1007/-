@@ -3,7 +3,7 @@
 "站名":"飞兔影视",
 "主页url":"https://www.feitu.tv",
 "bfjiequshuzuqian": "class=\"hl-plays",
-"bfjiequshuzuhou": "<div",
+"bfjiequshuzuhou": "><div",
 "免嗅":"1",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#哔哩$29",
 "分类url":"https://www.feitu.tv/filter/{cateId}/{area}/{by}/{class}/page/{catePg}/{year}/",
