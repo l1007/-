@@ -3,7 +3,7 @@
 "站名": "快车",
 "主页url": "https://www.kuaichezy.com",
 //"播放列表数组规则": "body&&.module-list.sort-list",
-"播放数组": "class=\"playlist wbox&&<li>",
+"播放数组": "class=\"playlist wbox kcm3u8&&<li>",
 "免嗅":"1",
 "分类":"电影$1#电视剧$11#综艺$25#动漫$20",
 "分类url": "https://www.kuaichezy.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
