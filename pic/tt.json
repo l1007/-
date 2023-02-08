@@ -6,7 +6,7 @@
 //"bfjiequshuzuhou": "</ul>",
 "播放数组": "<div class=\"play&&</ul>",
 "免嗅":"0",
-"分类":"电影$1#电视剧$2#综艺$4#动漫$3#纪录片$5#体育$51",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4",
 "分类url": "https://www.ttsp.tv/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 "筛选":{
 "1":[
