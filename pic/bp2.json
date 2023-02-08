@@ -3,7 +3,7 @@
 "站名": "白嫖",
 "主页url": "https://dy.gduan.com",
 //"播放列表数组规则": "body&&.module-list.sort-list",
-"播放数组": "class=\"module-tab-title&&<div",
+"播放数组": "class=\"body&&.module-list.sort-list",
 "免嗅":"1",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$20",
 "分类url": "https://dy.gduan.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
