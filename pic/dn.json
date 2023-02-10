@@ -2,6 +2,7 @@
 "作者":"lekbox",
 "站名":"多瑙",
 "主页url":"https://www.duonaovod.com",
+"播放数组": "<ul class=\"content_playlist&&<div",
 "免嗅":"1",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
 "分类url":"https://duonaovod.com/index.php/vod/show/{area}/{by}/{class}/id/{cateId}/page/{catePg}/{year}.html",
