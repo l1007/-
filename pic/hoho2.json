@@ -2,6 +2,8 @@
 "作者": "LEKBOX",
 "站名": "吼吼",
 "主页url": "https://www.hoho.tv",
+"搜索模式": "0",
+"搜索后缀": "/vod/detail/id/",
 "数组": "module-item\">&&module-item-titlebox\">",
 "简介": "vod_content\">&&</a>",
 "副标题": "module-item-caption\">&&</div>",
