@@ -6,7 +6,6 @@
 "搜索模式": "0",
 "搜索后缀": "/vod/detail/id/",
 "搜索请求方式": "0",
-//"线路数组": "data-dropdown-value=&&</div>",
 "播放数组": "id=\"playlist&&</div>",
 "免嗅":"1",
 "分类":"电影$movie#电视剧$drama#综艺$variety#动漫$anime",
