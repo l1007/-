@@ -1,0 +1,12 @@
+{
+"作者": "LEKBOX",
+"站名": "acdrama搜索",
+"主页url": "https://acdramas.com",
+"搜索模式": "0",
+"搜索后缀": "/vod/detail/id/",
+"搜索请求方式": "0",
+"播放数组": "class=\"&&</div>",
+"免嗅":"1",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$3",
+"分类url": "https://acdramas.com/index.php/vod/show/id/{cateId}{area}{by}{class}/page/{catePg}{year}.html"
+}
