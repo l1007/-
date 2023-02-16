@@ -3,7 +3,7 @@
 "站名": "追剧达人",
 "主页url": "http://vipmv.tv",
 "播放数组": "module-play-list\">&&</div>",
-"免嗅":"1",
+"免嗅":"0",
 "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
 "分类url":"http://vipmv.tv/vodshow/{area}{by}{class}/id/{cateId}/page/{catePg}{year}.html",
 "筛选":{
