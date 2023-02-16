@@ -2,6 +2,8 @@
 "作者":"lekbox",
 "站名":"看戏",
 "主页url":"https://www.kanying.cc",
+"搜索模式": "0",
+"搜索后缀": "/vod/detail/id/",
 "播放数组": "<div class=\"tab-content&&</div>",
 "免嗅":"1",
 "分类":"电影$movie#电视剧$tv#综艺$variety#动漫$anime",
