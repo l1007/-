@@ -60,6 +60,12 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WWE Network
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=101219&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WWE Network
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9663&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WWE
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/2373
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 3
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/271
 
