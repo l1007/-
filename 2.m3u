@@ -64,134 +64,411 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=101219&extension=ts
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WWE Network
 http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9663&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WWE
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/2373
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 3
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/271
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP 1 MY
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=115615&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP 1 UHD MY
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348094&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP 2 MY
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=115616&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP 3 MY
+http://ptv.is:2095//d4Je5xwD/yadTXB63/115617&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP 4 MY
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=115618&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 2 MY
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=40750&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 3 MY
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=463617&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",AT&T Sportsnet HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=54858&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",AT&T Sportsnet Southwest HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=54859&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 1 AU
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141846&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 1 FHD EN
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=94453&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 1 HD EN
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=94452&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 1 HD PH
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=143973&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 1 HD PH
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=143974&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 1 Hevc EN
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=94451&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 1 PH
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=40667&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 1 PH
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=40668&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 2 FHD EN
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=94449&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 2 Hevc EN
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=94447&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 3 AU
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141845&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 3 EN
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=94442&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 3 FHD EN
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=94445&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 3 HD EN
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=94444&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 3 Hevc EN
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=94443&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports Connect HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9693&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports HD CA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39506&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports HD CA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=8376&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports XTRA HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=331469&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BIG Sport US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=11906&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BIG Ten Network US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=11898&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 1 FHD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9850&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 1 HD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9851&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 1 UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=128229&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 2 FHD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9848&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 2 HD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9849&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 2 UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=128230&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 3 FHD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9846&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 3 HD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9847&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 3 UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=128231&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 4 FHD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=23657&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 4 HD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=389197&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 4 UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=389198&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 5 UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9813&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 6 UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9814&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 7 UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9815&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 8 UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9816&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 9 UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9817&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 10 UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=389199&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CBS Sports HQ HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=331455&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CBS Sports Network HD HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=71839&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CBS Sports Network HD US 
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=71967&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CBS Sports Network HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=71842&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",EDGEsport HD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=158534&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN 1 AU
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141786&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN 2 FHD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=42910&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN 2 HD AU
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141848&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN 2 HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=10881&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN 3 US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=10880&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN FHD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=42909&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9660&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN News FHD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=42908&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN News US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=11583&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",EirSport 1 FHD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9819&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",EuroNews UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=10904&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Europsort XTRA 1 FHD [Amazon] UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=247686&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Europsort XTRA 2 FHD [Amazon] UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=247687&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Europsort XTRA 3 FHD [Amazon] UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=247688&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Europsort XTRA 4 FHD [Amazon] UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=247689&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Europsort XTRA 5 FHD [Amazon] UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=247690&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Eurosport 1 FHD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=8339&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Eurosport 1 FHD [Amazon] UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=247684&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Eurosport 1 HD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=117728&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Eurosport 1 UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=128362&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Eurosport 2 FHD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9852&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Eurosport 2 FHD [Amazon] UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=247685&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Eurosport 2 HD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=117729&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Eurosport 2 UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=128363&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Soccer Plus HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9661&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 1 HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=71706&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 1 US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=42904&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 1 US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=8254&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 2 HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=71705&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 2 US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=42903&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 2 US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=8255&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 501 AU
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141764&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 502 AU
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141763&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 503 AU
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141762&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 504 AU
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141761&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 505 AU
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141760&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 506 AU
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141759&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 507 AU
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141758&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=331456&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports News HD AU
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141765&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Flow Sports 1 HD [Premier League]
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=28096&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Flow Sports 2 HD [Premier League]
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=28095&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Flowsports RUSH Event 1 FHD
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=118708&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fubo Sports 1 HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=120187&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fubo Sports 2 HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=120186&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Golf Channel US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=42901&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Golf Channel US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9692&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HubPremier 1 FHD
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348097&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HubPremier 2 FHD
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348098&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HubPremier 3 FHD
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348099&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HubPremier 4 FHD
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348100&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HubPremier 5 FHD
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348101&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HubPremier 6 FHD
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348102&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HubPremier 7 FHD
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348103&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HubPremier 8 FHD
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348104&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HubPremier 9 FHD
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348105&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HubPremier 10 FHD
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348106&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HubPremier 11 FHD
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348107&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",MLB Network US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=15009&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",MSG US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=15177&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Bay Area FHD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=22899&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Bay Area HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=72070&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Bay Area Plus HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=131800&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Boston HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=22898&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Boston HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=72185&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports California HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=22897&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports California HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=72068&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports California Plus 2 HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=131802&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports California Plus FHD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=131801&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Chicago HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=22896&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Chicago HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=72069&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Chicago Plus HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=131803&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Network FHD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=72186&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Network HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=72072&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Northwest HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=22895&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Northwest HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=72071&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Philadelfia HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=72066&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Philadelphia HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=22894&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Washington HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=22892&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Washington HD US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=72067&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",PremierSports HD PH
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=463651&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",RACING AU
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141863&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Racing TV FHD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=16132&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Racing TV HD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=117771&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Red Bull TV US
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=12129&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Racing 1 AU
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141890&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Racing 2 AU
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=60124&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Action FHD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=37071&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Action HD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=35621&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Action UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=127993&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Arena FHD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=11655&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Arena HD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=11656&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Arena UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=127992&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Cricket FHD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=37072&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Cricket HD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=117730&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Cricket UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=127991&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports F1 FHD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=37068&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports F1 HD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=24460&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports F1 UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=127990&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Football FHD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=11658&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Football HD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=11659&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Football UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=127989&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Golf FHD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=37070&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Golf HD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=38049&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Golf UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=127994&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Main Event FHD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=37073&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Main Event HD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=24461&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Main Event UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=127988&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Mix FHD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=8336&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Mix HD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=24462&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Mix UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=127986&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports NFL HD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=85893&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports News FHD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=18362&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports News UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=24463&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Premier League FHD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=37069&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Premier League HD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9807&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Premier League UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=127985&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Racing FHD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39793&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Racing HD UK
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=37959&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sportsnet 360 FHD CA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=11522&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sportsnet One HD CA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=11523&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sportsnet Ontario HD CA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=11521&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SPOTV PH
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=463657&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SPOTV 2 PH
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=463656&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Action FHD ZA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39520&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Blitz FHD ZA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39519&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Cricket FHD ZA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39417&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Football FHD ZA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39413&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Grandstand FHD ZA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39409&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport LaLiga HD ZA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39406&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Motorsport FHD ZA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39412&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport PSL FHD ZA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39407&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Premier League FHD ZA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39408&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Rugby FHD ZA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39416&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Variety 1 FHD ZA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39411&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Variety 2 FHD ZA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39410&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Variety 3 FHD ZA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39415&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Variety 4 FHD ZA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39414&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",True Premier Football 1[ENG] TH
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=115758&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",True Premier Football 2[ENG] TH
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=115762&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",True Premier Football 3[ENG] TH
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=115511&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 1 HD CA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=10921&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 2 FHD CA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=10920&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 2 HD CA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=10919&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 3 FHD CA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=10918&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 3 HD CA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=10917&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 4 FHD CA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=10916&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 5 FHD CA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=10915&extension=ts
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 5 HD CA
+http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=10914&extension=ts
 
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",MotoRRacing
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/295426
-
-#EXTINF:-1 tvg-id="111" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SUKAN_RTM.jpg",RTM SPORT
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SPOTV
-http://50.7.220.74:8278/Weishimovie/playlist.m3u8?tid=MEEE4802495448024954&ct=19249&tsum=1731f56127d23a79a645f2d7d958dec7
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SPOTV2
-http://23.237.10.66:16180
-
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CCTV5
-https://node1.olelive.com:6443/live/CCTV5HD_1080_SRT/hls.m3u8
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CCTV5
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CCTV5
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CCTV5
-https://node2.olelive.com:6443/live/CCTV5HD_1080_SRT/hls.m3u8
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",五星体育
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8?blog.ntnas.top
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",爱尔达体育1
-http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",爱尔达体育1
-http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",爱尔达体育1
-http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",爱尔达体育2
-http://50.7.220.74:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",爱尔达体育2
-http://50.7.220.74:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ELEVEN 1
-http://50.7.220.74:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ELEVEN 1
-http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ELEVEN 2
-http://50.7.220.74:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
-
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",先锋乒羽
-http://baidu.live.cqccn.com/__cl/cg:live/__c/xianfeng/__op/default/__f//index.m3u8?
-
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SKY SPORT MOTOGP
-http://eminent.live:25461/zulema5438/sandoval8345/62046
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX SPORTS RACING
-http://eminent.live:25461/zulema5438/sandoval8345/53688
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX SPORTS RACING
-http://eminent.live:25461/zulema5438/sandoval8345/53688
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",MOTOR RACING
-http://eminent.live:25461/zulema5438/sandoval8345/168502
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",RACING.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",AUTO MOTOR
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296227
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",MOTORVISION
-http://210.210.155.37/uq2663/h/h09/index.m3u8
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",MOTOR
-https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",MOTOR
-http://digicom.hls.iptvdc.com/canalmotor/pl.m3u8
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",MOTOR TREND
-http://eminent.live:25461/zulema5438/sandoval8345/58569
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",MOTOR TREND
-http://eminent.live:25461/zulema5438/sandoval8345/54948
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",MOTORSPORT
-http://eminent.live:25461/zulema5438/sandoval8345/56767
-
-
-
-
-
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",MASFIGHT
-http://111.62.156.15/tx.flv.huya.com/src/1099531739833-1099531739833-86380627070287872-2199063603122-10057-A-0-1.flv?wsSecret=e5abe49f1dffe5d3fb3ad1b80b6e621a&wsTime=6283a6cc&u=0&seqid=16527086849687740&ctype=tars_mp&txyp=o%3Anc2%3B&fs=bgct&t=102
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WWE_RAW
-http://111.62.156.15/tx.flv.huya.com/src/1099531728841-1099531728841-86333416789770240-2199063581138-10057-A-0-1.flv?wsSecret=81de112f831b291d27a2e27620b6a672&wsTime=6283a6b6&u=0&seqid=16527086629491060&ctype=tars_mp&txyp=o%3Acs7%3B&fs=bgct&t=102
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WWE_SmackDown
-http://111.62.156.15/tx.flv.huya.com/src/1099531728842-1099531728842-86333421084737536-2199063581140-10057-A-0-1.flv?wsSecret=06ef14ade0034acab5556dd0f282e063&wsTime=6283a6bb&u=0&seqid=16527086675511370&ctype=tars_mp&txyp=o%3Acs6%3B&fs=bgct&t=102
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WWE清流1路
-http://111.62.156.15/tx.flv.huya.com/src/1099531728844-1099531728844-86333429674672128-2199063581144-10057-A-0-1.flv?wsSecret=85b88171f08e6f5b20fc9cd99ab14484&wsTime=6283a6c4&u=0&seqid=16527086762518430&ctype=tars_mp&txyp=o%3Afz1%3B&fs=bgct&t=102
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",女人的战争
-http://111.62.156.15/tx.flv.huya.com/src/1099531627889-1099531627889-85899831251304448-2199063379234-10057-A-0-1.flv?wsSecret=7006c4b5065e8151f6b97427995d0a58&wsTime=6283a6af&u=0&seqid=16527086553225650&ctype=tars_mp&fs=bgct&t=102
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",铁岭二师兄
-http://111.62.156.15/tx.flv.huya.com/src/1099531728905-1099531728905-86333691667677184-2199063581266-10057-A-0-1.flv?wsSecret=e495ad5b850bfdf77f14c7a944b4fa2e&wsTime=6283a6b7&u=0&seqid=16527086640082400&ctype=tars_mp&fs=bgct&t=102
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",格斗
-http://111.62.156.15/tx.flv.huya.com/src/1099531627899-1099531627899-85899874200977408-2199063379254-10057-A-0-1.flv?wsSecret=7c62b76e9390f51ccf2453b3fbefc735&wsTime=6283a6b6&u=0&seqid=16527086620855680&ctype=tars_mp&fs=bgct&t=102
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",武林风
-http://111.62.156.15/tx.flv.huya.com/src/1711747086-1711747086-7351897753393299456-3423617628-10057-A-0-1.flv?wsSecret=e2439fa6cb8de38cb07c597d3f5a3684&wsTime=6283a69c&u=0&seqid=16527086367547690&ctype=tars_mp&txyp=o%3Acs6%3B&fs=bgct&t=102
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",RKO
-http://111.62.156.15/tx.flv.huya.com/src/1099531728845-1099531728845-86333433969639424-2199063581146-10057-A-0-1.flv?wsSecret=345faaa2e6135dd94d380a1e1181d00b&wsTime=6283a6c2&u=0&seqid=16527086747419068&ctype=tars_mp&fs=bgct&t=102
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",美女摔跤
-http://111.62.156.15/tx.flv.huya.com/src/1099531728893-1099531728893-86333640128069632-2199063581242-10057-A-0-1.flv?wsSecret=c38d7c4605ec67568a261fd09535c00a&wsTime=6283a6b2&u=0&seqid=16527086590296070&ctype=tars_mp&fs=bgct&t=102
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",男女互抽巴掌
-http://111.62.156.15/tx.flv.huya.com/src/1099531739996-1099531739996-86381327149957120-2199063603448-10057-A-0-1.flv?wsSecret=cc2bb11643908e43740a29317293ab95&wsTime=6283adaa&u=0&seqid=16527104429651030&ctype=tars_mp&txyp=o%3Ad3%3B&fs=bgct&t=102
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WWE精彩
-http://111.62.156.15/tx.flv.huya.com/src/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.flv?wsSecret=ea70713c86bc147d6efb1afd0ae3e20e&wsTime=6283adab&u=0&seqid=16527104435428000&ctype=tars_mp&txyp=o%3Anc2%3B&fs=bgct&t=102
-
-
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CCTV5
-https://node1.olelive.com:6443/live/CCTV5HD_1080_SRT/hls.m3u8
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CCTV5
-https://node2.olelive.com:6443/live/CCTV5HD_1080/hls.m3u8
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CCTV5
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CCTV5
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CCTV5+
-https://node2.olelive.com:6443/live/CCTV5PHD_1080/hls.m3u8
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",爱尔达体育1
-http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",爱尔达体育1
-http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",爱尔达体育1
-http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",爱尔达体育2
-http://50.7.220.74:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",爱尔达体育2
-http://50.7.220.74:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ELEVEN 1
-http://50.7.220.74:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ELEVEN 1
-http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ELEVEN 2
-http://50.7.220.74:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",RTM SUKAN
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
 
 
