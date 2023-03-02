@@ -4,7 +4,7 @@
 "搜索模式": "0",
 "搜索后缀": "/vod/detail/id/",
 "简介": "劇情簡介','&&','500','350'",
-"播放数组": "id=\"&&</div>",
+"播放数组": "id=\"playlist&&</div>",
 "免嗅":"1",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$20#伦理$27",
 "分类url":"https://momovod.app/show/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
