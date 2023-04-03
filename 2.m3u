@@ -60,414 +60,289 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WWE Network
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=101219&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",WWE Network
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9663&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP 1 MY
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=115615&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP 1 UHD MY
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348094&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP 2 MY
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=115616&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP 3 MY
-http://ptv.is:2095//d4Je5xwD/yadTXB63/115617&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP 4 MY
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=115618&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 2 MY
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=40750&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 3 MY
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=463617&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",AT&T Sportsnet HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=54858&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",AT&T Sportsnet Southwest HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=54859&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 1 AU
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141846&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 1 FHD EN
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=94453&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 1 HD EN
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=94452&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 1 HD PH
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=143973&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 1 HD PH
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=143974&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 1 Hevc EN
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=94451&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 1 PH
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=40667&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 1 PH
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=40668&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 2 FHD EN
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=94449&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 2 Hevc EN
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=94447&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 3 AU
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141845&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 3 EN
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=94442&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 3 FHD EN
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=94445&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 3 HD EN
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=94444&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports 3 Hevc EN
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=94443&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports Connect HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9693&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports HD CA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39506&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports HD CA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=8376&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BeIN Sports XTRA HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=331469&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BIG Sport US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=11906&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BIG Ten Network US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=11898&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 1 FHD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9850&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 1 HD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9851&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 1 UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=128229&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 2 FHD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9848&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 2 HD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9849&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 2 UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=128230&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 3 FHD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9846&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 3 HD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9847&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 3 UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=128231&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 4 FHD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=23657&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 4 HD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=389197&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 4 UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=389198&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 5 UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9813&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 6 UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9814&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 7 UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9815&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 8 UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9816&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 9 UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9817&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",BT Sports 10 UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=389199&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CBS Sports HQ HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=331455&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CBS Sports Network HD HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=71839&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CBS Sports Network HD US 
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=71967&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CBS Sports Network HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=71842&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",EDGEsport HD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=158534&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN 1 AU
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141786&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN 2 FHD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=42910&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN 2 HD AU
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141848&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN 2 HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=10881&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN 3 US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=10880&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN FHD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=42909&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9660&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN News FHD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=42908&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ESPN News US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=11583&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",EirSport 1 FHD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9819&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",EuroNews UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=10904&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Europsort XTRA 1 FHD [Amazon] UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=247686&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Europsort XTRA 2 FHD [Amazon] UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=247687&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Europsort XTRA 3 FHD [Amazon] UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=247688&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Europsort XTRA 4 FHD [Amazon] UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=247689&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Europsort XTRA 5 FHD [Amazon] UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=247690&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Eurosport 1 FHD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=8339&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Eurosport 1 FHD [Amazon] UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=247684&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Eurosport 1 HD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=117728&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Eurosport 1 UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=128362&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Eurosport 2 FHD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9852&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Eurosport 2 FHD [Amazon] UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=247685&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Eurosport 2 HD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=117729&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Eurosport 2 UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=128363&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Soccer Plus HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9661&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 1 HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=71706&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 1 US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=42904&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 1 US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=8254&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 2 HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=71705&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 2 US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=42903&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 2 US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=8255&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 501 AU
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141764&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 502 AU
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141763&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 503 AU
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141762&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 504 AU
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141761&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 505 AU
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141760&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 506 AU
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141759&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports 507 AU
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141758&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=331456&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",FOX Sports News HD AU
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141765&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Flow Sports 1 HD [Premier League]
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=28096&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Flow Sports 2 HD [Premier League]
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=28095&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Flowsports RUSH Event 1 FHD
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=118708&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fubo Sports 1 HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=120187&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Fubo Sports 2 HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=120186&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Golf Channel US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=42901&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Golf Channel US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9692&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HubPremier 1 FHD
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348097&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HubPremier 2 FHD
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348098&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HubPremier 3 FHD
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348099&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HubPremier 4 FHD
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348100&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HubPremier 5 FHD
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348101&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HubPremier 6 FHD
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348102&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HubPremier 7 FHD
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348103&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HubPremier 8 FHD
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348104&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HubPremier 9 FHD
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348105&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HubPremier 10 FHD
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348106&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",HubPremier 11 FHD
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=348107&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",MLB Network US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=15009&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",MSG US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=15177&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Bay Area FHD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=22899&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Bay Area HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=72070&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Bay Area Plus HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=131800&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Boston HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=22898&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Boston HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=72185&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports California HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=22897&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports California HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=72068&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports California Plus 2 HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=131802&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports California Plus FHD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=131801&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Chicago HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=22896&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Chicago HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=72069&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Chicago Plus HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=131803&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Network FHD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=72186&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Network HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=72072&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Northwest HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=22895&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Northwest HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=72071&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Philadelfia HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=72066&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Philadelphia HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=22894&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Washington HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=22892&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",NBC Sports Washington HD US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=72067&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",PremierSports HD PH
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=463651&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",RACING AU
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141863&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Racing TV FHD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=16132&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Racing TV HD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=117771&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Red Bull TV US
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=12129&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Racing 1 AU
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=141890&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Racing 2 AU
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=60124&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Action FHD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=37071&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Action HD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=35621&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Action UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=127993&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Arena FHD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=11655&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Arena HD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=11656&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Arena UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=127992&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Cricket FHD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=37072&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Cricket HD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=117730&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Cricket UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=127991&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports F1 FHD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=37068&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports F1 HD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=24460&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports F1 UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=127990&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Football FHD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=11658&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Football HD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=11659&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Football UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=127989&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Golf FHD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=37070&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Golf HD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=38049&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Golf UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=127994&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Main Event FHD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=37073&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Main Event HD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=24461&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Main Event UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=127988&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Mix FHD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=8336&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Mix HD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=24462&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Mix UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=127986&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports NFL HD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=85893&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports News FHD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=18362&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports News UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=24463&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Premier League FHD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=37069&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Premier League HD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9807&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Premier League UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=127985&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Racing FHD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39793&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sky Sports Racing HD UK
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=37959&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sportsnet 360 FHD CA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=11522&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sportsnet One HD CA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=11523&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",Sportsnet Ontario HD CA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=11521&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SPOTV PH
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=463657&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SPOTV 2 PH
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=463656&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Action FHD ZA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39520&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Blitz FHD ZA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39519&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Cricket FHD ZA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39417&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Football FHD ZA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39413&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Grandstand FHD ZA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39409&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport LaLiga HD ZA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39406&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Motorsport FHD ZA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39412&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport PSL FHD ZA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39407&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Premier League FHD ZA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39408&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Rugby FHD ZA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39416&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Variety 1 FHD ZA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39411&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Variety 2 FHD ZA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39410&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Variety 3 FHD ZA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39415&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",SuperSport Variety 4 FHD ZA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=39414&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",True Premier Football 1[ENG] TH
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=115758&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",True Premier Football 2[ENG] TH
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=115762&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",True Premier Football 3[ENG] TH
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=115511&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 1 HD CA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=10921&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 2 FHD CA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=10920&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 2 HD CA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=10919&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 3 FHD CA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=10918&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 3 HD CA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=10917&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 4 FHD CA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=10916&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 5 FHD CA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=10915&extension=ts
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",TSN 5 HD CA
-http://ptv.is/play/live.php?mac=10:27:BE:2E:A0:E5&stream=10914&extension=ts
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",户外
+http://live.aptvapp.com/live/douyu/2901080
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",游钓
+http://live.aptvapp.com/live/douyu/791411
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",大齐赶海
+http://live.aptvapp.com/live/douyu/3647278
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",一人一狗旅行
+http://live.aptvapp.com/live/douyu/655973
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",渔妹带你来赶海
+http://live.aptvapp.com/live/douyu/9348805
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",兴哥赶海
+http://live.aptvapp.com/live/douyu/9785762
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",泰叔来斗鱼
+http://live.aptvapp.com/live/douyu/9348784
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",赶海每日
+http://live.aptvapp.com/live/douyu/9348769
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",漂泊在他乡的赶海人
+http://live.aptvapp.com/live/douyu/9049634
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",海边给生蚝换笼子
+http://live.aptvapp.com/live/douyu/1447771
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",阿忙赶海
+http://live.aptvapp.com/live/douyu/9348876
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",渤海二蛋
+http://live.aptvapp.com/live/douyu/9106367
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",阿金带你看户外
+http://live.aptvapp.com/live/douyu/9405247
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",大弟赶海
+http://live.aptvapp.com/live/douyu/9348766
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",钓鱼人最后的挣扎
+http://live.aptvapp.com/live/douyu/9570290
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",户外赶海
+http://live.aptvapp.com/live/douyu/1109218
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",大干潮
+http://epg.112114.xyz/huya/21518910
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",冰钓
+http://epg.112114.xyz/huya/24764124
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",大叔蚯蚓挂钩
+http://epg.112114.xyz/huya/20922670
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",地笼抓皮皮虾
+http://epg.112114.xyz/huya/712910
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",赶海潜水实拍
+http://epg.112114.xyz/huya/21344801
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",渔民阿平
+http://epg.112114.xyz/huya/24566172
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",户外钓鱼之旅
+http://epg.112114.xyz/huya/21341690
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",海岛老二
+http://epg.112114.xyz/huya/24804339
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",渔人乡仔
+http://epg.112114.xyz/huya/21996571
+#EXTINF:-1 group-title="户外outdoors" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",老渔民赶海
+http://epg.112114.xyz/huya/24760254
+#EXTINF:-1 group-title="荒野wilderness" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",荒野中的
+http://live.aptvapp.com/live/douyu/9618038
+#EXTINF:-1 group-title="荒野wilderness" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",荒野动物园
+http://live.aptvapp.com/live/douyu/9663833
+#EXTINF:-1 group-title="荒野wilderness" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",原始人研究院
+http://live.aptvapp.com/live/douyu/9682007
+#EXTINF:-1 group-title="荒野wilderness" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",荒野万池王
+http://live.aptvapp.com/live/douyu/9544576
+#EXTINF:-1 group-title="荒野wilderness" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",荒野动物建筑师
+http://live.aptvapp.com/live/douyu/9815050
+#EXTINF:-1 group-title="荒野wilderness" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",荒野伊甸园
+http://live.aptvapp.com/live/douyu/9611578
+#EXTINF:-1 group-title="荒野wilderness" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",东南亚丛林
+http://live.aptvapp.com/live/douyu/9612117
+#EXTINF:-1 group-title="荒野wilderness" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",丛林工程师
+http://live.aptvapp.com/live/douyu/9804149
+#EXTINF:-1 group-title="荒野wilderness" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",丛林之家
+http://live.aptvapp.com/live/douyu/4393350
+#EXTINF:-1 group-title="荒野wilderness" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",维塔利在野外
+http://live.aptvapp.com/live/douyu/9804068
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",主厨农国栋
+http://live.aptvapp.com/live/douyu/8941512
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",涛厨V
+http://live.aptvapp.com/live/douyu/9562738
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",人上人都吃什么？
+http://live.aptvapp.com/live/douyu/8759204
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",滇西小哥的美食
+http://live.aptvapp.com/live/douyu/3243427
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",非遗美食
+http://live.aptvapp.com/live/douyu/8892431
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",美味小舍
+http://live.aptvapp.com/live/douyu/9540821
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",家庭美食
+http://live.aptvapp.com/live/douyu/9819983
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",关力美食
+http://live.aptvapp.com/live/douyu/9846133
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",臭臭爹美食家常菜
+http://live.aptvapp.com/live/douyu/9791929
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",黎叔教做菜
+http://live.aptvapp.com/live/douyu/9438532
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",蘑菇食堂
+http://live.aptvapp.com/live/douyu/8701452
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",美食台
+http://live.aptvapp.com/live/douyu/3091151
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",二姐爱美食
+http://live.aptvapp.com/live/douyu/9793597
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",美食每天
+http://live.aptvapp.com/live/douyu/9377442
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",重庆主播美食
+http://live.aptvapp.com/live/douyu/2037336
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",小董美食
+http://live.aptvapp.com/live/douyu/8203161
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",中二少女十七美食
+http://live.aptvapp.com/live/douyu/9660324
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",鹏厨教你做菜
+http://live.aptvapp.com/live/douyu/9433532
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",今天来展示我的厨艺
+http://live.aptvapp.com/live/douyu/445992
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",带你看全球美食小吃
+http://live.aptvapp.com/live/douyu/6135911
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",日常美食
+http://live.aptvapp.com/live/douyu/3537355
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",美食日常分享
+http://live.aptvapp.com/live/douyu/9841807
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",亲情日常离不开吃
+http://live.aptvapp.com/live/douyu/8143715
+#EXTINF:-1 group-title="美食food" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",快乐做菜
+http://live.aptvapp.com/live/douyu/8800539
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",车祸现场
+http://live.aptvapp.com/live/douyu/4921957
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",车祸集锦两行泪
+http://live.aptvapp.com/live/douyu/117854
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",碰撞指南
+http://live.aptvapp.com/live/douyu/9609463
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",玩车报告
+http://live.aptvapp.com/live/douyu/9774360
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",豪车测评
+http://live.aptvapp.com/live/douyu/1064556
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",车圈大小事
+http://live.aptvapp.com/live/douyu/5300323
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",陈工聊车
+http://live.aptvapp.com/live/douyu/9634319
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",买车家
+http://live.aptvapp.com/live/douyu/9671608
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",逗斗车
+http://live.aptvapp.com/live/douyu/9524541
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",戏车人
+http://live.aptvapp.com/live/douyu/9632796
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",说车的史萌
+http://live.aptvapp.com/live/douyu/3638290
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",车坛老炮儿说车
+http://live.aptvapp.com/live/douyu/748159
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",李老鼠说车
+http://live.aptvapp.com/live/douyu/643871
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",吴佩说车
+http://live.aptvapp.com/live/douyu/9668047
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",摸摸爱摩托
+http://live.aptvapp.com/live/douyu/1083518
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",懂车侦探
+http://live.aptvapp.com/live/douyu/9347672
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",李老鼠说车
+http://live.aptvapp.com/live/douyu/643871
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",一品好车
+http://live.aptvapp.com/live/douyu/1064556
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",白话汽车
+http://live.aptvapp.com/live/douyu/9539088
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",汽车系超老师
+http://live.aptvapp.com/live/douyu/9500987
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",汽车测评
+http://live.aptvapp.com/live/douyu/9681172
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",LongWay摩托志
+http://live.aptvapp.com/live/douyu/9657870
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",小丙摩托车
+http://live.aptvapp.com/live/douyu/6354899
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",说车报告
+http://live.aptvapp.com/live/douyu/9329283
+#EXTINF:-1 group-title="汽车car" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",会漂移的美女
+http://live.aptvapp.com/live/douyu/9540668
+#EXTINF:-1 group-title="搞笑funny" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",将作死进行到底
+http://live.aptvapp.com/live/douyu/2912165
+#EXTINF:-1 group-title="搞笑funny" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",暴走漫画
+http://live.aptvapp.com/live/douyu/1275878
+#EXTINF:-1 group-title="搞笑funny" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",爆笑视频
+http://live.aptvapp.com/live/douyu/4716
+#EXTINF:-1 group-title="搞笑funny" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",爆笑段子
+http://live.aptvapp.com/live/douyu/8729614
+#EXTINF:-1 group-title="搞笑funny" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",不要笑挑战
+http://live.aptvapp.com/live/douyu/8651480
+#EXTINF:-1 group-title="搞笑funny" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",喜剧实验室
+http://live.aptvapp.com/live/douyu/9393346
+#EXTINF:-1 group-title="搞笑funny" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",爆笑短剧
+http://live.aptvapp.com/live/douyu/9336616
+#EXTINF:-1 group-title="搞笑funny" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",搞笑开心锤锤
+http://live.aptvapp.com/live/douyu/9018297
+#EXTINF:-1 group-title="搞笑funny" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",搞笑段子
+http://live.aptvapp.com/live/douyu/9419678
+#EXTINF:-1 group-title="搞笑funny" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",国外搞笑
+http://live.aptvapp.com/live/douyu/632697
+#EXTINF:-1 group-title="搞笑funny" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",萌宠搞笑
+http://live.aptvapp.com/live/douyu/8653533
+#EXTINF:-1 group-title="搞笑funny" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",中二日记搞笑
+http://live.aptvapp.com/live/douyu/9505575
+#EXTINF:-1 group-title="搞笑funny" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",我叫孙火旺
+http://live.aptvapp.com/live/douyu/9770949
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",生活小妙招
+http://live.aptvapp.com/live/douyu/9545493
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",认真科普
+http://live.aptvapp.com/live/douyu/9072066
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",科技娱乐武器娘
+http://live.aptvapp.com/live/douyu/1907019
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",科技公元
+http://live.aptvapp.com/live/douyu/9410380
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",艾奥科技
+http://live.aptvapp.com/live/douyu/8761210
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",二麦科技
+http://live.aptvapp.com/live/douyu/9411531
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",轻电科技
+http://live.aptvapp.com/live/douyu/691012
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",制造科技原理
+http://live.aptvapp.com/live/douyu/6335381
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",龙泉手工刀剑
+http://live.aptvapp.com/live/douyu/6004550
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",科学黑历史
+http://live.aptvapp.com/live/douyu/9317739
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",你想看测什么
+http://live.aptvapp.com/live/douyu/9642554
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",硬核时事评论家
+http://live.aptvapp.com/live/douyu/9739138
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",科工力量
+http://live.aptvapp.com/live/douyu/9748966
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",带你体验宇宙时空之旅
+http://live.aptvapp.com/live/douyu/9439712
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",带你科学旅行
+http://live.aptvapp.com/live/douyu/9390720
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",宇宙探索飞船
+http://live.aptvapp.com/live/douyu/9456028
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",探秘海底世界
+http://epg.112114.xyz/huya/20985846
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",科普公开课
+http://live.aptvapp.com/live/douyu/9498354
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",绝密研究所所长
+http://live.aptvapp.com/live/douyu/9383309
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",带你领略宇宙星海
+http://live.aptvapp.com/live/douyu/9412981
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",美国最新追凶
+http://live.aptvapp.com/live/douyu/7656230
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",大自然纪录片
+http://live.aptvapp.com/live/douyu/4837387
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",纪录片第二
+http://live.aptvapp.com/live/douyu/6879442
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",纪录经典时刻
+http://live.aptvapp.com/live/douyu/3485629
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",三天饿九顿
+http://live.aptvapp.com/live/douyu/6783275
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",记录每一天
+http://live.aptvapp.com/live/douyu/1473221
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",动物自然24h
+http://live.aptvapp.com/live/douyu/4360438
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",德哥
+http://live.aptvapp.com/live/douyu/6052703
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",荒野生存季
+http://live.aptvapp.com/live/douyu/4933183
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",荒野求生
+http://live.aptvapp.com/live/douyu/9252708
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",宇宙那么大
+http://live.aptvapp.com/live/douyu/1052924
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",准备晚饭
+http://live.aptvapp.com/live/douyu/442280
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",荒野厨王美食
+http://live.aptvapp.com/live/douyu/454867
+#EXTINF:-1 group-title="记录documentary" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",德哥 贝爷
+http://live.aptvapp.com/live/douyu/1339207
+#EXTINF:-1 group-title="音乐music" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",轻松音乐
+http://live.aptvapp.com/live/douyu/7708165
+#EXTINF:-1 group-title="音乐music" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",观景
+http://live.aptvapp.com/live/douyu/9970646
+#EXTINF:-1 group-title="音乐music" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",4K高清
+http://live.aptvapp.com/live/douyu/10617369
+#EXTINF:-1 group-title="音乐music" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",MV音乐
+http://live.aptvapp.com/live/douyu/7537296
+#EXTINF:-1 group-title="音乐music" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",音乐MV
+http://live.aptvapp.com/live/douyu/3870925
+#EXTINF:-1 group-title="音乐music" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",经典MV
+http://live.aptvapp.com/live/douyu/9280411
+#EXTINF:-1 group-title="音乐music" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",舞台现场
+http://live.aptvapp.com/live/douyu/123351
+#EXTINF:-1 group-title="音乐music" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",欧美日韩港台歌
+http://live.aptvapp.com/live/douyu/7447373
+#EXTINF:-1 group-title="音乐music" tvg-logo="https://img.4gamers.com.tw/ckfinder/images/ALIEN/2020-10/86ec43cb5809e8195144293be4397c36.jpg-article.jpg?versionId=Wv3FXdNE6M3cU9SZ6cd9QAQDccH9YNQH",唱见电台
+http://zzy789.xyz/bili.php?id=26746183
+
 
 
 
