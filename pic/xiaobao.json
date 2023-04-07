@@ -2,6 +2,8 @@
 "作者":"lekbox",
 "站名":"推荐",
 "主页url":"https://xiaoheimi.net",
+"搜索模式": "1",
+"搜索后缀": "/index.php/vod/detail/id/",
 "bfjiequshuzuqian": "sort-list", 
 "bfjiequshuzuhou": "</ul>", 
 "juqingqian": "简介：</span>", 
