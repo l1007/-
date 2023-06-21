@@ -1,62 +1,17 @@
 {
 "作者":"lekbox",
 "站名":"Recommend",
-"主页url":"https://xiaoheimi.net",
-"shifouercijiequ": "0", 
-"jiequqian": "空", 
-"jiequhou": "空", 
-"jiequshuzuqian": "lazyload\"", 
-"jiequshuzuhou": "</a>", 
-"tupianqian": "data-original=\"", 
-"tupianhou": "\"", 
-"biaotiqian": "title=\"", 
-"biaotihou": "\"", 
-"lianjieqian": "href=\"", 
-"lianjiehou": "\"", 
-"sousuohouzhui": "/index.php/vod/detail/id/", 
-"ssmoshi": "1",
-"sousuoshifouercijiequ": "0",
-"jspic": "pic",
-"jsname": "name",
-"jsid": "id",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "空",
-"ssjiequshuzuhou": "空",
-"sstupianqian": "空",
-"sstupianhou": "空",
-"ssbiaotiqian": "空",
-"ssbiaotihou": "空",
-"sslianjieqian": "空",
-"sslianjiehou": "空",
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
+"搜索模式": "1",
+"搜索后缀": "/index.php/vod/detail/id/",
 "bfjiequshuzuqian": "sort-list", 
 "bfjiequshuzuhou": "</ul>", 
-"zhuangtaiqian": "更新：</span>", 
-"zhuangtaihou": "</p>", 
-"daoyanqian": "导演：</span>", 
-"daoyanhou": "</p>", 
-"zhuyanqian": "主演：</span>", 
-"zhuyanhou": "</p>", 
 "juqingqian": "简介：</span>", 
 "juqinghou": "<a", 
-"bfyshifouercijiequ": "0", 
-"bfyjiequqian": "空", 
-"bfyjiequhou": "空", 
-"bfyjiequshuzuqian": "<a", 
-"bfyjiequshuzuhou": "/a>", 
-"bfbiaotiqian": ">", 
-"bfbiaotihou": "<", 
-"bflianjieqian": "href=\"", 
-"bflianjiehou": "\"", 
 "免嗅":"1",
-//"副标题":"class=\"text-right\"></span",
-"分类":"Movie$1#Drama$2#Variety$3#Comic$4#Documentary$21#Sport$20",
+"分类":"Movie$7#Drama$6#Variety$3#Comic$5#Documentary$21#Sport$20",
 "分类url":"https://xiaoheimi.net/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
 "筛选":{
-"1":[
+"7":[
 {
 "key":"class",
 "name":"class",
@@ -127,7 +82,7 @@
 ]
 }
 ],
-"2":[
+"6":[
 {
 "key":"class",
 "name":"class",
@@ -203,7 +158,7 @@
 ]
 }
 ],
-"4":[
+"5":[
 {
 "key":"area",
 "name":"Area",
