@@ -1,7 +1,6 @@
 {
 "作者":"lekbox",
 "站名":"推荐",
-"主页url":"https://xiaoheimi.net",
 "搜索模式": "1",
 "搜索后缀": "/index.php/vod/detail/id/",
 "bfjiequshuzuqian": "sort-list", 
@@ -9,10 +8,10 @@
 "juqingqian": "简介：</span>", 
 "juqinghou": "<a", 
 "免嗅":"1",
-"分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$21#体育$20",
+"分类":"电影$7#电视剧$6#综艺$3#动漫$5#纪录片$21#体育$20",
 "分类url":"https://xiaoheimi.net/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
 "筛选":{
-"1":[
+"7":[
 {
 "key":"class",
 "name":"分类",
@@ -83,7 +82,7 @@
 ]
 }
 ],
-"2":[
+"6":[
 {
 "key":"class",
 "name":"剧情",
@@ -159,7 +158,7 @@
 ]
 }
 ],
-"4":[
+"5":[
 {
 "key":"area",
 "name":"地区",
