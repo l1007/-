@@ -3,6 +3,18 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTINF:-1 group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png",TV3
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8?exp=1688791340&hmac=0xb2ab3790509184c3e54be1e104f74ba751cff997d088975e7c278ba09ef0ae32
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/NTV7_logo_%282018%29.svg/1200px-NTV7_logo_%282018%29.svg.png",NTV7
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton2.m3u8?exp=1688791407&hmac=0x88cef11b419c38948eb64d12191f4304146c9f0db2152d2a858240843f2047d8
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg",8TV
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8?exp=1688791383&hmac=0xaa8088b44435891255bd12838f059989111cce7c104f2d7a7a150b2fcc8fd2df
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_of_TV9_%28Malaysia%29.svg/1200px-Logo_of_TV9_%28Malaysia%29.svg.png",TV9
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8?exp=1688791357&hmac=0xaaf14453fa69f2ae6dba3427807db3e77831d5b0cfcc9266c0425c67f79d38cb
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png",Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://4.bp.blogspot.com/-D0-ho1awsrI/WvBvpjNQjPI/AAAAAAAAEwA/08I6DP6NQ9oHc_rrLQg8DSPiP5Luk6r0wCPcBGAYYCw/s500/tvikim.png",IKIM
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png",TV3
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
 #EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV6_Logo.jpg/285px-TV6_Logo.jpg",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
