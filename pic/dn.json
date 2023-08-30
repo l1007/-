@@ -1,11 +1,11 @@
 {
 "作者":"lekbox",
 "站名":"多瑙",
-"主页url":"https://www.duonaovod.com",
+"主页url":"https://www.dnvods.com/",
 "播放数组": "<ul class=\"content_playlist&&<div",
 "免嗅":"1",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#伦理$34",
-"分类url":"https://duonaovod.com/index.php/vod/show/{area}/{by}/{class}/id/{cateId}/page/{catePg}/{year}.html",
+"分类url":"https://www.dnvods.com/index.php/vod/show/{area}/{by}/{class}/id/{cateId}/page/{catePg}/{year}.html",
 "筛选":{
 "1":[
 {
