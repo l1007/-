@@ -1,8 +1,11 @@
 {
-"作者": "LEKBOX",
-"站名": "直播",
-"直接播放":"1",
+"作者":"lekbox",
+"站名":"直播",
+"列表图片前缀": "空",
+"列表图片": "img src=\"$$\"",
+"列表标题": "alt=\"$$\"",
+"播放数组": "class=\"live_item__MBhDx&&</p>",
 "免嗅":"0",
-"分类":"马来西亚$Malaysia#中国$china#新加坡$Singapore#泰国$Thailand#越南$Vietnam#印尼$Indonesia",
-"分类url": "https://www.xhzb.tw/Asia/{cateId}/list_{catePg}.html"
+"分类":"直播$live",
+"分类url":"https://www.histar.tv/{cateId}"
 }
