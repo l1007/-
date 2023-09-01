@@ -1,12 +1,23 @@
 {
 "作者":"lekbox",
 "站名":"粤语",
+"首页url": "https://www.iyueyuz.xyz/", 
 "搜索模式": "0",
-"搜索请求方式": "0",
 "搜索后缀": "/index.php/vod/detail/id/",
-"简介": "vod_content&&<br>",
-"jiequshuzuqian": "fed-list-pics",
+"影片年代": "年份：</span>&&</a>",
+"导演": "导演：</span>&&</a>",
+"演员": "主演：</span>&&</div>",
+"简介": "简介：</span>&&</div>",
+"jiequqian": "空", 
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"fed-list-pics",
 "jiequshuzuhou": "</li>",
+"tupianqian": "data-original=\"", 
+"tupianhou": "\"", 
+"biaotiqian": ".html\">",
+"biaotihou": "</a>",
+"lianjieqian": "href=\"", 
+"lianjiehou": "\"", 
 "副标题": "fed-text-center\">&&</span>",
 "播放数组": "class=\"&&</div>",
 "免嗅":"0",
@@ -178,6 +189,20 @@
 {"n":"日本","v":"日本"},
 {"n":"美国","v":"美国"},
 {"n":"其他","v":"其他"}
+]
+},
+{
+"key":"lang",
+"name":"语言",
+"value":[
+{"n":"全部","v":""},
+{"n":"粤语","v":"粤语"},
+{"n":"国语","v":"国语"},
+{"n":"韩语","v":"韩语"},
+{"n":"日语","v":"日语"},
+{"n":"闽南语","v":"闽南语"},
+{"n":"英语","v":"英语"},
+{"n":"其它","v":"其它"}
 ]
 },
 {
