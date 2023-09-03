@@ -2,9 +2,9 @@
 "作者":"lekbox",
 "站名":"真不卡影院",
 "主页url":"https://www.zbkyy.com/",
-"sousuohouzhui": "/voddetail/", 
-"ssmoshi": "0",
-"sousuoshifouercijiequ": "0",
+"搜索模式": "0",
+"搜索后缀": "/voddetail/",
+"影片年代": "年份：</span>&&</a>",
 "bfjiequshuzuqian": "class=\"stui-content__playlist", 
 "bfjiequshuzuhou": "</ul>", 
 "juqingqian": "简介：</span>",
@@ -36,6 +36,8 @@
 {"n":"悬疑","v":"悬疑"},
 {"n":"惊悚","v":"惊悚"},
 {"n":"纪录","v":"纪录"},
+{"n":"伦理","v":"伦理"},
+{"n":"情色","v":"情色"},
 {"n":"网络电影","v":"网络电影"}
 ]
 },
@@ -54,7 +56,7 @@
 {"n":"印度","v":"印度"},
 {"n":"韩国","v":"韩国"},
 {"n":"泰国","v":"泰国"},
-{"n":"其他","v":"其他"}
+{"n":"菲律宾","v":"菲律宾"}
 ]
 },
 {
