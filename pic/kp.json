@@ -1,13 +1,15 @@
 {
 "作者":"lekbox",
 "站名":"看片",
-"主页url":"https://www.kpkuang.org",
+"主页url":"https://www.kpkuang.fun/",
+"搜索模式": "0",
+"搜索后缀": "/voddetail/",
+"影片年代": "年份：</span>&&</a>",
 "简介": "fed-padding fed-part-both fed-text-muted\">&&</p>",
-"线路数组": "uk-label&&</ul>",
 "播放数组": "</ul><ul class=\"fed-part-rows\"&&</ul>",
 "免嗅":"0",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-"分类url":"https://www.kpkuang.org/vodshow/{cateId}-{area}-{by}------{catePg}--{class}-{year}--.html",
+"分类url":"https://www.kpkuang.fun/vodshow/{cateId}-{area}-{by}------{catePg}--{class}-{year}--.html",
 "筛选":{
 "1":[
 {
@@ -30,6 +32,8 @@
 {"n":"悬疑","v":"悬疑"},
 {"n":"惊悚","v":"惊悚"},
 {"n":"纪录","v":"纪录"},
+{"n":"伦理","v":"伦理"},
+{"n":"情色","v":"情色"},
 {"n":"网络电影","v":"网络电影"}
 ]
 },
@@ -48,7 +52,7 @@
 {"n":"马来西亚","v":"马来西亚"},
 {"n":"新加坡","v":"新加坡"},
 {"n":"泰国","v":"泰国"},
-{"n":"其他","v":"其他"}
+{"n":"菲律宾","v":"菲律宾"}
 ]
 },
 {
