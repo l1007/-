@@ -1,15 +1,16 @@
 {
 "作者":"lekbox",
 "站名":"看戏123",
-"主页url":"https://www.kanxiy.com",
+"主页url":"https://www.ikanxi.com/",
+"影片年代": "年份：</span>&&</p>",
 "简介": "detail-sketch\">&&</span>",
 "搜索模式": "0",
-"搜索后缀": "/vod/detail/id/",
+"搜索后缀": "/post/",
 "bfjiequshuzuqian": "class=\"stui-content__playlist clearfix\"",
 "bfjiequshuzuhou": "</ul>",
 "免嗅":"1",
-"分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-"分类url":"https://www.kanxiy.com/tags/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4#伦理$20",
+"分类url":"https://www.ikanxi.com/tags/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "筛选":{
 "1":[
 {
@@ -34,6 +35,8 @@
 {"n":"悬疑","v":"悬疑"},
 {"n":"惊悚","v":"惊悚"},
 {"n":"纪录","v":"纪录"},
+{"n":"伦理","v":"伦理"},
+{"n":"情色","v":"情色"},
 {"n":"网络电影","v":"网络电影"}
 ]
 },
@@ -52,7 +55,7 @@
 {"n":"印度","v":"印度"},
 {"n":"韩国","v":"韩国"},
 {"n":"泰国","v":"泰国"},
-{"n":"其他","v":"其他"}
+{"n":"菲律宾","v":"菲律宾"}
 ]
 },
 {
