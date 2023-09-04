@@ -5,7 +5,7 @@
 "搜索后缀": "/voddetail/",
 "简介": "><p>&&</p>",
 "播放数组": "class=\"&&</div>",
-"免嗅":"1",
+"免嗅":"0",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$25#体育$5",
 "分类url":"https://www.odivod.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 "筛选":{
