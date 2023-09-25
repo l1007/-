@@ -1,15 +1,18 @@
 {
 "作者":"lekbox",
 "站名":"臭蛋蛋",
+"主页url":"https://cddys.me",
 "免嗅":"1",
+"影片类型":"module-info-tag\">&&立即播放",
 "搜索模式": "0",
 "搜索后缀": "/voddetail/",
 "导演": "导演：</span>&&</a>",
 "演员": "主演：</span>&&</div>",
-"简介": "><p>&&</p>",
+"线路数组":"data-dropdown-value=&&</div>[排序:阿里蓝光>快看蓝光>暴风超清]",
+"线路标题":"<span>&&</small>",
 "播放数组": "class=\"module-play-list&&</div>",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$38",
-"分类url":"https://cddys.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+"分类url":"https://cddys.me/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 "筛选":{
 "1":[
 {
