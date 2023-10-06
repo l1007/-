@@ -17,7 +17,7 @@
 "分类":"Movie$1#Drama$2#Variety$3#Comic$4#Documentary$20",
 "分类url": "https://hoho.tv/vod/show/{cateId}/{area}/{class}/page/{catePg}/{year}.html",
 "筛选":{
-"0":[
+"1":[
 {
 "key":"class",
 "name":"Filter",
