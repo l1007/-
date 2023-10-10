@@ -28,10 +28,10 @@ var rule = {
 		"desc": ";;;#post_content&&p:eq(0)&&Text;#post_content&&p:eq(2)&&Text",
 		"content": "#post_content&&p:eq(1)&&Text",
 		"tabs": `js:
-			TABS = ["道长磁力"];
+			TABS = ["LEKBOX磁力"];
 			let tabs = pdfa(html, '#content&&h3:not(:contains(网盘))');
 			tabs.forEach((it) => {
-				TABS.push(pdfh(it, "body&&Text").replace('播放地址','道长在线').replace('（无插件 极速播放）','一').replace('（无需安装插件）','二'))
+				TABS.push(pdfh(it, "body&&Text").replace('播放地址','LEKBOX在线').replace('（无插件 极速播放）','一').replace('（无需安装插件）','二'))
 			});
 		`,
 		"lists": `js:
@@ -40,7 +40,7 @@ var rule = {
 			LISTS = [];
 			let i = 1;
 			TABS.forEach(function(tab) {
-				if (/道长磁力/.test(tab)) {
+				if (/LEKBOX磁力/.test(tab)) {
 					var d = pdfa(html, '.context&&td');
 					d = d.map(function(it) {
 						var title = pdfh(it, 'a&&Text');
@@ -48,7 +48,7 @@ var rule = {
 						return title + '$' + burl
 					});
 					LISTS.push(d)
-				} else if (/道长在线/.test(tab) && i <= TABS.length-1) {
+				} else if (/LEKBOX在线/.test(tab) && i <= TABS.length-1) {
 					var d = pdfa(html, '.context&&.widget:eq(list_idx)&&a'.replace("list_idx", i));
 					d = d.map(function(it) {
 						var title = pdfh(it, 'a&&Text');
