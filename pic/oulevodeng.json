@@ -12,7 +12,7 @@
 "线路标题":"🇲🇾",
 "播放数组": "id=\"playlistbox&&</div>",
 "免嗅":"1",
-"分类":"Movie$1#Drama$2#Tvshow$4#Comic$3#Documentary$111",
+"分类":"Movie$1#Drama$2#Tvshow$3#Comic$4#Documentary$111",
 "分类url":"https://www.olevod.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
 "筛选":{
 "1":[
@@ -168,7 +168,7 @@
 ]
 }
 ],
-"4":[
+"3":[
 {
 "key":"area",
 "name":"Area",
@@ -233,7 +233,7 @@
 ]
 }
 ],
-"3":[
+"4":[
 {
 "key":"area",
 "name":"Area",
