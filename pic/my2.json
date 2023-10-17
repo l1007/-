@@ -1,7 +1,7 @@
 {
 "作者":"lekbox",
 "站名":"MY",
-"主页url":"https://176.97.65.3/",
+"主页url":"http://179.43.163.52/",
 "搜索模式": "0",
 "搜索后缀": "",
 "影片年代": "Year: </strong>&&</a>",
@@ -11,5 +11,5 @@
 "直接播放":"1",
 "免嗅":"0",
 "分类":"2023$year/2023#2022$year/2022#US$country/usa#MALAYSIA$country/malaysia#INDONESIA$country/indonesia#ACTION$action#Sci-Fi$science-fiction#Adventure$adventure#Animation$animation#Comedy$comedy#Drama$drama#Fantasy$fantasy#Horror$horror#Thriller$thriller#War$war",
-"分类url":"https://176.97.65.3/{cateId}/page/{catePg}"
+"分类url":"http://179.43.163.52/{cateId}/page/{catePg}"
 }
