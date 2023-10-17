@@ -9,8 +9,7 @@
 "导演": "导演：</span>&&</a>",
 "演员": "主演：</span>&&</li>",
 "简介": "简介：</span>&&详细",
-"播放数组": "id=\"playlistbox&&</div>",
-"免嗅":"1",
+"播放数组": "class=\"playlist_full&&</div>",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
 "分类url":"https://www.dnvods.com/index.php/vod/show/id/{cateId}{area}{by}{class}/page/{catePg}{lang}{year}.html",
 "筛选":{
