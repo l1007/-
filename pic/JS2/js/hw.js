@@ -1,7 +1,7 @@
 var rule={
 	title:'海外',
 	// host:'https://olevod.live',
-	host:'https://olevod.io',
+	host:'https://olvod.vip',
 	homeUrl:'/index.php/label/rankweek.html', // 人气排行榜周榜
 	url:'/index.php/vod/show/id/fyfilter.html',
 	filterable:1,//是否启用分类筛选,
