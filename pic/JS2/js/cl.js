@@ -1,6 +1,6 @@
 var rule = {
 	title:'6V新版[磁]',
-	host:'http://www.xb6v.com',
+	host:'http://www.xb6v.com/',
 	// host:'https://www.66s6.net',
 	// url: '/fyclass/index_fypage.html[/fyclass/index.html]',
 	url: '/fyclassfyfilter/index_fypage.html[/fyclassfyfilter/index.html]',
