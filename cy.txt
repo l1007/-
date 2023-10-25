@@ -3,6 +3,8 @@
 
 "sites":[
 {"key":"💯推荐","name":"💯推荐","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/l1007/-/raw/main/pic/fenglin.json"},
+{"key":"csp_xBPQ_枫林","name":"💯Recommend","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/l1007/-/raw/main/pic/fenglin-e.json"},
+{"key":"csp_xBPQ_my","name":"💯MY","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/l1007/-/raw/main/pic/my.json"},
 
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken","jar":"http://52bsj.vip:81/api/v3/file/get/119809/0329.jar?sign=X74NXtsF7xr1JgPXZky_lgR56WDsUVYzWj1I4gNRo7c%3D%3A0"}
 ],
