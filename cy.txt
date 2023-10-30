@@ -2,6 +2,7 @@
 "spider":"https://github.com/l1007/-/raw/main/0130.jar;md5;BB352704FDC310A33D49B48987B5EEA1",
 
 "sites":[
+{"key":"csp_xBPQ_oulevod","name":"️💯推荐","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/l1007/-/raw/main/pic/oulevod.json"},
 {"key":"💯推荐","name":"💯推荐","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/l1007/-/raw/main/pic/fenglin.json"},
 {"key":"csp_xBPQ_枫林","name":"💯Recommend","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/l1007/-/raw/main/pic/fenglin-e.json"},
 {"key":"csp_xBPQ_my","name":"💯MY","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/l1007/-/raw/main/pic/my.json"},
