@@ -9,7 +9,7 @@
 
 {"key":"push_agent","name":"🛴手机┃推送github","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken","jar":"http://52bsj.vip:81/api/v3/file/get/119809/0329.jar?sign=X74NXtsF7xr1JgPXZky_lgR56WDsUVYzWj1I4gNRo7c%3D%3A0"}
 ],
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvNTg5MDQvdDEudHh0P3NpZ249M1V4MFNwYi1sVDhIdE11V2FBUUQ5U0lEMy1ybk5oLU5GdTV6ckxRdDI3byUzRCUzQTA="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93d3cub3BlbmRyaXZlLmNvbS9kb3dubG9hZC9OakJmT1RBNU1UWXdNamRmUjNGMlVVVT9mb2xkZXJfaWQ9MA=="]}]}],
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","csm3u8"],
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
