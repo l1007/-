@@ -1,329 +1,892 @@
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml" refresh="1440" max-conn="1" refresh="24"
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CCTV5
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CCTV5
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CCTV5
-http://159.75.85.63:828/shijiebei/sjb.php?id=3007a
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CCTV5
-http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",CCTV5
-http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",五星体育
-http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",五星体育
-http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",五星体育
-http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+#EXTM3U 
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png",Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://4.bp.blogspot.com/-D0-ho1awsrI/WvBvpjNQjPI/AAAAAAAAEwA/08I6DP6NQ9oHc_rrLQg8DSPiP5Luk6r0wCPcBGAYYCw/s500/tvikim.png",IKIM
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png",TV3
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV6_Logo.jpg/285px-TV6_Logo.jpg",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/NTV7_logo_%282018%29.svg/1200px-NTV7_logo_%282018%29.svg.png",NTV7
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton2.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://revmedia.my/wp-content/uploads/2020/10/8tv-300x240.jpg",8TV
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_of_TV9_%28Malaysia%29.svg/1200px-Logo_of_TV9_%28Malaysia%29.svg.png",TV9
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://static9.tgstat.ru/channels/_0/e8/e8d015d17d29e7d0db09b5136c6e3f0e.jpg",Drama Sangat
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SUKAN_RTM.jpg",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Bernama_logo.png",Bernama
+https://live.mana2.my/Bernama/index.m3u8?organizationId=196288014&suiteItemId=200299504
+#EXTINF:-1 group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/Berita_RTM_v2.png",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+#EXTINF:-1 tvg-id="101" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+#EXTINF:-1 tvg-id="102" group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+#EXTINF:-1 tvg-id="106" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV6_Logo.jpg/285px-TV6_Logo.jpg",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+#EXTINF:-1 tvg-id="110" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+#EXTINF:-1 tvg-id="123" group-title="MYTV" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",BERITA RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+#EXTINF:-1 tvg-id="111" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SUKAN_RTM.jpg",TV SUKAN
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+#EXTINF:-1 group-title="MYTV" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png",Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 
 
 
+#EXTINF:-1 group-title="新闻NEWS" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png",Awani
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/Berita_RTM_v2.png",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/12/1568294832287_409.jpg",CCTV4
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/12/1568294757954_926.jpg",CCTV13
+http://jiandjh.51vip.biz:5678/bestv.php?id=cctv13xwhd8m/8000000
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png",TVBS新闻
+http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://yt3.googleusercontent.com/rS8fsWXkWsDhn-bSqptDJnDT-PvRTrTGdAWCN330ufQvaJJWGK-yZZVnUtVM74eX64vnvhqx=s900-c-k-c0x00ffffff-no-rj",三立iNEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png",三立NEWS+
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b0/Chinatvnews.jpg",中视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/FTV_News_Logo.png/340px-FTV_News_Logo.png",民视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg",中天新闻
+http://www.terrykang.xyz:35455/youtube/oIgbl7t0S_w
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg",中天新闻2
+http://www.terrykang.xyz:35455/youtube/WPfPjbOLNfE
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="http://www.aif.zju.edu.cn/aif/uploads/ueditor/image/20180314/1520994487883485.jpg",亞洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://yt3.googleusercontent.com/fxBQ8u3-6PQVnI81vnxzjF7u-3nipVm6Rv4-G5OQ2ugg6zWYcyfBuRqHnQrFyWEe1oDCrvgJtQ=s900-c-k-c0x00ffffff-no-rj",寰宇新闻台
+http://www.terrykang.xyz:35455/youtube/B7Zp3d6xXWw
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://yt3.googleusercontent.com/VZn4d9ZIvAj2ZTdGw8dU9IPkDOvbofQYxSd61nfO-qm14RKRpxJMFbe0Ndhbb_-sjAMV50yURA=s900-c-k-c0x00ffffff-no-rj",鏡新闻
+http://www.terrykang.xyz:35455/youtube/5n0y6b0Q25o
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg",TVBS新闻
+http://www.terrykang.xyz:35455/youtube/m_dhMSvUCIc
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaS8mzBZ9G_OUDOQha9NpmFDpmXughgAzx_Hq4q3Eg=s900-c-k-c0x00ffffff-no-rj",民视新闻网
+http://www.terrykang.xyz:35455/youtube/ylYJSBUgaMA
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQAeusAVxF_NJO2HOFzWRbUY77PW3STlkppF8dU=s900-c-k-c0x00ffffff-no-rj",民视戏剧馆
+http://www.terrykang.xyz:35455/youtube/1kzVPwTeKds
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQAeusAVxF_NJO2HOFzWRbUY77PW3STlkppF8dU=s900-c-k-c0x00ffffff-no-rj",民视戏剧馆2
+http://www.terrykang.xyz:35455/youtube/298QROP4xe0
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQAeusAVxF_NJO2HOFzWRbUY77PW3STlkppF8dU=s900-c-k-c0x00ffffff-no-rj",民视戏剧馆3
+http://www.terrykang.xyz:35455/youtube/bn7glmBPmIQ
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://yt3.googleusercontent.com/oBANQaisIhhDwbb9zagfRYGZrTCyfJfZSxARK8wkuTjHcj9JzEAvou1ZCYxf7HZ58kqqj7CYxQA=s900-c-k-c0x00ffffff-no-rj",中视新闻
+http://www.terrykang.xyz:35455/youtube/TCnaIE_SAtM
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://yt3.googleusercontent.com/fdXarUWa35Y7mxPkAkN24M9FBaCD64wRtQNNtF54OWteSbjQf0zBzhIDVLKgH0rW9ZL0wQ8eUw=s900-c-k-c0x00ffffff-no-rj",中视经典综艺
+http://www.terrykang.xyz:35455/youtube/ADDSmXoPDY8
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://yt3.googleusercontent.com/EwLBjB1PzvsfcoXEFdkbXGVZov4lJ9_51CjgHaNDd79Z6jmseEqWE9Veyuq11GOTASDsZwmaK1w=s900-c-k-c0x00ffffff-no-rj",台视新闻
+http://www.terrykang.xyz:35455/youtube/xL0ch83RAK8
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://yt3.googleusercontent.com/rS8fsWXkWsDhn-bSqptDJnDT-PvRTrTGdAWCN330ufQvaJJWGK-yZZVnUtVM74eX64vnvhqx=s900-c-k-c0x00ffffff-no-rj",三立iNEWS
+http://www.terrykang.xyz:35455/youtube/CKjSm5ZeehE
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRY0LSIq-mhiEtf6ZNjFubG0kzcQ9AcFMBkIdPoTg=s900-c-k-c0x00ffffff-no-rj",CCTV4
+http://www.terrykang.xyz:35455/youtube/9sE12tg3CmA
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://i0.hdslb.com/bfs/archive/d6ec76abcc352c837e27f0c4087dd47e96a850ed.jpg@480w_270h_1c",英語歌曲排行
+http://www.terrykang.xyz:35455/youtube/MRpr-GRojzc
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMZ1-TeoVYZ9BB2MqLnu9QNOfO9bs7lB46GWa_bMQ=s176-c-k-c0x00ffffff-no-rj",親親音樂網路
+http://www.terrykang.xyz:35455/youtube/IfNMuFqKBWs
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",华视
+https://h5cdn2.kylintv.tv/live/ctshd_iphone.m3u8
+#EXTINF:-1 group-title="新闻NEWS" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",民视
+https://h5cdn2.kylintv.tv/live/formosatv_iphone.m3u8
 
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]TV8
-http://50.7.220.74:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]TVBS
-http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]TVBS新闻台
-http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]星卫HD电影
-http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]ANIMAX
-http://50.7.220.74:8278/Animax/playlist.m3u8?tid=MD5D2874027628740276&ct=19225&tsum=7a70d49085de7ded56bc64fa8d46c506
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]ARENA 2
-http://50.7.220.74:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]ARENA
-http://50.7.220.74:8278/Arena/playlist.m3u8?tid=MA4A2365848123658481&ct=19225&tsum=06e68996e319c7afbc368a66c862fe90
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]AXN
-http://50.7.220.74:8278/Axn/playlist.m3u8?tid=MDAD8374621983746219&ct=19225&tsum=60883af30a38d2c40db4c04f8651ffaa
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]Animal Planet
-http://50.7.220.74:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]Awani
-http://50.7.220.74:8278/Awani/playlist.m3u8?tid=MB3B5555835155558351&ct=19225&tsum=148341f2ac3dfc57fd8bb8b2f6e4d190
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]BBC 1
-http://50.7.220.74:8278/bbc1_antik/playlist.m3u8?tid=MA4A9532597395325973&ct=19230&tsum=730628fd737b265598d82053feb30902
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]BBC 2
-http://50.7.220.74:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]X BBC Lifestyle
-http://50.7.220.74:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]BBC WORLD NEWS
-http://50.7.220.74:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]BERNAMA
-http://50.7.220.74:8278/Bernama/playlist.m3u8?tid=MC0C7405967074059670&ct=19225&tsum=5814e3a83adc97e751cba4715f5cad0a
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]Bloomberg
-http://50.7.220.74:8278/bloomberg_twn/playlist.m3u8?tid=MD2D8088860380888603&ct=19225&tsum=ea1c6a2c09cef99386e1768a4ff4c61c
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]CBBC
-http://50.7.220.74:8278/cbbc_antik/playlist.m3u8?tid=MA4A9598485295984852&ct=19225&tsum=f014b03e65dd6b89eacae112ac675ef6
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]CBeebies
-http://50.7.220.74:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]NAT GEO WILD
-http://50.7.220.74:8278/Natgeowild/playlist.m3u8?tid=MB1B3860629238606292&ct=19225&tsum=315ac040bcdf094ccacd3f57a127d1bf
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]NAT GEO
-http://50.7.220.74:8278/Natgeo/playlist.m3u8?tid=MFCF3878328938783289&ct=19225&tsum=d9b8d4ee66870f387dfdf70452237e40
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]Nick Jr
-http://50.7.220.74:8278/Nickjr/playlist.m3u8?tid=MA3A3266018432660184&ct=19225&tsum=ab65f24cfbcee7192bade2c6f4055102
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]Nickelodeon
-http://50.7.220.74:8278/Nickelodeon/playlist.m3u8?tid=MB0B3920856439208564&ct=19225&tsum=8dd558d6ca17cb0d8e9e4563c0787c69
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]K+
-http://50.7.220.74:8278/Ohk/playlist.m3u8?tid=MF4F8315986583159865&ct=19225&tsum=ca2352c9f1852dd9395c2bd259afe372
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]One
-http://50.7.220.74:8278/One/playlist.m3u8?tid=MB4B6226023862260238&ct=19225&tsum=a05a992f9150d8a389300bf4e108767f
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]TLC
-http://50.7.220.74:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=19225&tsum=ac890e48736a7dd973b991044c960239
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]WWE
-http://50.7.220.74:8278/Wwe/playlist.m3u8?tid=ME9E9974073099740730&ct=19225&tsum=8840b20a73441662838a72c53f7889d8
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[MY]Warner TV
-http://50.7.220.74:8278/WarnerTV/playlist.m3u8?tid=MADA9911440699114406&ct=19225&tsum=19bde622e34ceabf296cf92a9a1adede
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[HK]凤凰中文台
-http://50.7.220.74:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[HK]凤凰香港台
-http://50.7.220.74:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[HK]凤凰香港台
-http://50.7.220.74:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[HK]凤凰资讯台
-http://50.7.220.74:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[HK]凤凰资讯台
-http://50.7.220.74:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[HK]翡翠台
-http://50.7.220.74:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[HK]翡翠台
-http://50.7.220.74:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[HK]无线新闻台
-http://50.7.220.74:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[HK]J2
-http://50.7.220.74:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[HK]J2
-http://50.7.220.74:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[HK]明珠台
-http://50.7.220.74:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[HK]RTHK32
-http://50.7.220.74:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[HK]VIUTV
-http://50.7.220.74:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[HK]VIUTV
-http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[HK]VIUTV 6
-http://50.7.220.74:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]民视新闻台
-http://50.7.220.74:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]民视台湾台
-http://50.7.220.74:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]中视
-http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]中视新闻
-http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]中视经典
-http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]华视
-http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]台视
-http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]公視
-http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]TVBS
-http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]TVBS新闻台
-http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]TVBS欢乐台
-http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]TVB星河
-http://50.7.220.74:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]中天新闻
-http://50.7.220.74:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]中天新闻
-http://50.7.220.74:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]中天综合
-http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]中天娱乐
-http://50.7.220.74:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]中天亚洲台
-http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MC3C8838319088383190&ct=19226&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]亚洲旅游台
-http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]亚洲旅游台
-http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]东森新闻
-http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]东森超视
-http://50.7.220.74:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]东森财经新闻
-http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]东森财经新闻
-http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]东森羊片
-http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]东森羊片
-http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]东森电影
-http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]东森戏剧
-http://50.7.220.74:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]东森幼幼
-http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]东森幼幼
-http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]三立戏剧台
-http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MBDB8405357084053570&ct=19226&tsum=78944c0951d21a699e46fff4318a3799
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]年代新闻
-http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]JET綜合
-http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=MA7A4202687942026879&ct=19225&tsum=e84bc4851b9d6f6a18282c1efcb6ed1d
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]八大第一台
-http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]八大戏剧台
-http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]八大戏剧台
-http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]八大戏剧
-http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]八大戏剧
-http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]八大综合台
-http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]八大综合台
-http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]好莱坞电影
-http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]卫视中文台
-http://50.7.220.74:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]星卫HD电影台
-http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]美亚电影台
-http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]美亚电影台
-http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]美食星球
-http://50.7.220.74:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]靖天卡通台
-http://50.7.220.74:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]非凡新闻
-http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]EYE TV戏剧
-http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]EYE TV旅游
-http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]爱尔达体育1台
-http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]爱尔达体育1台
-http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]爱尔达体育2台
-http://50.7.220.74:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]爱尔达影剧台
-http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]爱尔达影剧台
-http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]爱尔达影剧台
-http://50.7.220.74:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]纬来体育
-http://50.7.220.74:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]ELEVEN 1
-http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]ELEVEN 1
-http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]ELEVEN 1
-http://50.7.220.74:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]ELEVEN 2
-http://50.7.220.74:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]博斯网球
-http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]博斯网球
-http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]博斯高球一台
-http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]博斯高球一台
-http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]博斯运动二台
-http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]博斯运动二台
-http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]博斯高球二台
-http://50.7.220.74:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]博斯魅力
-http://50.7.220.74:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]动物星球
-http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]动物星球
-http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]探索频道
-http://50.7.220.74:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]探索频道
-http://50.7.220.74:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]探索亚洲
-http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=MCEC2689621926896219&ct=19225&tsum=1739c52807970a89c1c15d7afea86b26
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]探索亚洲
-http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]探索亚洲
-http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]探索科学
-http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]探索科学
-http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]探索动力
-http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]探索动力
-http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]国家地理
-http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ME0E9332119893321198&ct=19225&tsum=86a42e161c519916f498348c3c672787
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]国家地理野生
-http://50.7.220.74:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]国家地理野生
-http://50.7.220.74:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]龙华偶像
-http://50.7.220.74:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]龙华卡通
-http://50.7.220.74:8278/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726d15fc9c0286
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]龙华戏剧
-http://50.7.220.74:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]龙华洋片
-http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]龙华经典
-http://50.7.220.74:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]龙祥时代
-http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]龙祥时代
-http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]大愛
-http://50.7.220.74:8278/daai_twn/playlist.m3u8?tid=MF5F4357730143577301&ct=19225&tsum=10c092424b1c12259444b68ad663c9eb
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]大愛
-http://50.7.220.74:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]好消息2台
-http://50.7.220.74:8278/good2_twn/playlist.m3u8?tid=ME9E3966510439665104&ct=19225&tsum=a2788b2ccea04a8a8082d663fb7838e5
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]AXN
-http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]BBC Earth
-http://50.7.220.74:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]Baby TV
-http://50.7.220.74:8278/babytv_twn/playlist.m3u8?tid=MB3B7827650178276501&ct=18393&tsum=27fb0219125df6a523b97248cdf16d1b
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]Baby TV
-http://50.7.220.74:8278/babytv_twn/playlist.m3u8?tid=MC9C6892759268927592&ct=19225&tsum=c523d815f0353c10a5d528226ebb5779
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]Baby TV
-http://50.7.220.74:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]CINEMAX
-http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]CNBC
-http://50.7.220.74:8278/cnbc_twn/playlist.m3u8?tid=MA5A9732497897324978&ct=19225&tsum=268e38e98d745f914c001c83d98b4b60
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]CNN
-http://50.7.220.74:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]CN卡通頻道
-http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]CN卡通頻道
-http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]Ci罪案侦缉
-http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]FashionTV
-http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]France24
-http://50.7.220.74:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]HBO
-http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]HBO原创巨献
-http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]HBO原创巨献
-http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]HBO原创巨献
-http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]HBO温馨家庭
-http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
-#EXTINF:-1 group-title="亚洲asia" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",[TW]TLC
-http://50.7.220.74:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
+
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",RM-轮播
+http://159.75.85.63:35455/douyu/7298973
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",RM-点播
+http://159.75.85.63:35455/douyu/131977
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",HK粤语电影1
+http://159.75.85.63:35455/douyu/1226741
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",HK话事人
+http://159.75.85.63:35455/douyu/5033502
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",HK粤语电影2
+http://159.75.85.63:35455/douyu/6566671
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",HK周星驰电影
+https://www.goodiptv.club/huya/11336587
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",HK电影虎
+https://www.goodiptv.club/huya/11352894
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",HK综艺
+http://159.75.85.63:35455/douyu/7919720
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",韩版犯罪
+https://www.goodiptv.club/huya/11352974
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",韩国高分
+https://www.goodiptv.club/huya/11352884
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",高分电影1
+http://159.75.85.63:35455/douyu/8770422
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",高分电影2
+http://159.75.85.63:35455/douyu/1735337
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",经典电影
+http://159.75.85.63:35455/douyu/413573
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",成龙电影
+http://159.75.85.63:35455/douyu/3379942
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",007电影
+http://159.75.85.63:35455/douyu/9292499
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",中文电影
+http://159.75.85.63:35455/douyu/5423
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",虎牙电影
+https://www.goodiptv.club/huya/11602041
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",漫威电影
+http://159.75.85.63:35455/douyu/6140589
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",科幻电影2
+http://159.75.85.63:35455/douyu/747764
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",哈利波特
+http://159.75.85.63:35455/douyu/8814650
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",变种人电影
+http://159.75.85.63:35455/douyu/9651304
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",贝爷MAX科幻
+http://159.75.85.63:35455/douyu/4332
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",贝爷科幻1
+http://159.75.85.63:35455/douyu/252802
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",欧美大片
+http://159.75.85.63:35455/douyu/2793084
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",可乐科幻
+http://159.75.85.63:35455/douyu/20415
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",恐怖电影
+http://159.75.85.63:35455/douyu/1165374
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",恐怖电影1
+http://159.75.85.63:35455/douyu/263824
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",小U丧尸
+http://159.75.85.63:35455/douyu/96577
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",人生不过几个
+http://159.75.85.63:35455/douyu/6621
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",贝贝
+http://159.75.85.63:35455/douyu/431460
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",小宇60帧
+http://159.75.85.63:35455/douyu/323876
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",每天15点看电影
+https://www.goodiptv.club/huya/618917
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",好莱坞
+https://www.goodiptv.club/huya/21059587
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",大片
+https://www.goodiptv.club/huya/21059585
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",科幻片
+https://www.goodiptv.club/huya/17904870
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",经典小影院
+https://www.goodiptv.club/huya/23017124
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",魔法世界
+https://www.goodiptv.club/huya/21059580
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",搞笑僵尸片
+https://www.goodiptv.club/huya/11352963
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",看救援电影
+https://www.goodiptv.club/huya/21059586
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",杰森·斯坦森
+https://www.goodiptv.club/huya/21059588
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",甄子丹
+https://www.goodiptv.club/huya/11352935
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",周润发
+https://www.goodiptv.club/huya/11342387
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",周星驰
+https://www.goodiptv.club/huya/11342412
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",林正英
+https://www.goodiptv.club/huya/11342421
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",成龙
+https://www.goodiptv.club/huya/11342386
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",沈腾
+https://www.goodiptv.club/huya/11601968
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",洪金宝
+https://www.goodiptv.club/huya/11279251
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",李连杰
+https://www.goodiptv.club/huya/11342390
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",许冠英
+https://www.goodiptv.club/huya/11601972
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",宋小宝
+https://www.goodiptv.club/huya/11352907
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",王晶
+https://www.goodiptv.club/huya/11602058
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",邓超
+https://www.goodiptv.club/huya/11336592
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",刘德华
+https://www.goodiptv.club/huya/11342424
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",梁家辉
+https://www.goodiptv.club/huya/11342429
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",孙红雷·硬汉电影
+https://www.goodiptv.club/huya/11352917
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",邱淑贞太好看了吧
+https://www.goodiptv.club/huya/11352949
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",强森
+https://www.goodiptv.club/huya/21059581
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",虎牙八点档
+https://www.goodiptv.club/huya/880261
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",警匪
+https://www.goodiptv.club/huya/11352886
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",黑帮大片
+https://www.goodiptv.club/huya/11336719
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",中国功夫
+https://www.goodiptv.club/huya/11352941
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",搞笑恐怖
+https://www.goodiptv.club/huya/11601960
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",高智商的罪犯
+https://www.goodiptv.club/huya/11352962
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",喜剧专场
+https://www.goodiptv.club/huya/11602044
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",金庸
+https://www.goodiptv.club/huya/11342435
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",历年贺岁档
+https://www.goodiptv.club/huya/11601986
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",黑帮斗争
+https://www.goodiptv.club/huya/11342419
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",飙车
+https://www.goodiptv.club/huya/11352894
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",玄幻剧场
+https://www.goodiptv.club/huya/11342414
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",经典港剧
+https://www.goodiptv.club/huya/11352965
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",许氏三杰
+https://www.goodiptv.club/huya/11602033
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",古墓系列
+https://www.goodiptv.club/huya/11352913
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",烧脑悬疑片
+https://www.goodiptv.club/huya/11352880
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",动作电影
+https://www.goodiptv.club/huya/11602077
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",看电影
+https://www.goodiptv.club/huya/11352963
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",美食纪录片
+https://www.goodiptv.club/huya/11352955
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",黄渤-经典回顾
+https://www.goodiptv.club/huya/11342429
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",陈翔六点半
+https://www.goodiptv.club/huya/11274154
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",飞车电影
+https://www.goodiptv.club/huya/11279247
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",卧底&警察的故事
+https://www.goodiptv.club/huya/11279251
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",盗墓笔记少年篇
+https://www.goodiptv.club/huya/11336578
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",上古神器轩辕剑
+https://www.goodiptv.club/huya/11336579
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",愚人节一起笑破肚皮
+https://www.goodiptv.club/huya/11336590
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",美ren制造!好片好剧
+https://www.goodiptv.club/huya/11336593
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",RM 刘在石李光洙跑男
+https://www.goodiptv.club/huya/11336725
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",武林萌主唐小姐
+https://www.goodiptv.club/huya/11336726
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",新水浒传-在下正是西公子
+https://www.goodiptv.club/huya/11342384
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",草莽英雄变成抗日英雄
+https://www.goodiptv.club/huya/11342388
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",冲冲冲!给老子上
+https://www.goodiptv.club/huya/11342392
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",国产悬疑精选
+https://www.goodiptv.club/huya/11342395
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",纪晓岚-岚宝珅宝的爱恨情仇
+https://www.goodiptv.club/huya/11342396
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",一代枭雄为报父仇励精图治
+https://www.goodiptv.club/huya/11342398
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",简小熙的直播间
+https://www.goodiptv.club/huya/11342399
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",活佛济公
+https://www.goodiptv.club/huya/11342400
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",搞笑的一家人
+https://www.goodiptv.club/huya/11342402
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",倚天屠龙记·六大门派围攻光明顶
+https://www.goodiptv.club/huya/11342403
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",陆贞传奇
+https://www.goodiptv.club/huya/11342404
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",中华小当家
+https://www.goodiptv.club/huya/11342413
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",玄幻剧场·体验另一种生活
+https://www.goodiptv.club/huya/11342414
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",群雄逐鹿.窃符救赵
+https://www.goodiptv.club/huya/11342415
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",姐妹搞笑都市生活
+https://www.goodiptv.club/huya/11342417
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",康熙·民间私访
+https://www.goodiptv.club/huya/11342418
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",黑帮斗争
+https://www.goodiptv.club/huya/11342419
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",王艳的孙蝶真的好美
+https://www.goodiptv.club/huya/11342420
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",吐槽·明星大咖自黑现场
+https://www.goodiptv.club/huya/11342422
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",开心鬼系列
+https://www.goodiptv.club/huya/11342423
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",神探狄仁杰
+https://www.goodiptv.club/huya/11342425
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",邻li一家亲 满院白眼狼
+https://www.goodiptv.club/huya/11342426
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",武侠
+https://www.goodiptv.club/huya/11342427
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",DC外国电影
+https://www.goodiptv.club/huya/11342428
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",许三多军营成长史
+https://www.goodiptv.club/huya/11342430
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",布衣结交天子古今一人
+https://www.goodiptv.club/huya/11342432
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",热血学生保家卫国
+https://www.goodiptv.club/huya/11342434
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",金庸的武侠世界
+https://www.goodiptv.club/huya/11342435
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",没想到你是这样的猪
+https://www.goodiptv.club/huya/11342436
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",雍正皇帝的风云一生
+https://www.goodiptv.club/huya/11342439
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",胡八一胖子沙漠古城找鬼洞
+https://www.goodiptv.club/huya/11352871
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",家有儿女 我叫夏冰雹
+https://www.goodiptv.club/huya/11352872
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",龙门镖局
+https://www.goodiptv.club/huya/11352874
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",黄渤
+https://www.goodiptv.club/huya/11352876
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",合家欢喜剧
+https://www.goodiptv.club/huya/11352877
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",经典港片-邻家少女
+https://www.goodiptv.club/huya/11352878
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",[猫和老鼠]汤姆和杰瑞的故事
+https://www.goodiptv.club/huya/11352879
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",我的宝贝baby
+https://www.goodiptv.club/huya/11352880
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",萌新司机
+https://www.goodiptv.club/huya/11352881
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",我们都爱笑卡通
+https://www.goodiptv.club/huya/11352882
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",第十门
+https://www.goodiptv.club/huya/11352883
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",韩国高分动作片
+https://www.goodiptv.club/huya/11352884
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",灾难大片-吞针主播
+https://www.goodiptv.club/huya/11352887
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",头文字D·秋名山车神
+https://www.goodiptv.club/huya/11352889
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",医馆笑传
+https://www.goodiptv.club/huya/11352891
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",灵剑山·试炼开启
+https://www.goodiptv.club/huya/11352896
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",抗日大片
+https://www.goodiptv.club/huya/11352897
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",汉武大帝.七国之乱
+https://www.goodiptv.club/huya/11352899
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",燃青春!热血男儿中国心
+https://www.goodiptv.club/huya/11352905
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",荒漠中的枪神
+https://www.goodiptv.club/huya/11352906
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",岳云鹏贾玲宋小宝!
+https://www.goodiptv.club/huya/11352907
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",笑傲帮 顶尖笑匠再登舞台
+https://www.goodiptv.club/huya/11352908
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",古墓系列
+https://www.goodiptv.club/huya/11352913
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",极限挑战-双黄联手拆弹绝地求生
+https://www.goodiptv.club/huya/11352914
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",海绵宝宝
+https://www.goodiptv.club/huya/11352919
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",花开正元 孙俪民国上位记
+https://www.goodiptv.club/huya/11352920
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",瞬间炸裂!超燃开场
+https://www.goodiptv.club/huya/11352934
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",笑傲江湖 喜剧脱口秀
+https://www.goodiptv.club/huya/11352937
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",刘小光·捧腹大笑
+https://www.goodiptv.club/huya/11352938
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",康熙大帝的传奇一生
+https://www.goodiptv.club/huya/11352940
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",中国功夫-经典大片
+https://www.goodiptv.club/huya/11352941
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",新三国滚滚长江东逝水
+https://www.goodiptv.club/huya/11352944
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",看完你也学不会系列
+https://www.goodiptv.club/huya/11352945
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",成龍历险记·社会我阿福乌鸦坐飞机
+https://www.goodiptv.club/huya/11352946
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",中国新相亲·大型男女口嗨现场
+https://www.goodiptv.club/huya/11352947
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",VIP11
+https://www.goodiptv.club/huya/11352950
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",龙门 贵妃拒绝跟皇上亲热
+https://www.goodiptv.club/huya/11352953
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",大宅门
+https://www.goodiptv.club/huya/11352956
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",神探狄仁杰
+https://www.goodiptv.club/huya/11352958
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",庆余年
+https://www.goodiptv.club/huya/11352960
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",80后脱口秀
+https://www.goodiptv.club/huya/11352961
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",经典高智商犯罪片
+https://www.goodiptv.club/huya/11352962
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",谍战系列
+https://www.goodiptv.club/huya/11352963
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",[神貂侠侣]陈妍希小笼包版姑姑
+https://www.goodiptv.club/huya/11352964
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",经典港剧笑嘻嘻
+https://www.goodiptv.club/huya/11352965
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",如意菜头
+https://www.goodiptv.club/huya/11352966
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",镖行天下 镖在人在
+https://www.goodiptv.club/huya/11352969
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",玄幻专场·国产特效大制作
+https://www.goodiptv.club/huya/11352973
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",韩版犯罪片
+https://www.goodiptv.club/huya/11352974
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",陈佩斯的短喜剧
+https://www.goodiptv.club/huya/11601957
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",港产搞笑恐怖类
+https://www.goodiptv.club/huya/11601960
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",無尾魚
+https://www.goodiptv.club/huya/11601961
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",北岛南城
+https://www.goodiptv.club/huya/11601962
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",法外狂徒张三李四
+https://www.goodiptv.club/huya/11601965
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Cc 七龍珠改
+https://www.goodiptv.club/huya/11601966
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",沈腾合集
+https://www.goodiptv.club/huya/11601968
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",鸽宝小改改
+https://www.goodiptv.club/huya/11601970
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",警匪犯罪
+https://www.goodiptv.club/huya/11601971
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",港剧最佳拍档 | 许冠英合集
+https://www.goodiptv.club/huya/11601972
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",小蘑菇  彦祖 颜值巅峰
+https://www.goodiptv.club/huya/11601981
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",王晶首次执导的玄幻武侠剧
+https://www.goodiptv.club/huya/11602031
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",摄氏零度 百家讲坛
+https://www.goodiptv.club/huya/11602032
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",老雷 Man威 钢铁侠
+https://www.goodiptv.club/huya/11602034
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",勇敢的心
+https://www.goodiptv.club/huya/11602037
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",迷失 动作片
+https://www.goodiptv.club/huya/11602041
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",小怪兽 喜剧专场
+https://www.goodiptv.club/huya/11602044
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",小癲 一人之上
+https://www.goodiptv.club/huya/11602065
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",红红火火 贺岁合家欢剧场
+https://www.goodiptv.club/huya/11602067
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",性感大妈 惊心动魄的灾难片
+https://www.goodiptv.club/huya/11602075
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",寞尛北 霍元甲
+https://www.goodiptv.club/huya/11602076
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",麦芽糖糖ぴ 虎牙下饭影院
+https://www.goodiptv.club/huya/11602077
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",全优少年 桃园结义三兄弟
+https://www.goodiptv.club/huya/11602081
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",凌莲 你怎么看待六子哥
+https://www.goodiptv.club/huya/11602086
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",悬疑片
+https://www.goodiptv.club/huya/11602088
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",阿斗归来了影史最强神剧
+https://www.goodiptv.club/huya/13303478
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Big笑工坊
+https://www.goodiptv.club/huya/14776702
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",喜仔的世界
+https://www.goodiptv.club/huya/17098448
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",圣逗事 绝地求生真人版
+https://www.goodiptv.club/huya/18390254
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",猫眼下的鱼
+https://www.goodiptv.club/huya/20236200
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",中国加油
+https://www.goodiptv.club/huya/21059527
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",盗墓
+http://mmitv.top/pltv/huya.php?id=21059552
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",异形世界
+https://www.goodiptv.club/huya/21059577
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",枪战
+https://www.goodiptv.club/huya/21059579
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",救援
+https://www.goodiptv.club/huya/21059594
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",海盗
+https://www.goodiptv.club/huya/21059552
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",[态度]官方节目
+https://www.goodiptv.club/huya/21103951
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",巨星专访:周星驰
+https://www.goodiptv.club/huya/21136378
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",DK陪你看-经典警匪片
+https://www.goodiptv.club/huya/22895177
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Dae陪你看-经典警匪片
+https://www.goodiptv.club/huya/22897556
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",使徒行者
+https://www.goodiptv.club/huya/23734256
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",创世纪
+https://www.goodiptv.club/huya/23749083
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",施公奇案
+https://www.goodiptv.club/huya/23829447
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",天地男儿
+https://www.goodiptv.club/huya/23860049
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",森林野女孩
+https://www.goodiptv.club/huya/24609838
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",英叔-恐怖经典僵尸电影
+https://www.goodiptv.club/huya/27586442
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",后探真言
+https://www.goodiptv.club/huya/660260
+#EXTINF:-1 group-title="电影MOVIES" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",导演我太难了
+https://www.goodiptv.club/huya/880248
+#EXTINF:-1 group-title="纪录片Documentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",贝爷+荒野厨王美食系列
+http://159.75.85.63:35455/douyu/454867
+#EXTINF:-1 group-title="纪录片Documentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",这天气突然就冷了
+http://159.75.85.63:35455/douyu/1052924
+#EXTINF:-1 group-title="纪录片Documentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",[德哥 贝爷]荒野生存系列
+http://159.75.85.63:35455/douyu/1339207
+#EXTINF:-1 group-title="纪录片Documentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",荒野求生带大家体验不一样的生活
+http://159.75.85.63:35455/douyu/9252708
+#EXTINF:-1 group-title="纪录片Documentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",纪录经典时刻
+http://159.75.85.63:35455/douyu/3485629
+#EXTINF:-1 group-title="纪录片Documentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",荒野美食求生建造科普探险
+http://159.75.85.63:35455/douyu/1623125
+#EXTINF:-1 group-title="纪录片Documentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",谦卑学习升华
+http://159.75.85.63:35455/douyu/6173973
+#EXTINF:-1 group-title="纪录片Documentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",小沫4837387带你感受美好的大自然
+http://159.75.85.63:35455/douyu/9036111
+#EXTINF:-1 group-title="纪录片Documentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",雪地露营
+http://159.75.85.63:35455/douyu/1473221
+#EXTINF:-1 group-title="纪录片Documentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",萌宠24小时
+http://159.75.85.63:35455/douyu/648814
+#EXTINF:-1 group-title="纪录片Documentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",观景听风
+http://159.75.85.63:35455/douyu/9970646
+#EXTINF:-1 group-title="纪录片Documentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",安全警示教育
+http://159.75.85.63:35455/douyu/10042564
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",滇西小哥
+http://159.75.85.63:35455/douyu/3243427
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",李子柒
+http://159.75.85.63:35455/douyu/2901080
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",李子柒-轮播
+https://www.goodiptv.club/huya/21969336
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",关东大海
+http://159.75.85.63:35455/douyu/9696878
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",天天做美味
+http://159.75.85.63:35455/douyu/9446613
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",美食台
+http://159.75.85.63:35455/douyu/3091151
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",第一美食
+http://159.75.85.63:35455/douyu/9801276
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",主厨农国栋
+http://159.75.85.63:35455/douyu/8941512
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",涛厨V
+http://159.75.85.63:35455/douyu/9562738
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",燕子堡
+http://159.75.85.63:35455/douyu/8828565
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",美妙的世界
+http://159.75.85.63:35455/douyu/442280
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",韩国农村家常菜吃什么
+http://159.75.85.63:35455/douyu/8148111
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",吃遍中国
+http://159.75.85.63:35455/douyu/9498248
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",跟着苗大冬
+http://159.75.85.63:35455/douyu/8067328
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",全网最嚣张吃法
+http://159.75.85.63:35455/douyu/9116745
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",武侠浪子的美食日记
+http://159.75.85.63:35455/douyu/4262598
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",亲情日常离不开吃
+http://159.75.85.63:35455/douyu/8143715
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",带你进入大彭的温馨日常
+http://159.75.85.63:35455/douyu/7879024
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",密子君的地道成都美食来袭
+http://159.75.85.63:35455/douyu/611814
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",阿远的超正宗家常菜
+http://159.75.85.63:35455/douyu/8194977
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",宅家狂吃夜宵不重样
+http://159.75.85.63:35455/douyu/7832113
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",荒郊野岭精致一人食
+http://159.75.85.63:35455/douyu/1443964
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",小贝带你探索千万夜宵
+http://159.75.85.63:35455/douyu/10036570
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",主厨农国栋
+http://159.75.85.63:35455/douyu/8941512
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",绵羊料理
+http://159.75.85.63:35455/douyu/2090684
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",华农兄弟V
+http://159.75.85.63:35455/douyu/7342905
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",BBQPitBoys
+http://159.75.85.63:35455/douyu/8657285
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",大师的菜
+http://159.75.85.63:35455/douyu/8892431
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",燕子堡BBQ学徒Ray
+http://159.75.85.63:35455/douyu/8828565
+#EXTINF:-1 group-title="美食Food" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",野食小哥
+https://www.goodiptv.club/huya/14363949
+
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",梓帆说电影
+http://159.75.85.63:35455/douyu/9769563
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",有部电影儿
+http://159.75.85.63:35455/douyu/9736479
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",发条张的电影最TOP
+http://159.75.85.63:35455/douyu/2164691
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",楚哥说电影
+http://159.75.85.63:35455/douyu/9375743
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",浩贤说电影
+http://159.75.85.63:35455/douyu/10535867
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",电影最TOP
+https://www.goodiptv.club/huya/topfilm
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",秦小叔说戏剧
+https://www.goodiptv.club/huya/11342438
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",面对疾风
+https://www.goodiptv.club/huya/11352904
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",老电影故事 经典木偶动画
+https://www.goodiptv.club/huya/15267139
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",老炮说电影
+https://www.goodiptv.club/huya/15454716
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",宇宙无敌韩三金 7分钟看奇幻片
+https://www.goodiptv.club/huya/15494057
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",沫漾电影阿郎的故事
+https://www.goodiptv.club/huya/15556391
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",三口看电影
+https://www.goodiptv.club/huya/15599787
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",越哥说电影 万箭穿心
+https://www.goodiptv.club/huya/15894162
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",空空说电影
+https://www.goodiptv.club/huya/15923500
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",y空空说电影
+https://www.goodiptv.club/huya/kksdy
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",熊妹撩电影
+https://www.goodiptv.club/huya/15966357
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",老皮讲电影
+https://www.goodiptv.club/huya/16968572
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",阿钙扒瞎
+https://www.goodiptv.club/huya/15978172
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",好尸 权力的游戏
+https://www.goodiptv.club/huya/15981239
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",扁豆看电影
+https://www.goodiptv.club/huya/16028551
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",猎影派 动作片
+https://www.goodiptv.club/huya/16099968
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",关灯看大片:侏罗纪世界
+https://www.goodiptv.club/huya/16135863
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",亮哥讲电影
+https://www.goodiptv.club/huya/16144175
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",一口毒奶 运财智多星
+https://www.goodiptv.club/huya/16144261
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",电影间谍 悬疑片
+https://www.goodiptv.club/huya/16149609
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",顾九撩电影
+https://www.goodiptv.club/huya/16422212
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",吾聊电影
+https://www.goodiptv.club/huya/16424416
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",猪猪妹说电影
+https://www.goodiptv.club/huya/16457533
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",方头人讲故事 终极三国
+https://www.goodiptv.club/huya/16604314
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",了不起的乌贼君 猫鼠游戏
+https://www.goodiptv.club/huya/16604522
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",鱼丸说电影
+https://www.goodiptv.club/huya/16615910
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Sir说电影
+https://www.goodiptv.club/huya/16626185
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",小冷说电影
+https://www.goodiptv.club/huya/16739452
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",老吴说电影
+https://www.goodiptv.club/huya/16740471
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",恐怖地带
+https://www.goodiptv.club/huya/16741179
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",电影十里廊
+https://www.goodiptv.club/huya/16801558
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",渣子看闹剧
+https://www.goodiptv.club/huya/16837764
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",涵哥评电影
+https://www.goodiptv.club/huya/16865726
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",阿祥说电影
+https://www.goodiptv.club/huya/16868935
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",电影享不停
+https://www.goodiptv.club/huya/16873147
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",万人影视
+https://www.goodiptv.club/huya/16914870
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",电影笔记
+https://www.goodiptv.club/huya/16920222
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",马桶吐槽
+https://www.goodiptv.club/huya/17089779
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",音乐小石榴
+https://www.goodiptv.club/huya/17091681
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",短的发布会
+https://www.goodiptv.club/huya/17142127
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",默爷侃电影
+https://www.goodiptv.club/huya/17204307
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",比尔电影
+https://www.goodiptv.club/huya/17227870
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",狗哥吃火锅
+https://www.goodiptv.club/huya/17269326
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",晓杰侃电影
+https://www.goodiptv.club/huya/17279509
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",小冉看电影
+https://www.goodiptv.club/huya/17341907
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",模范刑警
+https://www.goodiptv.club/huya/17445539
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",影音炫客
+https://www.goodiptv.club/huya/17811579
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",我是一颗小虎牙
+https://www.goodiptv.club/huya/17904870
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",乔我说动漫频道
+https://www.goodiptv.club/huya/17941367
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",吃货小伟
+https://www.goodiptv.club/huya/18064987
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",疯狂解说家
+https://www.goodiptv.club/huya/18366196
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",泡面微剧场
+https://www.goodiptv.club/huya/18368221
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",小林讲电影
+https://www.goodiptv.club/huya/18368391
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",斌哥漫说
+https://www.goodiptv.club/huya/18632116
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",电影狂人A
+https://www.goodiptv.club/huya/18715610
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",娘子说电影
+https://www.goodiptv.club/huya/18964209
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",彤颜童语
+https://www.goodiptv.club/huya/19398022
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",无比看电影精选
+https://www.goodiptv.club/huya/19450129
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",USA大蛇
+https://www.goodiptv.club/huya/19564134
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",正经说电影
+https://www.goodiptv.club/huya/19583776
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",可乐撩电影
+https://www.goodiptv.club/huya/20045465
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",小丽说电影
+https://www.goodiptv.club/huya/20056437
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",电影充电站
+https://www.goodiptv.club/huya/20064385
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",刘老师说电影
+https://www.goodiptv.club/huya/20289754
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",虎妞说电影
+https://www.goodiptv.club/huya/20343144
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",非同说电影
+https://www.goodiptv.club/huya/20482574
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",低调新说
+https://www.goodiptv.club/huya/20578977
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",韩小囧说电影
+https://www.goodiptv.club/huya/20695907
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",大象放映室
+https://www.goodiptv.club/huya/21277391
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",Adam短发 海贼王
+https://www.goodiptv.club/huya/21339980
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",青年电影馆 逝世的50位港片影星
+https://www.goodiptv.club/huya/21388479
+#EXTINF:-1 group-title="说电影Commentary" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",雨婷讲电影
+https://www.goodiptv.club/huya/21638737
+
+
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",模拟赛车
+https://www.goodiptv.club/huya/20073018
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",MASFIGHT世界大奖赛
+https://www.goodiptv.club/huya/20072703
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",格斗天龙
+https://www.goodiptv.club/huya/20072864
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",精武斗士
+https://www.goodiptv.club/huya/20072863
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",裸拳格斗精选
+https://www.goodiptv.club/huya/20072811
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",UFC中国专场
+https://www.goodiptv.club/huya/19197453
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",UFC格斗之夜
+https://www.goodiptv.club/huya/19197452
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",WWE清流1路
+https://www.goodiptv.club/huya/19197457
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",战界之力
+https://www.goodiptv.club/huya/26153485
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",街头格斗精选
+https://www.goodiptv.club/huya/20072796
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",印度摔跤精选
+https://www.goodiptv.club/huya/20072812
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",WWE老李头
+https://www.goodiptv.club/huya/16619834
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",WWE阿楠
+https://www.goodiptv.club/huya/20971519
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",越南摔跤精选
+https://www.goodiptv.club/huya/20072829
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",曼岛TT狂飙
+https://www.goodiptv.club/huya/19197407
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",狂鸟丶小川
+https://www.goodiptv.club/huya/17191682
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",大山姆摔角
+https://www.goodiptv.club/huya/18152353
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",泰拳精彩集锦
+https://www.goodiptv.club/huya/20072835
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",柔道赛事精选
+https://www.goodiptv.club/huya/20072837
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",俄罗武当派
+https://www.goodiptv.club/huya/19197589
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",拳击爱好者-东哥
+https://www.goodiptv.club/huya/18152420
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",虎牙功夫嘉年华精彩集锦
+https://www.goodiptv.club/huya/18501221
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",虎牙UFC数字赛
+https://www.goodiptv.club/huya/17455062
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",日摔赛事精选
+https://www.goodiptv.club/huya/20072798
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",拳迷豪哥
+https://www.goodiptv.club/huya/18152380
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",日本女子摔角
+http://159.75.85.63:35455/douyu/425809
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",昆仑决KLF
+http://159.75.85.63:35455/douyu/1753007
+#EXTINF:-1 group-title="赛车拳击Racing Boxing" tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",拳击大王
+http://159.75.85.63:35455/douyu/9385340
+
+
+
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",你的瑜伽女孩
+http://159.75.85.63:35455/douyu/10205199
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",正宗吔汁吔树牌
+http://159.75.85.63:35455/douyu/10217953
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",周六野Zoey
+http://159.75.85.63:35455/douyu/8912150
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",活人瑜伽
+https://www.goodiptv.club/huya/21690274
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",微胖瑜伽妹子吖
+https://www.goodiptv.club/huya/29275192
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",Phoebe子子
+https://www.goodiptv.club/huya/23966590
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",帅soserious
+https://www.goodiptv.club/huya/shuaisoserious
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",陈海诺Leo
+https://www.goodiptv.club/huya/22156241
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",JoyTan谭卓依
+https://www.goodiptv.club/huya/24099069
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",男人要活出你的霸气
+https://www.goodiptv.club/huya/24001249
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",一修铁拳
+https://www.goodiptv.club/huya/23959751
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",一起学健身
+https://www.goodiptv.club/huya/20753449
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",居家健身de解连
+https://www.goodiptv.club/huya/24081038
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",灵巧的土拨鼠
+https://www.goodiptv.club/huya/18501087
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",改变Zi己
+https://www.goodiptv.club/huya/18501074
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",南山川
+https://www.goodiptv.club/huya/18501089
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",大魔王
+https://www.goodiptv.club/huya/18501101
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",胖大星
+https://www.goodiptv.club/huya/18501091
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",肌吾霸
+https://www.goodiptv.club/huya/18501107
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",纯散人
+https://www.goodiptv.club/huya/18501067
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",欧尼酱
+https://www.goodiptv.club/huya/18501071
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",王多余
+https://www.goodiptv.club/huya/18501104
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",猫哥说健身
+https://www.goodiptv.club/huya/24354754
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",我要学健身
+https://www.goodiptv.club/huya/22608231
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",南城以北
+https://www.goodiptv.club/huya/18501059
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",Nice
+https://www.goodiptv.club/huya/20758623
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",大胖兔
+https://www.goodiptv.club/huya/18501109
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",Kory-x
+https://www.goodiptv.club/huya/18501094
+#EXTINF:-1 group-title="瑜伽健身Yoga Fitness" tvg-logo="https://pic.ibaotu.com/gif/19/85/19/5888piCU888piCiqf.gif!fwpaa50/fw/282",特立独行
+https://www.goodiptv.club/huya/18501108
 
