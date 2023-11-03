@@ -9,7 +9,7 @@
 
 {"key":"索尼","name":"索尼(超清)","type":0,"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xmlsea/","searchable":1,"quickSearch":1},
 {"key":"海外看","name":"海外(有广告)","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"push_agent","name":"🛴手机┃推送吾github","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken","jar":"http://52bsj.vip:81/api/v3/file/get/119809/0329.jar?sign=X74NXtsF7xr1JgPXZky_lgR56WDsUVYzWj1I4gNRo7c%3D%3A0"}
+{"key":"push_agent","name":"🛴手机┃推送吾github","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken","jar":"https://github.com/l1007/-/raw/main/0329.jar"}
 ],
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93d3cub3BlbmRyaXZlLmNvbS9kb3dubG9hZC9OakJmT1RBNU1UWXdNamRmUjNGMlVVVT9mb2xkZXJfaWQ9MA=="]}]}],
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","csm3u8"],
