@@ -3,8 +3,8 @@
 
 "sites":[
 {"key":"csp_xBPQ_oulevod","name":"️💯推荐","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/l1007/-/raw/main/pic/oulevod.json"},
-{"key":"💯推荐","name":"💯推荐","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/l1007/-/raw/main/pic/ioie.json"},
-{"key":"csp_xBPQ_枫林","name":"💯Recommend","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/l1007/-/raw/main/pic/ioie-e.json"},
+{"key":"💯推荐","name":"💯推荐","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/l1007/-/raw/main/pic/1.json"},
+{"key":"💯Recommend","name":"💯Recommend","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/l1007/-/raw/main/pic/2.json"},
 {"key":"csp_xBPQ_my","name":"💯MY","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/l1007/-/raw/main/pic/my.json"},
 
 {"key":"索尼","name":"索尼(超清)","type":0,"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xmlsea/","searchable":1,"quickSearch":1},
