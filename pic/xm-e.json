@@ -5,6 +5,7 @@
 "影片类型":"module-info-tag\">&&立即播放",
 "搜索模式": "1",
 "搜索后缀": "/index.php/vod/detail/id/",
+"搜索url": "/index.php/vod/search.html?wd={wd}",
 "导演": "导演：</span>&&</a>",
 "演员": "主演：</span>&&</div>",
 "简介": "<p>&&</p>",
