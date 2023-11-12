@@ -1,9 +1,10 @@
 {
 "作者":"lekbox",
 "站名":"MY2",
-"主页url":"https://dutafilm.boats/",
-"搜索模式": "0",
-"搜索后缀": "",
+"主页url":"https://45.159.251.112",
+"搜索模式": "1",
+"搜索后缀": "/",
+"搜索url": "/?s={wd}",
 "影片类型":"Country:</strong>&&</time>",
 "影片年代": "Year: </strong>&&</a>",
 "导演": "Director:</strong>&&</a>",
@@ -12,5 +13,5 @@
 "直接播放":"1",
 "免嗅":"0",
 "分类":"2023$year/2023#2022$year/2022#US$country/usa#MALAYSIA$country/malaysia#INDONESIA$country/indonesia#ACTION$action#Sci-Fi$science-fiction#Adventure$adventure#Animation$animation#Comedy$comedy#Drama$drama#Fantasy$fantasy#Horror$horror#Thriller$thriller#War$war",
-"分类url":"https://dutafilm.boats/{cateId}/page/{catePg}"
+"分类url":"https://45.159.251.112/{cateId}/page/{catePg}"
 }
