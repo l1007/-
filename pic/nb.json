@@ -1,9 +1,10 @@
 {
 "作者": "LEKBOX",
 "站名": "泥巴",
-"主页url":"https://nibaymovie.com/",
+"主页url":"https://nibaymovie.com",
 "搜索模式": "1",
 "搜索后缀": "/vod/detail/id/",
+"搜索url": "/vod/search.html?wd={wd}",
 "影片类型":"类型：</em>&&</li>",
 "影片年代": "年份：</em>&&</li>",
 "导演": "导演：</em>&&</a>",
