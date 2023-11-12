@@ -2,13 +2,14 @@
 "作者": "LEKBOX",
 "站名": "影视大全",
 "主页url": "https://www.ki65.com",
+"影片类型":"影片类型：</span>&&</em>",
 "简介": "剧情介绍：&&<br>",
 "搜索模式": "0",
 "搜索后缀": "/ys/",
 "影片年代": "年份：</span>&&</a>",
 "播放数组": "class=\"playlist_full&&<div",
 "免嗅":"0",
-"分类":"电影$1#电视剧$2#综艺$3#动漫$4#体育$Cb",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$20",
 "分类url": "https://www.ki65.com/dylb/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
 "筛选":{
 "1":[
