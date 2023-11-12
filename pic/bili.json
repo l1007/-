@@ -1,6 +1,18 @@
 {
   "classes": [
     {
+      "type_name":"番剧",
+      "type_id": "番剧"
+    },
+    {
+      "type_name":"粤语动漫",
+      "type_id": "粤语动漫"
+    },
+    {
+      "type_name":"动漫",
+      "type_id": "动漫"
+    },
+    {
       "type_name":"泰国摩托车比赛",
       "type_id": "泰国摩托车比赛"
     },
