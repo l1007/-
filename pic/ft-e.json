@@ -2,13 +2,16 @@
 "作者":"lekbox",
 "站名":"飞兔影视",
 "主页url":"https://www.feitu.tv",
+"影片类型":"类型：</em>&&</a>",
+"影片年代": "年份：</em>&&</li>",
+"影片地区": "地区：</em>&&</li>",
 "搜索模式": "0",
 "搜索后缀": "/detail/",
 "影片年代": "年份：</em>&&</li>",
 "播放数组": "<ul class=\"hl-plays&&<div",
 "免嗅":"1",
 "分类":"Movie$1#Drama$2#Variety$3#Comic$4#Documentary$51#Sport$50",
-"分类url":"https://www.feitu.tv/filter/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}/",
+"分类url":"https://www.feitu.tv/filter/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/lang/{lang}/year/{year}/",
 "筛选":{
 "1":[
 {
@@ -69,6 +72,21 @@
 {"n":"2012","v":"2012"},
 {"n":"2011","v":"2011"},
 {"n":"2010","v":"2010"}
+]
+},
+{
+"key":"lang",
+"name":"Language",
+"value":[
+{"n":"All","v":""},
+{"n":"English","v":"英語"},
+{"n":"Mandarin","v":"國語"},
+{"n":"Cantonese","v":"粵語"},
+{"n":"Japanese","v":"日語"},
+{"n":"Korean","v":"韓語"},
+{"n":"Thai","v":"泰語"},
+{"n":"Fujian","v":"閩南語"},
+{"n":"Hindi","v":"印地語"}
 ]
 },
 {
@@ -143,6 +161,21 @@
 ]
 },
 {
+"key":"lang",
+"name":"Language",
+"value":[
+{"n":"All","v":""},
+{"n":"English","v":"英語"},
+{"n":"Mandarin","v":"國語"},
+{"n":"Cantonese","v":"粵語"},
+{"n":"Japanese","v":"日語"},
+{"n":"Korean","v":"韓語"},
+{"n":"Thai","v":"泰語"},
+{"n":"Fujian","v":"閩南語"},
+{"n":"Hindi","v":"印地語"}
+]
+},
+{
 "key":"by",
 "name":"By",
 "value":[
@@ -184,6 +217,21 @@
 {"n":"2012","v":"2012"},
 {"n":"2011","v":"2011"},
 {"n":"2010","v":"2010"}
+]
+},
+{
+"key":"lang",
+"name":"Language",
+"value":[
+{"n":"All","v":""},
+{"n":"English","v":"英語"},
+{"n":"Mandarin","v":"國語"},
+{"n":"Cantonese","v":"粵語"},
+{"n":"Japanese","v":"日語"},
+{"n":"Korean","v":"韓語"},
+{"n":"Thai","v":"泰語"},
+{"n":"Fujian","v":"閩南語"},
+{"n":"Hindi","v":"印地語"}
 ]
 },
 {
@@ -245,6 +293,21 @@
 {"n":"2012","v":"2012"},
 {"n":"2011","v":"2011"},
 {"n":"2010","v":"2010"}
+]
+},
+{
+"key":"lang",
+"name":"Language",
+"value":[
+{"n":"All","v":""},
+{"n":"English","v":"英語"},
+{"n":"Mandarin","v":"國語"},
+{"n":"Cantonese","v":"粵語"},
+{"n":"Japanese","v":"日語"},
+{"n":"Korean","v":"韓語"},
+{"n":"Thai","v":"泰語"},
+{"n":"Fujian","v":"閩南語"},
+{"n":"Hindi","v":"印地語"}
 ]
 },
 {
