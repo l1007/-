@@ -1,13 +1,16 @@
 {
 "作者": "LEKBOX",
 "站名": "蛋蛋",
+"主页url":"https://www.dandanzan.club",
 "搜索模式": "0",
 "搜索后缀": "/index.php/vod/detail/id/",
 "导演": "导演：<span>&&</a>",
 "演员": "主演：<span>&&</div>",
 "简介": "剧情简介：<span>&&</span>",
+"线路数组":"<dt class=&&</div>[排序:高清有广>优质>高清]",
+"线路标题":">&&</dt>[替换:海外蓝光>>高清#海外专线>>高清有广]",
 "播放数组": "class=\"playlist&&</div>",
-"免嗅":"0",
+"免嗅":"1",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$20#伦理$34",
 "分类url": "https://www.dandanzan.club/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
 "筛选":{
