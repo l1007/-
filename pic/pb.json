@@ -1,7 +1,7 @@
 {
 "作者":"lekbox",
 "站名":"片吧影院",
-"主页url":"https://www.pbpb.tv",
+"主页url":"https://www.ipianba.com",
 "数组":"class=\"stui-vodlist__box\">&&</div>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
@@ -24,7 +24,7 @@
 "播放链接":"href=\"&&\"",
 "免嗅":"1",
 "分类":"电影$1#电视剧$2#动漫$3#综艺$4",
-"分类url":"https://www.pbpb.tv/class/{cateId}-{area}-{by}-{全部}-{lang}----{catePg}---{year}.html",
+"分类url":"https://www.ipianba.com/class/{cateId}-{area}-{by}-{全部}-{lang}----{catePg}---{year}.html",
 "筛选":{
 "1":[
 {
