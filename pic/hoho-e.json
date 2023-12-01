@@ -1,7 +1,7 @@
 {
 "作者": "LEKBOX",
 "站名": "hoho",
-"主页url": "https://www.hoho.tv",
+"主页url": "https://hoho.tv",
 "搜索模式": "0",
 "搜索后缀": "/vod/detail/id/",
 "影片类型":"tag-link\">&&</div>",
@@ -10,10 +10,10 @@
 "数组": "module-item\">&&module-item-titlebox\">",
 "简介": "vod_content\">&&</a>",
 "副标题": "module-item-caption\">&&</div>",
-"线路数组": "data-dropdown-value=&&</div>",
-"线路标题": "<span>&&</small>[替换:国内节点>>量子#海外播放>>超清广告#</span><small>>>共]+集💻",
+"线路数组": "data-dropdown-value=&&</div>[不包含:备用①#备用②][排序:HDAD>全球#量子]",
+"线路标题": "<span>&&</small>[替换:国内节点>>量子#海外播放>>HDAD#</span><small>>>共]+集💻",
 "播放数组": "<div class=\"scroll-content&&</div>",
-"免嗅":"0",
+"免嗅":"1",
 "分类":"Movie$1#Drama$2#Variety$3#Comic$4#Documentary$20",
 "分类url": "https://hoho.tv/vod/show/{cateId}{area}{class}/page/{catePg}{lang}{year}.html",
 "筛选":{
