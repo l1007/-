@@ -1,7 +1,7 @@
 {
 "作者": "LEKBOX",
 "站名": "吼吼",
-"主页url": "https://www.hoho.tv",
+"主页url": "https://hoho.tv",
 "搜索模式": "0",
 "搜索后缀": "/vod/detail/id/",
 "影片类型":"tag-link\">&&</div>",
@@ -10,12 +10,12 @@
 "数组": "module-item\">&&module-item-titlebox\">",
 "简介": "vod_content\">&&</a>",
 "副标题": "module-item-caption\">&&</div>",
-"线路数组": "data-dropdown-value=&&</div>",
+"线路数组": "data-dropdown-value=&&</div>[不包含:备用①#备用②][排序:超清广告>全球#量子]",
 "线路标题": "<span>&&</small>[替换:国内节点>>量子#海外播放>>超清广告#</span><small>>>共]+集💻",
 "播放数组": "<div class=\"scroll-content&&</div>",
-"免嗅":"0",
+"免嗅":"1",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$20",
-"分类url": "https://www.hoho.tv/vod/show/{cateId}{area}{by}{class}/page/{catePg}{lang}{year}.html",
+"分类url": "https://hoho.tv/vod/show/{cateId}{area}{by}{class}/page/{catePg}{lang}{year}.html",
 "筛选":{
 "1":[
 {
