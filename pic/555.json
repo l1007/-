@@ -9,10 +9,10 @@
 "导演": "导演：</span>&&</div>",
 "演员": "主演：</span>&&</div>",
 "简介": "<p>&&</p>",
-"线路数组":"data-dropdown-value=&&</div>[不包含:555#天空#DM]",
+"线路数组":"data-dropdown-value=&&</div>[不包含:天空#555蓝光]",
 "线路标题":"<span>&&</small>",
 "播放数组": "class=\"module-play-list\"&&</div>",
-"免嗅":"0",
+"免嗅":"1",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#福利$124",
 "分类url": "https://www.555fl3.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "筛选":{
