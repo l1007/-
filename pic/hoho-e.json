@@ -57,8 +57,7 @@
 {"n":"Malaysia","v":"/area/马来西亚"},
 {"n":"India","v":"/area/印度"},
 {"n":"Korea","v":"/area/韩国"},
-{"n":"Thailand","v":"/area/泰国"},
-{"n":"Other","v":"/area/其他"}
+{"n":"Thailand","v":"/area/泰国"}
 ]
 },
 {
@@ -126,8 +125,7 @@
 {"n":"Thriller","v":"/class/惊悚"},
 {"n":"Horror","v":"/class/恐怖"},
 {"n":"Suspense","v":"/class/悬疑"},
-{"n":"Time-travel","v":"/class/穿越"},
-{"n":"Other","v":"/class/其他"}
+{"n":"Time-travel","v":"/class/穿越"}
 ]
 },
 {
@@ -143,8 +141,7 @@
 {"n":"Singapore","v":"/area/新加坡"},
 {"n":"Korea","v":"/area/韩国"},
 {"n":"Thailand","v":"/area/泰国"},
-{"n":"India","v":"/area/印度"},
-{"n":"Other","v":"/area/其他"}
+{"n":"India","v":"/area/印度"}
 ]
 },
 {
@@ -202,8 +199,7 @@
 {"n":"All","v":""},
 {"n":"China","v":"/area/大陆"},
 {"n":"Japan","v":"/area/日本"},
-{"n":"Us","v":"/area/美国"},
-{"n":"Other","v":"/area/其他"}
+{"n":"Us","v":"/area/美国"}
 ]
 },
 {
@@ -265,8 +261,7 @@
 {"n":"Music","v":"/class/音乐"},
 {"n":"Funny","v":"/class/搞笑"},
 {"n":"Child","v":"/class/少儿"},
-{"n":"Records","v":"/class/纪录"},
-{"n":"Other","v":"/class/其他"}
+{"n":"Records","v":"/class/纪录"}
 ]
 },
 {
