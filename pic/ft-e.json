@@ -8,8 +8,9 @@
 "影片地区": "地区：</em>&&</li>",
 "搜索模式": "0",
 "搜索后缀": "/detail/",
-"影片年代": "年份：</em>&&</li>",
-"播放数组": "<ul class=\"hl-plays&&<div",
+"线路数组":"<span class=\"hl-from&&</li>[不包含:量子][排序:HDAD>蓝光>Ikun]",
+"线路标题": ">&&</span>[替换:线路1(高速)>>蓝光#线路2(超清,海外专线)>>HDAD#线路3(超清,中国专线)>>量子#线路4(高速)>>Ikun]",
+"播放数组": "id=\"hl-plays-list&&<div",
 "免嗅":"1",
 "分类":"Movie$1#Drama$2#Variety$3#Comic$4#Documentary$51#Sport$50",
 "分类url":"https://www.feitu.tv/filter/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/lang/{lang}/year/{year}/",
@@ -50,8 +51,7 @@
 {"n":"Singapore Malaysia","v":"新马"},
 {"n":"India","v":"印度"},
 {"n":"Korea","v":"韩国"},
-{"n":"Thailand","v":"泰国"},
-{"n":"Other","v":"其他"}
+{"n":"Thailand","v":"泰国"}
 ]
 },
 {
@@ -119,8 +119,7 @@
 {"n":"Thriller","v":"惊悚"},
 {"n":"Horror","v":"恐怖"},
 {"n":"Suspense","v":"悬疑"},
-{"n":"Time-travel","v":"穿越"},
-{"n":"Other","v":"其他"}
+{"n":"Time-travel","v":"穿越"}
 ]
 },
 {
@@ -136,8 +135,7 @@
 {"n":"Singapore Malaysia","v":"新马"},
 {"n":"Korea","v":"韩国"},
 {"n":"Thailand","v":"泰国"},
-{"n":"India","v":"印度"},
-{"n":"Other","v":"其他"}
+{"n":"India","v":"印度"}
 ]
 },
 {
@@ -195,8 +193,7 @@
 {"n":"All","v":""},
 {"n":"China","v":"大陆"},
 {"n":"Japan","v":"日本"},
-{"n":"Us","v":"欧美"},
-{"n":"Other","v":"其他"}
+{"n":"Us","v":"欧美"}
 ]
 },
 {
@@ -258,8 +255,7 @@
 {"n":"Music","v":"音乐"},
 {"n":"Funny","v":"搞笑"},
 {"n":"Child","v":"少儿"},
-{"n":"Records","v":"纪录"},
-{"n":"Other","v":"其他"}
+{"n":"Records","v":"纪录"}
 ]
 },
 {
