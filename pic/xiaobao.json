@@ -1,23 +1,25 @@
 {
 "作者":"lekbox",
 "站名":"小宝",
-"主页url":"https://xiaobao-tv.com",
-"副标题": "hl-lc-1 remarks\">&&</span>",
-"影片年代": "年份：</em>&&</li>",
-"影片地区":"地区：</em>&&</li>",
-"影片类型": "类型：</em>&&</a>",
+"主页url":"https://xiaobtv.com",
+"副标题": "pic-text text-right\">&&</span>",
+"图片": "data-original=\"&&\"",
+"标题": "title=\"&&\"",
+"影片类型": "分类：</span>&&</a>",
+"影片地区": "地区：</span>&&</a>",
+"影片年份": "年份：</span>&&</a>",
 "搜索模式": "0",
 "搜索后缀": "/voddetail/",
 "搜索url": "/vodsearch/-------------.html?wd={wd}",
-"导演": "导演：</em>&&</li>",
-"演员": "主演：</em>&&</li>",
-"简介": "简介：</em>&&</li>",
-"线路数组":"当前资源来源<span class=&&nbsp[不包含:优酷#腾讯#奇艺#芒果#哔哩]",
-"线路标题": ">&&</span>[替换:海外超清>>高清#国内高清>>非凡]",
-"播放数组": "id=\"hl-plays-list&&</div>",
+"导演": "导演：</span>&&</a>",
+"演员": "主演：</span>&&</p>",
+"简介": "sketch content\">&&</span>",
+"线路数组":"data-toggle=&&</div>",
+"线路标题": ">&&</a>[替换:海外超清>>LEKBOX共]",
+"播放数组": "id=\"playlist1&&</div>",
 "免嗅":"1",
 "分类":"电影$1#电视剧$222#综艺$3#动漫$4#纪录片$119#传记$118",
-"分类url":"https://xiaobao-tv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+"分类url":"https://xiaobtv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "筛选":{
 "1":[
 {
@@ -268,8 +270,7 @@
 {"n":"音乐","v":"音乐"},
 {"n":"搞笑","v":"搞笑"},
 {"n":"少儿","v":"少儿"},
-{"n":"纪录","v":"纪录"},
-{"n":"其他","v":"其他"}
+{"n":"纪录","v":"纪录"}
 ]
 },
 {
