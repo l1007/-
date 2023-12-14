@@ -85,7 +85,7 @@
 },
 {
 "key":"lang",
-"name":"language",
+"name":"Language",
 "value":[
 {"n":"ALL","v":""},
 {"n":"English","v":"英语"},
@@ -170,7 +170,7 @@
 },
 {
 "key":"lang",
-"name":"language",
+"name":"Language",
 "value":[
 {"n":"ALL","v":""},
 {"n":"English","v":"英语"},
@@ -229,7 +229,7 @@
 },
 {
 "key":"lang",
-"name":"language",
+"name":"Language",
 "value":[
 {"n":"ALL","v":""},
 {"n":"English","v":"英语"},
