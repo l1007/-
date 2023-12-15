@@ -11,7 +11,7 @@
 "线路标题": "<span>&&</small>[替换:国内>>HD#海外>>LEKBOX#</span><small>>>=]+episode💻",
 "播放数组": "class=\"module-play-list&&</div>",
 "免嗅":"1",
-"分类":"Movie$1#Drama$2#Tvshow$3#Comic$4#Documentary$55#Sport$51",
+"分类":"Movie$1#Drama$2#Tvshow$3#Comic$4",
 "分类url": "https://fun.tvoled.net/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/lang/{lang}/year/{year}.html",
 "筛选":{
 "1":[
@@ -35,6 +35,7 @@
 {"n":"Adventure","v":"冒险"},
 {"n":"Suspense","v":"悬疑"},
 {"n":"Thriller","v":"惊悚"},
+{"n":"Documentary","v":"记录"},
 {"n":"Internet","v":"网络电影"}
 ]
 },
