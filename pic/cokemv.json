@@ -1,7 +1,7 @@
 {
 "作者":"lekbox",
 "站名":"cokemv",
-"主页url":"https://cokemv.me",
+"主页url":"https://cokemv.fun",
 "副标题": "module-item-note\">&&</div>",
 "影片类型":"module-info-tag\">&&立即播放",
 "搜索请求方式": "1",
@@ -15,7 +15,7 @@
 "播放数组": "class=\"module-play-list&&</div>",
 "免嗅":"1",
 "分类":"电影$1#电视剧$2#综艺$29#动漫$3",
-"分类url":"https://cokemv.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+"分类url":"https://cokemv.fun/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "筛选":{
 "1":[
 {
