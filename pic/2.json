@@ -1,27 +1,27 @@
 {
 "作者": "LEKBOX",
-"站名": "小宝e",
-"主页url":"https://vip.xiaoxintv.net",
-"副标题": "pic-text text-right\">&&</span>",
-"图片": "data-original=\"&&\"",
+"站名": "ifun",
+"主页url":"https://ifun360tv.com",
+"数组": "module-item-pic\">&&module-item-titlebox\">",
+"副标题": "module-item-caption\">&&</div>",
+"图片": "data-src=\"&&\"",
 "标题": "title=\"&&\"",
-"影片类型":"分类：</span>&&</a>",
-"影片年代": "年份：</span>&&</a>",
-"影片地区": "地区：</span>&&</a>",
-"搜索模式": "1",
+"影片类型":"tag-link\">&&立即播放",
+"影片年代": "上映：</span>&&</div>",
+"影片地区": "集数：</span>&&</div>",
+"搜索模式": "0",
 "搜索后缀": "/index.php/vod/detail/id/",
-"搜索url": "/index.php/vod/search.html?wd={wd}",
-"导演": "导演：</span>&&</p>",
+"导演": "导演：</span>&&</a>",
 "演员": "主演：</span>&&</div>",
-"简介": "剧情简介</h3>&&</span>",
-"线路数组":"data-toggle=&&</div>",
-"线路标题": ">&&</a>[替换:小宝影院>>💯LEKBOX]",
-"播放数组": "class=\"myui-content__list&&</div>",
+"简介": "剧情：</span>&&</span>",
+"线路数组":"data-dropdown-value=&&</div>[不包含:夸克][排序:推荐>非凡]",
+"线路标题": "<span>&&</small>[替换:ifun①>>非凡#ifun③>>推荐#</span><small>>>共]+集💻",
+"播放数组": "class=\"module-tab-content&&</div>",
 "免嗅":"1",
-"分类":"Movie$7#Drama$6#Variety$3#Comic$5#Documentary$21#Sport$20",
-"分类url": "https://vip.xiaoxintv.net/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/lang/{lang}/year/{year}.html",
+"分类":"Movie$1#Drama$2#Variety$3#Comic$4#Documentary$33",
+"分类url": "https://ifun360tv.com/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/lang/{lang}/year/{year}.html",
 "筛选":{
-"7":[
+"1":[
 {
 "key":"class",
 "name":"Filter",
@@ -53,9 +53,10 @@
 {"n":"China","v":"大陆"},
 {"n":"Hong Kong","v":"香港"},
 {"n":"Taiwan","v":"台湾"},
-{"n":"US","v":"欧美"},
+{"n":"US","v":"美国"},
 {"n":"Japan","v":"日本"},
-{"n":"Singapore Malaysia","v":"新马"},
+{"n":"Singapore","v":"新加坡"},
+{"n":"Malaysia","v":"马来西亚"},
 {"n":"India","v":"印度"},
 {"n":"Korea","v":"韩国"},
 {"n":"Thailand","v":"泰国"}
@@ -109,7 +110,7 @@
 ]
 }
 ],
-"6":[
+"2":[
 {
 "key":"class",
 "name":"Class",
@@ -138,7 +139,7 @@
 {"n":"China","v":"大陆"},
 {"n":"Hong Kong","v":"香港"},
 {"n":"Taiwan","v":"台湾"},
-{"n":"Us","v":"欧美"},
+{"n":"Us","v":"美国"},
 {"n":"Japan","v":"日本"},
 {"n":"Singapore","v":"新加坡"},
 {"n":"Korea","v":"韩国"},
@@ -194,7 +195,7 @@
 ]
 }
 ],
-"5":[
+"4":[
 {
 "key":"area",
 "name":"Area",
@@ -202,7 +203,7 @@
 {"n":"All","v":""},
 {"n":"China","v":"大陆"},
 {"n":"Japan","v":"日本"},
-{"n":"Us","v":"欧美"}
+{"n":"Us","v":"美国"}
 ]
 },
 {
@@ -278,7 +279,7 @@
 {"n":"Korea","v":"韩国"},
 {"n":"Japan","v":"日本"},
 {"n":"Taiwan","v":"台湾"},
-{"n":"Us","v":"欧美"}
+{"n":"Us","v":"美国"}
 ]
 },
 {
