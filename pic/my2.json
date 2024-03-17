@@ -1,14 +1,14 @@
 {
 "作者":"lekbox",
-"站名":"MY2",
-"主页url":"http://5.189.181.147",
+"站名":"MY1",
+"主页url":"https://101.99.94.67",
 "数组": "content-thumbnail text-center\">&&headline\">",
 "副标题": "tag\">&&</a>",
 "图片": "src=\"$$\"",
 "标题": "Permalink to:&&)",
 "搜索模式": "1",
 "搜索后缀": "/",
-"搜索url": "https://multiplex21.wiki/?s={wd}",
+"搜索url": "https://101.99.94.67/?s={wd}",
 "影片类型":"Country:</strong>&&</time>",
 "影片年代": "Year: </strong>&&</a>",
 "影片地区": "Country:</strong>&&</span>",
@@ -18,6 +18,6 @@
 "线路标题": "💯LEKBOX",
 "播放数组": "class=\"muvipro-player-tabs&&</div>",
 "免嗅":"0",
-"分类":"2023$year/2023#2022$year/2022#US$country/usa#Malaysia$country/malaysia#Indo$country/indonesia#Hk$/country/hong-kong#China$/country/china#Taiwan$/country/taiwan#Action$action#Sci-Fi$science-fiction#Adventure$adventure#Animation$animation#Comedy$comedy#Drama$drama#Fantasy$fantasy#Horror$horror#Thriller$thriller#War$war",
-"分类url":"http://5.189.181.147/{cateId}/page/{catePg}"
+"分类":"2023$year/2023#2022$year/2022#US$country/usa#Malaysia$country/malaysia#Indo$country/indonesia#Hk$/country/hong-kong#China$/country/china#Taiwan$/country/taiwan#ACTION$action#Sci-Fi$science-fiction#Adventure$adventure#Animation$animation#Comedy$comedy#Drama$drama#Fantasy$fantasy#Horror$horror#Thriller$thriller#War$war",
+"分类url":"https://101.99.94.67/{cateId}/page/{catePg}"
 }
