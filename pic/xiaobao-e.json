@@ -1,27 +1,28 @@
 {
 "作者": "LEKBOX",
 "站名": "小宝e",
-"主页url":"https://xiaoxintv.net",
+"主页url":"https://www.xiaobaotv.app",
+"数组": "myui-vodlist__thumb&&text-overflow\">",
 "副标题": "pic-text text-right\">&&</span>",
 "图片": "data-original=\"&&\"",
 "标题": "title=\"&&\"",
+"搜索模式": "0",
+"搜索后缀": "/vod/detail/",
+"搜索url": "/vod/search/-------------.html?wd={wd}",
 "影片类型":"分类：</span>&&</a>",
 "影片年代": "年份：</span>&&</a>",
 "影片地区": "地区：</span>&&</a>",
-"搜索模式": "1",
-"搜索后缀": "/index.php/vod/detail/id/",
-"搜索url": "/index.php/vod/search.html?wd={wd}",
-"导演": "导演：</span>&&</p>",
+"导演": "导演：</span>&&</a>",
 "演员": "主演：</span>&&</div>",
-"简介": "剧情简介</h3>&&</span>",
-"线路数组":"data-toggle=&&</div>",
-"线路标题": ">&&</a>[替换:小宝影院>>💯LEKBOX]",
+"简介": "display: none;\">&&</span>",
+"线路数组":"data-toggle=&&</li>",
+"线路标题": ">&&</a>[替换:小宝影院>>💯LEKBOX#]",
 "播放数组": "class=\"myui-content__list&&</div>",
 "免嗅":"1",
-"分类":"Movie$7#Drama$6#Variety$3#Comic$5#Documentary$21#Sport$20",
+"分类":"Movie$1#Drama$2#Variety$4#Comic$3#Documentary$6",
 "分类url": "https://xiaoxintv.net/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/lang/{lang}/year/{year}.html",
 "筛选":{
-"7":[
+"1":[
 {
 "key":"class",
 "name":"Filter",
@@ -50,9 +51,9 @@
 "name":"Area",
 "value":[
 {"n":"All","v":""},
-{"n":"China","v":"大陆"},
-{"n":"Hong Kong","v":"香港"},
-{"n":"Taiwan","v":"台湾"},
+{"n":"China","v":"中国大陆"},
+{"n":"Hong Kong","v":"中国香港"},
+{"n":"Taiwan","v":"中国台湾"},
 {"n":"US","v":"欧美"},
 {"n":"Japan","v":"日本"},
 {"n":"Singapore Malaysia","v":"新马"},
@@ -109,7 +110,7 @@
 ]
 }
 ],
-"6":[
+"2":[
 {
 "key":"class",
 "name":"Class",
@@ -135,9 +136,9 @@
 "name":"Area",
 "value":[
 {"n":"All","v":""},
-{"n":"China","v":"大陆"},
-{"n":"Hong Kong","v":"香港"},
-{"n":"Taiwan","v":"台湾"},
+{"n":"China","v":"中国大陆"},
+{"n":"Hong Kong","v":中国"香港"},
+{"n":"Taiwan","v":"中国台湾"},
 {"n":"Us","v":"欧美"},
 {"n":"Japan","v":"日本"},
 {"n":"Singapore","v":"新加坡"},
@@ -194,13 +195,13 @@
 ]
 }
 ],
-"5":[
+"3":[
 {
 "key":"area",
 "name":"Area",
 "value":[
 {"n":"All","v":""},
-{"n":"China","v":"大陆"},
+{"n":"China","v":"中国大陆"},
 {"n":"Japan","v":"日本"},
 {"n":"Us","v":"欧美"}
 ]
@@ -253,7 +254,7 @@
 ]
 }
 ],
-"3":[
+"4":[
 {
 "key":"class",
 "name":"Class",
@@ -273,11 +274,11 @@
 "name":"Area",
 "value":[
 {"n":"All","v":""},
-{"n":"China","v":"大陆"},
-{"n":"Hong Kong","v":"香港"},
+{"n":"China","v":"中国大陆"},
+{"n":"Hong Kong","v":"中国香港"},
 {"n":"Korea","v":"韩国"},
 {"n":"Japan","v":"日本"},
-{"n":"Taiwan","v":"台湾"},
+{"n":"Taiwan","v":"中国台湾"},
 {"n":"Us","v":"欧美"}
 ]
 },
