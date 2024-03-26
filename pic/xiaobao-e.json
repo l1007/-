@@ -20,7 +20,7 @@
 "播放数组": "class=\"myui-content__list&&</div>",
 "免嗅":"1",
 "分类":"Movie$1#Drama$2#Variety$4#Comic$3#Documentary$6",
-"分类url": "https://xiaoxintv.net/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/lang/{lang}/year/{year}.html",
+"分类url": "https://www.xiaobaotv.app/vod/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "筛选":{
 "1":[
 {
