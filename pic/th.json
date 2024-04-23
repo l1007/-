@@ -11,7 +11,7 @@
 "影片类型":"tag-link\">&&</div>",
 "导演": "导演：</span>&&</a>",
 "演员": "主演：</span>&&</div>",
-"简介": "<span>&&</span>",
+"简介": "剧情：</span>&&</span>",
 "线路数组":"data-dropdown-value=&&</div>[不包含:APP专线#蓝光B][排序:蓝光>蓝光]",
 "线路标题": "<span>&&</small>[替换:蓝光一线>>蓝光#超清高速>>超清#土豪影视>>LEKBOX#土豪动漫>>LEKBOX#</span><small>>>共]+集💻",
 "播放数组": "class=\"module-tab-content&&</div>",
