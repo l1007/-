@@ -1,23 +1,25 @@
 {
-"作者":"lekbox",
-"站名":"飞兔影视",
-"主页url":"https://www.feitu.tv",
-"数组": "hl-lazy&&hl-lc-1\">",
-"副标题": "hl-lc-1 remarks\">&&</span>",
-"图片": "data-original=\"&&\"",
+"作者": "LEKBOX",
+"站名": "ifun",
+"主页url":"https://ifun360tv.com",
+"数组": "module-item-pic\">&&module-item-titlebox\">",
+"副标题": "module-item-caption\">&&</div>",
+"图片": "data-src=\"&&\"",
 "标题": "title=\"&&\"",
-"影片类型":"类型：</em>&&</a>",
-"影片年代": "年份：</em>&&</li>",
-"影片地区": "地区：</em>&&</li>",
+"影片类型":"tag-link\">&&立即播放",
+"影片年代": "备注：</span>&&</div>",
+"影片地区": "集数：</span>&&</div>",
 "搜索模式": "0",
-"搜索后缀": "/detail/",
-"搜索url": "/search/-/?wd={wd}",
-"线路数组":"<span class=\"hl-from&&</li>[不包含:][排序:💯推荐>优质>备用>Ikun]",
-"线路标题": ">&&</span>[替换:线路1(高速)>>优质#线路2(超清,海外专线)>>💯推荐#线路3(超清,中国专线)>>量子#线路4(高速)>>Ikun#线路9(高速,屏蔽欧美IP)>>备用]",
-"播放数组": "id=\"hl-plays-list&&<div",
+"搜索后缀": "/index.php/vod/detail/id/",
+"导演": "导演：</span>&&</a>",
+"演员": "主演：</span>&&</div>",
+"简介": "剧情：</span>&&</span>",
+"线路数组":"data-dropdown-value=&&</div>[不包含:夸克][排序:💯推荐>备用]",
+"线路标题": "<span>&&</small>[替换:ifun①>>备用#ifun③>>💯推荐#</span><small>>>共]+集💻",
+"播放数组": "class=\"module-tab-content&&</div>",
 "免嗅":"1",
-"分类":"Movie$1#Drama$2#Variety$3#Comic$4#Documentary$51#Sport$50",
-"分类url":"https://www.feitu.tv/filter/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/lang/{lang}/year/{year}/",
+"分类":"Movie$1#Drama$2#Variety$3#Comic$4#Documentary$33",
+"分类url": "https://ifun360tv.com/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/lang/{lang}/year/{year}.html",
 "筛选":{
 "1":[
 {
@@ -25,6 +27,7 @@
 "name":"Filter",
 "value":[
 {"n":"All","v":""},
+{"n":"Netflix","v":"Netflix"},
 {"n":"Comedy","v":"喜剧"},
 {"n":"Affectional","v":"爱情"},
 {"n":"Horror","v":"恐怖"},
@@ -50,9 +53,10 @@
 {"n":"China","v":"大陆"},
 {"n":"Hong Kong","v":"香港"},
 {"n":"Taiwan","v":"台湾"},
-{"n":"US","v":"欧美"},
+{"n":"US","v":"美国"},
 {"n":"Japan","v":"日本"},
-{"n":"Singapore Malaysia","v":"新马"},
+{"n":"Singapore","v":"新加坡"},
+{"n":"Malaysia","v":"马来西亚"},
 {"n":"India","v":"印度"},
 {"n":"Korea","v":"韩国"},
 {"n":"Thailand","v":"泰国"}
@@ -84,15 +88,15 @@
 "key":"lang",
 "name":"Language",
 "value":[
-{"n":"All","v":""},
-{"n":"English","v":"英語"},
-{"n":"Mandarin","v":"國語"},
-{"n":"Cantonese","v":"粵語"},
-{"n":"Japanese","v":"日語"},
-{"n":"Korean","v":"韓語"},
-{"n":"Thai","v":"泰語"},
-{"n":"Fujian","v":"閩南語"},
-{"n":"Hindi","v":"印地語"}
+{"n":"ALL","v":""},
+{"n":"English","v":"英语"},
+{"n":"Mandarin","v":"国语"},
+{"n":"Cantonese","v":"粤语"},
+{"n":"Japanese","v":"日语"},
+{"n":"Korean","v":"韩语"},
+{"n":"Thai","v":"泰语"},
+{"n":"Fujian","v":"闽南语"},
+{"n":"Hindi","v":"印地语"}
 ]
 },
 {
@@ -135,9 +139,9 @@
 {"n":"China","v":"大陆"},
 {"n":"Hong Kong","v":"香港"},
 {"n":"Taiwan","v":"台湾"},
-{"n":"Us","v":"欧美"},
+{"n":"Us","v":"美国"},
 {"n":"Japan","v":"日本"},
-{"n":"Singapore Malaysia","v":"新马"},
+{"n":"Singapore","v":"新加坡"},
 {"n":"Korea","v":"韩国"},
 {"n":"Thailand","v":"泰国"},
 {"n":"India","v":"印度"}
@@ -169,15 +173,15 @@
 "key":"lang",
 "name":"Language",
 "value":[
-{"n":"All","v":""},
-{"n":"English","v":"英語"},
-{"n":"Mandarin","v":"國語"},
-{"n":"Cantonese","v":"粵語"},
-{"n":"Japanese","v":"日語"},
-{"n":"Korean","v":"韓語"},
-{"n":"Thai","v":"泰語"},
-{"n":"Fujian","v":"閩南語"},
-{"n":"Hindi","v":"印地語"}
+{"n":"ALL","v":""},
+{"n":"English","v":"英语"},
+{"n":"Mandarin","v":"国语"},
+{"n":"Cantonese","v":"粤语"},
+{"n":"Japanese","v":"日语"},
+{"n":"Korean","v":"韩语"},
+{"n":"Thai","v":"泰语"},
+{"n":"Fujian","v":"闽南语"},
+{"n":"Hindi","v":"印地语"}
 ]
 },
 {
@@ -199,7 +203,7 @@
 {"n":"All","v":""},
 {"n":"China","v":"大陆"},
 {"n":"Japan","v":"日本"},
-{"n":"Us","v":"欧美"}
+{"n":"Us","v":"美国"}
 ]
 },
 {
@@ -228,20 +232,20 @@
 "key":"lang",
 "name":"Language",
 "value":[
-{"n":"All","v":""},
-{"n":"English","v":"英語"},
-{"n":"Mandarin","v":"國語"},
-{"n":"Cantonese","v":"粵語"},
-{"n":"Japanese","v":"日語"},
-{"n":"Korean","v":"韓語"},
-{"n":"Thai","v":"泰語"},
-{"n":"Fujian","v":"閩南語"},
-{"n":"Hindi","v":"印地語"}
+{"n":"ALL","v":""},
+{"n":"English","v":"英语"},
+{"n":"Mandarin","v":"国语"},
+{"n":"Cantonese","v":"粤语"},
+{"n":"Japanese","v":"日语"},
+{"n":"Korean","v":"韩语"},
+{"n":"Thai","v":"泰语"},
+{"n":"Fujian","v":"闽南语"},
+{"n":"Hindi","v":"印地语"}
 ]
 },
 {
 "key":"by",
-"name":"排序",
+"name":"By",
 "value":[
 {"n":"All","v":""},
 {"n":"Time","v":"time"},
@@ -253,7 +257,7 @@
 "3":[
 {
 "key":"class",
-"name":"分类",
+"name":"Class",
 "value":[
 {"n":"All","v":""},
 {"n":"Reality","v":"真人秀"},
@@ -275,7 +279,7 @@
 {"n":"Korea","v":"韩国"},
 {"n":"Japan","v":"日本"},
 {"n":"Taiwan","v":"台湾"},
-{"n":"Us","v":"欧美"}
+{"n":"Us","v":"美国"}
 ]
 },
 {
@@ -304,15 +308,15 @@
 "key":"lang",
 "name":"Language",
 "value":[
-{"n":"All","v":""},
-{"n":"English","v":"英語"},
-{"n":"Mandarin","v":"國語"},
-{"n":"Cantonese","v":"粵語"},
-{"n":"Japanese","v":"日語"},
-{"n":"Korean","v":"韓語"},
-{"n":"Thai","v":"泰語"},
-{"n":"Fujian","v":"閩南語"},
-{"n":"Hindi","v":"印地語"}
+{"n":"ALL","v":""},
+{"n":"English","v":"英语"},
+{"n":"Mandarin","v":"国语"},
+{"n":"Cantonese","v":"粤语"},
+{"n":"Japanese","v":"日语"},
+{"n":"Korean","v":"韩语"},
+{"n":"Thai","v":"泰语"},
+{"n":"Fujian","v":"闽南语"},
+{"n":"Hindi","v":"印地语"}
 ]
 },
 {
