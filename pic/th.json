@@ -5,7 +5,7 @@
 "数组": "module-item\">&&module-item-titlebox\">",
 "图片": "data-src=\"&&\"",
 "标题": "title=\"&&\"",
-"搜索模式": "0",
+"搜索模式": "1",
 "搜索后缀": "/index.php/vod/detail/id/",
 "搜索url": "/index.php/vod/search.html?wd={wd}",
 "影片类型":"tag-link\">&&</div>",
