@@ -1,7 +1,7 @@
 {
 "作者": "LEKBOX",
 "站名": "缘觉",
-"主页url":"https://www.yjys.me",
+"主页url":"https://www.yjys01.com",
 "数组": "_blank&&</div>",
 "副标题": "ribbon ribbon-bookmark ribbon-top bg-azure p-0\&&</div>",
 //"起始页": "2",
@@ -15,7 +15,7 @@
 "剧集标题": ">$$<",
 "剧集链接": "href=\"$$\"",
 "分类":"电影$0#电视剧$1",
-"分类url": "https://www.yjys.me/s/{class}/{catePg}?type={cateId}&area={area}&year={year}",
+"分类url": "https://www.yjys01.com/s/{class}/{catePg}?type={cateId}&area={area}&year={year}",
 "筛选":{
 "0":[
 {
