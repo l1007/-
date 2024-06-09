@@ -1,25 +1,24 @@
 {
 "作者": "LEKBOX",
-"站名": "唐人街",
-"主页url":"https://www.tangrenjie.one",
-"数组": "lazyload&&vodlist_title\">",
-"副标题": "position: absolute;top: 1%;right:2%;font-weight:700;font-size: 0.3rem;text-align: right 5%;font-size:15px;\">&&</span>",
-"图片": "data-original=\"&&\"",
+"站名": "一帆",
+"主页url":"https://www.iyf1.tv",
+"数组": "module-item-pic\">&&module-item-titlebox\">",
+"副标题": "module-item-caption\">&&</div>",
+"图片": "data-src=\"&&\"",
 "标题": "title=\"&&\"",
 "搜索模式": "0",
 "搜索后缀": "/index.php/vod/detail/id/",
-"搜索url": "/index.php/vod/search.html?wd={wd}",
-"影片类型":"类型：</span>&&</a>",
-"影片地区": "地区：</span>&&</a>",
+"搜索url": "/index.php/vod/search/wd/{wd}",
+"影片类型":"module-info-tag\">&&立即播放",
 "导演": "导演：</span>&&</a>",
 "演员": "主演：</span>&&</div>",
-"简介": "clearfix\"><span>&&</span>",
-"线路数组":"<a&&</a>[不包含:夸克][排序:💯推荐>备用]",
-"线路标题": "<b>&&</b><small>[替换:海外蓝光>>💯推荐#蓝光>>备用]",
-"播放数组": "id=\"playlistbox&&</div>",
+"简介": "剧情：</span>&&</span>",
+"线路数组":"data-dropdown-value=&&</div>[不包含:]",
+"线路标题": "<span>&&</small>[替换:1080P>>💯推荐#</span><small>>>共]+集💻",
+"播放数组": "id=\"sort&&</div>",
 "免嗅":"1",
-"分类":"Movie$1#Drama$2#Variety$4#Comic$3#Commentary$6",
-"分类url": "https://www.tangrenjie.one/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/lang/{lang}/year/{year}.html",
+"分类":"Movie$1#Drama$2#Variety$4#Comic$3#Commentary$5#Shortplay$52#Sport$51",
+"分类url": "https://www.iyf1.tv/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/lang/{lang}/year/{year}.html",
 "筛选":{
 "1":[
 {
@@ -50,13 +49,12 @@
 "name":"Area",
 "value":[
 {"n":"All","v":""},
-{"n":"China","v":"中国大陆"},
-{"n":"Hong Kong","v":"中国香港"},
-{"n":"Taiwan","v":"中国台湾"},
+{"n":"China","v":"大陆"},
+{"n":"Hong Kong","v":"香港"},
+{"n":"Taiwan","v":"台湾"},
 {"n":"US","v":"欧美"},
 {"n":"Japan","v":"日本"},
-{"n":"Singapore","v":"新加坡"},
-{"n":"Malaysia","v":"马来西亚"},
+{"n":"Singapore Malaysia","v":"新马"},
 {"n":"India","v":"印度"},
 {"n":"Korea","v":"韩国"},
 {"n":"Thailand","v":"泰国"}
@@ -136,9 +134,9 @@
 "name":"Area",
 "value":[
 {"n":"All","v":""},
-{"n":"China","v":"中国大陆"},
-{"n":"Hong Kong","v":"中国香港"},
-{"n":"Taiwan","v":"中国台湾"},
+{"n":"China","v":"大陆"},
+{"n":"Hong Kong","v":"香港"},
+{"n":"Taiwan","v":"台湾"},
 {"n":"Us","v":"欧美"},
 {"n":"Japan","v":"日本"},
 {"n":"Singapore","v":"新加坡"},
@@ -195,13 +193,13 @@
 ]
 }
 ],
-"4":[
+"3":[
 {
 "key":"area",
 "name":"Area",
 "value":[
 {"n":"All","v":""},
-{"n":"China","v":"中国大陆"},
+{"n":"China","v":"大陆"},
 {"n":"Japan","v":"日本"},
 {"n":"Us","v":"欧美"}
 ]
@@ -254,7 +252,7 @@
 ]
 }
 ],
-"3":[
+"4":[
 {
 "key":"class",
 "name":"Class",
@@ -274,11 +272,11 @@
 "name":"Area",
 "value":[
 {"n":"All","v":""},
-{"n":"China","v":"中国大陆"},
-{"n":"Hong Kong","v":"中国香港"},
+{"n":"China","v":"大陆"},
+{"n":"Hong Kong","v":"香港"},
 {"n":"Korea","v":"韩国"},
 {"n":"Japan","v":"日本"},
-{"n":"Taiwan","v":"中国台湾"},
+{"n":"Taiwan","v":"台湾"},
 {"n":"Us","v":"欧美"}
 ]
 },
