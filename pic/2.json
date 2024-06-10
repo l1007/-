@@ -1,26 +1,28 @@
 {
 "作者": "LEKBOX",
-"站名": "一帆",
-"主页url":"https://www.iyf1.tv",
-"数组": "module-item-pic\">&&module-item-titlebox\">",
-"副标题": "module-item-caption\">&&</div>",
-"图片": "data-src=\"&&\"",
+"站名": "小宝",
+"主页url":"https://xiaoxintv.net",
+"数组": "lazyload&&title text-overflow\">",
+"副标题": "pic-text text-right\">&&</span>",
+"图片": "data-original=\"&&\"",
 "标题": "title=\"&&\"",
-"搜索模式": "0",
+"搜索模式": "1",
 "搜索后缀": "/index.php/vod/detail/id/",
-"搜索url": "/index.php/vod/search/wd/{wd}",
-"影片类型":"module-info-tag\">&&立即播放",
+"搜索url": "/index.php/vod/search.html?wd={wd}",
+"影片类型":"分类：</span>&&</a>",
+"影片年代": "年份：</span>&&</a>",
+"影片地区": "地区：</span>&&</a>",
 "导演": "导演：</span>&&</a>",
 "演员": "主演：</span>&&</div>",
-"简介": "剧情：</span>&&</span>",
-"线路数组":"data-dropdown-value=&&</div>[不包含:]",
-"线路标题": "<span>&&</small>[替换:1080P>>💯推荐#</span><small>>>共]+集💻",
-"播放数组": "id=\"sort&&</div>",
-"免嗅":"1",
-"分类":"Movie$1#Drama$2#Variety$4#Comic$3#Commentary$5#Shortplay$52#Sport$51",
-"分类url": "https://www.iyf1.tv/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/lang/{lang}/year/{year}.html",
+"简介": "display: none;\>&&</span>",
+"线路数组":"data-toggle=&&</div>[不包含:][排序:💯推荐]",
+"线路标题": ">&&</a>[替换:小宝影院>>💯推荐]",
+"播放数组": "id=\"playlist&&</div>",
+"免嗅":"0",
+"分类":"Movie$7#Drama$6#Variety$3#Comic$5#Commentary$21#Sport$20",
+"分类url": "https://xiaoxintv.net/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/lang/{lang}/year/{year}.html",
 "筛选":{
-"1":[
+"7":[
 {
 "key":"class",
 "name":"Filter",
@@ -108,7 +110,7 @@
 ]
 }
 ],
-"2":[
+"6":[
 {
 "key":"class",
 "name":"Class",
@@ -193,7 +195,7 @@
 ]
 }
 ],
-"3":[
+"5":[
 {
 "key":"area",
 "name":"Area",
@@ -252,7 +254,7 @@
 ]
 }
 ],
-"4":[
+"3":[
 {
 "key":"class",
 "name":"Class",
