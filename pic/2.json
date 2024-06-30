@@ -1,28 +1,26 @@
 {
-"作者": "LEKBOX",
-"站名": "小宝",
-"主页url":"https://xiaoxintv.net",
-"数组": "lazyload&&title text-overflow\">",
-"副标题": "pic-text text-right\">&&</span>",
-"图片": "data-original=\"&&\"",
+"作者":"lekbox",
+"站名":"纽约",
+"主页url":"https://www.nycvod.com",
+"数组": "public-list-exp&&time-title hide ft4",
+"副标题": "public-prt hide ol1\">&&</span>",
+"图片": "data-src=\"&&\"",
 "标题": "title=\"&&\"",
-"搜索模式": "1",
-"搜索后缀": "/index.php/vod/detail/id/",
-"搜索url": "/index.php/vod/search.html?wd={wd}",
-"影片类型":"分类：</span>&&</a>",
-"影片年代": "年份：</span>&&</a>",
-"影片地区": "地区：</span>&&</a>",
-"导演": "导演：</span>&&</a>",
-"演员": "主演：</span>&&</div>",
-"简介": "display: none;\>&&</span>",
-"线路数组":"data-toggle=&&</div>[不包含:][排序:💯推荐]",
-"线路标题": ">&&</a>[替换:线路1>>💯推荐#同主演>>备用]",
-"播放数组": "id=\"playlist&&</div>",
-"免嗅":"0",
-"分类":"Movie$7#Drama$6#Variety$3#Comic$5#Commentary$21#Sport$20",
-"分类url": "https://xiaoxintv.net/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/lang/{lang}/year/{year}.html",
+"影片类型":"hl-ma0\">&&</span>",
+"搜索模式": "0",
+"搜索后缀": "/voddetail/",
+"搜索url": "/vodsearch/-------------.html?wd={wd}",
+"导演": "导演 :</strong>&&</a>",
+"演员": "演员 :</strong>&&</div>",
+"简介": "简介：</em>&&</li>",
+"线路数组":"<i class=\"fa ds-dianying&&</a>[不包含:][排序:💯推荐>备用]",
+"线路标题": "nbsp;&&<span[替换:海外节点>>💯推荐#海外专线>>💯推荐#国内节点>>备用]",
+"播放数组": "class=\"anthology-list-play&&</div>",
+"免嗅":"1",
+"分类":"Movie$1#Drama$2#Variety$3#Comic$4#Sport$5#Commentary$29",
+"分类url":"https://www.nycvod.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "筛选":{
-"7":[
+"1":[
 {
 "key":"class",
 "name":"Filter",
@@ -51,12 +49,13 @@
 "name":"Area",
 "value":[
 {"n":"All","v":""},
-{"n":"China","v":"大陆"},
-{"n":"Hong Kong","v":"香港"},
-{"n":"Taiwan","v":"台湾"},
-{"n":"US","v":"欧美"},
+{"n":"China","v":"中国大陆"},
+{"n":"Hong Kong","v":"中国香港"},
+{"n":"Taiwan","v":"中国台湾"},
+{"n":"US","v":"美国"},
 {"n":"Japan","v":"日本"},
-{"n":"Singapore Malaysia","v":"新马"},
+{"n":"Singapore","v":"新加坡"},
+{"n":"Malaysia","v":"马来西亚"},
 {"n":"India","v":"印度"},
 {"n":"Korea","v":"韩国"},
 {"n":"Thailand","v":"泰国"}
@@ -110,7 +109,7 @@
 ]
 }
 ],
-"6":[
+"2":[
 {
 "key":"class",
 "name":"Class",
@@ -136,10 +135,10 @@
 "name":"Area",
 "value":[
 {"n":"All","v":""},
-{"n":"China","v":"大陆"},
-{"n":"Hong Kong","v":"香港"},
-{"n":"Taiwan","v":"台湾"},
-{"n":"Us","v":"欧美"},
+{"n":"China","v":"中国大陆"},
+{"n":"Hong Kong","v":"中国香港"},
+{"n":"Taiwan","v":"中国台湾"},
+{"n":"Us","v":"美国"},
 {"n":"Japan","v":"日本"},
 {"n":"Singapore","v":"新加坡"},
 {"n":"Korea","v":"韩国"},
@@ -195,15 +194,15 @@
 ]
 }
 ],
-"5":[
+"4":[
 {
 "key":"area",
 "name":"Area",
 "value":[
 {"n":"All","v":""},
-{"n":"China","v":"大陆"},
+{"n":"China","v":"中国大陆"},
 {"n":"Japan","v":"日本"},
-{"n":"Us","v":"欧美"}
+{"n":"Us","v":"美国"}
 ]
 },
 {
@@ -274,12 +273,12 @@
 "name":"Area",
 "value":[
 {"n":"All","v":""},
-{"n":"China","v":"大陆"},
-{"n":"Hong Kong","v":"香港"},
+{"n":"China","v":"中国大陆"},
+{"n":"Hong Kong","v":"中国香港"},
 {"n":"Korea","v":"韩国"},
 {"n":"Japan","v":"日本"},
-{"n":"Taiwan","v":"台湾"},
-{"n":"Us","v":"欧美"}
+{"n":"Taiwan","v":"中国台湾"},
+{"n":"Us","v":"美国"}
 ]
 },
 {
