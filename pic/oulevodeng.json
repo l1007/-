@@ -1,7 +1,7 @@
 {
 "作者":"lekbox",
 "站名":"OULEVOD",
-"主页url":"https://www.olevod.com/",
+"主页url":"https://www.olehdtv.com",
 "影片类型":"状态：</span>&&</em>",
 "影片年代": "年份：</span>&&</a>",
 "搜索模式": "0",
@@ -14,7 +14,7 @@
 "播放数组": "id=\"playlistbox&&</div>",
 "免嗅":"1",
 "分类":"Movie$1#Drama$2#Tvshow$3#Comic$4#Documentary$111",
-"分类url":"https://www.olevod.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+"分类url":"https://www.olehdtv.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
 "筛选":{
 "1":[
 {
@@ -57,6 +57,7 @@
 "name":"Year",
 "value":[
 {"n":"All","v":""},
+{"n":"2024","v":"2024"},
 {"n":"2023","v":"2023"},
 {"n":"2022","v":"2022"},
 {"n":"2021","v":"2021"},
@@ -121,6 +122,7 @@
 "name":"Year",
 "value":[
 {"n":"All","v":""},
+{"n":"2024","v":"2024"},
 {"n":"2023","v":"2023"},
 {"n":"2022","v":"2022"},
 {"n":"2021","v":"2021"},
@@ -186,6 +188,7 @@
 "name":"Year",
 "value":[
 {"n":"All","v":""},
+{"n":"2024","v":"2024"},
 {"n":"2023","v":"2023"},
 {"n":"2022","v":"2022"},
 {"n":"2021","v":"2021"},
@@ -253,6 +256,7 @@
 "name":"Year",
 "value":[
 {"n":"All","v":""},
+{"n":"2024","v":"2024"},
 {"n":"2023","v":"2023"},
 {"n":"2022","v":"2022"},
 {"n":"2021","v":"2021"},
