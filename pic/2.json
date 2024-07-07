@@ -1,24 +1,24 @@
 {
-"作者":"lekbox",
-"站名":"纽约",
-"主页url":"https://www.nycvod.com",
+"作者": "LEKBOX",
+"站名": "CNYS-e",
+"主页url":"https://cnys.tv",
 "数组": "public-list-exp&&time-title hide ft4",
-"副标题": "public-prt hide ol1\">&&</span>",
 "图片": "data-src=\"&&\"",
 "标题": "title=\"&&\"",
-"影片类型":"hl-ma0\">&&</span>",
+"副标题": "class=\"public-list-prb hide ft2\">&&</span>",
+"影片类型":"类型 :</strong>&&</span>",
+"影片年代": "target=\"_blank\">&&</a>",
 "搜索模式": "0",
-"搜索后缀": "/voddetail/",
-"搜索url": "/vodsearch/-------------.html?wd={wd}",
+"搜索后缀": "/voddetai-",
 "导演": "导演 :</strong>&&</a>",
 "演员": "演员 :</strong>&&</div>",
 "简介": "简介：</em>&&</li>",
-"线路数组":"<i class=\"fa ds-dianying&&</a>[不包含:][排序:💯推荐>备用]",
-"线路标题": "nbsp;&&<span[替换:线路1>>💯推荐#线路2>>备用]",
-"播放数组": "class=\"anthology-list-play&&</div>",
+"线路数组":"<a&&/a>[不包含:夸克][排序:💯推荐>备用]",
+"线路标题": "></i>&nbsp;&&<[替换:海外专线【蓝光】>>💯推荐#中国>>备用]",
+"播放数组": "class=\"anthology-list&&</div>",
 "免嗅":"1",
-"分类":"Movie$1#Drama$2#Variety$3#Comic$4#Sport$5#Commentary$29",
-"分类url":"https://www.nycvod.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+"分类":"Movie$1#Drama$2#Variety$3#Comic$4#Commentary$76#Sport$53",
+"分类url": "https://cnys.tv/vodshow-{cateId}-area-{area}-by-{by}-class-{class}-page-{catePg}-lang-{lang}-year-{year}.html",
 "筛选":{
 "1":[
 {
@@ -49,9 +49,9 @@
 "name":"Area",
 "value":[
 {"n":"All","v":""},
-{"n":"China","v":"中国大陆"},
-{"n":"Hong Kong","v":"中国香港"},
-{"n":"Taiwan","v":"中国台湾"},
+{"n":"China","v":"大陆"},
+{"n":"Hong Kong","v":"香港"},
+{"n":"Taiwan","v":"台湾"},
 {"n":"US","v":"美国"},
 {"n":"Japan","v":"日本"},
 {"n":"Singapore","v":"新加坡"},
@@ -135,9 +135,9 @@
 "name":"Area",
 "value":[
 {"n":"All","v":""},
-{"n":"China","v":"中国大陆"},
-{"n":"Hong Kong","v":"中国香港"},
-{"n":"Taiwan","v":"中国台湾"},
+{"n":"China","v":"大陆"},
+{"n":"Hong Kong","v":"香港"},
+{"n":"Taiwan","v":"台湾"},
 {"n":"Us","v":"美国"},
 {"n":"Japan","v":"日本"},
 {"n":"Singapore","v":"新加坡"},
@@ -200,7 +200,7 @@
 "name":"Area",
 "value":[
 {"n":"All","v":""},
-{"n":"China","v":"中国大陆"},
+{"n":"China","v":"大陆"},
 {"n":"Japan","v":"日本"},
 {"n":"Us","v":"美国"}
 ]
@@ -273,11 +273,11 @@
 "name":"Area",
 "value":[
 {"n":"All","v":""},
-{"n":"China","v":"中国大陆"},
-{"n":"Hong Kong","v":"中国香港"},
+{"n":"China","v":"大陆"},
+{"n":"Hong Kong","v":"香港"},
 {"n":"Korea","v":"韩国"},
 {"n":"Japan","v":"日本"},
-{"n":"Taiwan","v":"中国台湾"},
+{"n":"Taiwan","v":"台湾"},
 {"n":"Us","v":"美国"}
 ]
 },
@@ -330,4 +330,4 @@
 }
 ]
 }
-}
+  }
