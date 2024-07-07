@@ -1,7 +1,7 @@
 {
 "作者": "LEKBOX",
 "站名": "唐人街",
-"主页url":"https://www.trjyy.com",
+"主页url":"https://www.tangrenjie.one",
 "数组": "vodlist_thumb lazyload&&vodlist_title\">",
 "副标题": "pic_text text_right\">&&</span>",
 "图片": "data-original=\"&&\"",
@@ -20,7 +20,7 @@
 "播放数组": "id=\"playlistbox&&</div>",
 "免嗅":"0",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$77#体育$54#短剧$53",
-"分类url": "https://www.trjyy.com/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/lang/{lang}/year/{year}.html",
+"分类url": "https://www.tangrenjie.one/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/lang/{lang}/year/{year}.html",
 "筛选":{
 "1":[
 {
