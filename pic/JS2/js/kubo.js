@@ -8,7 +8,7 @@ var rule = {
 	},
 	searchUrl: '/search/**-1.html',
 	searchable:2,
-	quickSearch:0,
+	quickSearch:1,
 	filterable:0,
 	headers:{
 		'User-Agent': 'PC_UA',
