@@ -10,7 +10,7 @@ var rule = {
 	},
 	searchUrl: '/e/search/index123.php#tempid=1&tbname=article&keyborad=**&show=title%2Csmalltext&Submit=%CB%D1%CB%F7;post',
 	searchable:2,
-	quickSearch:0,
+	quickSearch:1,
 	filterable:0,
 	headers:{
 		'User-Agent': 'MOBILE_UA',
