@@ -8,7 +8,7 @@ var rule = {
 	},
 	searchUrl: '/e/search/index.php#tempid=1&tbname=article&mid=1&dopost=search&submit=&keyborad=**;post',
 	searchable:2,
-	quickSearch:0,
+	quickSearch:1,
 	filterable:0,
 	headers:{
 		'User-Agent': 'PC_UA',
