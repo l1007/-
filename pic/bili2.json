@@ -1,68 +1,105 @@
-{"name": "哔哩",
-"url": "https://api.bilibili.com",   
-"ua":"Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36", 
-"cookie":"buvid3=123",
-"User": "空",    
-"直接播放": "1",
-"是否记录历史": "0",
-"横图显示": "1",
-"fenlei": "泰国摩托车比赛$/x/web-interface/search/type?search_type=video&keyword=泰国摩托车比赛&page=#纪录片$/x/web-interface/search/type?search_type=video&keyword=纪录片&page=#演唱会$/x/web-interface/search/type?search_type=video&keyword=演唱会&page=#蜡笔小新$/x/web-interface/search/type?search_type=video&keyword=蜡笔小新&page=#煉狗術師$/x/web-interface/search/type?search_type=video&keyword=煉狗術師&page=#学堂$/x/web-interface/search/type?search_type=video&keyword=学堂&page=#体育$/x/web-interface/search/type?search_type=video&keyword=体育&page=#健身$/x/web-interface/search/type?search_type=video&keyword=健身&page=#瑜伽$/x/web-interface/search/type?search_type=video&keyword=瑜伽&page=#尊巴$/x/web-interface/search/type?search_type=video&keyword=尊巴&page=#MV$/x/web-interface/search/type?search_type=video&keyword=MV&page=#美食$/x/web-interface/search/type?search_type=video&keyword=美食&page=#滇西小哥$/x/web-interface/search/type?search_type=video&keyword=滇西小哥&page=#悬疑解说$/x/web-interface/search/type?search_type=video&keyword=悬疑解说&page=#丧尸解说$/x/web-interface/search/type?search_type=video&keyword=丧尸解说&page=", 
-"houzhui": "",
-"fubiaotiqian": "duration\":\"", 
-"fubiaotihou": "\"",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "{\"type\":\"video",   
-"jiequshuzuhou": "badgepay",
-"tupianqian": "\"pic\":\"", 
-"tupianhou": "\"",
-"tupianqianzhui": "http:",
-"lianjieqian": "\"bvid\":\"",
-"lianjiehou": "\"",
-"ljqianzhui": "https://www.bilibili.com/video/",
-"biaotiqian": "\"title\":\"",
-"biaotihou": "\",",
-"sousuohouzhui": "/voddetail/",
-"jspic": "pic",
-"jsname": "name",
-"jsid": "id",
-"sousuoqian": "/x/web-interface/search/type?search_type=video&page=1&page_size=16&keyword=",
-"sousuohou": "",
-"ssmoshi": "1",
-"sousuoshifouercijiequ": "0",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "{\"type\":\"video",
-"ssjiequshuzuhou": "corner",
-"sstupianqian": "\"pic\":\"",
-"sstupianhou": "\"",
-"sstupianqianzhui": "http:",
-"ssbiaotiqian": "author\":\"",
-"ssbiaotihou": "\"",
-"sslianjieqian": "\"bvid\":\"",
-"sslianjiehou": "\"",
-"ssljqianzhui": "https://www.bilibili.com/video/",
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "\"pages\"",
-"bfjiequshuzuhou": "]",
-"zhuangtaiqian": "Published\" content=\"",
-"zhuangtaihou": "\"",
-"daoyanqian": "author\" content=\"",   
-"daoyanhou": "\"",
-"zhuyanqian": "tname\":\"",   
-"zhuyanhou": "\"",
-"juqingqian": "raw_text\":\"",
-"juqinghou": "\"",
-"bfyshifouercijiequ": "0",
-"bfyjiequqian": "空",
-"bfyjiequhou": "空",
-"bfyjiequshuzuqian": "{",
-"bfyjiequshuzuhou": "}",
-"bfbiaotiqian": "part\":\"",
-"bfbiaotihou": "\"",
-"bflianjieqian": "page\":",
-"bflianjiehou": ",",
-"bfqianzhui": "?p="}
+{
+"作者":"lekbox",
+"站名":"aini",
+"主页url":"https://ainidj.com",
+"数组": "module-item-pic\">&&module-item-titlebox\">",
+"副标题": "module-item-caption\">&&</div>",
+"图片": "data-src=\"$$\"",
+"标题": "title=\"$$\"",
+"影片类型":"tag-link\">&&立即播放",
+"导演": "导演：</span>&&</a>",
+"演员": "主演：</span>&&</div>",
+"简介": "剧情：</span>&&/span>",
+"线路数组":"data-dropdown-value=&&</div>[不包含:][排序:极速播放>在线观看]",
+"线路标题": "><span>&&</small>[替换:【爱你短剧】播放器>>💯推荐#</span><small>>>共]+集💻",
+"播放数组": "class=\"module-tab-content&&</div>",
+"免嗅":"1",
+"分类":"穿越$fenle#战神$fenlei2#重生$fenlei3#萌娃$guda#玄幻$xuanhuan#神医$shenyi#古代$gudai",
+"分类url":"https://ainidj.com/vodshwo/{cateId}--{by}------{catePg}---.html",
+"筛选":{
+"fenle":[
+{
+"key":"by",
+"name":"排序",
+"value":[
+{"n":"全部","v":""},
+{"n":"时间","v":"time"},
+{"n":"人气","v":"hits"},
+{"n":"评分","v":"score"}
+]
+}
+],
+"fenlei2":[
+{
+"key":"by",
+"name":"排序",
+"value":[
+{"n":"全部","v":""},
+{"n":"时间","v":"time"},
+{"n":"人气","v":"hits"},
+{"n":"评分","v":"score"}
+]
+}
+],
+"guda":[
+{
+"key":"by",
+"name":"排序",
+"value":[
+{"n":"全部","v":""},
+{"n":"时间","v":"time"},
+{"n":"人气","v":"hits"},
+{"n":"评分","v":"score"}
+]
+}
+],
+"xuanhuan":[
+{
+"key":"by",
+"name":"排序",
+"value":[
+{"n":"全部","v":""},
+{"n":"时间","v":"time"},
+{"n":"人气","v":"hits"},
+{"n":"评分","v":"score"}
+]
+}
+],
+"shenyi":[
+{
+"key":"by",
+"name":"排序",
+"value":[
+{"n":"全部","v":""},
+{"n":"时间","v":"time"},
+{"n":"人气","v":"hits"},
+{"n":"评分","v":"score"}
+]
+}
+],
+"gudai":[
+{
+"key":"by",
+"name":"排序",
+"value":[
+{"n":"全部","v":""},
+{"n":"时间","v":"time"},
+{"n":"人气","v":"hits"},
+{"n":"评分","v":"score"}
+]
+}
+],
+"fenlei3":[
+{
+"key":"by",
+"name":"排序",
+"value":[
+{"n":"全部","v":""},
+{"n":"时间","v":"time"},
+{"n":"人气","v":"hits"},
+{"n":"评分","v":"score"}
+]
+}
+]
+}
+}
