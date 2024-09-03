@@ -4,7 +4,9 @@
 "主页url":"https://www.yjys02.com",
 "数组": "_blank&&</div>",
 "副标题": "ribbon ribbon-bookmark ribbon-top bg-azure p-0\&&</div>",
-//"起始页": "2",
+"搜索模式": "0",
+"搜索后缀": "",
+"搜索url": "/search/{wd}",
 "图片": "src=\"$$\"",
 "标题": "mb-0 card-title text-truncate\"$$</h3>",
 "影片类型":"类型：</strong>\"$$</p>",
@@ -15,7 +17,7 @@
 "剧集标题": ">$$<",
 "剧集链接": "href=\"$$\"",
 "分类":"电影$0#电视剧$1",
-"分类url": "https://www.yjys02.com/s/{class}/{catePg}?type={cateId}&area={area}&year={year}",
+"分类url": "https://www.yjys02.com/s/{class}/{catePg}?type={cateId}&area={area}&year={year}&order={by}",
 "筛选":{
 "0":[
 {
@@ -77,6 +79,14 @@
 {"n":"菲律宾","v":"菲律宾"},
 {"n":"泰国","v":"泰国"}
 ]
+},
+{
+"key":"by",
+"name":"排序",
+"value":[
+{"n":"时间","v":"0"},
+{"n":"评分","v":"1"}
+]
 }
 ],
 "1":[
@@ -137,6 +147,14 @@
 {"n":"印度","v":"印度"},
 {"n":"韩国","v":"韩国"},
 {"n":"泰国","v":"泰国"}
+]
+},
+{
+"key":"by",
+"name":"排序",
+"value":[
+{"n":"时间","v":"order=0"},
+{"n":"评分","v":"order=1"}
 ]
 }
 ]
