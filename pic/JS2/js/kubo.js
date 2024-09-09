@@ -1,188 +1,136 @@
-var rule = {
-	title:'酷吧[磁]',
-	host:'https://www.kubady1.com',
-        homeUrl: '/',
-	url: '/vodtypehtml/fyclass.html?',
-	filter_url:'{{fl.class}}',
-	filter:{
-	},
-	searchUrl: '/search/**-1.html',
-	searchable:2,
-	quickSearch:1,
-	filterable:0,
-	headers:{
-		'User-Agent': 'PC_UA',
-		'Referer': 'https://www.kubady1.com/'
-	},
-	timeout:5000,
-	class_name: '最新&4K&电影&动作片&喜剧片&爱情片&科幻片&恐怖片&剧情片&战争片&微电影&电视剧&动漫&纪录片',
-	class_url: 'new&4K&1&5&6&7&8&9&10&11&21&31&4&16',
-	play_parse:true,
-	play_json:[{
-		re:'*',
-		json:{
-			parse:0,
-			jx:0
-		}
-	}],
-	lazy:'',
-	limit:6,
-	推荐:`js:
-pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-let d = [];
-let html = request(input);
-let list = pdfa(html, 'ul.stui-vodlist li');
-list.forEach(function (it){
-	d.push({
-		title: pdfh(it, 'a&&title'),
-		desc: pdfh(it, 'li&&div&&a&&span&&Text'),
-		pic_url: pd(it, 'a&&data-original', HOST),
-		url: pdfh(it, 'a&&href')
-	});
-});
-setResult(d);
-`,
-	一级:`js:
-pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-let d = [];
-if (MY_CATE === '4K'){
-	let turl = (MY_PAGE === 1)? '' : '-' + MY_PAGE;
-	input = rule.homeUrl + 'vodtopichtml/' + '11' + turl + '.html';
-}else if (MY_CATE === 'new'){
-	input = rule.homeUrl + MY_CATE  + '.html';
-}else{
-	let turl = (MY_PAGE === 1)? '' : '-' + MY_PAGE;
-	input = rule.homeUrl + 'vodtypehtml/' + MY_CATE + turl + '.html';
-}
-let html = request(input);
-let list = pdfa(html, 'ul.stui-vodlist li');
-list.forEach(function (it){
-	d.push({
-		title: pdfh(it, 'a&&title'),
-		desc: pdfh(it, 'li&&div&&a&&span&&Text'),
-		pic_url: pd(it, 'a&&data-original', HOST),
-		url: pdfh(it, 'a&&href')
-	});
-});
-setResult(d);
-`,
-	二级:{
-		title:"div.stui-content h3&&Text",
-		img:"div.stui-content a.lazyload img&&src",
-		desc:'div.stui-content a span&&Text',
-		content:'div.stui-content p.data&&Text',
-		tabs:`js:
-pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-TABS=[]
-let vodUrls=[];
-try{
-	vodUrls.push(html.match(/var GvodUrls1 *= *"([^"]*)"/)[1]);
-	vodUrls.push(html.match(/var GvodUrls2 *= *"([^"]*)"/)[1]);
-	vodUrls.push(html.match(/var GvodUrls3 *= *"([^"]*)"/)[1]);
-	vodUrls.push(html.match(/var GvodUrls4 *= *"([^"]*)"/)[1]);
-	vodUrls.push(html.match(/var GvodUrls5 *= *"([^"]*)"/)[1]);
-}catch(e){
-}
-let index=1;
-vodUrls.forEach(function (it) {
-	TABS.push("磁力"+index);
-	index = index + 1;
-});
-log('kuba TABS >>>>>>>>>>>>>>>>>>' + TABS);
-`,
-		lists:`js:
+var lists = `js:
 log(TABS);
-pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-LISTS = [];
-let vodUrls=[];
-//log("kuba html>>>>>>>>>>>>>>>>>>>>>>" + html);
-try{
-	vodUrls.push(html.match(/var GvodUrls1 *= *"([^"]*)"/)[1]);
-	vodUrls.push(html.match(/var GvodUrls2 *= *"([^"]*)"/)[1]);
-	vodUrls.push(html.match(/var GvodUrls3 *= *"([^"]*)"/)[1]);
-	vodUrls.push(html.match(/var GvodUrls4 *= *"([^"]*)"/)[1]);
-	vodUrls.push(html.match(/var GvodUrls5 *= *"([^"]*)"/)[1]);
-}catch(e){
-	log('kuba tabs e>>>>>>>>>>>>>>>>>>..' + e);
+let d = [];
+pdfh = jsp.pdfh;
+pdfa = jsp.pdfa;
+if (typeof play_url === "undefined") {
+	var play_url = ""
 }
-vodUrls.forEach(function (it) {
-	let epos = it.split("###");
-	let d=[];
-	epos.forEach(function (it1){
-		if (it1.length>0){
-			d.push(it1);
-		}
+
+function getLists(html) {
+	let src = pdfh(html, ".wp-playlist-script&&Html");
+	src = JSON.parse(src).tracks;
+	let list1 = [];
+	let list2 = [];
+	let url1 = "";
+	let url2 = "";
+	src.forEach(function(it) {
+		let src0 = it.src0;
+		let src1 = it.src1;
+		let title = it.caption;
+		url1 = "https://v.ddys.pro" + src0;
+		url2 = "https://ddys.pro/getvddr2/video?id=" + src1 + "&type=mix";
+		let zm = "https://ddys.pro/subddr/" + it.subsrc;
+		list1.push({
+			title: title,
+			url: url1,
+			desc: zm
+		});
+		list2.push({
+			title: title,
+			url: url2,
+			desc: zm
+		})
 	});
-	LISTS.push(d.reverse());
-});
-`,
-
-	},
-	搜索:`js:
-pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-let cookie="";
-if (false){
-let new_html=request(HOST, {withHeaders:true});
-let json=JSON.parse(new_html);
-let setCk=Object.keys(json).find(it=>it.toLowerCase()==="set-cookie");
-if (typeof setCk !== "undefined"){
-	let d=[];
-	for(const key in json[setCk]){
-		if (typeof json[setCk][key] === "string"){
-			log("kuba header setCk key>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>" + json[setCk][key] + " " + (typeof json[setCk][key]));
-			d.push(json[setCk][key].split(";")[0]);
-		}
+	return {
+		list1: list1,
+		list2: list2
 	}
-	cookie=d.join(";");
 }
-fetch_params.headers.Cookie=cookie;
-rule_fetch_params.headers.Cookie=cookie;
-}
-log('kuba search cookie >>>>>>>>>>>>>>>>>>>>>' + cookie);
+var data = getLists(html);
+var list1 = data.list1;
+var list2 = data.list2;
+let nums = pdfa(html, "body&&.post-page-numbers");
+nums.forEach(function(it) {
+	let num = pdfh(it, "body&&Text");
+	log(num);
+	let nurl = input + num + "/";
+	if (num == 1) {
+		return
+	}
+	log(nurl);
+	let html = request(nurl);
+	let data = getLists(html);
+	list1 = list1.concat(data.list1);
+	list2 = list2.concat(data.list2)
+});
+list1 = list1.map(function(item) {
+	return item.title + "$" + play_url + urlencode(item.url + "|" + input + "|" + item.desc)
+});
+list2 = list2.map(function(item) {
+	return item.title + "$" + play_url + urlencode(item.url + "|" + input + "|" + item.desc)
+});
+LISTS = [list1, list2];
+`;
 
-let params = 'wd='+ encodeURIComponent(KEY) + '&submit=';
-let _fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
-let postData = {
-    body: params
-};
-Object.assign(_fetch_params, postData);
-log("kuba search postData>>>>>>>>>>>>>>>" + JSON.stringify(_fetch_params));
-let search_html = post( HOST + '/index.php?m=vod-search', _fetch_params)
-search_html = search_html.replace(/<script>.*?<\\/script>/g,"");
-//log("kuba search result>>>>>>>>>>>>>>>" + search_html.substring(4096));
-let d=[];
-let dlist = pdfa(search_html, 'li.activeclearfix');
-log("kuba search dlist.length>>>>>>>>>>>>>" + dlist.length);
-dlist.forEach(function(it){
-	let title = pdfh(it, 'a&&title');
-	let img = pd(it, 'a&&data-original', HOST);
-	let content = pdfh(it, 'a&&Text');
-	let desc = pdfh(it, 'div.detail&&Text');
-	let url = pd(it, 'a&&href', HOST);
-	d.push({
-		title:title,
-		img:img,
-		content:content,
-		desc:desc,
-		url:url
-		});
-});
-dlist = pdfa(search_html, 'li.active.clearfix');
-log("kuba search dlist.length>>>>>>>>>>>>>" + dlist.length);
-dlist.forEach(function(it){
-	let title = pdfh(it, 'a&&title');
-	let img = pd(it, 'a&&data-original', HOST);
-	let content = pdfh(it, 'a&&Text');
-	let desc = pdfh(it, 'div.detail&&Text');
-	let url = pd(it, 'a&&href', HOST);
-	d.push({
-		title:title,
-		img:img,
-		content:content,
-		desc:desc,
-		url:url
-		});
-});
-setResult(d);
-`,
+var lazy = `js:
+let purl = input.split("|")[0];
+let referer = input.split("|")[1];
+let zm = input.split("|")[2];
+print("purl:" + purl);
+print("referer:" + referer);
+print("zm:" + zm);
+if (/getvddr/.test(purl)) {
+    let html = request(purl, {
+        headers: {
+            Referer: HOST,
+            "User-Agent": MOBILE_UA
+        }
+    });
+    print(html);
+    try {
+        input = {jx:0,url:JSON.parse(html).url,parse:0} || {}
+    } catch (e) {
+        input = purl
+    }
+} else {
+    input = {
+        jx: 0,
+        url: purl,
+        parse: 0,
+        header: JSON.stringify({
+            'user-agent': MOBILE_UA,
+            'referer': HOST
+        })
+    }
+}
+`;
+
+// 网址发布页 https://ddys.site
+// 网址发布页 https://ddys.wiki
+var rule={
+    title:'ddys',
+    // host:'https://ddys.wiki', 
+    // hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":MOBILE_UA}});HOST = jsp.pdfh(html,"a:eq(1)&&href")',
+    host:'https://ddys.pro',
+    // host:'https://ddys.mov',
+    url:'/fyclass/page/fypage/',
+    searchUrl:'/?s=**&post_type=post',
+    searchable:2,
+    quickSearch:0,
+    filterable:0,
+    headers:{
+        'User-Agent':'MOBILE_UA',
+    },
+    class_parse:'#primary-menu li.menu-item;a&&Text;a&&href;\.pro/(.*)',
+    cate_exclude:'站长|^其他$|关于|^电影$|^剧集$|^类型$',
+    play_parse:true,
+    // lazy:'js:let purl=input.split("|")[0];let referer=input.split("|")[1];let zm=input.split("|")[2];print("purl:"+purl);print("referer:"+referer);print("zm:"+zm);let myua="okhttp/3.15";if(/ddrkey/.test(purl)){let ret=request(purl,{Referer:referer,withHeaders:true,"User-Agent":myua});log(ret);input=purl}else{let html=request(purl,{headers:{Referer:referer,"User-Agent":myua}});print(html);try{input=JSON.parse(html).url||{}}catch(e){input=purl}}',
+    lazy:lazy,
+    limit:6,
+    推荐:'*',
+    double:true, // 推荐内容是否双层定位
+    一级:'.post-box-list&&article;a:eq(-1)&&Text;.post-box-image&&style;a:eq(0)&&Text;a:eq(-1)&&href',
+    二级:{
+        "title":".post-title&&Text;.cat-links&&Text",
+        "img":".doulist-item&&img&&data-cfsrc",
+        "desc":".published&&Text",
+        "content":".abstract&&Text",
+        // "tabs":"js:TABS=['国内','海外(貌似不能播放)']",
+        "tabs":"js:TABS=['国内(改Exo播放器)','国内2']",
+        // "lists":"js:log(TABS);let d=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;if(typeof play_url===\"undefined\"){var play_url=\"\"}function getLists(html){let src=pdfh(html,\".wp-playlist-script&&Html\");src=JSON.parse(src).tracks;let list1=[];let list2=[];src.forEach(function(it){let src0=it.src0;let src1=it.src1;let src2=it.src2;let title=it.caption;let url1=\"https://ddys.tv/getvddr/video?id=\"+src1+\"&dim=1080P+&type=mix\";let url2=\"https://w.ddys.tv\"+src0+\"?ddrkey=\"+src2;let zm=\"https://ddys.tv/subddr/\"+it.subsrc;list1.push({title:title,url:url1,desc:zm});list2.push({title:title,url:url2,desc:zm})});return{list1:list1,list2:list2}}var data=getLists(html);var list1=data.list1;var list2=data.list2;let nums=pdfa(html,\"body&&.post-page-numbers\");nums.forEach(function(it){let num=pdfh(it,\"body&&Text\");log(num);let nurl=input+num+\"/\";if(num==1){return}log(nurl);let html=request(nurl);let data=getLists(html);list1=list1.concat(data.list1);list2=list2.concat(data.list2)});list1=list1.map(function(item){return item.title+\"$\"+play_url+urlencode(item.url+\"|\"+input+\"|\"+item.desc)});list2=list2.map(function(item){return item.title+\"$\"+play_url+urlencode(item.url+\"|\"+input+\"|\"+item.desc)});LISTS=[list1,list2];",
+        // lists:'js:log(TABS);let d=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;if(typeof play_url==="undefined"){var play_url=""}function getLists(html){let src=pdfh(html,".wp-playlist-script&&Html");src=JSON.parse(src).tracks;let list1=[];let list2=[];src.forEach(function(it){let src0=it.src0;let src1=it.src1;let src2=it.src2;let title=it.caption;let url1="https://ddys.pro/getvddr/video?id="+src1+"&dim=1080P+&type=mix";let url2="https://w.ddys.pro"+src0+"?ddrkey="+src2;let zm="https://ddys.pro/subddr/"+it.subsrc;list1.push({title:title,url:url1,desc:zm});list2.push({title:title,url:url2,desc:zm})});return{list1:list1,list2:list2}}var data=getLists(html);var list1=data.list1;var list2=data.list2;let nums=pdfa(html,"body&&.post-page-numbers");nums.forEach(function(it){let num=pdfh(it,"body&&Text");log(num);let nurl=input+num+"/";if(num==1){return}log(nurl);let html=request(nurl);let data=getLists(html);list1=list1.concat(data.list1);list2=list2.concat(data.list2)});list1=list1.map(function(item){return item.title+"$"+play_url+urlencode(item.url+"|"+input+"|"+item.desc)});list2=list2.map(function(item){return item.title+"$"+play_url+urlencode(item.url+"|"+input+"|"+item.desc)});LISTS=[list1,list2];',
+        "lists":lists
+    },
+    搜索:'#main&&article;.post-title&&Text;;.published&&Text;a&&href'
 }
