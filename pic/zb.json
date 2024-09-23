@@ -1,12 +1,16 @@
 {
-"作者":"lekbox",
-"站名":"直播",
-"主页url": "https://www.histar.tv/",
-"列表图片前缀": "空",
-"列表图片": "img src=\"$$\"",
-"列表标题": "alt=\"$$\"",
-"播放数组": "class=\"live_item__MBhDx&&</p>",
-"免嗅":"0",
-"分类":"直播$live",
-"分类url":"https://www.histar.tv/{cateId}"
-}
+"作者": "LEKBOX",
+"站名": "直播",
+"主页url":"https://www.chaojidianshi.net",
+"数组": "thumbnail\">&&</li>",
+"图片": "img src=\"&&\"",
+"标题": "title=\"&&\"",
+"搜索模式": "1",
+"搜索后缀": "/zhibo/",
+"页截取数组": "<tbody>$$</tbody>",
+"线路标题": "💯推荐",
+"剧集截取数组": "<a$$/a>",
+"剧集标题": ">$$<",
+"剧集链接": "href=\"$$\"",
+"分类":"马来西亚$Malaysia/#马1$Malaysia/index_2.html#马2$Malaysia/index_3.html#马3$Malaysia/index_4.html#马5$Malaysia/index_5.html#马6$Malaysia/index_6.html#体育$tiyuzhibo/#体育2$tiyuzhibo/index_3.html#体育3$tiyuzhibo/index_4.html#体育4$tiyuzhibo/index_2.html#体育5$tiyuzhibo/index_5.html",
+"分类url": "https://www.chaojidianshi.net/{cateId}"}
