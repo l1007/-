@@ -7,17 +7,17 @@
  * 传参 ?type=url&params=../json/采集[zy]静态.json#1
  * 传参 ?type=url&params=../json/采集[密]静态.json#1
  * hipy-server支持@改名比如:
- * 传参 ?type=url&params=../json/采集静态.json#1@采王道长[合]
+ * 传参 ?type=url&params=../json/采集静态.json#1@采王LEKBOX[合]
  * 传参 ?type=url&params=../json/采集[zy]静态.json#1@采王zy[密]
  * 传参 ?type=url&params=../json/采集[密]静态.json@采王成人[密]
- * [{"name":"暴风资源","url":"https://bfzyapi.com","parse_url":""},{"name":"飞刀资源","url":"http://www.feidaozy.com","parse_url":""},{"name":"黑木耳资源","url":"https://www.heimuer.tv","parse_url":""}]
+ * [{"name":"暴风资源","url":"https://bfzyapi.com","parse_url":"https://bfzyplayer.com/player/?url="},{"name":"飞刀资源","url":"http://www.feidaozy.com","parse_url":""},{"name":"黑木耳资源","url":"https://www.heimuer.tv","parse_url":"https://player.heimuer.tv/index.html?url="}]
  */
 globalThis.getRandomItem = function (items) {//从列表随机取出一个元素
     return items[Math.random() * items.length | 0];
 }
 var rule = {
     title: '采集之王[合]',
-    author: '道长',
+    author: 'LEKBOX',
     version: '20240705 beta15',
     update_info: `
 20240705:
@@ -235,7 +235,7 @@ var rule = {
                 type_name: '更新日志',
                 vod_pic: 'https://resource-cdn.tuxiaobei.com/video/FtWhs2mewX_7nEuE51_k6zvg6awl.png',
                 vod_remarks: `版本:${rule.version}`,
-                vod_play_from: '道长在线',
+                vod_play_from: 'LEKBOX在线',
                 // vod_play_url: '嗅探播放$https://resource-cdn.tuxiaobei.com/video/10/8f/108fc9d1ac3f69d29a738cdc097c9018.mp4',
                 vod_play_url: '随机小视频$http://api.yujn.cn/api/zzxjj.php',
             };
