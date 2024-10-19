@@ -1,186 +1,90 @@
 var rule = {
-	title:'4KHDR[磁]',
-	host:'https://www.4khdr.cn',
-        homeUrl: "/forum.php?mod=forumdisplay&fid=2&page=1",
-	url: '/forum.php?mod=forumdisplay&fid=2&filter=typeid&typeid=fyclass&page=fypage',
-	filter_url:'{{fl.class}}',
-	filter:{
-	},
-	searchUrl: '/search.php#searchsubmit=yes&srchtxt=**;post',
-	searchable:2,
-	quickSearch:1,
-	filterable:0,
-	headers:{
-		'User-Agent': 'PC_UA',
-         	'Cookie':'http://127.0.0.1:9978/file:///tvbox/JS/lib/4khdr.txt',
-	},
-	timeout:5000,
-	class_name: "4K电影&4K美剧&4K华语&4K动画&4K纪录片&4K日韩印&蓝光电影&蓝光美剧&蓝光华语&蓝光动画&蓝光日韩印",
-	class_url:"3&8&15&6&11&4&29&31&33&32&34",
-	play_parse:true,
-	play_json:[{
-		re:'*',
-		json:{
-			parse:0,
-			jx:0
-		}
-	}],
-	lazy:'',
-	limit:6,
-	推荐:'ul#waterfall li;a&&title;img&&src;div.auth.cl&&Text;a&&href',
-	一级:'ul#waterfall li;a&&title;img&&src;div.auth.cl&&Text;a&&href',
-	二级:{
-		title:"#thead_subject&&Text",
-		img:"img.zoom&&src",
-		desc:'td[id^="postmessage_"] font&&Text',
-		content:'td[id^="postmessage_"] font&&Text',
-		tabs:`js:
-pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-TABS=[]
-let d = pdfa(html, 'div.pcb table.t_table a');
-let tabsa = [];
-let tabsq = [];
-let tabsm = false;
-let tabse = false;
-d.forEach(function(it) {
-	let burl = pdfh(it, 'a&&href');
-	if (burl.startsWith("https://www.aliyundrive.com/s/") || burl.startsWith("https://www.alipan.com/s/")){
-		tabsa.push("阿里雲盤");
-	}else if (burl.startsWith("https://pan.quark.cn/s/")){
-		tabsq.push("夸克網盤");
-	}else if (burl.startsWith("magnet")){
-		tabsm = true;
-	}else if (burl.startsWith("ed2k")){
-		tabse = true;
-	}
-});
-if (tabsm === true){
-	TABS.push("磁力");
-}
-if (tabse === true){
-	TABS.push("電驢");
-}
-if (false && tabsa.length + tabsq.length > 1){
-	TABS.push("選擇右側綫路");
-}
-let tmpIndex;
-tmpIndex=1;
-tabsa.forEach(function(it){
-	TABS.push(it + tmpIndex);
-	tmpIndex = tmpIndex + 1;
-});
-tmpIndex=1;
-tabsq.forEach(function(it){
-	TABS.push(it + tmpIndex);
-	tmpIndex = tmpIndex + 1;
-});
-log('4khdr TABS >>>>>>>>>>>>>>>>>>' + TABS);
-`,
-		lists:`js:
-log(TABS);
-pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-LISTS = [];
-let d = pdfa(html, 'div.pcb table.t_table a');
-let lista = [];
-let listq = [];
-let listm = [];
-let liste = [];
-d.forEach(function(it){
-	let burl = pdfh(it, 'a&&href');
-	let title = pdfh(it, 'a&&Text');
-	log('4khdr title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-	log('4khdr burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
-	let loopresult = title + '$' + burl;
-	if (burl.startsWith("https://www.aliyundrive.com/s/") || burl.startsWith("https://www.alipan.com/s/")){
-		if (true){
-		if (TABS.length==1){
-			burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&confirm=0&url=" + encodeURIComponent(burl);
-		}else{
-			burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(burl);
-		}
-		}else{
-			burl = 'push://' + burl;
-		}
-		loopresult = title + '$' + burl;
-		lista.push(loopresult);
-	}else if (burl.startsWith("https://pan.quark.cn/s/")){
-		if (true){
-		if (TABS.length==1){
-			burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&confirm=0&url=" + encodeURIComponent(burl);
-		}else{
-			burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&url=" + encodeURIComponent(burl);
-		}
-		}else{
-			burl = 'push://' + burl;
-		}
-		loopresult = title + '$' + burl;
-		listq.push(loopresult);
-	}else if (burl.startsWith("magnet")){
-		listm.push(loopresult);
-	}else if (burl.startsWith("ed2k")){
-		liste.push(loopresult);
-	}
-});
-if (listm.length>0){
-	LISTS.push(listm);
-}
-if (liste.length>0){
-	LISTS.push(liste);
-}
-if (false && lista.length + listq.length > 1){
-	LISTS.push(["選擇右側綫路，或3秒後自動跳過$http://127.0.0.1:10079/delay/"]);
-}
-lista.forEach(function(it){
-	LISTS.push([it]);
-});
-listq.forEach(function(it){
-	LISTS.push([it]);
-});
-`,
+  title: '金牌影院',
+  host: 'https://m.cfkj86.com',
+  url: '/api/mw-movie/anonymous/video/list?pageNum=fypage&pageSize=30&sort=1&sortBy=1&type1=fyclass',
+  searchUrl: '/api/mw-movie/anonymous/video/searchByWordPageable?keyword=**&pageNum=fypage&pageSize=12&type=false',
+  headers: {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+    'Referer': 'https://www.cfkj86.com/'
+  },
+  searchable: 2,
+  quickSearch: 0,
+  filterable: 0,
+  class_name: '电影&电视剧&综艺&动漫',
+  class_url: '1&2&3&4',
+  limit: 6,
+  double: false,
+  play_parse:true,
+  lazy:$js.toString(()=>{
+     let pid = input.split('/')[5]
+     let nid = input.split('/')[7]
+     const t = new Date().getTime()
+     eval(getCryptoJS)
+     let signkey = 'id='+pid+'&nid='+nid+'&key=cb808529bae6b6be45ecfab29a4889bc&t='+t
+     const key = CryptoJS.SHA1(CryptoJS.MD5(signkey).toString()).toString()
+     let json_data = JSON.parse(request('https://www.cfkj86.com/api/mw-movie/anonymous/v1/video/episode/url?id='+pid+'&nid='+nid,{headers: {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+    'deviceid': 'c6bce57d-bb62-4db7-96cd-265dfb2a79cf',
+    'sign': key,
+    't': t
+    }}))
+    log(json_data)
+     let link = json_data.data.playUrl
+     input={url:link,header:rule.headers}
 
-	},
-	搜索:`js:
-pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-if (rule_fetch_params.headers.Cookie.startsWith("http")){
-	rule_fetch_params.headers.Cookie=fetch(rule_fetch_params.headers.Cookie);
-	let cookie = rule_fetch_params.headers.Cookie;
-	setItem(RULE_CK, cookie);
-};
-log('4khdr search cookie>>>>>>>>>>>>>>>' + rule_fetch_params.headers.Cookie);
-let new_host= HOST + '/search.php';
-let new_html=request(new_host);
-let formhash = pdfh(new_html, 'input[name="formhash"]&&value');
-log("4khdr formhash>>>>>>>>>>>>>>>" + formhash);
-let params = 'formhash=' + formhash + '&searchsubmit=yes&srchtxt=' + encodeURIComponent(KEY);
-let _fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
-let postData = {
-    body: params
-};
-Object.assign(_fetch_params, postData);
-log("4khdr search postData>>>>>>>>>>>>>>>" + JSON.stringify(_fetch_params));
-let search_html = post( HOST + '/search.php?mod=forum', _fetch_params)
-//log("4khdr search result>>>>>>>>>>>>>>>" + search_html);
-let d=[];
-let dlist = pdfa(search_html, 'div#threadlist ul li');
-dlist.forEach(function(it){
-	let title = pdfh(it, 'h3&&Text');
-	if (searchObj.quick === true){
-		if (title.includes(KEY)){
-			title = KEY;
-		}
-	}
-	let img = "";
-	let content = pdfh(it, 'p:eq(2)&&Text');
-	let desc = pdfh(it, 'p:eq(3)&&Text');
-	let url = pd(it, 'a&&href', HOST);
-	d.push({
-		title:title,
-		img:img,
-		content:content,
-		desc:desc,
-		url:url
-		})
-});
-setResult(d);
-	`,
+  }),
+  一级: $js.toString(()=>{
+        let d = []
+        let url = ''
+        const t = new Date().getTime()
+        const signkey = 'pageNum='+MY_PAGE+'&pageSize=30&sort=1&sortBy=1&type1='+MY_CATE+'&key=cb808529bae6b6be45ecfab29a4889bc&t='+t
+        const key = CryptoJS.SHA1(CryptoJS.MD5(signkey).toString()).toString()
+        const list = JSON.parse(request(input,{headers:{
+           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36',
+            'Accept': 'application/json, text/plain, */*',
+            'deviceId': 'c6bce57d-bb62-4db7-96cd-265dfb2a79cf',
+            'sign': key,
+            't': t 
+        }})).data.list
+        list.forEach((it)=>{
+            url = 'https://www.cfkj86.com/detail/'+it.vodId
+            d.push({
+              title: it.vodName,
+              desc:it.vodRemarks,
+              img:it.vodPic,
+              url:url
+            })
+        })
+        setResult(d)
+  }),
+  二级: {
+    title: 'h1&&Text',
+    tabs: '.top a',
+    lists: '.main-list-sections__BodyArea-sc-8bb7334b-2 .listitem a',
+  },
+  搜索: $js.toString(()=>{
+    const t = new Date().getTime()
+     eval(getCryptoJS)
+     let pg = MY_PAGE
+     let signkey = 'keyword='+KEY+'&pageNum='+pg+'&pageSize=12&type=false&key=cb808529bae6b6be45ecfab29a4889bc&t='+t
+     const key = CryptoJS.SHA1(CryptoJS.MD5(signkey).toString()).toString()
+      let html = JSON.parse(request(input,{headers: {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+    'deviceid': '58a80c52-138c-48fd-8edb-138fd74d12c8',
+    'sign': key,
+    't': t
+    }}))
+      let data = html.data.list
+      let d = []
+      data.forEach(it=>{
+        let reurl = 'https://www.cfkj86.com/detail/'+it.vodId
+        d.push({
+          title: it.vodName,
+          desc:it.vodVersion,
+          img:it.vodPic,
+          url:reurl
+        })
+      })
+    setResult(d)
+  }),
 }
