@@ -4,7 +4,7 @@ var rule = {
     url: '/App/IndexList/indexList',
     //   homeUrl: 'http://124.222.116.5/homedata/home.json',
     searchUrl: '/App/Index/findMoreVod#**',
-    searchable: 0,
+    searchable: 1,
     quickSearch: 1,
     filterable: 1,
     class_name: '电影&电视剧&动漫&综艺&短剧',
