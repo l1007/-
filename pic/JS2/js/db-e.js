@@ -94,8 +94,7 @@ var rule = {
     {'n':'Japanese','v':'日语'},
     {'n':'Korean','v':'韩语'},
     {'n':'Thai','v':'泰语'},
-    {'n':'Fujian','v':'闽南语'},
-    {'n':'Hindi','v':'印地语'}
+    {'n':'Fujian','v':'闽南语'}
     ]},
     {'key': '平台', 'name': 'Platform TV', 'value': [
 	{'n': 'Mango TV', 'v': '芒果'}, 
@@ -211,8 +210,7 @@ var rule = {
     {'n':'Japanese','v':'日语'},
     {'n':'Korean','v':'韩语'},
     {'n':'Thai','v':'泰语'},
-    {'n':'Fujian','v':'闽南语'},
-    {'n':'Hindi','v':'印地语'}
+    {'n':'Fujian','v':'闽南语'}
     ]},
     {'key': '平台', 'name': 'Platform TV', 'value': [
 	{'n': 'Mango TV', 'v': '芒果'}, 
