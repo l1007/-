@@ -9,7 +9,7 @@
   },
     {
         "name": "非凡资源",
-        "url": "http://api.ffzyapi.com",
+        "url": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
         "parse_url": "https://api.jiexi.la/?url=",
         "cate_exclude": "^电影片$|^连续剧$|^综艺片$",
         "class_name": "H4sIAAAAAAAAADWQWw6CMBBFd8M6NUakfggmChKJ/ADViFpiiPIobqadwi6kQ/k7d153ZtShlLxQZGP1v4tqHpJQSzVtT2odk9srtHdDgkdIfjQWaVJOAas1Et3LqtEESw8WPtYRarLgnERNMHbmoqbaY8hC+L6Q4tsY1gQ5Vd1OU/9kkh+xw2VQdZgNUohypPIjEx/pzUyvTOgQ2tPmlp7sslkE6WgxC7QwwmyDN5qyWUybGIHTZjF5T0K0mfJsfECsP/cHYziM500BAAA=",
