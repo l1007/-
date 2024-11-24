@@ -1,1 +1,46 @@
-dmFyIHJ1bGUgPSB7CiAgICB0aXRsZTogJ0hEbW9saScsCiAgICBob3N0OiAnaHR0cHM6Ly93d3cuaGRtb2xpLnBybycsCiAgICB1cmw6ICcvc2VhcmNoLnBocD9wYWdlPWZ5cGFnZSZzZWFyY2h0eXBlPTUmdGlkPWZ5ZmlsdGVyJywKICAgIHNlYXJjaFVybDogJy9zZWFyY2gucGhwP3BhZ2U9ZnlwYWdlJnNlYXJjaHdvcmQ9Kiomc2VhcmNodHlwZT0nLAogICAgc2VhcmNoYWJsZTogMiwKICAgIHF1aWNrU2VhcmNoOiAwLAogICAgImZpbHRlcmFibGUiOiAxLAogICAgImZpbHRlciI6ICJINHNJQUFBQUFBQUFBKzJYM1c0U1FSVEgzMld2aVdWMytXekNrNWhlckdFVFVUNGlVbVBUTk5GaUtWQkRhYVBnQjlHckJ0cTB0dGlHQ0loOW1aM2Q4aGJ1TW1kbnprd204Y0o2WS9ieS8vK2RHV2JPbmpNbmJHdTZ0djV3VzN0cWIybnJtamVla3k4SFdrd3JXeVViNnhkV2NkTmVCWllGMnhmYVRveTZwRDF5RmdOd2s4ejJtbU8zdmdkMml0dkRJektkZzUxbXR2dTY2NzdxZ1ozaGR2T0RNMnVCbmVVLzJSdVExaEJzUGM0M241MlJ4WHV2dFI4aW5TOXBEZmx4ZElNdmFWOTZpelB3elRpK2xmY3VQS2ZweDI4RWhLYUw3UVhwNG5zTDZSSitVbjJsSjg5eW9KV0pDRERWeW12NEdMUXk2VDRHelZaL201RFpCVnBOTmIvem1OejJFYWFhSFczMzNPc2RvYU5ScmF5RDFlcVZadmhrbjMvNEFGUE5jT040K2ZFVVlhb1o3alRJNFhlRXFXWkhxN2ZkM1Uvb2FGU0hlUG4xMnBsMk9RYXRyTWtnYTFRclN5VEFWSWY0N3Jiclg1VmowTXBhRFU1T3RWQlBneXZ5ZG9icUtkUlNQVEZiYUwrOTBiSStrbDN2VjRkOFhvQnJWVzByQnc1UHlha1VBQTY3MXNGWUNnQ0g1YngvNGc3T2NRQTRMT0Q2U3RvQm5EREErWEVoQllERDd6Wng1ajBjQUk2UXZlbU5NMStnN0lWYXloNnovNXc5STI0a3dOdXlyV3B1cFJFMEpXaGlhRWpRd0ZDWG9JNWhYSUp4QlBXc0NQVXNoaGtKWmpCTVN6Q05ZVXFDS1F5VEVreGlLR1ZJeHhuU3BRenBQRU9sU3RYR2NLWHg5M1E3eDJSMnlMOG4wK0wzNUxid3V2WW55LzROdUpWcTNxN21hZ1YvRzFiVmwyOUlzeUh3ZkdYemtWVU9qckFSMDR6N21vcEJ1L0VSbFJUNmp2c3AzRTNJTjRVMlpMNlpVUGNPeW4zUVlpemU0RVhpelgvZXRjTEh3OHlxVzh6TVJITXVtblBSbkl2bVhEVG4vdTg1bDhCLy8vNnFMNFgyV0NzVkM4OXJhNFZ5M242Wk1CNDhycFdLNmlJWEFrMElqRVpQTkhyKzFlaUpIcy9vOGJ5ZngzUG5OMGRreThjOEV3QUEiLAogICJmaWx0ZXJfdXJsIjogInt7Zmwu57G75Z6LfX0me3tmbC7liafmg4V9fSZ7e2ZsLuWcsOWMun19Jnt7Zmwu5bm05Lu9fX0me3tmbC7mjpLluo99fSIsCiAgImZpbHRlcl9kZWYiOiB7CiAgICAiMSI6IHsKICAgICAgIuexu+WeiyI6ICIxIgogICAgfSwKICAgICIyIjogewogICAgICAi57G75Z6LIjogIjIiCiAgICB9LAogICAgIjQxIjogewogICAgICAi57G75Z6LIjogIjQxIgogICAgfQogIH0sCiAgICBoZWFkZXJzOiB7CiAgICAgICAgJ1VzZXItQWdlbnQnOiAnTU9CSUxFX1VBJywKICAgIH0sCiAgICBjbGFzc19wYXJzZTogJy5teXVpLWhlYWRlcl9fbWVudSBsaTthJiZUZXh0O2EmJmhyZWY7aW5kZXgoXFxkKylcLmh0bWwnLAogICAgcGxheV9wYXJzZTogdHJ1ZSwKICAgIGxhenk6ICcnLAogICAgbGltaXQ6IDYsCiAgICDmjqjojZA6ICd1bC5teXVpLXZvZGxpc3QuY2xlYXJmaXg7bGk7YSYmdGl0bGU7YSYmZGF0YS1vcmlnaW5hbDsucGljLXRleHQmJlRleHQ7YSYmaHJlZicsCiAgICBkb3VibGU6IHRydWUsCiAgICDkuIDnuqc6ICcubXl1aS12b2RsaXN0IGxpO2EmJnRpdGxlO2EmJmRhdGEtb3JpZ2luYWw7LnBpYy10ZXh0JiZUZXh0O2EmJmhyZWYnLAogICAg5LqM57qnOiB7CiAgICAgICAgdGl0bGU6ICcubXl1aS1jb250ZW50X19kZXRhaWwgLnRpdGxlJiZUZXh0Oy5teXVpLWNvbnRlbnRfX2RldGFpbCBwOmVxKC0yKSYmVGV4dCcsCiAgICAgICAgaW1nOiAnLm15dWktY29udGVudF9fdGh1bWIgLmxhenlsb2FkJiZkYXRhLW9yaWdpbmFsJywKICAgICAgICBkZXNjOiAnLm15dWktY29udGVudF9fZGV0YWlsIHA6ZXEoMCkmJlRleHQ7Lm15dWktY29udGVudF9fZGV0YWlsIHA6ZXEoMSkmJlRleHQ7Lm15dWktY29udGVudF9fZGV0YWlsIHA6ZXEoMikmJlRleHQnLAogICAgICAgIGNvbnRlbnQ6ICcuY29udGVudCYmVGV4dCcsCiAgICAgICAgdGFiczogJy5uYXYtdGFiczplcSgwKSBsaScsCiAgICAgICAgbGlzdHM6ICcubXl1aS1jb250ZW50X19saXN0OmVxKCNpZCkgbGknLAogICAgfSwKICAgIOaQnOe0ojogJyNzZWFyY2hMaXN0IGxpO2EmJnRpdGxlOy5sYXp5bG9hZCYmZGF0YS1vcmlnaW5hbDsucGljLXRleHQudGV4dC1yaWdodCYmVGV4dDthJiZocmVmOy5kZXRhaWwmJnA6ZXEoMykmJlRleHQnLAp9
+muban.首图2.二级.title = 'h1--span&&Text;.data--span:eq(0)&&Text'
+muban.首图2.二级.desc = ';;;.data--span:eq(1)&&Text;.data--span:eq(2)&&Text'
+muban.首图2.二级.content = '.desc&&Text'
+muban.首图2.二级.tabs = 'body&&h3'
+var rule = {
+	title: '567电影院',
+	模板: '首图2',
+	// host:'https://www.345kp.com', // 原345看片
+	host: 'https://www.567dyy.com',
+	// url:'/show/fyclass--------fypage---.html',
+	url: '/show/fyfilter.html',
+	filterable: 1,//是否启用分类筛选,
+	filter_url: '{{fl.cateId}}-{{fl.area}}-{{fl.by or "time"}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
+	filter: {
+		"1":[{"key":"class","name":"剧情","value":[{"n":"全部","v":""},{"n":"喜剧","v":"喜剧"},{"n":"爱情","v":"爱情"},{"n":"恐怖","v":"恐怖"},{"n":"动作","v":"动作"},{"n":"科幻","v":"科幻"},{"n":"剧情","v":"剧情"},{"n":"战争","v":"战争"},{"n":"警匪","v":"警匪"},{"n":"犯罪","v":"犯罪"},{"n":"动画","v":"动画"},{"n":"奇幻","v":"奇幻"},{"n":"武侠","v":"武侠"},{"n":"冒险","v":"冒险"},{"n":"枪战","v":"枪战"},{"n":"恐怖","v":"恐怖"},{"n":"悬疑","v":"悬疑"},{"n":"惊悚","v":"惊悚"},{"n":"经典","v":"经典"},{"n":"青春","v":"青春"},{"n":"文艺","v":"文艺"},{"n":"微电影","v":"微电影"},{"n":"古装","v":"古装"},{"n":"历史","v":"历史"},{"n":"运动","v":"运动"},{"n":"农村","v":"农村"},{"n":"儿童","v":"儿童"},{"n":"网络电影","v":"网络电影"}]},{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"大陆","v":"大陆"},{"n":"香港","v":"香港"},{"n":"台湾","v":"台湾"},{"n":"美国","v":"美国"},{"n":"法国","v":"法国"},{"n":"英国","v":"英国"},{"n":"日本","v":"日本"},{"n":"韩国","v":"韩国"},{"n":"德国","v":"德国"},{"n":"泰国","v":"泰国"},{"n":"印度","v":"印度"},{"n":"意大利","v":"意大利"},{"n":"西班牙","v":"西班牙"},{"n":"加拿大","v":"加拿大"},{"n":"其他","v":"其他"}]},{"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2024","v":"2024"},{"n":"2023","v":"2023"},{"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},{"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},{"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"},{"n":"2010","v":"2010"}]},{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}],
+		"2":[{"key":"class","name":"剧情","value":[{"n":"全部","v":""},{"n":"古装","v":"古装"},{"n":"战争","v":"战争"},{"n":"青春偶像","v":"青春偶像"},{"n":"喜剧","v":"喜剧"},{"n":"家庭","v":"家庭"},{"n":"犯罪","v":"犯罪"},{"n":"动作","v":"动作"},{"n":"奇幻","v":"奇幻"},{"n":"剧情","v":"剧情"},{"n":"历史","v":"历史"},{"n":"经典","v":"经典"},{"n":"乡村","v":"乡村"},{"n":"情景","v":"情景"},{"n":"商战","v":"商战"},{"n":"网剧","v":"网剧"},{"n":"其他","v":"其他"}]},{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"大陆","v":"大陆"},{"n":"韩国","v":"韩国"},{"n":"香港","v":"香港"},{"n":"台湾","v":"台湾"},{"n":"日本","v":"日本"},{"n":"美国","v":"美国"},{"n":"泰国","v":"泰国"},{"n":"英国","v":"英国"},{"n":"新加坡","v":"新加坡"},{"n":"其他","v":"其他"}]},{"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2024","v":"2024"},{"n":"2023","v":"2023"},{"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},{"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},{"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"},{"n":"2010","v":"2010"}]},{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}],
+		"3":[{"key":"class","name":"剧情","value":[{"n":"全部","v":""},{"n":"选秀","v":"选秀"},{"n":"情感","v":"情感"},{"n":"访谈","v":"访谈"},{"n":"播报","v":"播报"},{"n":"旅游","v":"旅游"},{"n":"音乐","v":"音乐"},{"n":"美食","v":"美食"},{"n":"纪实","v":"纪实"},{"n":"曲艺","v":"曲艺"},{"n":"生活","v":"生活"},{"n":"游戏互动","v":"游戏互动"},{"n":"财经","v":"财经"},{"n":"求职","v":"求职"}]},{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"内地","v":"内地"},{"n":"港台","v":"港台"},{"n":"日韩","v":"日韩"},{"n":"欧美","v":"欧美"}]},{"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2024","v":"2024"},{"n":"2023","v":"2023"},{"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},{"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},{"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"},{"n":"2010","v":"2010"},{"n":"2009","v":"2009"},{"n":"2008","v":"2008"}]},{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}],
+		"4":[{"key":"class","name":"剧情","value":[{"n":"全部","v":""},{"n":"情感","v":"情感"},{"n":"科幻","v":"科幻"},{"n":"热血","v":"热血"},{"n":"推理","v":"推理"},{"n":"搞笑","v":"搞笑"},{"n":"冒险","v":"冒险"},{"n":"萝莉","v":"萝莉"},{"n":"校园","v":"校园"},{"n":"动作","v":"动作"},{"n":"机战","v":"机战"},{"n":"运动","v":"运动"},{"n":"战争","v":"战争"},{"n":"少年","v":"少年"},{"n":"少女","v":"少女"},{"n":"社会","v":"社会"},{"n":"原创","v":"原创"},{"n":"亲子","v":"亲子"},{"n":"益智","v":"益智"},{"n":"励志","v":"励志"},{"n":"其他","v":"其他"}]},{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"国产","v":"国产"},{"n":"日本","v":"日本"},{"n":"欧美","v":"欧美"},{"n":"其他","v":"其他"}]},{"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2024","v":"2024"},{"n":"2023","v":"2023"},{"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},{"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},{"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"},{"n":"2010","v":"2010"},{"n":"2009","v":"2009"},{"n":"2008","v":"2008"}]},{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}]
+	},
+	filter_def: {
+		1:{cateId:'1'},
+		2:{cateId:'2'},
+		3:{cateId:'3'},
+		4:{cateId:'4'}
+	},
+	searchUrl: '/search/**----------fypage---.html',
+	lazy: `js:
+		var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
+		var url = html.url;
+		if (html.encrypt == '1') {
+			url = unescape(url)
+		} else if (html.encrypt == '2') {
+			url = unescape(base64Decode(url))
+		}
+		if (/\\.m3u8|\\.mp4/.test(url)) {
+			input = {
+				jx: 0,
+				url: url,
+				parse: 0
+			}
+		} else {
+			input
+		}
+	`,
+	搜索: muban.首图2.搜索2,
+}
