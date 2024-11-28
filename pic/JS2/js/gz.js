@@ -1,5 +1,5 @@
 var rule = {
-    author: '小可乐/240701/第一版',
+    //author: '小可乐/240701/第一版',
     title: '天龙影院',
     类型: '影视',
     host: 'https://m.82mao.com',
