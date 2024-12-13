@@ -2,6 +2,7 @@
   "站名":"七新影视",
   "主页url":"http://www.7xdy.com/",
   "简介":"<spanclass=\"detail-content\"style=*>&&</span>",
+  "集数倒序": "0",
   "影片状态":"状态：&&</p>",
   "搜索url":"/search.php;post;searchword={wd}",
   "线路数组":"<h3&&/h3>",
