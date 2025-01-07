@@ -88,15 +88,6 @@ filter:{'movie': [
 {'n': '2000s', 'v': '2000年代'},
 {'n': '90s', 'v': '90年代'}
 ]}, 
-{'key':'语言','name':'lang','value':[
-{'n':'English','v':'英语'},
-{'n':'Mandarin','v':'国语'},
-{'n':'Cantonese','v':'粤语'},
-{'n':'Japanese','v':'日语'},
-{'n':'Korean','v':'韩语'},
-{'n':'Thai','v':'泰语'},
-{'n':'Fujian','v':'闽南语'}
-]},
 {'key': '平台', 'name': 'Platform TV', 'value': [
 {'n': 'Mango TV', 'v': '芒果'}, 
 {'n': 'Tencent', 'v': '腾讯'}, 
@@ -197,15 +188,6 @@ filter:{'movie': [
 {'n': '2000s', 'v': '2000年代'},
 {'n': '90s', 'v': '90年代'}
 ]}, 
-{'key':'语言','name':'lang','value':[
-{'n':'English','v':'英语'},
-{'n':'Mandarin','v':'国语'},
-{'n':'Cantonese','v':'粤语'},
-{'n':'Japanese','v':'日语'},
-{'n':'Korean','v':'韩语'},
-{'n':'Thai','v':'泰语'},
-{'n':'Fujian','v':'闽南语'}
-]},
 {'key': '平台', 'name': 'Platform TV', 'value': [
 {'n': 'Mango TV', 'v': '芒果'}, 
 {'n': 'Tencent', 'v': '腾讯'}, 
