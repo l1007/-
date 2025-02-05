@@ -1,1 +1,90 @@
-dmFyIHJ1bGUgPSB7CiAgdGl0bGU6ICfph5HniYzlvbHpmaInLAogIGhvc3Q6ICdodHRwczovL3d3dy5jZmtqODYuY29tJywKICB1cmw6ICcvYXBpL213LW1vdmllL2Fub255bW91cy92aWRlby9saXN0P3BhZ2VOdW09ZnlwYWdlJnBhZ2VTaXplPTMwJnNvcnQ9MSZzb3J0Qnk9MSZ0eXBlMT1meWNsYXNzJywKICBzZWFyY2hVcmw6ICcvYXBpL213LW1vdmllL2Fub255bW91cy92aWRlby9zZWFyY2hCeVdvcmRQYWdlYWJsZT9rZXl3b3JkPSoqJnBhZ2VOdW09ZnlwYWdlJnBhZ2VTaXplPTEyJnR5cGU9ZmFsc2UnLAogIGhlYWRlcnM6IHsKICAgICdVc2VyLUFnZW50JzogJ01vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjYuMC4wLjAgU2FmYXJpLzUzNy4zNicsCiAgICAnUmVmZXJlcic6ICdodHRwczovL3d3dy5jZmtqODYuY29tLycKICB9LAogIHNlYXJjaGFibGU6IDIsCiAgcXVpY2tTZWFyY2g6IDAsCiAgZmlsdGVyYWJsZTogMCwKICBjbGFzc19uYW1lOiAn55S15b2xJueUteinhuWJpybnu7zoibom5Yqo5ryrJywKICBjbGFzc191cmw6ICcxJjImMyY0JywKICBsaW1pdDogNiwKICBkb3VibGU6IGZhbHNlLAogIHBsYXlfcGFyc2U6dHJ1ZSwKICBsYXp5OiRqcy50b1N0cmluZygoKT0+ewogICAgIGxldCBwaWQgPSBpbnB1dC5zcGxpdCgnLycpWzVdCiAgICAgbGV0IG5pZCA9IGlucHV0LnNwbGl0KCcvJylbN10KICAgICBjb25zdCB0ID0gbmV3IERhdGUoKS5nZXRUaW1lKCkKICAgICBldmFsKGdldENyeXB0b0pTKQogICAgIGxldCBzaWdua2V5ID0gJ2lkPScrcGlkKycmbmlkPScrbmlkKycma2V5PWNiODA4NTI5YmFlNmI2YmU0NWVjZmFiMjlhNDg4OWJjJnQ9Jyt0CiAgICAgY29uc3Qga2V5ID0gQ3J5cHRvSlMuU0hBMShDcnlwdG9KUy5NRDUoc2lnbmtleSkudG9TdHJpbmcoKSkudG9TdHJpbmcoKQogICAgIGxldCBqc29uX2RhdGEgPSBKU09OLnBhcnNlKHJlcXVlc3QoJ2h0dHBzOi8vd3d3LmNma2o4Ni5jb20vYXBpL213LW1vdmllL2Fub255bW91cy92MS92aWRlby9lcGlzb2RlL3VybD9pZD0nK3BpZCsnJm5pZD0nK25pZCx7aGVhZGVyczogewogICAgJ1VzZXItQWdlbnQnOiAnTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNi4wLjAuMCBTYWZhcmkvNTM3LjM2JywKICAgICdkZXZpY2VpZCc6ICdjNmJjZTU3ZC1iYjYyLTRkYjctOTZjZC0yNjVkZmIyYTc5Y2YnLAogICAgJ3NpZ24nOiBrZXksCiAgICAndCc6IHQKICAgIH19KSkKICAgIGxvZyhqc29uX2RhdGEpCiAgICAgbGV0IGxpbmsgPSBqc29uX2RhdGEuZGF0YS5wbGF5VXJsCiAgICAgaW5wdXQ9e3VybDpsaW5rLGhlYWRlcjpydWxlLmhlYWRlcnN9CgogIH0pLAogIOS4gOe6pzogJGpzLnRvU3RyaW5nKCgpPT57CiAgICAgICAgbGV0IGQgPSBbXQogICAgICAgIGxldCB1cmwgPSAnJwogICAgICAgIGNvbnN0IHQgPSBuZXcgRGF0ZSgpLmdldFRpbWUoKQogICAgICAgIGNvbnN0IHNpZ25rZXkgPSAncGFnZU51bT0nK01ZX1BBR0UrJyZwYWdlU2l6ZT0zMCZzb3J0PTEmc29ydEJ5PTEmdHlwZTE9JytNWV9DQVRFKycma2V5PWNiODA4NTI5YmFlNmI2YmU0NWVjZmFiMjlhNDg4OWJjJnQ9Jyt0CiAgICAgICAgY29uc3Qga2V5ID0gQ3J5cHRvSlMuU0hBMShDcnlwdG9KUy5NRDUoc2lnbmtleSkudG9TdHJpbmcoKSkudG9TdHJpbmcoKQogICAgICAgIGNvbnN0IGxpc3QgPSBKU09OLnBhcnNlKHJlcXVlc3QoaW5wdXQse2hlYWRlcnM6ewogICAgICAgICAgICdVc2VyLUFnZW50JzogJ01vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjcuMC4wLjAgU2FmYXJpLzUzNy4zNicsCiAgICAgICAgICAgICdBY2NlcHQnOiAnYXBwbGljYXRpb24vanNvbiwgdGV4dC9wbGFpbiwgKi8qJywKICAgICAgICAgICAgJ2RldmljZUlkJzogJ2M2YmNlNTdkLWJiNjItNGRiNy05NmNkLTI2NWRmYjJhNzljZicsCiAgICAgICAgICAgICdzaWduJzoga2V5LAogICAgICAgICAgICAndCc6IHQgCiAgICAgICAgfX0pKS5kYXRhLmxpc3QKICAgICAgICBsaXN0LmZvckVhY2goKGl0KT0+ewogICAgICAgICAgICB1cmwgPSAnaHR0cHM6Ly93d3cuY2Zrajg2LmNvbS9kZXRhaWwvJytpdC52b2RJZAogICAgICAgICAgICBkLnB1c2goewogICAgICAgICAgICAgIHRpdGxlOiBpdC52b2ROYW1lLAogICAgICAgICAgICAgIGRlc2M6aXQudm9kUmVtYXJrcywKICAgICAgICAgICAgICBpbWc6aXQudm9kUGljLAogICAgICAgICAgICAgIHVybDp1cmwKICAgICAgICAgICAgfSkKICAgICAgICB9KQogICAgICAgIHNldFJlc3VsdChkKQogIH0pLAogIOS6jOe6pzogewogICAgdGl0bGU6ICdoMSYmVGV4dCcsCiAgICB0YWJzOiAnLnRvcCBhJywKICAgIGxpc3RzOiAnLm1haW4tbGlzdC1zZWN0aW9uc19fQm9keUFyZWEtc2MtOGJiNzMzNGItMiAubGlzdGl0ZW0gYScsCiAgfSwKICDmkJzntKI6ICRqcy50b1N0cmluZygoKT0+ewogICAgY29uc3QgdCA9IG5ldyBEYXRlKCkuZ2V0VGltZSgpCiAgICAgZXZhbChnZXRDcnlwdG9KUykKICAgICBsZXQgcGcgPSBNWV9QQUdFCiAgICAgbGV0IHNpZ25rZXkgPSAna2V5d29yZD0nK0tFWSsnJnBhZ2VOdW09JytwZysnJnBhZ2VTaXplPTEyJnR5cGU9ZmFsc2Uma2V5PWNiODA4NTI5YmFlNmI2YmU0NWVjZmFiMjlhNDg4OWJjJnQ9Jyt0CiAgICAgY29uc3Qga2V5ID0gQ3J5cHRvSlMuU0hBMShDcnlwdG9KUy5NRDUoc2lnbmtleSkudG9TdHJpbmcoKSkudG9TdHJpbmcoKQogICAgICBsZXQgaHRtbCA9IEpTT04ucGFyc2UocmVxdWVzdChpbnB1dCx7aGVhZGVyczogewogICAgJ1VzZXItQWdlbnQnOiAnTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNi4wLjAuMCBTYWZhcmkvNTM3LjM2JywKICAgICdkZXZpY2VpZCc6ICc1OGE4MGM1Mi0xMzhjLTQ4ZmQtOGVkYi0xMzhmZDc0ZDEyYzgnLAogICAgJ3NpZ24nOiBrZXksCiAgICAndCc6IHQKICAgIH19KSkKICAgICAgbGV0IGRhdGEgPSBodG1sLmRhdGEubGlzdAogICAgICBsZXQgZCA9IFtdCiAgICAgIGRhdGEuZm9yRWFjaChpdD0+ewogICAgICAgIGxldCByZXVybCA9ICdodHRwczovL3d3dy5jZmtqODYuY29tL2RldGFpbC8nK2l0LnZvZElkCiAgICAgICAgZC5wdXNoKHsKICAgICAgICAgIHRpdGxlOiBpdC52b2ROYW1lLAogICAgICAgICAgZGVzYzppdC52b2RWZXJzaW9uLAogICAgICAgICAgaW1nOml0LnZvZFBpYywKICAgICAgICAgIHVybDpyZXVybAogICAgICAgIH0pCiAgICAgIH0pCiAgICBzZXRSZXN1bHQoZCkKICB9KSwKfQ==
+var rule = {
+  title: '金牌影院',
+  host: 'https://www.cfkj86.com',
+  url: '/api/mw-movie/anonymous/video/list?pageNum=fypage&pageSize=30&sort=1&sortBy=1&type1=fyclass',
+  searchUrl: '/api/mw-movie/anonymous/video/searchByWordPageable?keyword=**&pageNum=fypage&pageSize=12&type=false',
+  headers: {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+    'Referer': 'https://www.cfkj86.com/'
+  },
+  searchable: 2,
+  quickSearch: 0,
+  filterable: 0,
+  class_name: '电影&电视剧&综艺&动漫',
+  class_url: '1&2&3&4',
+  limit: 6,
+  double: false,
+  play_parse:true,
+  lazy:$js.toString(()=>{
+     let pid = input.split('/')[5]
+     let nid = input.split('/')[7]
+     const t = new Date().getTime()
+     eval(getCryptoJS)
+     let signkey = 'id='+pid+'&nid='+nid+'&key=cb808529bae6b6be45ecfab29a4889bc&t='+t
+     const key = CryptoJS.SHA1(CryptoJS.MD5(signkey).toString()).toString()
+     let json_data = JSON.parse(request('https://www.cfkj86.com/api/mw-movie/anonymous/v1/video/episode/url?id='+pid+'&nid='+nid,{headers: {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+    'deviceid': 'c6bce57d-bb62-4db7-96cd-265dfb2a79cf',
+    'sign': key,
+    't': t
+    }}))
+    log(json_data)
+     let link = json_data.data.playUrl
+     input={url:link,header:rule.headers}
+
+  }),
+  一级: $js.toString(()=>{
+        let d = []
+        let url = ''
+        const t = new Date().getTime()
+        const signkey = 'pageNum='+MY_PAGE+'&pageSize=30&sort=1&sortBy=1&type1='+MY_CATE+'&key=cb808529bae6b6be45ecfab29a4889bc&t='+t
+        const key = CryptoJS.SHA1(CryptoJS.MD5(signkey).toString()).toString()
+        const list = JSON.parse(request(input,{headers:{
+           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36',
+            'Accept': 'application/json, text/plain, */*',
+            'deviceId': 'c6bce57d-bb62-4db7-96cd-265dfb2a79cf',
+            'sign': key,
+            't': t 
+        }})).data.list
+        list.forEach((it)=>{
+            url = 'https://www.cfkj86.com/detail/'+it.vodId
+            d.push({
+              title: it.vodName,
+              desc:it.vodRemarks,
+              img:it.vodPic,
+              url:url
+            })
+        })
+        setResult(d)
+  }),
+  二级: {
+    title: 'h1&&Text',
+    tabs: '.top a',
+    lists: '.main-list-sections__BodyArea-sc-8bb7334b-2 .listitem a',
+  },
+  搜索: $js.toString(()=>{
+    const t = new Date().getTime()
+     eval(getCryptoJS)
+     let pg = MY_PAGE
+     let signkey = 'keyword='+KEY+'&pageNum='+pg+'&pageSize=12&type=false&key=cb808529bae6b6be45ecfab29a4889bc&t='+t
+     const key = CryptoJS.SHA1(CryptoJS.MD5(signkey).toString()).toString()
+      let html = JSON.parse(request(input,{headers: {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+    'deviceid': '58a80c52-138c-48fd-8edb-138fd74d12c8',
+    'sign': key,
+    't': t
+    }}))
+      let data = html.data.list
+      let d = []
+      data.forEach(it=>{
+        let reurl = 'https://www.cfkj86.com/detail/'+it.vodId
+        d.push({
+          title: it.vodName,
+          desc:it.vodVersion,
+          img:it.vodPic,
+          url:reurl
+        })
+      })
+    setResult(d)
+  }),
+}
