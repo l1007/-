@@ -1,7 +1,7 @@
 {
 "作者":"lekbox",
 "站名":"七味",
-"主页url":"https://www.qmp4.com",
+"主页url":"https://www.pkavi.com",
 "数组": "li-img\">&&li-bottom\">",
 "副标题": "</i>&&</span>",
 "图片": "src=\"$$\"",
@@ -21,7 +21,7 @@
 "剧集标题": ">$$<",
 "剧集链接": "href=\"$$\"",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$30",
-"分类url":"https://www.qmp4.com/ms/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+"分类url":"https://www.pkavi.com/ms/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "筛选":{
 "1":[
 {
