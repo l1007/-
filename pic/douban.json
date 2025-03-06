@@ -1,4 +1,42 @@
-{'movie': [
+{
+'hot_gaia': [
+{'key': 'sort','name': '排序','value': [
+{'n': '热度','v': 'recommend'},
+{'n': '最新','v': 'time'},
+{'n': '评分','v': 'rank'}]},
+{'key': 'area','name': '地区','value': [
+{'n': '全部','v': '全部'},
+{'n': '中国', 'v': '华语'},  
+{'n': '韩国', 'v': '韩国'}, 
+{'n': '美国', 'v': '欧美'}, 
+{'n': '日本', 'v': '日本'}
+]}],
+'tv_hot': [
+{'key': 'type','name': '分类','value': [
+{'n': '综合','v': 'tv_hot'},
+{'n': '中剧','v': 'tv_domestic'},
+{'n': '美剧','v': 'tv_american'},
+{'n': '日剧','v': 'tv_japanese'},
+{'n': '韩剧','v': 'tv_korean'},
+{'n': '动画','v': 'tv_animation'}]}],
+'show_hot': [
+{'key': 'type','name': '分类','value': [
+{'n': '综合','v': 'show_hot'},
+{'n': '中国','v': 'show_domestic'},
+{'n': '国外','v': 'show_foreign'}]}],
+'rank_list_movie': [
+{'key': '榜单','name': '榜单','value': [
+{'n': '实时热门电影','v': 'movie_real_time_hotest'},
+{'n': '一周口碑电影榜','v': 'movie_weekly_best'},
+{'n': '豆瓣电影Top250','v': 'movie_top250'}]}],
+'rank_list_tv': [
+{'key': '榜单','name': '榜单','value': [
+{'n': '实时热门电视','v': 'tv_real_time_hotest'},
+{'n': '华语口碑剧集榜','v': 'tv_chinese_best_weekly'},
+{'n': '全球口碑剧集榜','v': 'tv_global_best_weekly'},
+{'n': '中国口碑综艺榜','v': 'show_chinese_best_weekly'},
+{'n': '国外口碑综艺榜','v': 'show_global_best_weekly'}]}],
+'movie': [
 {'key': '类型', 'name': '类型', 'value': [
 {'n': 'Netflix', 'v': 'Netflix'}, 
 {'n': '喜剧', 'v': '喜剧'}, 
