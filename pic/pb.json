@@ -3,7 +3,7 @@
 "站名":"EU",
 "主页url":"https://euvod.tv",
 "数组": "module-item-pic\">&&module-item-titlebox\">",
-"副标题": "module-item-text\">&&</div>",
+"副标题": "module-item-caption\">&&</div>",
 "图片": "data-src=\"$$\"",
 "标题": "title=\"$$\"",
 "搜索模式": "0",
