@@ -1,14 +1,14 @@
 {
 "作者":"lekbox",
 "站名":"MY2MOVINDO21",
-"主页url":"https://157.173.207.153",
+"主页url":"https://www.oncotv.org",
 "数组": "content-thumbnail text-center\">&&headline\">",
 "副标题": "tag\">&&</a>",
 "图片": "src=\"$$\"",
 "标题": "title=\"Permalink to: &&\"",
 "搜索模式": "1",
 "搜索后缀": "/",
-"搜索url": "https://157.173.207.153/?s={wd}",
+"搜索url": "https://www.oncotv.org/?s={wd}",
 "影片类型":"Genre: </strong>&&</div>",
 "影片年代": "Year: </strong>&&</div>",
 "影片地区": "Country:</strong>&&</div>",
@@ -18,6 +18,6 @@
 "剧集链接": "href=\"$$\"",
 "线路标题": "💯LEKBOX",
 "播放数组": "class=\"muvipro-player-tabs&&</div>",
-"分类":"2024$year/2024#2023$year/2023#2022$year/2022#US$country/usa#Malaysia$country/malaysia#Indo$country/indonesia#Hk$/country/hong-kong#China$/country/china#Taiwan$/country/taiwan#ACTION$action#Sci-Fi$science-fiction#Adventure$adventure#Animation$animation#Comedy$comedy#Drama$drama#Fantasy$fantasy#Horror$horror#Thriller$thriller#War$war",
-"分类url":"https://157.173.207.153/{cateId}/page/{catePg}/"
+"分类":"2025$year/2025#2024$year/2024#2023$year/2023#2022$year/2022#US$country/usa#Malaysia$country/malaysia#Indo$country/indonesia#Hk$/country/hong-kong#China$/country/china#Taiwan$/country/taiwan#ACTION$action#Sci-Fi$science-fiction#Adventure$adventure#Animation$animation#Comedy$comedy#Drama$drama#Fantasy$fantasy#Horror$horror#Thriller$thriller#War$war",
+"分类url":"https://www.oncotv.org/{cateId}/page/{catePg}/"
 }
