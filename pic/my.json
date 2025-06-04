@@ -1,14 +1,14 @@
 {
 "作者":"lekbox",
 "站名":"MY1LAYARKACA21",
-"主页url":"http://165.22.218.59",
+"主页url":"http://128.199.19.96",
 "数组": "content-thumbnail text-center\">&&headline\">",
 "副标题": "/></svg>&&</div>",
 "图片": "src=\"$$\"",
 "标题": "title=\"Permalink to:&&\"",
 "搜索模式": "1",
 "搜索后缀": "/",
-"搜索url": "http://165.22.218.59/?s={wd}",
+"搜索url": "http://128.199.19.96/?s={wd}",
 "影片类型":"Genre: </strong>&&</div>",
 "影片年代": "Year: </strong>&&</div>",
 "影片地区": "Country:</strong>&&</div>",
@@ -19,5 +19,5 @@
 "线路标题": "💯LEKBOX",
 "播放数组": "class=\"muvipro-player-tabs&&</div>",
 "分类":"2025$year/2025#2024$year/2024#2023$year/2023#2022$year/2022#US$country/usa#Malaysia$country/malaysia#Indo$country/indonesia#Hk$/country/hong-kong#China$/country/china#Taiwan$/country/taiwan#ACTION$action#Sci-Fi$science-fiction#Adventure$adventure#Animation$animation#Comedy$comedy#Drama$drama#Fantasy$fantasy#Horror$horror#Thriller$thriller#War$war",
-"分类url":"http://165.22.218.59/{cateId}/page/{catePg}/"
+"分类url":"http://128.199.19.96/{cateId}/page/{catePg}/"
 }
