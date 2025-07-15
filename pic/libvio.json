@@ -14,7 +14,7 @@
 "简介": "detail-sketch\">&&</span>",
 "线路数组":"vodlist__head&&</div>[不包含:]",
 "播放数组": "class=\"stui-content__playlist&&</div>",
-"免嗅":"1",
+//"免嗅":"1",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$21",
 "分类url":"https://www.libvio.cc/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "筛选":{
