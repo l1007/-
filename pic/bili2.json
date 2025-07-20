@@ -2,8 +2,9 @@
 "作者":"lekbox",
 "站名":"aini",
 "主页url":"https://loveyoudj.com",
+"数组": "module-item-pic\">&&module-item-style video-name\">",
 "副标题": "module-item-douban\">&&</div>",
-"图片": "data-original=\"$$\"",
+"图片": "data-src=\"$$\"",
 "标题": "title=\"$$\"",
 "影片类型":"tag-link\">&&立即播放",
 "导演": "导演：</span>&&</a>",
@@ -11,12 +12,12 @@
 "简介": "剧情：</span>&&/span>",
 "线路数组":"data-dropdown-value=&&</div>[不包含:][排序:极速播放>在线观看]",
 "线路标题": "><span>&&</small>[替换:【爱你短剧】播放器>>💯推荐#</span><small>>>共]+集💻",
-"播放数组": "class=\"module-list&&</div>",
+"播放数组": "class=\"sort-item&&</div>",
 "免嗅":"1",
-"分类":"穿越$fenle#战神$fenlei2#重生$fenlei3#萌娃$guda#玄幻$xuanhuan#神医$shenyi#古代$gudai",
+"分类":"穿越$chuanyue#战神$zhanshen#重生$zhongsheng#萌娃$guda#玄幻$xuanhuan#神医$shenyi#古代$gudai",
 "分类url":"https://loveyoudj.com/vodshwo/{cateId}--{by}------{catePg}---.html",
 "筛选":{
-"fenle":[
+"chuanyue":[
 {
 "key":"by",
 "name":"排序",
@@ -28,7 +29,7 @@
 ]
 }
 ],
-"fenlei2":[
+"zhanshen":[
 {
 "key":"by",
 "name":"排序",
@@ -88,7 +89,7 @@
 ]
 }
 ],
-"fenlei3":[
+"zhongsheng":[
 {
 "key":"by",
 "name":"排序",
