@@ -15,7 +15,7 @@
 "跳转播放链接": "href=\"&&\"",
 "影片类型":"类型：</strong>$$</p>",
 "分类":"电影$0#电视剧$1",
-"分类url": "https://v.xlys.ltd.ua/s/{class}?type={cateId}&area={area}",
+"分类url": "https://v.xlys.ltd.ua/s/{class}/{catePg}?type={cateId}&area={area}",
 "筛选":{
 "0":[
 {
