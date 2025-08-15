@@ -17,7 +17,7 @@
 "播放数组": "id=\"play-list&&</div>",
 "影片类型":"类型：</strong>$$</p>",
 "分类":"电影$0#电视剧$1",
-"分类url": "https://www.xlys02.com/s/{class}?type={cateId}&area={area}",
+"分类url": "https://www.xlys02.com/s/{class}/{catePg}?type={cateId}&area={area}",
 "筛选":{
 "0":[
 {
