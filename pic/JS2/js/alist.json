@@ -46,10 +46,7 @@
 "server" : "https://one.fongmi.com",
 "startPage" : "/",
 "showAll" : false,
-"search" : true,
-"login": {
-        "username": "fongmi",
-        "password": "fongmi"},
+"search" : true
 {
 "name" : "✨星梦",
 "server" : "https://pan.bashroot.top",
