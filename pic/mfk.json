@@ -1,25 +1,25 @@
 {
 "作者": "LEKBOX",
 "站名": "网飞",
-"主页url":"https://www.wangfei1.cc",
-"副标题": "module-item-note\">&&分</div>",
+"主页url":"https://www.wangfei.la",
+"副标题": "module-item-note\">&&</div>",
 "图片": "data-original=\"&&\"",
 "标题": "title=\"&&\"",
 "搜索模式": "0",
-"搜索后缀": "/voddetail/",
-"搜索url": "/vodsearch.html?wd={wd}",
-"影片类型":"module-info-tag\">&&立即播放",
+"搜索后缀": "/vod-detail-id-",
+"搜索url": "/vod-search.html?wd={wd}",
+"影片类型":"module-info-tag\">&&</span>",
 "导演": "导演：</span>&&</a>",
-"演员": "主演：</span>&&</div>",
+"演员": "演员表：</span>&&</div>",
 "简介": "><p>&&</p>",
-"线路数组":"data-dropdown-value=&&</div>[不包含:BF][排序:GQ>FM]",
-"线路标题": "><span>&&</small>[替换:线路>>💯推荐#</span><small>>>共]+集💻",
+"线路数组":"data-dropdown-value=&&</div>[不包含:M#W][排序:Y>D]",
+"线路标题": "💯推荐+><span>&&</small>[替换:</span><small>>>共]+集💻",
 "播放数组": "class=\"module-play-list-content&&</div>",
 "免嗅":"1",
-"分类":"电影$dy#电视剧$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian#短剧$dj#体育$ty",
-"分类url": "https://www.wangfei1.cc/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/lang/{lang}/year/{year}.html",
+"分类":"电影$3#电视剧$1#综艺$4#动漫$2#短剧$25",
+"分类url": "https://www.wangfei.la/vod-show-id-{cateId}-area-{area}-by-{by}-class-{class}-page-{catePg}-lang-{lang}-year-{year}.html",
 "筛选":{
-"dy":[
+"3":[
 {
 "key":"class",
 "name":"分类",
@@ -110,7 +110,7 @@
 ]
 }
 ],
-"dj":[
+"25":[
 {
 "key":"class",
 "name":"分类",
@@ -142,7 +142,7 @@
 ]
 }
 ],
-"juji":[
+"1":[
 {
 "key":"class",
 "name":"分类",
@@ -229,7 +229,7 @@
 ]
 }
 ],
-"dongman":[
+"2":[
 {
 "key":"class",
 "name":"分类",
@@ -301,7 +301,7 @@
 ]
 }
 ],
-"zongyi":[
+"4":[
 {
 "key":"class",
 "name":"分类",
