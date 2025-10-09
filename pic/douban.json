@@ -160,7 +160,7 @@
 {'n': 'BBC', 'v': 'BBC'},
 {'n': 'NHK', 'v': 'NHK'}, 
 {'n': 'CBS', 'v': 'CBS'},
-{'n': 'NBC', 'v': 'NBC'}, 
+{'n': 'TVB', 'v': 'TVB'}, 
 {'n': 'tvN', 'v': 'tvN'}
 ]}
 ], 
@@ -327,6 +327,6 @@
 {'n': 'BBC', 'v': 'BBC'},
 {'n': 'NHK', 'v': 'NHK'}, 
 {'n': 'CBS', 'v': 'CBS'},
-{'n': 'NBC', 'v': 'NBC'}, 
+{'n': 'TVB', 'v': 'TVB'}, 
 {'n': 'tvN', 'v': 'tvN'}
 ]}]}
